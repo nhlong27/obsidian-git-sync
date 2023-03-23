@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11a6ea1c40834756",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-22 20.44.34.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3760d006600a8b45",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-03-22 20.44.34.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8952d706a09556b6",
+            "id": "47efae75b1d49599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Today.md",
+                "file": "Daily/2023-03-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Today.md",
+                "file": "Daily/2023-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Today.md",
+                "file": "Daily/2023-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Today.md"
+                "file": "Daily/2023-03-23.md"
               }
             }
+          },
+          {
+            "id": "11a6ea1c40834756",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 713.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +155,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8952d706a09556b6",
+  "active": "47efae75b1d49599",
   "lastOpenFiles": [
-    "Daily/Today.md",
-    "Excalidraw/Drawing 2023-03-22 20.44.34.excalidraw.md",
-    "Excalidraw/Untitled/Untitled.md",
-    "Excalidraw/Untitled",
+    "Pasted image 20230323103725.png.md",
+    "Daily/2023-03-23.md",
+    "Productivity System/Tools/Obsidian.md",
+    "Pasted image 20230323103725.png",
     "Excalidraw/Drawing 2023-03-22 20.45.45.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-22 20.44.34.excalidraw.md",
+    "2023-03-23 1.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "2023-03-23.md",
+    "EE/2023-03-23 1.md",
+    "Productivity System/Tools",
+    "Productivity System",
+    "Excalidraw/Untitled/Untitled.md",
+    "Daily/Today.md",
+    "Excalidraw/Untitled",
     "Daily",
     "2023-03-22.md",
     "Untitled.canvas",
