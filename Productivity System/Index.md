@@ -1,7 +1,9 @@
 [#index]
+[[Productivity System/Resource Management/Index]]
+[[Productivity System/Execution Pipeline/Index]]
 
 ![[GoalAboveAll.excalidraw]]
 
-Execution Pipeline
+### Execution Pipeline
 	CompSci child -> Development Pipeline
-Resource Management
+### Resource Management

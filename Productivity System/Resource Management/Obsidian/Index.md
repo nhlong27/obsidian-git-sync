@@ -1,8 +1,7 @@
-[#productivity/tools/obsidian, #index]
+[#productivity, #obsidian, #resource-management, #index]
 
 ### For
-	Knowledge Map
-	Resource Management
+	Resource Management: Tasks & Knowledge
 [[Comparisons]]
 	
 #### Resources

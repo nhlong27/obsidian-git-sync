@@ -1,4 +1,9 @@
 [#index]
+[[Productivity System/Index]]
+[[Macro/Index]]
+
+![[Basis.excalidraw]]
+
 ### Why exist these sections?
 It's more beneficial to abstraction(s) that serve specific purposes, without losing their bigger picture for later need of analysis.
 *e.g. Productivity System is technically closer to the shared parent or root of all sections and itself.*
@@ -6,8 +11,6 @@ Reason:
 	Goal == progress of states over time
 	State == data/abstraction(s)
 	Abstract on a scale from Adaptability --- Colocation (Rule?)
-
-
 
 ### Todo
 %%

@@ -8,7 +8,101 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efe9f1a0ddfde0f3",
+            "id": "99d74e37b830df0e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Basis.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1797d8afb1927ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productivity System/Execution Pipeline/Tech/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2adc30aaa6969656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productivity System/Execution Pipeline/Tech/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e703af06d11562ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macro/The Tech Tree/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a73dead5dc0b1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macro/The Tech Tree/Architecture/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba25e7b99d3e8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macro/The Tech Tree/Architecture/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "599aa6e2626762c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macro/The Tech Tree/Architecture/Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af67378f1692965a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productivity System/Execution Pipeline/Tech/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59aa4e276c8dec30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +112,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "911c8b83054f3ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023/Mar/2023-03-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -61,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/Mar/2023-03-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/Mar/2023-03-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +217,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2023/Mar/2023-03-23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,11 +230,12 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 730.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,48 +248,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "911c8b83054f3ff0",
+  "active": "6d29f22969556501",
   "lastOpenFiles": [
-    "Index of Origin.md",
-    "Daily/2023/Mar/2023-03-23.md",
-    "Productivity System/Resource Management/Index.md",
     "Productivity System/Index.md",
+    "Productivity System/Execution Pipeline/Index.md",
+    "Productivity System/Execution Pipeline/Tech/Index.md",
+    "Macro/The Tech Tree/Architecture/Index.md",
+    "Macro/The Tech Tree/Architecture/Javascript.md",
+    "Macro/The Tech Tree/Index.md",
+    "Macro/Index.md",
+    "Productivity System/Resource Management/Index.md",
     "Productivity System/Resource Management/Obsidian/Index.md",
-    "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
+    "Index of Origin.md",
+    "Excalidraw/SoftwareArchitecture.excalidraw.md",
+    "Images/Pasted Image 20230324074636_910.png",
+    "Images",
+    "Excalidraw/Basis.excalidraw.md",
+    "Excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
+    "Pasted Image 20230324074332_366.png",
+    "Excalidraw/Javascript.excalidraw.md",
+    "Macro/The Tech Tree/Architecture/Untitled",
+    "Macro/The Tech Tree/Architecture",
+    "Macro/The Tech Tree/Resource Management",
+    "Macro/The Tech Tree/Development Pipeline",
+    "Macro/The Tech Tree",
+    "Macro",
+    "Productivity System/Execution Pipeline/Tech",
+    "Productivity System/Execution Pipeline",
     "Productivity System/Resource Management/Obsidian/Comparisons.md",
     "Excalidraw/GoalAboveAll.excalidraw.md",
+    "Daily/2023/Mar/2023-03-24.md",
+    "Daily/2023/Mar/2023-03-23.md",
+    "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
     "Productivity System/Tools/Excalidraw/random.md",
     "Excalidraw",
     "Daily/2023/Mar/Untitled.md",
-    "Productivity System/Tools/Obsidian/Templates/Daily Note",
     "2023-03-23.md",
     "another.md",
-    "Productivity System/Resource Management/Obsidian/Templates",
-    "Productivity System/Resource Management/Obsidian",
     "Excalidraw/newLink.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Excalidraw/Drawing 2023-03-22 20.45.45.excalidraw.md",
-    "Excalidraw/link.md",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Pasted image 20230323120156.png",
-    "Basics.md",
-    "Daily/2023/Mar",
-    "Daily/2023",
-    "Daily Note.md",
-    "Pasted image 20230323103725.png.md",
     "Pasted image 20230323103725.png",
-    "2023-03-23 1.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "EE/2023-03-23 1.md",
-    "Productivity System/Resource Management",
-    "Productivity System",
-    "Excalidraw/Untitled/Untitled.md",
     "Untitled.canvas"
   ]
 }

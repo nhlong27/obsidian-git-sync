@@ -1,30 +1,37 @@
 {
   "collapse-filter": false,
-  "search": " tag:#excalidraw",
+  "search": "-path:\"Daily\" -path:\"Images\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag: #excalidraw",
       "color": {
         "a": 1,
-        "rgb": 4056795
+        "rgb": 10632678
+      }
+    },
+    {
+      "query": "tag: #index",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.41021016949153,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7404978230765873,
-  "close": false
+  "scale": 1.7404978230765855,
+  "close": true
 }

@@ -1,4 +1,5 @@
 [#index]
+[[Productivity System/Resource Management/Obsidian/Index]]
 
 ### Routine
 Nighttime routine
