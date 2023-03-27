@@ -8,113 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99d74e37b830df0e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Basis.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1797d8afb1927ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity System/Execution Pipeline/Tech/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2adc30aaa6969656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity System/Execution Pipeline/Tech/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e703af06d11562ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macro/The Tech Tree/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a73dead5dc0b1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macro/The Tech Tree/Architecture/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ba25e7b99d3e8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macro/The Tech Tree/Architecture/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "599aa6e2626762c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macro/The Tech Tree/Architecture/Javascript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af67378f1692965a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity System/Execution Pipeline/Tech/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59aa4e276c8dec30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity System/Index.md",
+                "file": "Macro/The Tech Tree/Architecture/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "848439f7515c1d08",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SoftwareArchitecture.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/SoftwareArchitecture.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/SoftwareArchitecture.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/SoftwareArchitecture.excalidraw.md"
+              }
             }
           },
           {
@@ -235,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 730.5
+    "width": 564.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,20 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d29f22969556501",
+  "active": "eafd2dec157d62ad",
   "lastOpenFiles": [
+    "Pasted Image 20230327115809_009.png",
+    "Macro/The Tech Tree/Architecture/Index.md",
+    "Macro/The Tech Tree/Architecture/Javascript.md",
+    "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
+    "Daily/2023/Mar/2023-03-26.md",
+    "Excalidraw/SoftwareArchitecture.excalidraw.md",
+    "Daily/2023/Mar/2023-03-25.md",
+    "Images/Pasted Image 20230325074740_682.png",
+    "Images/Pasted Image 20230324074636_910.png",
+    "Index of Origin.md",
     "Productivity System/Index.md",
     "Productivity System/Execution Pipeline/Index.md",
     "Productivity System/Execution Pipeline/Tech/Index.md",
-    "Macro/The Tech Tree/Architecture/Index.md",
-    "Macro/The Tech Tree/Architecture/Javascript.md",
     "Macro/The Tech Tree/Index.md",
     "Macro/Index.md",
     "Productivity System/Resource Management/Index.md",
     "Productivity System/Resource Management/Obsidian/Index.md",
-    "Index of Origin.md",
-    "Excalidraw/SoftwareArchitecture.excalidraw.md",
-    "Images/Pasted Image 20230324074636_910.png",
     "Images",
     "Excalidraw/Basis.excalidraw.md",
     "Excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
@@ -284,11 +210,7 @@
     "Excalidraw",
     "Daily/2023/Mar/Untitled.md",
     "2023-03-23.md",
-    "another.md",
-    "Excalidraw/newLink.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
-    "Excalidraw/Drawing 2023-03-22 20.45.45.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
     "Pasted image 20230323120156.png",
     "Pasted image 20230323103725.png",
