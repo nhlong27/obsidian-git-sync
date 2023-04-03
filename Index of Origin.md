@@ -1,11 +1,13 @@
 [#index]
 [[Productivity System/Index]]
-[[Macro/Index]]
+[[Divitiarum/Index]]
 
-![[Basis.excalidraw]]
+![[OriginModel.excalidraw]]
+![[LifestyleModel.excalidraw]]
+
 
 ### Why exist these sections?
-It's more beneficial to abstraction(s) that serve specific purposes, without losing their bigger picture for later need of analysis.
+It's more beneficial to abstraction(s) that serve specific purposes, without losing the bigger picture for later need of analysis.
 *e.g. Productivity System is technically closer to the shared parent or root of all sections and itself.*
 Reason: 
 	Goal == progress of states over time
