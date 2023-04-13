@@ -1,6 +1,6 @@
 **Systema Divitiarum**
 [#index]
-[[Divitiarum/The Tech Tree/Index]]
+[[Divitiarum/IT-Software Development/Index]]
 
 What is power?
 Ability to achieve *goals*

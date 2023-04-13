@@ -29,6 +29,9 @@ Data Structures ^vDqABM7l
 
 Higher order funcs ^xEnEgQZ4
 
+Promise.allSettled
+structureCloned() ^YHNZzg7D
+
 %%
 # Drawing
 ```json
@@ -39,8 +42,8 @@ Higher order funcs ^xEnEgQZ4
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 214,
-			"versionNonce": 977559976,
+			"version": 215,
+			"versionNonce": 1413313302,
 			"isDeleted": false,
 			"id": "EAlhCTnluyKcFOHNgc4bG",
 			"fillStyle": "hachure",
@@ -49,12 +52,12 @@ Higher order funcs ^xEnEgQZ4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -209.74876403808594,
-			"y": -362.86277770996094,
+			"x": -209.94874572753906,
+			"y": -363.0627899169922,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 309.60003662109375,
-			"height": 53.5999755859375,
+			"width": 310,
+			"height": 54,
 			"seed": 1471383000,
 			"groupIds": [],
 			"roundness": {
@@ -66,7 +69,7 @@ Higher order funcs ^xEnEgQZ4
 					"id": "5MX0LQKV"
 				}
 			],
-			"updated": 1679618585108,
+			"updated": 1680696997391,
 			"link": null,
 			"locked": false
 		},
@@ -91,7 +94,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 1402102696,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -106,8 +109,8 @@ Higher order funcs ^xEnEgQZ4
 		},
 		{
 			"type": "rectangle",
-			"version": 154,
-			"versionNonce": 966388904,
+			"version": 155,
+			"versionNonce": 785871178,
 			"isDeleted": false,
 			"id": "1Sw-HM9SY9zKKCJptflix",
 			"fillStyle": "hachure",
@@ -117,11 +120,11 @@ Higher order funcs ^xEnEgQZ4
 			"opacity": 100,
 			"angle": 0,
 			"x": -204.14866638183594,
-			"y": -294.0627899169922,
+			"y": -294.36279296875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 132,
-			"height": 86.39999389648438,
+			"height": 87,
 			"seed": 804588248,
 			"groupIds": [],
 			"roundness": {
@@ -133,7 +136,7 @@ Higher order funcs ^xEnEgQZ4
 					"id": "AouLgNiZ"
 				}
 			],
-			"updated": 1679618585108,
+			"updated": 1680696997391,
 			"link": null,
 			"locked": false
 		},
@@ -158,7 +161,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 1037545128,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -173,8 +176,8 @@ Higher order funcs ^xEnEgQZ4
 		},
 		{
 			"type": "rectangle",
-			"version": 186,
-			"versionNonce": 1812338600,
+			"version": 187,
+			"versionNonce": 1636474966,
 			"isDeleted": false,
 			"id": "eKQdqc036W_DghKDpdBwk",
 			"fillStyle": "hachure",
@@ -184,11 +187,11 @@ Higher order funcs ^xEnEgQZ4
 			"opacity": 100,
 			"angle": 0,
 			"x": -36.94865417480469,
-			"y": -294.06280517578125,
+			"y": -294.36280822753906,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 132,
-			"height": 86.39999389648438,
+			"height": 87,
 			"seed": 1874718680,
 			"groupIds": [],
 			"roundness": {
@@ -200,7 +203,7 @@ Higher order funcs ^xEnEgQZ4
 					"id": "YeFWGdrs"
 				}
 			],
-			"updated": 1679618585108,
+			"updated": 1680696997391,
 			"link": null,
 			"locked": false
 		},
@@ -225,7 +228,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 1731959208,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -261,7 +264,7 @@ Higher order funcs ^xEnEgQZ4
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -302,7 +305,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 854205608,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -338,7 +341,7 @@ Higher order funcs ^xEnEgQZ4
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false
@@ -366,15 +369,15 @@ Higher order funcs ^xEnEgQZ4
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 242,
-			"versionNonce": 1409964200,
+			"version": 243,
+			"versionNonce": 1244575754,
 			"isDeleted": false,
 			"id": "wLh1gybR2IIa3iwQpKInY",
 			"fillStyle": "hachure",
@@ -383,11 +386,11 @@ Higher order funcs ^xEnEgQZ4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -204.94859313964844,
+			"x": -205.3485870361328,
 			"y": 49.93719482421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 287.20001220703125,
+			"width": 288,
 			"height": 58,
 			"seed": 814538456,
 			"groupIds": [],
@@ -400,7 +403,7 @@ Higher order funcs ^xEnEgQZ4
 					"id": "3XDzGqcy"
 				}
 			],
-			"updated": 1679618585108,
+			"updated": 1680696997391,
 			"link": null,
 			"locked": false
 		},
@@ -425,7 +428,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 307698344,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -440,8 +443,8 @@ Higher order funcs ^xEnEgQZ4
 		},
 		{
 			"type": "rectangle",
-			"version": 277,
-			"versionNonce": 898171816,
+			"version": 278,
+			"versionNonce": 1061168534,
 			"isDeleted": false,
 			"id": "4BgPRKsxmT2vtuow3r9Bz",
 			"fillStyle": "hachure",
@@ -450,11 +453,11 @@ Higher order funcs ^xEnEgQZ4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -204.1486358642578,
+			"x": -204.5486297607422,
 			"y": 109.53724670410156,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 287.20001220703125,
+			"width": 288,
 			"height": 58,
 			"seed": 909853656,
 			"groupIds": [],
@@ -467,7 +470,7 @@ Higher order funcs ^xEnEgQZ4
 					"id": "qBXQNIxf"
 				}
 			],
-			"updated": 1679618585108,
+			"updated": 1680696997392,
 			"link": null,
 			"locked": false
 		},
@@ -492,7 +495,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 1357743528,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -528,7 +531,7 @@ Higher order funcs ^xEnEgQZ4
 			"roundness": {
 				"type": 3
 			},
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false
@@ -587,7 +590,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 1106128344,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -654,7 +657,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 1285206744,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -721,7 +724,7 @@ Higher order funcs ^xEnEgQZ4
 			"seed": 963549144,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1679618585108,
 			"link": null,
 			"locked": false,
@@ -733,6 +736,74 @@ Higher order funcs ^xEnEgQZ4
 			"verticalAlign": "middle",
 			"containerId": "vOLaDTiuNIDtTzJsx4TQR",
 			"originalText": "Higher order funcs"
+		},
+		{
+			"id": "YHNZzg7D",
+			"type": "text",
+			"x": 197.09890994510187,
+			"y": -149.1741145365948,
+			"width": 174.3598175048828,
+			"height": 48,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 944236502,
+			"version": 67,
+			"versionNonce": 418424086,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1680697033851,
+			"link": null,
+			"locked": false,
+			"text": "Promise.allSettled\nstructureCloned()",
+			"rawText": "Promise.allSettled\nstructureCloned()",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Promise.allSettled\nstructureCloned()"
+		},
+		{
+			"id": "CBlmyuZE",
+			"type": "text",
+			"x": 147.90972075591264,
+			"y": -161.06600642848667,
+			"width": 10,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 976469386,
+			"version": 2,
+			"versionNonce": 35141654,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1680697008599,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -750,10 +821,10 @@ Higher order funcs ^xEnEgQZ4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 467.4283752441406,
-		"scrollY": 544.00390625,
+		"scrollX": 245.0702960040113,
+		"scrollY": 429.3585190644136,
 		"zoom": {
-			"value": 1
+			"value": 1.85
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
