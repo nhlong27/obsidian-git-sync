@@ -1,3 +1,3 @@
 [#index]
-[[Javascript]]
+[[leetCode]]
 ![[SoftwareModel.excalidraw]]

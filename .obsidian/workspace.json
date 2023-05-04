@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca2faf88c7bf763",
+        "id": "f5c6ca9d1421709c",
         "type": "tabs",
         "children": [
           {
-            "id": "188ce1b0f852a74b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/JavascriptModel.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e106aed9b07ca37c",
+            "id": "a49baedd10a59eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/Mar/2023-04-14.md",
+                "file": "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "558870e99317619c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/Mar/2023-04-14.md",
+                "file": "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/Mar/2023-04-14.md",
+                "file": "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/Mar/2023-04-14.md"
+                "file": "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md"
               }
             }
           },
@@ -149,13 +146,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "892bad61f86ea0c3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 564.5,
+    "width": 247.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,53 +175,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e106aed9b07ca37c",
+  "active": "a49baedd10a59eb1",
   "lastOpenFiles": [
-    "Daily/2023/Mar/2023-04-13.md",
-    "Daily/2023/Mar/2023-04-14.md",
-    "Excalidraw/JavascriptModel.excalidraw.md",
-    "Pasted Image 20230414104640_552.png",
-    "Excalidraw/SoftwareModel.excalidraw.md",
-    "Pasted Image 20230414094538_384.png",
-    "Pasted Image 20230414094523_362.png",
-    "Divitiarum/Trading Strategy/Negotiation/Index.md",
-    "Divitiarum/Trading Strategy/Index.md",
-    "Divitiarum/Beacon/Index.md",
-    "Divitiarum/Beacon",
-    "Productivity System/Resource Management/ChatGPT/Prompts.md",
-    "Divitiarum/Trading Strategy/Negotiation/Interview/Index.md",
-    "Divitiarum/Trading Strategy/Negotiation/Resume/Index.md",
-    "Divitiarum/Trading Strategy/Negotiations/Untitled.md",
-    "Divitiarum/Trading Strategy/Negotiation/Interview",
-    "Divitiarum/Trading Strategy/Market Research/Index.md",
-    "Divitiarum/Trading Strategy/Negotiation/Resume",
-    "Divitiarum/Trading Strategy/Negotiation",
-    "Divitiarum/Trading Strategy/Market Research",
-    "Divitiarum/Index.md",
-    "Divitiarum/Trading Strategy",
-    "Excalidraw/DevelopmentPipeline.excalidraw.md",
+    "Daily/2023/May/2023-05-04.md",
+    "Images/Pasted image 20230504121130.png",
+    "Images/Pasted image 20230504101947.png",
+    "Images/Pasted image 20230504083953.png",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Architecture - Physical.md",
+    "Excalidraw/Drawing 2023-05-04 07.48.38.excalidraw.md",
+    "Daily/2023/May/2023-05-03.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/React.md",
+    "Images/Pasted image 20230503082339.png",
+    "Excalidraw/PhysicalArchitectureModel.excalidraw.md",
     "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
-    "Excalidraw/LifestyleModel.excalidraw.md",
-    "Excalidraw/OriginModel.excalidraw.md",
-    "Excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
-    "Productivity System/Resource Management/Obsidian/Index.md",
-    "Productivity System/Resource Management/Index.md",
-    "Productivity System/Index.md",
-    "Daily/2023/Mar/2023-04-11.md",
-    "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
-    "Daily/2023/Mar/2023-03-23.md",
-    "Index of Origin.md",
-    "Productivity System/Resource Management/ChatGPT",
-    "Images/Pasted image 20230406085941.png",
-    "Images/Pasted Image 20230405222130_452.png",
-    "Divitiarum/IT-Software Development/Development Pipeline/Production Environment",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment",
-    "Socialis",
-    "Images/Pasted Image 20230330233051_723.png",
-    "Images/Pasted Image 20230327115809_009.png",
-    "Images/Pasted Image 20230325074740_682.png",
-    "Images/Pasted Image 20230324074636_910.png",
-    "Pasted Image 20230324074332_366.png",
+    "Daily/2023/May/2023-05-02.md",
+    "Images/Pasted image 20230503074948.png",
+    "Images/Pasted image 20230503074537.png",
+    "Images/Pasted image 20230503073757.png",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Index - Architecture.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/GraphQL.md",
+    "Images/Pasted image 20230502204808.png",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Index.md",
+    "Socialis/Index.md",
+    "Divitiarum/Beacon/Index.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Index.md",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
+    "Productivity System/Resource Management/ChatGPT/Prompts.md",
+    "Images/Pasted image 20230502163611.png",
+    "Images/Pasted image 20230502163559.png",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Runtime Env - Node.js.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/Express.md",
+    "Productivity System/Resource Management/Midjourney/Prompts.md",
+    "Productivity System/Resource Management/Midjourney/Study.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Patterns.md",
+    "Daily/2023/Apr/2023-04-30.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Typescript.md",
+    "Daily/2023/May",
+    "Daily/2023/Apr",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Databases",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer",
+    "Productivity System/Resource Management/Midjourney",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/React",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel",
     "Untitled.canvas"
   ]
 }
