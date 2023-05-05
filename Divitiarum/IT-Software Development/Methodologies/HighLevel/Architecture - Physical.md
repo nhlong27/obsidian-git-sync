@@ -18,7 +18,7 @@ Hardware
 				NVIDIA GeForce RTX, GTX, Quadro, Tesla (GTX 1650 4GB GDDR5)
 				AMD Radeon RX, Pro
 		RAM (Primary memory)
-			8, 16GB (8GB DDR4 2666MHz,1 khe cắm)
+			8, 16GB (8GB DDR4 2666MHz,1 khe cắm), frequency/cycles per second + 64 bit data width -> (DDR) 128 bits 
 		Storage (Secondary memory)
 			SSD (512GB SSD M.2 2242 NVMe)
 			HDD

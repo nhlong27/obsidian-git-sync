@@ -1,12 +1,13 @@
 [#react]
 [Roadmap](https://roadmap.sh/react)
 
-**Server State Management / API Layer**
-	React Query (wrapper of promise-based request (axios/fetch))
-**Client State Management**
-**Presentation**
-	Routing
-
+- **Server State Management / API Layer**
+	- React Query (wrapper of promise-based request (axios/fetch))
+- **Client State Management**
+	- React batches state updates (event handlers, lifecycle methods, and non-React-controlled: promises, setTimeout)
+- **Routing**
+	- ErrorBoundary problem with react router
+	- 
 helper methods/functions
 naming 'polymorphic' props: styles, "flags"(boolean), role, function
 When to use type predicates

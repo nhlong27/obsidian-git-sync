@@ -74,15 +74,30 @@ Insertion Sort (better for smaller data sets)
 ![[Pasted image 20230502163611.png]]
 
 **Map** for caching (fast data retrieval based on unique identifier ) (messages with name)
-	new Map([ [...] ]), has(), set(), get(), delete(), size(), forEach(), for n of keys(), values(), self 
+	new Map([ [...] ]), has(), set(), get(), delete(), size, forEach(), for n of keys(), values(), self 
 	keys: primitive, object, function
 	ordered, iterable
 **Set** for filtering selected options, or checking if exists (forms, checkboxes)
-	new Set([...]), add(), has(), clear(), delete(), forEach(), for n of .values(), keys(), self   
+	new Set([...]), add(), has(), clear(), delete(), size, forEach(), for n of .values(), keys(), self   
 	ordered, iterable
 **Stack** for undo, redo actions (history stack)
-	[...], push(), pop() or concat(), slice(0, -1) (for immutable React, note that slice only shallow copies)
+	[...], push(), pop() or concat(), slice(0, -1), length (for immutable React, note that slice only shallow copies)
 **Queue** for queued actions (messages, notifications)
-	[...], push(), shift() or concat(), slice(1)
+	[...], push(), shift() or concat(), slice(1), length
 **Tree** for nested menu items, comments
 	nested object { ..., children: [...] }, or flat array [ { id: ,...,, children: [ ids ], isRoot? } ]
+	
+**Linked list** vs array
+	- insert, delete: better than dynamic array (since create new array)
+	append, prepend, insert 
+	- retrieve (->update) 
+		by index (array better) 
+		by value: same
+	- length
+**Class**
+	- constructor (1 only) - class fields
+	- public vs private # (not in prototype inheritance)
+	- static - fixed configs
+	- extends, super
+	- this (can't work with static properties, cause no instance)
+	![[Pasted image 20230504083953.png]]

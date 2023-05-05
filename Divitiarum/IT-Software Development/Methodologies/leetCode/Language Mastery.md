@@ -34,7 +34,7 @@ OOP
 
 Declarators for variables + Scopes
 	var, let, const - redeclared, updated 
-	block scope (curly braces - if, loop, while, class, func), function scope, module scope (var, let and const can have module scope, or global scope if not inside a module, in case of var become property of global object) *temporal dead zone*
+	block scope (curly braces - if, loop, while, class, func), function scope, module scope (var, let and const can have module scope, or global scope if not inside a module, in case of var become property of global object) 
 	![[Pasted image 20230503082339.png]]
 	, global scope: [define a global var](https://stackoverflow.com/questions/5786851/define-a-global-variable-in-a-javascript-function)
 		```
@@ -57,7 +57,7 @@ Declarators for variables + Scopes
 ![[Pasted image 20230502084910.png]]
 Hoisting (only with declarations, else "X is not defined") --> reference before declarations inside their respective scopes
 	var - undefined
-	let, const - ReferenceError
+	let, const - ReferenceError *temporal dead zone*
 	![[Pasted image 20230502085647.png]]
 
 Data Types
@@ -103,6 +103,8 @@ Asynchornous
 	XMLHttpRequest (XHR) (callback-based)
 	Fetch -> Axios (promise-based)
 	Blocking vs Non-blocking 
+
+Generator function* + yield, [...] ~ for ... of function()
 
 
 The concept of 'first-class' objects
