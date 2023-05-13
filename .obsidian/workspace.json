@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a49baedd10a59eb1",
+            "id": "740654811d8ee9ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
+                "file": "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1b9660fcfb61e35",
+            "id": "78076ebcd056f35b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md"
+                "file": "Daily/2023/May/2023-05-13.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5086555480957
   },
   "right": {
     "id": "c5afeaa06140f1fc",
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
+                "file": "Daily/2023/May/2023-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
+                "file": "Daily/2023/May/2023-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md"
+                "file": "Daily/2023/May/2023-05-13.md"
               }
             }
           },
@@ -186,20 +188,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1b9660fcfb61e35",
+  "active": "78076ebcd056f35b",
   "lastOpenFiles": [
+    "Daily/2023/May/2023-05-12.md",
+    "Daily/2023/May/2023-05-13.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
+    "Images/Pasted image 20230512153436.png",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Index.md",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/IDE - VSCode.md",
+    "Daily/2023/May/2023-05-07.md",
+    "Daily/2023/May/2023-05-08.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Patterns.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Untitled 1.md",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
+    "Daily/2023/May/2023-05-10.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Architecture - Physical.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Index - Architecture.md",
+    "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-04 07.48.38.excalidraw.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/React.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/React Query.md",
+    "Daily/2023/May/2023-05-06.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Node js.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Typescript.md",
     "Daily/2023/May/2023-05-05.md",
     "Daily/2023/May/2023-05-04.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
-    "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/React Query.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Node js.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/React.md",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Typescript.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Architecture - Physical.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
     "Images/Pasted image 20230504141915.png",
     "Images/Pasted image 20230504141827.png",
     "Images/Pasted image 20230504141303.png",
@@ -209,21 +225,7 @@
     "Images/Pasted image 20230504121130.png",
     "Images/Pasted image 20230504101947.png",
     "Images/Pasted image 20230504083953.png",
-    "Excalidraw/Drawing 2023-05-04 07.48.38.excalidraw.md",
-    "Daily/2023/May/2023-05-03.md",
     "Images/Pasted image 20230503082339.png",
-    "Excalidraw/PhysicalArchitectureModel.excalidraw.md",
-    "Daily/2023/May/2023-05-02.md",
-    "Images/Pasted image 20230503074948.png",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Index - Architecture.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/GraphQL.md",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Index.md",
-    "Socialis/Index.md",
-    "Divitiarum/Beacon/Index.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Index.md",
-    "Productivity System/Resource Management/ChatGPT/Prompts.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Runtime Env - Node.js.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/Express.md",
     "Daily/2023/May",
     "Daily/2023/Apr",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Databases",

@@ -77,7 +77,7 @@ Insertion Sort (better for smaller data sets)
 	new Map([ [...] ]), has(), set(), get(), delete(), size, forEach(), for n of keys(), values(), self 
 	keys: primitive, object, function
 	ordered, iterable
-**Set** for filtering selected options, or checking if exists (forms, checkboxes)
+**Set** for filtering selected options, or checking if exists (forms, checkboxes) (only shallow checks)
 	new Set([...]), add(), has(), clear(), delete(), size, forEach(), for n of .values(), keys(), self   
 	ordered, iterable
 **Stack** for undo, redo actions (history stack)

@@ -38,7 +38,7 @@ Hardware
 'Software'
 	OS
 	File system
-		Fat32, exFat
+		Fat32, exFat, ntfs
 	Hypervisor
 		Type 1: enterprises
 			 Windows: Hyper-V
@@ -55,6 +55,8 @@ OSes don't have the capability to run multiple applications *securely* on a sing
 		small file size
 		less power
 		fast
-		
+Simulation program: controlled environment for training, testing
+	flight, driving simulations
+Emulator  (VM is a type of emulator) program: emulate environment, platform specific
 	
 	

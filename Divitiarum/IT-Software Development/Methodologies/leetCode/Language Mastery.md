@@ -31,60 +31,74 @@ OOP
 
 ## **Javascript**
 
-
-Declarators for variables + Scopes
-	var, let, const - redeclared, updated 
-	block scope (curly braces - if, loop, while, class, func), function scope, module scope (var, let and const can have module scope, or global scope if not inside a module, in case of var become property of global object) 
-	![[Pasted image 20230503082339.png]]
-	, global scope: [define a global var](https://stackoverflow.com/questions/5786851/define-a-global-variable-in-a-javascript-function)
+- **Declarators** 
+	- var, let, const - redeclared, updated 
+	- block scope (curly braces - if, loop, while, class, func), function scope, module scope (var, let and const can have module scope, or global scope if not inside a module, in case of var become property of global object)	![[Pasted image 20230503082339.png]]	, global scope: [define a global var](https://stackoverflow.com/questions/5786851/define-a-global-variable-in-a-javascript-function)
 		```
 		var a = 5 (outside module, let & const don't become properties of global object, but still global scope)
 		a = 5 // implicit globals [not in strict mode](http://blog.niftysnippets.org/2008/03/horror-of-implicit-globals.html)
 		window.a = 5 //browsers
 		globalThis.a = 5 //all Javascript environments
 		```
-		BOM, DOM and Window Object [source](https://200lab.io/blog/tim-hieu-them-ve-window-object-trong-javascript/)
+	- BOM, DOM and Window Object [source](https://200lab.io/blog/tim-hieu-them-ve-window-object-trong-javascript/)
 		![[Pasted image 20230502084055.png]]
 		![[Pasted image 20230427091755.png]]
 		![[Pasted image 20230427092259.png]]
-		Avoid global variables by using module or scoping function
+	- Avoid global variables by using module or scoping function
 		![[Pasted image 20230427092651.png]]
 		
-	Lexical scope -> Closure
->In JavaScript, a closure is created when a function is defined inside another function, and the inner function has access to the outer function's variables, parameters, and even other inner functions. The scope chain of a closure includes not only the immediate outer function's variables and parameters, but also the variables and parameters of any functions that are in the chain between the inner function and the outermost function.
-![[Pasted image 20230502084900.png]]
-![[Pasted image 20230502090058.png]]
-![[Pasted image 20230502084910.png]]
-Hoisting (only with declarations, else "X is not defined") --> reference before declarations inside their respective scopes
-	var - undefined
-	let, const - ReferenceError *temporal dead zone*
-	![[Pasted image 20230502085647.png]]
+	- Lexical scope -> Closure
+>			In JavaScript, a closure is created when a function is defined inside another function, and the inner function has access to the outer function's variables, parameters, and even other inner functions. The scope chain of a closure includes not only the immediate outer function's variables and parameters, but also the variables and parameters of any functions that are in the chain between the inner function and the outermost function.
+		![[Pasted image 20230502084900.png]]
+		![[Pasted image 20230502090058.png]]
+		![[Pasted image 20230502084910.png]]
 
-Data Types
-	Primitives: null (typeof === object), undefined, string, symbol, bigint, number, boolean
-		Immutable
-		Pass by value
-	Objects: built-ins (.prototypes) (root: Object.prototype), constructors for built-ins (root: Function.prototype)  --- The purpose of prototype + constructors is to imitate OOP class
-		Mutable
-		Pass by reference
-Type coercion
-	no-coercion with === , !== 
-	Between primitives
-		"5" + 3 -> string // "53" 
-		"5" * 3 -> number  // 15
-		"5" == 5 -> number // true
-	Between objects with primitives
-	,
-	Functions
-		IIFEs
-		Rest parameters
-		Arguments object
-		Function/call stack
-		Built-in Functions, or object methods
+- **Hoisting** (only with declarations, else "X is not defined") --> reference before declarations inside their respective scopes
+	- var - undefined
+	- let, const - ReferenceError *temporal dead zone*
+		![[Pasted image 20230502085647.png]]
 
-Data structures
-	Indexed Collections (arrays) 
-	Keyed Collections (map, set, weakmap, weakset)
+- **this**
+	- [in arrow function](https://stackoverflow.com/questions/66518020/javascript-this-keyword-and-arrow-function)
+	- ![[Pasted image 20230502090739.png]]
+	- in Node.js, this usually refers to the module.exports object (undefined if strict mode). Use 'global' (nodejs) or 'window' (web browser) or 'globalThis' (both)
+
+- **Data Types**
+	- Primitives: null (typeof === object), undefined, string, symbol, bigint, number, boolean
+		- Immutable
+		- Pass by value
+	- Objects: built-ins (.prototypes) (root: Object.prototype), constructors for built-ins (root: Function.prototype)  --- The purpose of prototype + constructors is to imitate OOP class
+		- Mutable
+		- Pass by reference
+	- Functions
+		- IIFEs
+		- Rest parameters
+		- Arguments object
+		- Function/call stack
+		- Built-in Functions, or object methods
+		- Generator function* + yield, [...] ~ for ... of function()
+	- Type coercion
+		- no-coercion with === , !== 
+		- Between primitives
+		- "5" + 3 -> string // "53" 
+		- "5" * 3 -> number  // 15
+		- "5" == 5 -> number // true
+		- Between objects with primitives
+	
+
+- **Data structures**
+	- Indexed Collections (arrays) 
+	- Keyed Collections (map, set, weakmap, weakset)
+
+- **Asynchornous JS**
+	- XMLHttpRequest (XHR) (callback-based)
+	- Fetch -> Axios (promise-based)
+	- Blocking vs Non-blocking 
+
+- **Higher order function**
+	- Reduce() => nums.reduce((a, b, i) => (i === index ? a : a * b), 1) only returns the acc
+
+
 
 Operators ... (equality comparison)
 Loops, Iterations, ... Control Flow
@@ -94,17 +108,6 @@ Modules
 	<script type='module' src=''></script>
 	CommonJS (.cjs)
 	ESModule (.mjs)
-this
-[in arrow function](https://stackoverflow.com/questions/66518020/javascript-this-keyword-and-arrow-function)
-![[Pasted image 20230502090739.png]]
-in Node.js, this usually refers to the module.exports object (undefined if strict mode). Use 'global' (nodejs) or 'window' (web browser) or 'globalThis' (both)
-
-Asynchornous
-	XMLHttpRequest (XHR) (callback-based)
-	Fetch -> Axios (promise-based)
-	Blocking vs Non-blocking 
-
-Generator function* + yield, [...] ~ for ... of function()
 
 
 The concept of 'first-class' objects

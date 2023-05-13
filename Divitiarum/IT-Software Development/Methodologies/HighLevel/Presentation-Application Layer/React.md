@@ -3,6 +3,9 @@
 
 - **Server State Management / API Layer**
 	- React Query (wrapper of promise-based request (axios/fetch))
+	- suspense handling: mutation suspense & query suspense. 2 ways (with react-query)
+		- inline
+		- with suspense, error boundaries
 - **Client State Management**
 	- React batches state updates (event handlers, lifecycle methods, and non-React-controlled: promises, setTimeout)
 - **Routing**

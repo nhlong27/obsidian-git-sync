@@ -10,10 +10,10 @@ Xl 1280
 | Fix                                        | Feat                                 |
 | ------------------------------------------ | ------------------------------------ |
 | [x] make dropdown menu sticky              | [ ] add dark theme                   |
-| [x] export default prop drilling           | [ ] add code splitting               |
-| [x] make play media send 'watching' status | [ ] add UI handling                  |
+| [x] export default prop drilling           | [x] add code splitting               |
+| [x] make play media send 'watching' status | [x] add suspense & error handling    |
 | [x] allow fullscreen (media page)          | [x] migrate to infinite query        |
-| [x] make media list responsive             | [ ] add skeletons                    |
+| [x] make media list responsive             | [x] add skeletons                    |
 | [x] refactor the media card                | [x] add media pages (responsive)     |
 | [x] refactor home page responsiveness      | [x] finish home page (responsive)    |
 |                                            | [x] finish profile page (responsive) |
