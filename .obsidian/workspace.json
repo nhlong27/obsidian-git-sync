@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/May/2023-05-13.md",
+                "file": "Daily/2023/May/2023-05-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/May/2023-05-13.md",
+                "file": "Daily/2023/May/2023-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/May/2023-05-13.md",
+                "file": "Daily/2023/May/2023-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/May/2023-05-13.md"
+                "file": "Daily/2023/May/2023-05-14.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "78076ebcd056f35b",
   "lastOpenFiles": [
-    "Daily/2023/May/2023-05-12.md",
     "Daily/2023/May/2023-05-13.md",
+    "Daily/2023/May/2023-05-14.md",
+    "Daily/2023/May/2023-05-12.md",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
     "Images/Pasted image 20230512153436.png",
     "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
@@ -221,7 +222,6 @@
     "Images/Pasted image 20230504141303.png",
     "Images/Pasted image 20230504133633.png",
     "Images/Pasted image 20230504133611.png",
-    "Productivity System/Resource Management/Obsidian/Templates/Daily Note.md",
     "Images/Pasted image 20230504121130.png",
     "Images/Pasted image 20230504101947.png",
     "Images/Pasted image 20230504083953.png",
