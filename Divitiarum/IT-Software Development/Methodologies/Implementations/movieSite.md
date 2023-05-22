@@ -1,4 +1,51 @@
 
+- Methods
+	- - **Design Stage**
+		- Features -> Data & Manipulations
+		- Personalities
+			- font family: poppins, san serif
+			- color scheme: 
+				- neutral: stone
+				- primary: stone
+				- primary2: amber, yellow
+				- accent: lime, green, emerald - red
+			- form (border radius): soft
+			- images: 
+			- language
+	-  **Implementation Stage**
+		- Step 1 : Skeleton
+			Raw Layout + Spacing  (data + manipulations)
+			State management, API handling, Business Logic
+		- Step 2: Flesh (Iterations)
+			Flesh Layout + Spacing + Text + Colorscheme (neutral) -> Color + Images/Icons
+- Architecture
+	- Presentation	
+		- [x] Media card hover effect
+		- [x] mix blend overlay on media vs home page backdrops
+		- [x] error handling UI dark theme
+		- [x]  suspense + error page for media page
+		- [x] progress bar
+		- [x] react animate
+			app router <- framermotion
+			profile list manipulation
+			watch history, exploring options/search display
+		- [x] images
+			profile
+			media poster (in list)
+			media backdrop, poster (in main view)
+			TV creators
+			TV episode backdrops
+			distributors
+			networks
+		- [x] Accent color		
+		- [x] WatchHistory card size
+		- [x] Update media modal
+		- [x] Footer
+		- [ ] Notice modal
+	- Structure
+
+
+
 Media Queries term
 Xs 500
 Sm 640

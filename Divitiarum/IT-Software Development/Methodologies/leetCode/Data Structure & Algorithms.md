@@ -57,6 +57,8 @@ Boolean Algebra
 Set Theory
 Combinatorics
 	Graph Theory
+Binary search
+	 ![[Pasted image 20230517075959.png]]
 
 ## **Sorting** 
 Insertion Sort (better for smaller data sets)

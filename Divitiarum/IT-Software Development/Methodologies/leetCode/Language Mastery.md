@@ -62,6 +62,8 @@ OOP
 	- [in arrow function](https://stackoverflow.com/questions/66518020/javascript-this-keyword-and-arrow-function)
 	- ![[Pasted image 20230502090739.png]]
 	- in Node.js, this usually refers to the module.exports object (undefined if strict mode). Use 'global' (nodejs) or 'window' (web browser) or 'globalThis' (both)
+	-  This ![[Pasted image 20230515073851.png]]
+	- 
 
 - **Data Types**
 	- Primitives: null (typeof === object), undefined, string, symbol, bigint, number, boolean
@@ -84,6 +86,7 @@ OOP
 		- "5" * 3 -> number  // 15
 		- "5" == 5 -> number // true
 		- Between objects with primitives
+		- Type coercion from string -> number == "+''
 	
 
 - **Data structures**

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
+                "file": "Daily/2023/May/2023-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/May/2023-05-14.md",
+                "file": "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: prompt",
+                "query": "\"- create and push existing project to github  https://kbroman.org/github_tutorial/pages/init.html\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/May/2023-05-14.md",
+                "file": "Daily/2023/May/2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/May/2023-05-14.md",
+                "file": "Daily/2023/May/2023-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/May/2023-05-14.md"
+                "file": "Daily/2023/May/2023-05-22.md"
               }
             }
           },
@@ -188,44 +187,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78076ebcd056f35b",
+  "active": "740654811d8ee9ee",
   "lastOpenFiles": [
-    "Daily/2023/May/2023-05-13.md",
-    "Daily/2023/May/2023-05-14.md",
-    "Daily/2023/May/2023-05-12.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
-    "Images/Pasted image 20230512153436.png",
     "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
+    "Daily/2023/May/2023-05-22.md",
+    "Images/Pasted image 20230522081255.png",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/Others/GoogleSheet.md",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/Others",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
+    "Daily/2023/May/2023-05-21.md",
+    "Productivity System/Resource Management/Midjourney/Study.md",
+    "Daily/2023/May/2023-05-20.md",
+    "Daily/2023/May/2023-05-19.md",
+    "Images/Pasted image 20230519150136.png",
+    "Daily/2023/May/2023-05-17.md",
+    "Productivity System/Resource Management/Midjourney/Prompts.md",
+    "Images/Pasted image 20230517075959.png",
+    "Daily/2023/May/2023-05-16.md",
+    "Daily/2023/May/2023-05-15.md",
+    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Index.md",
+    "Images/Pasted image 20230515073851.png",
+    "Daily/2023/May/2023-05-14.md",
+    "Daily/2023/May/2023-05-13.md",
+    "Daily/2023/May/2023-05-12.md",
+    "Images/Pasted image 20230512153436.png",
     "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Index.md",
     "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/IDE - VSCode.md",
     "Daily/2023/May/2023-05-07.md",
     "Daily/2023/May/2023-05-08.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Patterns.md",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Untitled 1.md",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
-    "Daily/2023/May/2023-05-10.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Architecture - Physical.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Index - Architecture.md",
-    "Excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-04 07.48.38.excalidraw.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/React.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer/React Query.md",
-    "Daily/2023/May/2023-05-06.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Node js.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Typescript.md",
-    "Daily/2023/May/2023-05-05.md",
-    "Daily/2023/May/2023-05-04.md",
     "Images/Pasted image 20230504141915.png",
     "Images/Pasted image 20230504141827.png",
     "Images/Pasted image 20230504141303.png",
     "Images/Pasted image 20230504133633.png",
     "Images/Pasted image 20230504133611.png",
-    "Images/Pasted image 20230504121130.png",
-    "Images/Pasted image 20230504101947.png",
-    "Images/Pasted image 20230504083953.png",
-    "Images/Pasted image 20230503082339.png",
     "Daily/2023/May",
     "Daily/2023/Apr",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Databases",
@@ -235,7 +234,6 @@
     "Productivity System/Resource Management/Midjourney",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/React",
     "Divitiarum/IT-Software Development/Methodologies/Implementations",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel",
     "Untitled.canvas"
   ]
 }
