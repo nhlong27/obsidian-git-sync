@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "740654811d8ee9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023/May/2023-05-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78076ebcd056f35b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
+                "file": "Daily/2023/May/2023-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5086555480957
+    "width": 267.50152587890625
   },
   "right": {
     "id": "c5afeaa06140f1fc",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/May/2023-05-22.md",
+                "file": "Daily/2023/May/2023-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/May/2023-05-22.md",
+                "file": "Daily/2023/May/2023-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/May/2023-05-22.md"
+                "file": "Daily/2023/May/2023-05-24.md"
               }
             }
           },
@@ -187,15 +175,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "740654811d8ee9ee",
+  "active": "78076ebcd056f35b",
   "lastOpenFiles": [
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
+    "Daily/2023/May/2023-05-23.md",
+    "Daily/2023/May/2023-05-24.md",
     "Daily/2023/May/2023-05-22.md",
+    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/IDE - VSCode.md",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
     "Images/Pasted image 20230522081255.png",
     "Divitiarum/IT-Software Development/Methodologies/Implementations/Others/GoogleSheet.md",
     "Divitiarum/IT-Software Development/Methodologies/Implementations/Others",
     "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
     "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
     "Daily/2023/May/2023-05-21.md",
     "Productivity System/Resource Management/Midjourney/Study.md",
@@ -215,11 +206,9 @@
     "Daily/2023/May/2023-05-12.md",
     "Images/Pasted image 20230512153436.png",
     "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Index.md",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/IDE - VSCode.md",
     "Daily/2023/May/2023-05-07.md",
     "Daily/2023/May/2023-05-08.md",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Patterns.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Untitled 1.md",
     "Images/Pasted image 20230504141915.png",
     "Images/Pasted image 20230504141827.png",
     "Images/Pasted image 20230504141303.png",
