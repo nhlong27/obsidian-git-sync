@@ -17,12 +17,15 @@ The mandatory environments for software development depend on the specific proje
     3.  Production Environment: The production environment is the live environment where the software is deployed and made available to users. This environment is essential for ensuring that the software is accessible to users and meets the desired quality standards.
     
 
-In addition to these mandatory environments, there are other environments that may be required depending on the specific project and its requirements. For example, a testing environment may be required to test the software's performance, scalability, and security, while an integration environment may be necessary to test the integration of different software components and modules.
+### Staging environment
+- Mirror the production environment
+	- Test functionality, performance, compatibility and security
+	- User acceptance testing
 
+### Deploying
+https://www.reddit.com/r/webdev/comments/x23b6h/comment/imix41a/?utm_source=share&utm_medium=web2x&context=3
 
-**Monorepo**
-Yarn Workspaces, Lerna, Turborepo
-
-**Emulator vs Simulator**
+https://stackoverflow.com/questions/61808973/is-it-possible-to-deploy-a-nodejs-app-in-vercel
+https://stackoverflow.com/questions/74983709/vercel-and-railway-deploy
 
 [source](https://www.youtube.com/watch?v=YXbgs-RKIEQ)

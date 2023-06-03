@@ -8,18 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78076ebcd056f35b",
+            "id": "7fe349a6c33d6d8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SoftwareModel.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1c136f9a24f2203e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/May/2023-05-24.md",
+                "file": "Daily/2023/June/2023-06-03.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "261c901e4bd3d6d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/LifestyleModel.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/May/2023-05-24.md",
+                "file": "Daily/2023/June/2023-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/May/2023-05-24.md",
+                "file": "Daily/2023/June/2023-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/May/2023-05-24.md"
+                "file": "Daily/2023/June/2023-06-03.md"
               }
             }
           },
@@ -175,45 +196,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78076ebcd056f35b",
+  "active": "1c136f9a24f2203e",
   "lastOpenFiles": [
-    "Daily/2023/May/2023-05-23.md",
-    "Daily/2023/May/2023-05-24.md",
-    "Daily/2023/May/2023-05-22.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Data Structure & Algorithms.md",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/IDE - VSCode.md",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
-    "Images/Pasted image 20230522081255.png",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/Others/GoogleSheet.md",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/Others",
+    "Excalidraw/LifestyleModel.excalidraw.md",
+    "Daily/2023/June/2023-06-03.md",
+    "Images/Pasted image 20230603185831.png",
+    "Images/Pasted image 20230603185017.png",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/eCommerce.md",
+    "Daily/2023/June/2023-06-02.md",
+    "Excalidraw/SoftwareModel.excalidraw.md",
+    "Daily/2023/June/2023-06-01.md",
+    "Excalidraw/Drawing 2023-05-04 07.48.38.excalidraw.md",
+    "Excalidraw/JavascriptModel.excalidraw.md",
+    "Excalidraw/OriginModel.excalidraw.md",
+    "Excalidraw/PhysicalArchitectureModel.excalidraw.md",
+    "Excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
+    "Excalidraw/ProductivityModel.excalidraw.md",
+    "Daily/2023/May/2023-05-31.md",
+    "Daily/2023/May/2023-06-01.md",
+    "Daily/2023/May/2023-05-01.md",
+    "Daily/2023/June",
+    "Images/Pasted image 20230531120335.png",
+    "Images/Pasted image 20230531113618.png",
+    "Daily/2023/May/2023-05-30.md",
+    "Excalidraw/DevelopmentPipeline.excalidraw.md",
     "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Language Mastery.md",
-    "Daily/2023/May/2023-05-21.md",
-    "Productivity System/Resource Management/Midjourney/Study.md",
-    "Daily/2023/May/2023-05-20.md",
-    "Daily/2023/May/2023-05-19.md",
-    "Images/Pasted image 20230519150136.png",
-    "Daily/2023/May/2023-05-17.md",
-    "Productivity System/Resource Management/Midjourney/Prompts.md",
-    "Images/Pasted image 20230517075959.png",
-    "Daily/2023/May/2023-05-16.md",
-    "Daily/2023/May/2023-05-15.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer/Design.md",
-    "Divitiarum/IT-Software Development/Methodologies/leetCode/Index.md",
-    "Images/Pasted image 20230515073851.png",
-    "Daily/2023/May/2023-05-14.md",
-    "Daily/2023/May/2023-05-13.md",
-    "Daily/2023/May/2023-05-12.md",
-    "Images/Pasted image 20230512153436.png",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Index.md",
-    "Daily/2023/May/2023-05-07.md",
-    "Daily/2023/May/2023-05-08.md",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/Index.md",
+    "Daily/2023/May/2023-05-29.md",
+    "Daily/2023/May/2023-05-28.md",
+    "Images/Pasted image 20230528074737.png",
+    "Images/Pasted image 20230528074729.png",
+    "Images/Pasted image 20230528074721.png",
+    "Daily/2023/May/2023-05-27.md",
+    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Patterns.md",
-    "Images/Pasted image 20230504141915.png",
-    "Images/Pasted image 20230504141827.png",
-    "Images/Pasted image 20230504141303.png",
-    "Images/Pasted image 20230504133633.png",
-    "Images/Pasted image 20230504133611.png",
+    "Daily/2023/May/2023-05-26.md",
+    "Images/Pasted image 20230522081255.png",
+    "Divitiarum/IT-Software Development/Methodologies/Implementations/Others",
+    "Images/Pasted image 20230519150136.png",
+    "Images/Pasted image 20230517075959.png",
     "Daily/2023/May",
     "Daily/2023/Apr",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Databases",
@@ -222,7 +243,6 @@
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer",
     "Productivity System/Resource Management/Midjourney",
     "Divitiarum/IT-Software Development/Methodologies/HighLevel/React",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations",
     "Untitled.canvas"
   ]
 }

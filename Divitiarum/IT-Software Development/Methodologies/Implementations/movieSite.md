@@ -1,4 +1,31 @@
 
+## Alpha release
+turborepo + npm workspaces
+-> deploy react to vercel
+monorepo with render  
+-> deploy nodejs to render
+mongodb with railway
+
+(Vercel) - Railway - Render
+https://stackoverflow.com/questions/75635389/secretorprivatekey-must-be-an-asymmetric-key-when-using-rs256
+presentation
+	responsive
+	- [ ] input focus
+	- [ ] filter by year (movie + tv)
+	- [ ] button blends with background ??
+	- [ ] animation duration (login button)
+	- [ ] lazy load image cache => not cached, but faster
+	- [ ] responsive
+	- - media to another page
+	- [ ] web server config
+	- [ ]  db migration
+	-  next migration
+	- [ ] light mode (better color), đồng bộ màu trang
+	- [ ] mobile view image - > phone pixel density - trade offs with speed
+	- [ ] footer
+	-- swiper hold 
+	
+
 - Methods
 	- - **Design Stage**
 		- Features -> Data & Manipulations

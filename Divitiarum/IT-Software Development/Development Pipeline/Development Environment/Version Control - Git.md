@@ -18,4 +18,15 @@
 - git branch
 	- ```git checkout -b <new> <base>
 		git branch <new> <base>
-	```
+- ![[Pasted image 20230528074737.png]]
+- remove past files from commit history 
+	- https://daily-dev-tips.com/posts/removing-a-env-file-from-git-history/
+
+### Monorepo
+isolated vs shared
+Benefits
+	Visibility
+	Version, Dependency management
+	Straightforward communication between projects
+E.g. Yarn Workspaces, Lerna, Turborepo
+
