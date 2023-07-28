@@ -1,0 +1,25 @@
+
+**Architecture**
+- Spectrum ends
+	- Functional
+		- Structure/Layout
+		- Plumbing
+		- Electrical 
+		- HVAC
+	- Aesthetic
+		- Lighting
+			- Types
+				- Borrowed 
+				- Artificial
+					- General
+						- Overhead
+						- Ambient (diffused)
+					- Accent
+					- Task
+			- Temperature
+		- Texture
+		- Color
+- Components
+	- PC Setup
+		- Docking station: Thunderbolt ts4
+		- Mic: Elgato wave 3

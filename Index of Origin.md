@@ -1,6 +1,6 @@
 [#index]
-[[Productivity System/Index]]
-[[Divitiarum/Index]]
+[[Knowledge Power/Productivity/Index]]
+[[Knowledge Power/Index]]
 
 ![[OriginModel.excalidraw]]
 ![[LifestyleModel.excalidraw]]

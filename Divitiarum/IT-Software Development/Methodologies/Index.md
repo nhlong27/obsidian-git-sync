@@ -1,3 +1,0 @@
-[#index]
-[[leetCode]]
-![[SoftwareModel.excalidraw]]

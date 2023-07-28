@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fe349a6c33d6d8f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SoftwareModel.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1c136f9a24f2203e",
+            "id": "5cd2d9da2c52ceda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/June/2023-06-03.md",
+                "file": "Daily/2023/July/2023-07-28.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "261c901e4bd3d6d6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/LifestyleModel.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"- create and push existing project to github  https://kbroman.org/github_tutorial/pages/init.html\"",
+                "query": "#ecommerce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/June/2023-06-03.md",
+                "file": "Daily/2023/July/2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/June/2023-06-03.md",
+                "file": "Daily/2023/July/2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/June/2023-06-03.md"
+                "file": "Daily/2023/July/2023-07-28.md"
               }
             }
           },
@@ -196,53 +175,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c136f9a24f2203e",
+  "active": "5cd2d9da2c52ceda",
   "lastOpenFiles": [
-    "Excalidraw/LifestyleModel.excalidraw.md",
-    "Daily/2023/June/2023-06-03.md",
-    "Images/Pasted image 20230603185831.png",
-    "Images/Pasted image 20230603185017.png",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/eCommerce.md",
-    "Daily/2023/June/2023-06-02.md",
-    "Excalidraw/SoftwareModel.excalidraw.md",
-    "Daily/2023/June/2023-06-01.md",
-    "Excalidraw/Drawing 2023-05-04 07.48.38.excalidraw.md",
-    "Excalidraw/JavascriptModel.excalidraw.md",
-    "Excalidraw/OriginModel.excalidraw.md",
-    "Excalidraw/PhysicalArchitectureModel.excalidraw.md",
-    "Excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
-    "Excalidraw/ProductivityModel.excalidraw.md",
-    "Daily/2023/May/2023-05-31.md",
-    "Daily/2023/May/2023-06-01.md",
-    "Daily/2023/May/2023-05-01.md",
-    "Daily/2023/June",
-    "Images/Pasted image 20230531120335.png",
-    "Images/Pasted image 20230531113618.png",
-    "Daily/2023/May/2023-05-30.md",
-    "Excalidraw/DevelopmentPipeline.excalidraw.md",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/movieSite.md",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/Index.md",
-    "Daily/2023/May/2023-05-29.md",
-    "Daily/2023/May/2023-05-28.md",
-    "Images/Pasted image 20230528074737.png",
-    "Images/Pasted image 20230528074729.png",
-    "Images/Pasted image 20230528074721.png",
-    "Daily/2023/May/2023-05-27.md",
-    "Divitiarum/IT-Software Development/Development Pipeline/Development Environment/Version Control - Git.md",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Patterns.md",
-    "Daily/2023/May/2023-05-26.md",
-    "Images/Pasted image 20230522081255.png",
-    "Divitiarum/IT-Software Development/Methodologies/Implementations/Others",
-    "Images/Pasted image 20230519150136.png",
-    "Images/Pasted image 20230517075959.png",
-    "Daily/2023/May",
-    "Daily/2023/Apr",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer/Databases",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Logic-Persistence Layer",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/API Layer",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/Presentation-Application Layer",
-    "Productivity System/Resource Management/Midjourney",
-    "Divitiarum/IT-Software Development/Methodologies/HighLevel/React",
+    "Daily/2023/July/2023-07-28.md",
+    "Daily/2023/July/2023-07-29.md",
+    "Daily/2023/July/2023-07-21.md",
+    "Daily/2023/July/2023-07-22.md",
+    "Daily/2023/July/2023-07-27.md",
+    "Daily/2023/July/2023-07-20.md",
+    "Knowledge Power/Beacon/Portfolio/IT/eCommerce/Architecture.md",
+    "Images/Pasted image 20230720125533.png",
+    "Images/Pasted image 20230720125520.png",
+    "Images/Pasted image 20230720125349.png",
+    "Daily/2023/July/2023-07-19.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Code/Git.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Deploy/Docker.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Monitor",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Operate",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Release",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Test",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Build",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Plan/Jira.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Deploy",
+    "Knowledge Power/Professions/IT/Pipeline & Management/Index.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Plan",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Code/VSCode.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Untitled.md",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Code",
+    "Knowledge Power/Professions/IT/Pipeline & Management/CICD",
+    "Knowledge Power/Productivity/Pipeline/IT-Software Development/Index.md",
+    "Images/Pasted image 20230720105836.png",
+    "Images/Pasted image 20230719180724.png",
+    "Images/Pasted image 20230719180642.png",
+    "Daily/2023/July/2023-07-18.md",
+    "Daily/2023/July/2023-07-17.md",
+    "Knowledge Power/Beacon/Portfolio/IT/eCommerce/Pipeline.md",
+    "Daily/2023/July/2023-07-14.md",
+    "Daily/2023/July/2023-07-10.md",
+    "Daily/2023/July/2023-07-09.md",
+    "Daily/2023/July/2023-07-08.md",
+    "Images/Pasted image 20230708134057.png",
+    "Daily/2023/July/2023-07-07.md",
+    "Images/Pasted image 20230707131735.png",
+    "Daily/2023/June/2023-06-30.md",
+    "Daily/2023/July/2023-07-01.md",
+    "Daily/2023/July/2023-07-02.md",
+    "Images/Pasted image 20230707084409.png",
+    "Knowledge Power/Beacon/Portfolio/IT/eCommerce",
+    "Images/Pasted image 20230629122412.png",
     "Untitled.canvas"
   ]
 }
