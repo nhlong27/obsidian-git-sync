@@ -1,0 +1,6 @@
+- management
+	- Jira
+- schema
+	- Miro
+	- Eraser
+	- Excalidraw

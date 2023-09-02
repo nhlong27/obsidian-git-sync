@@ -1,0 +1,19 @@
+- react
+	- state
+		- React batches state updates (event handlers, lifecycle methods, and non-React-controlled: promises, setTimeout)
+		- state should be as local as possible (also with React Context, not with Redux or Jotai)
+		- setState tells React to render  based on value (primitive) or reference change
+		- becareful with State depending on other state -> use derived value instead https://www.youtube.com/watch?v=tz0fDABt67g&t=327s
+		- useState [state, setState] -> state references the state, setState tells React to rerender with new object (keeps state immutable), state references new object at next rerender. setState(prev=>) prev references the actual state (meanwhile  state may only reference the old state object )
+		- decide to useState (controlled input) or useRef (uncontrolled input) based on use-case https://www.youtube.com/watch?v=NZqMVUEiDIw
+		- state as component in React rendering https://www.youtube.com/watch?v=vXJkeZf-4-4 --> key
+	- hooks
+		- useLocalStorage
+		- useDebounce
+			- ![[Pasted image 20230628182241.png]]
+	- routing
+		- ErrorBoundary problem with react router
+- next
+	- https://www.youtube.com/watch?v=XwswPqIXYoI
+	- document era && ssr + react composition + spa (2 reasons: UX & SRP)
+	- UX - performance vs dynamic content

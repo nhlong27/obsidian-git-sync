@@ -1,8 +1,0 @@
-- two multi-purpose type of clothes: formal vs casual 
-	- shirt
-	- pants
-	- jacket 
-	- undies
-		- boxers, boxer briefs, trunks, briefs - knit vs woven - synthetic vs natural
-	- socks
-	- shoes

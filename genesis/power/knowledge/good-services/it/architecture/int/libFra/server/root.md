@@ -1,0 +1,2 @@
+- node
+	- npm - regular expression pattern `"^(?:@[a-z0-9-*~][a-z0-9-*._~]*/)?[a-z0-9-~][a-z0-9-._~]*$"` matches strings that adhere to the following rules:

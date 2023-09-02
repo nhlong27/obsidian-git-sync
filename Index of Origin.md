@@ -1,5 +1,5 @@
 [#index]
-[[Knowledge Power/Productivity/Index]]
+[[productivity/Index]]
 [[Knowledge Power/Index]]
 
 ![[OriginModel.excalidraw]]

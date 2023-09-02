@@ -1,0 +1,11 @@
+
+- client-server architecture
+	- client
+		- rendering
+			- css
+				- responsive, mobile
+				- box-model
+	- server
+		- model
+			- sql 
+				- join

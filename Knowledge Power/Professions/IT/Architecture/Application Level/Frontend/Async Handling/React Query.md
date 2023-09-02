@@ -1,5 +1,0 @@
-- **React Query**
-	- Data transformation: server, query function, query hook/render function, or select option
-	- suspense handling: mutation suspense & query suspense. 2 ways (with react-query)
-		- inline
-		- with suspense, error boundaries

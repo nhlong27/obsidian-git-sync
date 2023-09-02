@@ -1,0 +1,21 @@
+- hardware
+	- ![[PhysicalArchitectureModel.excalidraw]]
+	- CPU:  (control unit + arithmetic logic unit + registers) https://www.youtube.com/watch?v=4rLW7zg21gI
+		- Thread, Process, physical/logical Core, hyper-threading/Multi-threading, parallel operations, concurrent operations, processor vs micro processor https://qr.ae/pyTEhM
+		- ![[Pasted image 20230503074537.png]]
+		- Intel Core i5, i7 (i7-9750H 2.60GHz x64, 64-bit OS) Xeon, AMD Ryzen 5, 7, ARM for mobile -> Apple Silicon, SoCs, NVIDA Tegra
+	- RAM (Primary memory)
+		8, 16GB (8GB DDR4 2666MHz,1 khe cắm), frequency/cycles per second + 64 bit data width -> (DDR) 128 bits 
+	- GPU: frame rate --- Display refresh rate, microprocessor + Memory VRAM (specialized for graphics =/= CPU general purposes)  
+		- NVIDIA GeForce RTX, GTX, Quadro, Tesla (GTX 1650 4GB GDDR5), AMD Radeon RX, Pro
+	- storage (Secondary memory)
+		- SSD (512GB SSD M.2 2242 NVMe), HDD, Hybrid (SSD as cache)	
+	- IO: Ports (2x USB 3.1, 1x USB 3.1 Type-C, HDMI, RJ-45), USB, HDMI, Ethernet
+	- display: HDR, refresh rate, Panel type (response time, contrast, viewing angle): TN, VA, IPS
+- OS
+	- kernel
+		- file system: fat32, exfat, ntfs
+	- shell
+- software
+	- VM / hypervisor: installed (oracle virtualbox) vs enterprises (windows hyper-v)
+	- container engine

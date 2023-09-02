@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c6ca9d1421709c",
+        "id": "14d458748374f5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd2d9da2c52ceda",
+            "id": "348fb990dab93cd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/July/2023-07-30.md",
+                "file": "Daily/2023/Sep/2023-09-02.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1232182d44191baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e2bcfcd5ec5ab87",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "productivity/tools/Obsidian/Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -77,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.50152587890625
+    "width": 527.5026054382324
   },
   "right": {
     "id": "c5afeaa06140f1fc",
@@ -93,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/July/2023-07-30.md",
+                "file": "productivity/tools/Obsidian/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/July/2023-07-30.md",
+                "file": "productivity/tools/Obsidian/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/July/2023-07-30.md"
+                "file": "productivity/tools/Obsidian/Daily Note.md"
               }
             }
           },
@@ -175,54 +195,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cd2d9da2c52ceda",
+  "active": "6e2bcfcd5ec5ab87",
   "lastOpenFiles": [
-    "Knowledge Power/Productivity/Management/Obsidian/Templates/Daily Note.md",
-    "Daily/2023/Aug/2023-08-03.md",
-    "Daily/2023/Aug/2023-08-02.md",
-    "Daily/2023/Aug/2023-08-01.md",
-    "Daily/2023/Aug",
-    "Daily/2023/July/2023-07-29.md",
-    "Daily/2023/July/2023-07-30.md",
-    "Daily/2023/July/2023-07-28.md",
-    "Daily/2023/July/2023-07-20.md",
-    "Daily/2023/July/2023-07-21.md",
-    "Daily/2023/July/2023-07-22.md",
-    "Daily/2023/July/2023-07-27.md",
-    "Knowledge Power/Beacon/Portfolio/IT/eCommerce/Architecture.md",
-    "Images/Pasted image 20230720125533.png",
-    "Images/Pasted image 20230720125520.png",
-    "Images/Pasted image 20230720125349.png",
-    "Daily/2023/July/2023-07-19.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Code/Git.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Deploy/Docker.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Monitor",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Operate",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Release",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Test",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Build",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Plan/Jira.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Deploy",
-    "Knowledge Power/Professions/IT/Pipeline & Management/Index.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Plan",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Code/VSCode.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Untitled.md",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD/Code",
-    "Knowledge Power/Professions/IT/Pipeline & Management/CICD",
-    "Knowledge Power/Productivity/Pipeline/IT-Software Development/Index.md",
-    "Images/Pasted image 20230720105836.png",
-    "Images/Pasted image 20230719180724.png",
-    "Images/Pasted image 20230719180642.png",
-    "Daily/2023/July/2023-07-18.md",
-    "Daily/2023/July/2023-07-17.md",
-    "Knowledge Power/Beacon/Portfolio/IT/eCommerce/Pipeline.md",
-    "Daily/2023/July/2023-07-14.md",
-    "Daily/2023/July/2023-07-10.md",
-    "Daily/2023/July/2023-07-09.md",
-    "Images/Pasted image 20230708134057.png",
-    "Images/Pasted image 20230707131735.png",
-    "Images/Pasted image 20230707084409.png",
-    "Images/Pasted image 20230629122412.png",
+    "Daily/2023/Sep/2023-09-02.md",
+    "genesis/power/knowledge/Beacon/Portfolio/IT/eCommerce/Architecture.md",
+    "genesis/power/knowledge/Beacon/Portfolio/IT/eCommerce/Pipeline.md",
+    "genesis/power/knowledge/Beacon/Business/Market & Negotiation/Tips.md",
+    "genesis/power/knowledge/good-services/it/architecture/int/proLan/lan.md",
+    "genesis/power/knowledge/good-services/it/Best Practices.md",
+    "genesis/power/knowledge/good-services/it/pipeline/1-code.md",
+    "genesis/power/knowledge/good-services/it/architecture/ext/infraNet.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/API/Architecture.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/API/Express.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/API/GraphQL.md",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/server/root.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/Security/Index.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/Runtime Envs/Node.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/Databases/PostgreSQL.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Backend/Databases/MongoDB.md",
+    "genesis/power/knowledge/good-services/it/architecture/ext/infraNet/Untitled.md",
+    "Index of Origin.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Index.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Frontend/Async Handling/React Query.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Frontend/Rendering/Next.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Frontend/Rendering/React.md",
+    "genesis/power/knowledge/good-services/it/architecture/Application Level/Frontend/Rendering/UI.md",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client/root.md",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client/design.md",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/server",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client",
+    "genesis/power/knowledge/good-services/it/architecture/int/proLan/dsa.md",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/web",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/server",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client",
+    "genesis/power/knowledge/good-services/it/architecture/Untitled",
+    "genesis/power/knowledge/good-services/it/architecture/ext/infraNet",
+    "genesis/power/knowledge/good-services/it/architecture/int/libFra",
+    "genesis/power/knowledge/good-services/it/architecture/int/proLan",
+    "genesis/power/knowledge/good-services/it/architecture/int/hardWare",
+    "Images/Pasted image 20230902105911.png",
+    "Images/Pasted image 20230902105909.png",
+    "Images/Pasted image 20230831103131.png",
+    "Images/Pasted image 20230824073936.png",
+    "Images/Pasted image 20230822072142.png",
+    "Images/Pasted image 20230810104939.png",
+    "Images/Pasted image 20230810104922.png",
+    "Images/Pasted image 20230810104920.png",
+    "Images/Pasted image 20230810104918.png",
+    "Images/Pasted image 20230809185027.png",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,4 @@
+- osi
+- api
+	- GraphQL - '*extra REST*' more complex, flexible, multiple teams
+	- tRPC - '*simpler REST*', a single API endpoint that operates behind your api engine
