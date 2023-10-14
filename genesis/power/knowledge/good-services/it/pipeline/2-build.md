@@ -1,0 +1,12 @@
+
+- compilation
+- dependency resolution
+- bundling:  files + dependencies + assets
+	- Bun, Webpack (node-based), *Vite, ESbuild (transpiling, minification), Rollup (bundling) 
+		- -> optimize: tree shaking, minification, code splitting + loaders 
+- transpilation
+	- Babel, ESbuild 
+- minification
+- linting
+- packaging
+- versioning

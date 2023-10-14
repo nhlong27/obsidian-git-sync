@@ -1,7 +1,12 @@
 - VCS
-	- implementations
-		- mono-repo: yarn workspaces, lerna, turborepo
-		- micro-repo --> flexibility vs consistency
+	- object database (key-value): commit (ID, previous, author, committer, message, tree ~directory(, ID, blob file IDs))
+	- patterns
+		- branching --> complexity, rapid development vs stability
+			- git flow: main, develop - feature, release (tag), hotfix
+			- trunk-based
+		- repo --> flexibility vs consistency
+			- mono-repo: yarn workspaces, lerna, turborepo
+			- micro-repo 
 	- commands
 		- create and push existing project to github  https://kbroman.org/github_tutorial/pages/init.html
 			- multiple commands one line: &&
@@ -28,6 +33,10 @@
 			- https://daily-dev-tips.com/posts/removing-a-env-file-from-git-history/
 		- squash commits
 			- https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together
+		- head
+			- git diff head, git checkout head-2 file, git checkout hash 
+		- stash
+			- git stash, git stash list, git stash apply/pop/drop, git stash show file -p
 	- release
 		- versioning
 			- https://git-scm.com/book/en/v2/Git-Basics-Tagging
@@ -44,5 +53,5 @@
 	- @builtin extensions (Git, GitHub) 
 	- git gist & profile exporting 
 	 ![[Pasted image 20230522081255.png]]
-
+- Package manager
 

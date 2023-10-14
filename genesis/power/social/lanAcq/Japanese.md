@@ -1,3 +1,4 @@
 - Sep
 	- zenbu, datte, dake, hoshii, kimochi, honto, iku, miru, ooi, ie, kore wa, sore, watashi, shigoto, itsu, suru, kowai, desu ne, hana, kono, koko wa
 	- omou, motsu, jikan, shiru, onaji, kyo, atarashi, jika - ie, desuga, tanbo, michi, hosoi, aki, kuruma, taihen, kochi -- koko wa aki ie des
+	- ano (kono), mina, konnichiwa, ojisan, otousan, okasan, one~san, imo~to, chan-kun, san, sama

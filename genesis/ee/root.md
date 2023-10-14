@@ -1,0 +1,13 @@
+- anticipation/excitement for states, sustainable:  stories (one go in hours) --> holiday trips (multiple days) --> arcs (months and longer)
+	- int
+		- health
+			- cardiovascular: hypertension (<-atherosclerosis), 
+			- musculoskeletal: osteoarthritis
+			- nervous: dementia, parkinson
+			- endocrine, lymphatic, digestive, urinary, reproductive
+			- respiratory: pneumonia
+		- nutrition
+		- exercise
+		- surrounding 
+			- stimulation (+visual interest)  - the kind of potential stimulants that people give (why I'm so bored at night, in quiet countryside)
+	- ext

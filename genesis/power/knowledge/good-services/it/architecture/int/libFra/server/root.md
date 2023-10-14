@@ -1,2 +1,11 @@
-- node
-	- npm - regular expression pattern `"^(?:@[a-z0-9-*~][a-z0-9-*._~]*/)?[a-z0-9-~][a-z0-9-._~]*$"` matches strings that adhere to the following rules:
+- business logic - data management that fits business requirements
+- re
+	- (safari)- Webkit (+ javascriptCore) -> bun, (chrome)-V8 -> node + package manager: npm
+	- node
+		- npm - regular expression pattern `"^(?:@[a-z0-9-*~][a-z0-9-*._~]*/)?[a-z0-9-~][a-z0-9-._~]*$"` matches strings that adhere to the following rules
+- database
+	- ![[Pasted image 20230807181320.png]]
+- services
+	- kafka 
+		- partitions https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7
+		- polling using Kafka protocol over TCP

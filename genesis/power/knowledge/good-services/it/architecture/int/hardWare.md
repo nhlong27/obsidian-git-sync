@@ -1,21 +1,43 @@
 - hardware
-	- ![[PhysicalArchitectureModel.excalidraw]]
-	- CPU:  (control unit + arithmetic logic unit + registers) https://www.youtube.com/watch?v=4rLW7zg21gI
-		- Thread, Process, physical/logical Core, hyper-threading/Multi-threading, parallel operations, concurrent operations, processor vs micro processor https://qr.ae/pyTEhM
-		- ![[Pasted image 20230503074537.png]]
-		- Intel Core i5, i7 (i7-9750H 2.60GHz x64, 64-bit OS) Xeon, AMD Ryzen 5, 7, ARM for mobile -> Apple Silicon, SoCs, NVIDA Tegra
-	- RAM (Primary memory)
-		8, 16GB (8GB DDR4 2666MHz,1 khe cắm), frequency/cycles per second + 64 bit data width -> (DDR) 128 bits 
-	- GPU: frame rate --- Display refresh rate, microprocessor + Memory VRAM (specialized for graphics =/= CPU general purposes)  
-		- NVIDIA GeForce RTX, GTX, Quadro, Tesla (GTX 1650 4GB GDDR5), AMD Radeon RX, Pro
-	- storage (Secondary memory)
-		- SSD (512GB SSD M.2 2242 NVMe), HDD, Hybrid (SSD as cache)	
-	- IO: Ports (2x USB 3.1, 1x USB 3.1 Type-C, HDMI, RJ-45), USB, HDMI, Ethernet
-	- display: HDR, refresh rate, Panel type (response time, contrast, viewing angle): TN, VA, IPS
-- OS
-	- kernel
-		- file system: fat32, exfat, ntfs
-	- shell
+	-  architecture
+		- ![[PhysicalArchitectureModel.excalidraw]]
+		- CPU (Intel Core i5, i7 (i7-9750H 2.60GHz x64, 64-bit OS) Xeon, AMD Ryzen 5, 7, ARM for mobile -> Apple Silicon, SoCs, NVIDA Tegra)
+			- ALU + Registers + Clock + Control Unit + (Memory)
+			- Thread, Process, physical/logical Core, hyper-threading/Multi-threading, parallel operations, concurrent operations, processor vs micro processor https://qr.ae/pyTEhM
+			- ![[Pasted image 20230503074537.png]]
+			-
+		- RAM ( 8, 16GB (8GB DDR4 2666MHz)
+			- capacitors, frequency/cycles per second + 64 bit data width -> (DDR) 128 bits
+			- stack (fast, limited): local var, func, pointer
+			- heap (slow, big): global var, complex datStr
+			- virtual memory (2 meanings), virtual address, page table
+		- GPU (NVIDIA GeForce RTX, GTX, Quadro, Tesla (GTX 1650 4GB GDDR5), AMD Radeon RX, Pro)
+			- frame rate --- Display refresh rate, microprocessor + Memory VRAM (specialized for graphics =/= CPU general purposes)  
+		- storage (flash storage -> SSD (512GB SSD M.2 2242 NVMe), HDD, Hybrid (SSD as cache))
+		- IO
+			- ports (2x USB 3.1, 1x USB 3.1 Type-C, HDMI, RJ-45), USB, HDMI, Ethernet
+		- display 
+			- HDR, refresh rate, Panel type (response time, contrast, viewing angle): TN, VA, IPS
+	- process, threads - units of execution, isolation vs efficiency
+		- threads: smallest unit of execution -> program counters, registers, stack (local var)
+		- process - threads + heap (global var)
+		- concurrency 
+			- context switching (process/thread context) - PCB, faster with threads than with processes (same address space, no memory page switch)
+		- multi-threading: concurrently threads/core
+			- hyper-Threading Technology (HTT) is a specific implementation of multi-threading used by Intel in some of its processors. It enables a single physical core to appear as two logical cores to the operating system and software
+- OS: kernel (modular vs monolithic) (data structures): file system management, process management (PCB), device drivers, memory management (MMU) + shell
+	- mac
+		- shell Zsh + homebrew, OS + files -> SSD
+		- file system: System + Users/user + hidden library
+	- window
+		- shell cmd + chocolatey
+		- file system (fat32, exfat, ntfs): Windows + Users/user + hidden AppData (local, low local (low integrity, security), roaming (across computers in same domain)) vs program files (shared, installed not modified) vs programData (shared, modified)
+	- linux
+		- shell bash + distro-specific (apk for alphine linux, apt for ubuntu)
+		- file system: boot + home/user + hidden dot files
 - software
-	- VM / hypervisor: installed (oracle virtualbox) vs enterprises (windows hyper-v)
-	- container engine
+	- KVM (type 1/bare-metal hypervisor, runs on hardware), traditional VM (type 2 hypervisor, application that runs VMs, runs on OS - similar to container engines) vs WSL 1 (translation layer) &2
+	- container engine: virtualize OS
+	- compiler: lexer + parser (high-level -> low-level) !== transpiler
+		- machine code: hardware
+		- bytecode: interpreter/VM

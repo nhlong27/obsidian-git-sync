@@ -1,0 +1,16 @@
+- strategy: listening (-reading), speaking (-writing) -- "languages are just pointers to meanings"
+	- introduction: naming (pronunciation)
+	- immersion
+		- simple sentences (dictionary in that language)
+		- conversations with myself
+		- switch your environment
+- case
+	- Vietnamese - speaking
+		- technical translation: translate terms
+		- networking: use frequent words, search for words
+	- English - listening + speaking
+		- shadowing
+		- frequent words pronunciation
+	- Japanese - listening + speaking
+		- frequent word vocabulary
+		- immersion

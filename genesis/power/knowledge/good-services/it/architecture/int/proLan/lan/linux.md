@@ -1,0 +1,10 @@
+- pwd, cd (- ~ ..), ls (-R -lh), cat, cp (-R), mv, mkdir (-p, -m, -v), rmdir, rm, touch, code / vi / nano
+- install node, git, docker, aws-cli, terraform
+	- https://www.youtube.com/watch?v=-atblwgc63E
+	- gh cli token: in webscrape-playground .env
+	- https://docs.docker.com/desktop/wsl/
+	- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+- file system - case sensitive
+	-  https://unix.stackexchange.com/questions/230090/differences-between-home-root-and-usr
+	- ![[Pasted image 20230810104922.png]]
+	- ![[Pasted image 20230810104939.png]]

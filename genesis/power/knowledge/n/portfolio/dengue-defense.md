@@ -1,0 +1,22 @@
+- dengue-defense
+	- goal 
+		- refactored from thesis project, interested in building an application integrated with IoT devices to help combat dengue. How pub/sub works and when to use it
+		- how trpc and type-safe api work,  Try session based auth. Implement polling to Kafka and save telemetries to time series database. Deploy to Ec2 instance
+	- state
+		- architecture
+			- client: Next/TS, Tailwind (shadcn, recharts), Jotai
+			- server: Session-based Next-Auth, trpc (zod), prisma/PostgreSQL + timeseries_, Kafka pub/sub
+		- pipeline
+			- deploy: Vercel, Supabase
+	- todos
+		- pipeline
+			- test: unit test, integration test
+			- deploy: docker? bring whole to EC2
+				- setup 
+					- docker file -> nginx
+						- domain, tls
+					- IaC config
+						- tf security group
+						- tf & ansible env
+					- git (pull repo), node, docker, docker-compose
+					- pm2 docker?

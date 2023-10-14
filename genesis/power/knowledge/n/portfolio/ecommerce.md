@@ -1,0 +1,75 @@
+[#ecommerce, #portfolio]
+
+![[portfolio_IT.excalidraw]]
+
+![[Pasted image 20230629122412.png]]
+
+- ecommerce
+	- goal
+		- interested in how ecommerce site architecture works (headless cms) -> Wanted to build own order, stock services, only payment depends on Saas like Stripe checkout and webhook. As for data, scrapes websites like pepsico, but the data changes often so set up a cron job push to kafka topics, and consumes in a service that updates data in mongodb
+		- try Nextjs with TS also a server-side frameworks -> next api routes with Next auth. Also want to use graphql for CRUD. PostgreSQL for storing users, orders, cart items that have strong relationships and MongoDB for products because query faster. Also a Redis cache layer to query products only (because products don't change much, not have to deal with cache invalidation). For client use Redux for state management and Shadcn styled component library. Also unit test, integration test. Also use docker and attempt at terraform and ansible for setting up AWS EC2 instance.
+	- state
+		- architecture
+			- client: Next/TS + Tailwind (shadcn), Redux
+			- server: 
+				- JWT-based Next-Auth
+					- JWT verification: middleware vs api routes vs getServerSideProps (getServerSession, getToken) 
+					- https://stackoverflow.com/questions/73982523/nextauth-selecting-a-different-google-account-for-login
+					- https://stackoverflow.com/questions/74089665/next-auth-credentials-provider-authorize-type-error
+					- https://stackoverflow.com/questions/69234170/difference-between-usesession-and-getsession-in-next-auth
+					- https://github.com/nextauthjs/next-auth/issues/693
+					- https://www.youtube.com/watch?v=yCJH72nZ8DI&list=WL&index=4&t=446s
+					- https://remaster.com/blog/next-auth-jwt-session
+					- https://authjs.dev/guides/basics/refresh-token-rotation
+					- https://next-auth.js.org/getting-started/client
+					- https://authjs.dev/guides/basics/pages
+					- https://next-auth.js.org/tutorials/securing-pages-and-api-routes
+					- https://www.youtube.com/watch?v=VP-RCddbjrc
+					- https://www.oauth.com/oauth2-servers/access-tokens/access-token-response/
+					- https://www.youtube.com/watch?v=RJpevpbC4YY
+				- Next api + graphql (zod)
+					- https://www.youtube.com/watch?v=2cB5Fh46Vi4&t=200s
+					- https://stackoverflow.com/questions/62690747/next-js-api-is-back-end
+					- https://stackoverflow.com/questions/74621518/how-to-get-api-call-origin-in-nextjs-api-endpoint
+					- https://github.com/TanStack/query/discussions/3448
+					- https://stackoverflow.com/questions/74063463/how-do-i-wait-for-next-auth-session-before-using-usequery
+					- https://www.reddit.com/r/reactjs/comments/oqx5me/apollo_client_vs_reactquery_help_me_choose_do_i/ - apollo client has normalized caching
+					- another option https://www.youtube.com/watch?v=wRRO9915Lbc
+					- mutation error https://stackoverflow.com/questions/74064124/react-query-usemutation-no-overload-matches-this-call
+					- thunder client https://www.katk.dev/thunder-client
+					- runtime typechecking? --> "Yolo"
+				- prisma/PostgreSQL, mongoose/MongoDB, Redis
+					- https://stackoverflow.com/questions/62440264/mongoose-nextjs-model-is-not-defined-cannot-overwrite-model-once-compiled  --> https://devdojo.com/amp/usmanwrites/how-to-use-mongoose-with-nextjs-for-mongodb
+					- https://stackoverflow.com/questions/71538821/typescript-type-error-while-using-redis-type
+					- remove upon mutation
+				- Kafka pub/sub service + cron job
+				- S3 + image
+					- Next Image src
+						- relative/absolute paths, imported module, data uri
+							- https://css-tricks.com/data-uris/
+					- from client to server
+						- 'multipart/form-data' https://stackoverflow.com/questions/66797673/how-can-i-send-image-from-client-to-server-node-js-react
+						- multer middleware in next js https://stackoverflow.com/questions/66457571/multer-doesnt-return-req-body-and-req-file-using-next-connect
+						- "unsupported body payload" - stream the image file https://stackoverflow.com/questions/60789156/aws-s3-file-upload-with-node-js-unsupported-body-payload-error
+					- S3 best practice
+						- https://stackoverflow.com/questions/33279153/rest-api-file-ie-images-processing-best-practices
+						- putObject vs upload https://stackoverflow.com/questions/38442512/difference-between-upload-and-putobject-for-uploading-a-file-to-s3
+					- make S3 public
+						- https://www.youtube.com/watch?v=4zrupVYqQFs&t=338s
+			- service: Stripe checkout, webhook
+				- *provided*: Checkout: Order summary, Shipping/Billing info, Payment method, Payment details, 
+				- Payment Gateway -> PCI, DSS - Risk check/ Fraud prevention
+				- Payment Processor <-> Acquiring Bank <--> Card Schemes <--> Issuing Bank
+				- ![[Pasted image 20230708134057.png]]
+		- pipeline
+			- deploy: Vercel, Railway.app, S3
+	- todos
+		- architecture
+			- client
+				- light house (Contentful Paint (LCP), First Input Delay (FID), and Cumulative Layout Shift (CLS) + @vercel/analytics)
+			- server: Elastic Search, 
+				- migrate to upstash
+			- service: Cloudinary
+		- pipeline
+			- test: unit test, integration test
+			- deploy: client to EC2, kafka to EC2

@@ -1,0 +1,21 @@
+
+ - firmedia
+	- goal 
+		- interested in how to build a movie site, how server and CRUD work, how auth works with JWT
+		- try Vite, full TS, experimenting with state management libs like Jotai, Zustand, deploy to the internet
+	- state
+		- architecture
+			- client: React/TS + Vite, Tailwind, Jotai, Zustand
+			- server: 
+				- JWT-based
+					- https://stackoverflow.com/questions/75635389/secretorprivatekey-must-be-an-asymmetric-key-when-using-rs256
+				- Express + Restful api (zod)
+				- mongoose/MongoDB
+		- pipeline
+			- deploy: Onrender, Railway.app 
+	- todos
+		- architecture
+			- server: S3
+		- pipeline
+			- test: unit test, integration test with Vitest
+			- deploy: bring to EC2

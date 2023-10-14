@@ -1,107 +1,166 @@
 [#leetCode]
 [Roadmap](https://roadmap.sh/computer-science)
 [Data structures we use everyday](https://www.youtube.com/watch?v=ouipSd_5ivQ)
-## ***Data structures***
-Container of data - for efficient access and modification of data
-				
-	Primitive
-		String
-> The spread operator is a feature introduced in ES6 that allows an iterable (such as an array or a string) to be expanded into individual elements. In this case, the spread operator is used to create a new array `arr` from the characters of the string 
-> 	Numeral Systems 
-> 		Base 2/10/16/64
-> 		Floating point
 
-	Non-primitive
-		Indexed Collections: 
-		Array (homogeneous)
-			dynamically O(1) append
-> Thus, arrays can be very useful when dealing with a large collection of homogeneous data types. Since Python does not have to remember the data type details of each element individually; for some uses, arrays may be faster and uses less memory when compared to lists.
-
-		List (heterogeneous)
-			Linear
-				Linked list
-			Non-linear ?
-		Meta data structures
-			*Stack* 
-			*Queue*
-			Graph
-				Tree - Binary Tree. (Focus on the data)
-					BST
-						retrieve, insert, delete. Red black tree maintains O(H = logN). Create O(NlogN)
-					Heap/Priority Queue
-						insert, delete O(logN), retrieve O(N) unless highest priority O(1). Create O(NlogN) -> O(N)
-				Other graph (Focus on the relationships)
-		Keyed Collections:
-		Hash map (hash function + array)
-			retrieve, insert, delete O(1). Memory-intensive
- Container of behaviors
-	Class
+we manipulate data to achieve a goal/change states -> We reach that goal/change states through operations/algorithms
 
 
-> 1.  When order matters: Hash maps do not maintain any specific order of elements, and iterating over them in order can be inefficient. In such cases, a linked list, a queue, or a priority queue may be a better choice.
-	2.  When there are duplicates: Hash maps do not allow duplicates. If you need to store multiple copies of an element, you would need to use a different data structure such as a list or a set. 
-	3.  When memory is a concern: Hash maps can be memory-intensive due to the need for additional memory to store hash codes and pointers. In cases where memory is limited, a compact data structure such as a bitset or a bitmap may be a better choice.
-	4.  When the keys are not hashable: Hash maps require that keys are hashable, which means that they must have a unique hash code that can be used to index into the hash table. If your keys are not hashable, you may need to use a different data structure such as a tree or a linked list.
-	5.  When the size of the data is small: For small amounts of data, the overhead of setting up a hash table may outweigh the benefits of using a hash map. In such cases, a simple array or a list may be sufficient and more efficient.
+- algo - efficiently achieve a goal
+	- dynamic programming: tabulation + iterative / bottom-up, memoization + recursive / top-down
+	- sort 
+	- ![[Pasted image 20230627175950.png]]
 
 
-## **Algorithms**
-How to efficiently achieve a goal
 
-**BigO**
-1, logN, N, NlogN, N^2, 2^N, N!, ...
-logN -> Sorting algorithms: cap NlogN (except Radix and Counting Sorts)
+- datStr: container of data - for efficient access and modification of data - https://stackoverflow.com/questions/75734006/are-all-data-structures-implemented-with-arrays-and-linked-structures array -> linked list -> graph, tree -> stack, queue -> hash table -> OOP -> advanced 
+	- array  -> list: fixed, constant access (matrix, weather app, image processing)
+		- collection of elements or values, each identified by an index or a key -> random access because contiguous memory locations
+		- fixed size, homogeneous (same type)
+		- access: O(1) - insert, delete: O(N)
+	- linked list: frequent insert, delete (social media feeds, task management, shopping carts)
+		- elements are stored as nodes, where each node contains the value and a reference (pointer) to the next node in the sequence, no contiguous memory
+		- dynamic size, heterogeneous
+		- access: O(N) - insert, delete: O(1)
+	- stack, queue: undo, redo (text editor, browser history) (chat app, queue job)
+		- stack - push(), pop() or concat(), slice(0, -1), length (for immutable React, note that slice only shallow copies)
+		- queue - push(), shift() or concat(), slice(1), length
+	- hash map (search engine, caching system, interpreter/compiler) - hash map load factor
+		- key-value pairs. collision.
+		- access, insert, delete: O(1)
+	- tree: hierarchy (comments)
+		- hierarchical, non-linear. Each node holds a value (or data) and references to its child nodes. Root (topmost, starting point), Leaf (node with no children), Depth (edges from root to node), Height (maximum depth).
+		- traverse: O(N) - DFS, BFS vs inorder, preorder, postorder traversal (binary ) 
+		- types
+			- BST (left <=) (right >)  - access, insert, delete: O(h) |
+			- balanced tree: AVL, Red-black tree - access, insert, delete: O(logN)
+			- heap: (task scheduling, memory management) - access max/min: O(1) - insert, delete: O(logN)
+			- trie - access, insert, delete: O(m length of key)
+			- r tree: nearest neighbor (mapping/geolocation)
+			- B, B+ tree: (database index)
+			- suffix tree: (text editor)
+	- graph: relationship (social network, recommendation engine, path finding algo)
+		- collection of nodes (also called vertices) and the connections between these nodes (edges). Degree (in-degree, out-degree), path, cycle, connectedness.
+		- implementations
+			- adjacency matrix - access, insert, delete edge: O(1), space O(V^2) 
+			- adjacency list - access, delete: O(degree) - insert: O(1), space O(V+E)
+	- class: oop - reusability + maintainability (in developing context, not performance context)
+		- constructor (1 only) - class fields
+		- public vs private # (not in prototype inheritance)
+		- static - fixed configs
+		- extends, super
+		- this (can't work with static properties, cause no instance)
 
-**Discrete** Math
-Boolean Algebra
-Set Theory
-Combinatorics
-	Graph Theory
-Binary search
-	 ![[Pasted image 20230517075959.png]]
 
-## **Sorting** 
-Insertion Sort (better for smaller data sets)
-	swap & comparison
-	n*(n-1)/2 --> O(n2)
-	```
-	for i:1 to length(A)-1
-		j=i
-		while j>0 and A[j-1] > A[j]
-			swap A[j-1] and A[j]
-			j=j-1
-	```
-
-## **Real World Javascript**
-![[Pasted image 20230502163611.png]]
-
-**Map** for caching (fast data retrieval based on unique identifier ) (messages with name)
-	new Map([ [...] ]), has(), set(), get(), delete(), size, forEach(), for n of keys(), values(), self 
-	keys: primitive, object, function
-	ordered, iterable
-**Set** for filtering selected options, or checking if exists (forms, checkboxes) (only shallow checks)
-	new Set([...]), add(), has(), clear(), delete(), size, forEach(), for n of .values(), keys(), self   
-	ordered, iterable
-**Stack** for undo, redo actions (history stack)
-	[...], push(), pop() or concat(), slice(0, -1), length (for immutable React, note that slice only shallow copies)
-**Queue** for queued actions (messages, notifications)
-	[...], push(), shift() or concat(), slice(1), length
-**Tree** for nested menu items, comments
-	nested object { ..., children: [...] }, or flat array [ { id: ,...,, children: [ ids ], isRoot? } ]
-	
-**Linked list** vs array
-	- insert, delete: better than dynamic array (since create new array)
-	append, prepend, insert 
-	- retrieve (->update) 
-		by index (array better) 
-		by value: same
-	- length
-**Class**
-	- constructor (1 only) - class fields
-	- public vs private # (not in prototype inheritance)
-	- static - fixed configs
-	- extends, super
-	- this (can't work with static properties, cause no instance)
 	![[Pasted image 20230504083953.png]]
-	![[Pasted image 20230627175950.png]]
-	
+
+ ```
+function ListNode (val, next) {
+  this.val = val ? val : 0;
+  this.next = next ? next : null;
+}
+
+function LinkedList () {
+  this.head = null;
+  this.size = 0;
+  
+  this.insertAt = (idx, val) => {
+    if (this.size-1<idx) return;
+    const newNode = new ListNode(val)
+    if (!this.head){
+      this.head = newNode
+      this.size++
+    } else {
+      let curr = this.head;
+      while (idx > 0){
+        curr=curr.next
+        idx--;
+      }
+      newNode.next = curr.next;
+      curr.next = newNode
+      this.size++;
+    }
+  }
+  
+  this.traverse = () => {
+    let curr = this.head;
+    const arr = []
+    while (curr){
+      arr.push(curr.val)
+      curr = curr.next
+    }
+    return arr
+  }
+  
+  this.removeElements = function(head, val) {
+    if (!head) return head;
+    
+    let curr = head, temp = head
+    while (curr !== null){
+        if (curr.val === val){
+            if (head.val === val){
+                head = head.next
+                curr = head
+                temp = head
+            } else {
+                temp.next = curr.next
+                curr.next = null
+                curr = temp.next
+            }
+        } else {
+            temp = curr
+            curr = curr.next
+        }
+    }
+    return head
+};
+}
+
+```
+
+```
+
+function TreeNode (val, left, right) {
+  this.val = val ? val : 0;
+  this.left = left ? left: null;
+  this.right = right ? right: null;
+}
+
+function Tree () {
+  this.root = null;
+  
+  this.BFS = () => {
+    if (this.root === null) return;
+
+    const queue = []; // Use an array as a queue
+    queue.push(this.root);
+
+    while (queue.length > 0) {
+      const node = queue.shift();
+      console.log(node.val);
+
+      if (node.left !== null) queue.push(node.left);
+      if (node.right !== null) queue.push(node.right);
+    }
+  }
+  
+  this.DFS=()=> {
+    if (this.root === null) return;
+
+    const stack = []; // Use an array as a stack
+    stack.push(this.root);
+
+    while (stack.length > 0) {
+      const node = stack.pop();
+      console.log(node.val);
+
+      // Push right child first to process left child first (LIFO order)
+      if (node.right !== null) stack.push(node.right);
+      if (node.left !== null) stack.push(node.left);
+    }
+  }
+  
+}
+```
+
+
+
