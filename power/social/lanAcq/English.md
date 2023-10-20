@@ -37,6 +37,8 @@
 	- clandestine, rad, cantina, accord, dunce
 	- deterrence, variable, mediocre, vacuous, eschew
 	- continuity, sentient, nazi, hospice, ominous, obnoxious, impede, usurp, spiel, scrunch, wail, wilt, bile, wriggle, 
+	- suffice, meticulous, choreograph, 
+	- wrath, 
 to the other side, they're the, cause there's <
 strain, struck, destroy, stress
 get other

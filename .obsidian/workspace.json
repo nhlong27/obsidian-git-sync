@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4892e570b4bee727",
+            "id": "522a5d4bb1e9db6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023/Oct/2023-10-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b723af5ee6ebff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "genesis/power/social/lanAcq/English.md",
+                "file": "daily/2023/oct/2023-10-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023/Oct/2023-10-14.md",
+                "file": "daily/2023/oct/2023-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023/Oct/2023-10-14.md",
+                "file": "daily/2023/oct/2023-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023/Oct/2023-10-14.md"
+                "file": "daily/2023/oct/2023-10-20.md"
               }
             }
           },
@@ -197,54 +185,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4892e570b4bee727",
+  "active": "522a5d4bb1e9db6b",
   "lastOpenFiles": [
-    "genesis/power/knowledge/m/root.md",
-    "Daily/2023/Oct/2023-10-14.md",
-    "genesis/power/social/lanAcq/English.md",
-    "Daily/2023/Oct/2023-10-13.md",
-    "Daily/2023/Oct/2023-10-12.md",
-    "Daily/2023/Oct/2023-10-10.md",
-    "Daily/2023/Oct/2023-10-11.md",
-    "Daily/2023/Oct/2023-10-07.md",
-    "genesis/power/knowledge/good-services/it/pipeline/2-build.md",
-    "genesis/power/knowledge/good-services/it/pipeline/1-code.md",
-    "productivity/tools/Obsidian/Daily Note.md",
-    "productivity/tools/OneTab.md",
-    "genesis/power/knowledge/n/root.md",
-    "genesis/power/knowledge/good-services/it/architecture/ext/infraNet.md",
-    "genesis/power/knowledge/good-services/it/architecture/int/proLan/dsa.md",
-    "genesis/power/knowledge/good-services/it/architecture/int/proLan/lan/root.md",
-    "Images/Pasted image 20231010170441.png",
-    "Images/Pasted image 20231010100209.png",
-    "Daily/2023/Oct/2023-10-09.md",
-    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client/root.md",
-    "genesis/power/knowledge/good-services/it/architecture/int/proLan/lan/javascript.md",
-    "Daily/2023/Oct/2023-10-06.md",
-    "Daily/2023/Sep/2023-09-24.md",
-    "Daily/2023/Sep/2023-09-25.md",
-    "Daily/2023/Sep/2023-09-26.md",
-    "Daily/2023/Sep/2023-09-27.md",
-    "Daily/2023/Sep/2023-09-28.md",
-    "Daily/2023/Sep/2023-09-29.md",
-    "Images/Pasted image 20231009080104.png",
-    "Images/Pasted image 20231007140643.png",
-    "Images/Pasted image 20231007082858.png",
-    "Daily/2023/Oct",
-    "Images/Pasted image 20230927162124.png",
-    "Images/Pasted Image 20230903140748_825.png",
-    "Images/Pasted Image 20230903140748_681.png",
-    "Images/Pasted Image 20230903140723_487.png",
-    "genesis/power/knowledge/good-services/it/architecture/int/proLan/lan",
-    "genesis/power/knowledge/n/portfolio",
-    "genesis/power/knowledge/m",
-    "genesis/power/knowledge/n",
-    "genesis/power/knowledge/good-services/it/architecture/int/libFra/server",
-    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client",
+    "power/knowledge/productivity/tools/Obsidian/Daily Note.md",
+    "daily/2023/oct/2023-10-20.md",
+    "Index of Origin.md",
+    "power/knowledge/productivity/root.md",
+    "power/knowledge/productivity/tools/Obsidian/root.md",
+    "genesis/power/knowledge/productivity/ee.md",
+    "genesis/power/knowledge/productivity/power.md",
+    "power/knowledge/coreIT/architecture/int/proLan/lan/javascript.md",
+    "genesis/power/productivity/ee/root.md",
+    "genesis/power/knowledge/productivity/sustenance",
+    "power/knowledge/coreIT/architecture/int/hardWare.md",
+    "power/knowledge/coreIT/architecture/int/proLan/lan/root.md",
+    "daily/2023/oct/2023-10-14.md",
+    "daily/2023/oct/2023-10-15.md",
+    "daily/2023/oct/2023-10-16.md",
+    "power/knowledge/m/root.md",
+    "power/social/lanAcq/English.md",
+    "power/social/lanAcq/Japanese.md",
+    "daily/2023/oct/2023-10-19.md",
+    "daily/2023/oct/2023-10-07.md",
+    "daily/2023/oct/2023-10-13.md",
+    "daily/2023/oct/2023-10-12.md",
+    "daily/2023/oct/2023-10-10.md",
+    "daily/2023/oct/2023-10-11.md",
+    "power/knowledge/coreIT/pipeline/2-build.md",
+    "power/knowledge/coreIT/pipeline/1-code.md",
+    "power/knowledge/productivity/tools/OneTab.md",
+    "archive_images/Pasted image 20231010170441.png",
+    "archive_images/Pasted image 20231010100209.png",
+    "archive_images/Pasted image 20231009080104.png",
+    "archive_images/Pasted image 20231007140643.png",
+    "archive_images/Pasted image 20231007082858.png",
+    "daily/2023/oct",
+    "archive_images/Pasted image 20230927162124.png",
+    "archive_images/Pasted Image 20230903140748_825.png",
+    "archive_images/Pasted Image 20230903140748_681.png",
+    "archive_images/Pasted Image 20230903140723_487.png",
+    "power/knowledge/coreIT/architecture/int/proLan/lan",
+    "power/knowledge/n/portfolio",
+    "power/knowledge/m",
+    "power/knowledge/n",
+    "power/knowledge/coreIT/architecture/int/libFra/server",
+    "power/knowledge/coreIT/architecture/int/libFra/client",
     "genesis/power/knowledge/good-services/it/architecture/int/libFra/web",
-    "genesis/power/knowledge/good-services/it/architecture/int/libFra/server",
-    "genesis/power/knowledge/good-services/it/architecture/int/libFra/client",
-    "Images/Pasted image 20230902105911.png",
+    "power/knowledge/coreIT/architecture/int/libFra/server",
+    "archive_images/Pasted image 20230902105911.png",
     "Untitled.canvas"
   ]
 }

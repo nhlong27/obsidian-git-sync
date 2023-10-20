@@ -5,6 +5,7 @@
 	- linkedin
 	- github
 - list
+	- bonus: azeus
 	- pre
 		- filter & sort
 			- requirements
@@ -12,11 +13,13 @@
 			- reviews
 		- applied
 			- other: zalopay tech fresher
-			- itviec: aideavn, hdwebsoft, keystack pty, south telecom
-			- linkedin: nexon dev vina, the access group 2, imt, l4 studio, talentkompass deutschland, tyme, hehealth, pollen, samsung, ekino, orthian
+			- itviec: 
+			- linkedin: grab, nodeflair, ainavio, dxc, buymed, mealsuite, codelink
+			- vietnamwork: innorix, code88, navigo, edgur
+			- topdev: intelin (fb), datanext, south telecom
 		- reject
-			- itviec: 2dm soft, cybozu, tyme, vietcap, the access group, nexon dev vina
-			- linkedin: JAC, Netcompany, employment hero, scc, transperfect, the access group, ampstek, gameloft, knorex, orient, retail foundation, katalon, tmrw
+			- itviec: 2dm soft, cybozu, tyme, vietcap, the access group, nexon dev vina, aideavn, hdwebsoft, keystack pty, south telecom
+			- linkedin: JAC, Netcompany, employment hero, scc, transperfect, the access group, ampstek, gameloft, knorex, orient, retail foundation, katalon, tmrw, nexon dev vina, the access group 2, imt, l4 studio, talentkompass deutschland, tyme, hehealth, pollen, samsung, ekino, orthian
 	- post: 
 		- filter & sort: salary, location, culture, reviews
 - market (all about respect/seriousness)
