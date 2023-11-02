@@ -1,0 +1,2 @@
+- server vs dbms vs engine
+- types https://blog.bytebytego.com/p/understanding-database-types

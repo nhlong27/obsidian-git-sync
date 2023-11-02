@@ -1,0 +1,37 @@
+- DSL https://stackoverflow.com/questions/809574/what-is-a-domain-specific-language-anybody-using-it-and-in-what-way#:~:text=domain%2Dspecific%20language%20(DSL),or%20a%20particular%20solution%20technique.
+	- query (SQL, graphQL), document (HTML, CSS), data storage & exchange (XML, YAML)
+- property
+	- paradigm
+		- imperative (statements)
+			- procedural
+			- object-oriented
+		- declarative (expressions), abstraction
+			- logical
+			- functional
+	- dynamic, weakly - static, strongly typed
+	- memory mgmt & concurrency -> pointers vs referencess, pass by address
+		- reference counting: interval 
+		- ARC: RC but automatically
+		- resource acquisition is initialization: object's lifetime
+		- ownership + RAII: its owner's scope
+	- data type & variables
+		- primitives + complex
+		- declarators + scope + hoisting
+- implementation: ahead-of-time/ just-in-time compiled (one language to another), interpreted: performance, portability, development speed
+	- https://stackoverflow.com/questions/6889747/is-python-interpreted-or-compiled-or-bothis 
+	- https://qr.ae/pyEXXg
+- index
+	- rust (c, c++ - memory management, security)
+		- multi-paradigm, static/strongly typed, manual memory management, multi-threaded
+	- go (java, c#, c++ - concurrency, simplicity)
+		- multi-paradigm, static/strongly typed, garbage collection, multi-threaded
+	- javascript 
+		- multi-paradigm, dynamic/weakly typed, garbage collection, single-threaded non-blocking
+	- java 
+		- (byte, short, int, long, float, double), char, boolean - String (literal vs object), Array, Object, Class, Interface https://www.javatpoint.com/non-primitive-data-types-in-java
+		- oop -> kotlin, static/strongly typed, garbage collection, , multi-threaded
+	- kotlin
+		- (Byte, Short, Int, Long, Float, Double), Char, Boolean, String, Array, Function, Any, Unit, Nothing, Enum, ...  https://stackoverflow.com/questions/44515031/is-kotlin-pass-by-value-or-pass-by-reference
+	- swift
+		- Int, UInt, Double, Float, Bool, Character, String, Tuple, Optional, Array, Dictionary, Set - Class
+		- multi, static/strongly typed, ARC, multi-threaded

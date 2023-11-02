@@ -1,0 +1,23 @@
+- compensation ~ c8y / s12n (technology)
+- current
+	- pending: recruitery, innorix
+	- applied
+		- other: zalopay tech fresher, fpt, imt solutions
+		- itviec: 
+		- linkedin: grab, nodeflair, ainavio, dxc, buymed, mealsuite, codelink
+		- vietnamwork: code88, navigo, edgur
+		- topdev: intelin (fb), datanext, south telecom
+	- rejected
+		- itviec: 2dm soft, cybozu, tyme, vietcap, the access group, nexon dev vina, aideavn, hdwebsoft, keystack pty, south telecom
+		- linkedin: JAC, Netcompany, employment hero, scc, transperfect, the access group, ampstek, gameloft, knorex, orient, retail foundation, katalon, tmrw, nexon dev vina, the access group 2, imt, l4 studio, talentkompass deutschland, tyme, hehealth, pollen, samsung, ekino, orthian
+	- post
+		- filter & sort: salary, location, culture, reviews
+- references
+	- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
+	- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
+	- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform
+	- tier 4: Viettel: sen 2k5, Fsoft, TMA, Global cybersoft, KMS, Nashtech, Momo, VinAI, Shopee, Lazada, NQF
+	- channels
+		- markets: linkedin, ITViect, careerBuilder, vietnamWorks
+		- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
+	- 

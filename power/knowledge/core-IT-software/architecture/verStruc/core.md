@@ -1,0 +1,49 @@
+- tier 1
+	- architecture ([[specs]])
+		- CPU (registers, ALU, CU, SRAM L1-L2-L3)
+		- RAM
+			- page (virtual address chunks) -> secondary memory (swapped pages)
+		- SSD + HDD
+		- ROM
+			- firmware: bios, hypervisor (type 1)
+- tier 2
+	- kernel
+		- process (program instance) mgmt
+			- thread mgmt
+				- program counters + registers (+stack pointers) + stack ( unwinds itself -> local var, func, pointer)
+			- heap (-> global var, ds)
+			- data
+			- text (code)
+		- memory & storage mgmt
+			- file system: mac (System + Users/user + hidden library), windows (Windows + Users/user + hidden AppData (local, low local (low integrity, security), roaming (across computers in same domain)) vs program files (shared, installed not modified) vs programData (shared, modified)), linux (boot + home/user + hidden dot files)
+		- device mgmt: drivers + APIs
+			- graphic apis: DirectX (win), Metal (mac, ios), Vulkan (android), opengl (unix) ->  OS graphic driver -> gpu -> frame buffer -> display controller -> monitor
+			- system apis/system call interface: windows api, posix (unix)
+			- network apis: winsock, ... -> OS network driver -> network adapter/network interface card
+			- I/O apis: standard C library, directx directinput
+	- shell - communicates with kernel though api/wrapper functions (system calls is how api implemented) 
+		- gui
+		- cli: mac (Zsh), windows (cmd), linux (bash)
+- tier 3
+	- [[power/knowledge/core-IT-software/architecture/verStruc/technical/proLan/core|proLan]]
+	- [[dsa]]
+- tier 4: 
+	- standalone: (event -> process) -> storage
+	- over-network (*persistence*): ((event -> process) ---> process ->) storage 
+		- frontend
+			- web
+				- user agent (blink - v8, gecko - spidermonkey, webkit - javascriptcore)
+					- persistence: cookies, localStorage, sessionStorage, cache
+					- javascript engine (javascript interpreter) + webapi + event loop (macrotask + microtask) https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context
+					- rendering engine: html, css -> parsers -> dom, cssom -> event propagation (capturing, target, bubbling)
+				- [[html-css-javascript-framework]]
+			- desktop
+				- native: WinForm (GUI libaries/frameworks WinForms + (compiled) machine code)
+				- others: Electron (chromium rendering engine + node (V8 engine))
+			- mobile
+				- native:  Objective-C/Swift for iOS, Java/Kotlin for Android (adk (jdk) (compiler .class -> .dex for dalvik))
+				- cross-platforms: React Native (javascriptCore - Hermes, Metro, bridge (C++/Java)), Flutter (Skia), Xamarin
+				- PWA
+		- backend: basics -> scaling (performance)
+			- [[api & bridge|api & bridge]]
+			- [[db]]

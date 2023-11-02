@@ -1,0 +1,16 @@
+- api
+	- web-server (serve html, css, js), app-server (cors)
+		- pure js, java https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module, https://stackoverflow.com/questions/52584811/javascript-not-loading-in-html-file-nodejs-http
+		- framework: javascript + next/express, java + spring (ruby + rails, python + django, php + laravel, c# + asp.net)
+		- software: nginx, apache server
+	- to db-server
+		- pure js
+		- library pg (postgres)
+- bridge
+	- type
+		- CMS
+			- headless (strapi) vs tranditional (wordpress)
+	- distributed
+		- event-bus
+			- kafka - polling + Kafka protocol over TCP
+				- partitions https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7

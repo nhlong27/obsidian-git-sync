@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "14d458748374f5e4",
+        "id": "a7f7f0693c9cecc1",
         "type": "tabs",
         "children": [
           {
-            "id": "522a5d4bb1e9db6b",
+            "id": "f63c55b1dd4b58eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/oct/2023-10-20.md",
+                "file": "power/knowledge/core-IT-software/architecture/verStruc/core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67897cd8ce3536bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power/knowledge/core-IT-software/architecture/infraNet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e46673a06fa3673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power/knowledge/core-IT-software/pipeline/core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9346bc54e95f346d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023/nov/2023-11-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfc31dcfd8a68962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "power/knowledge/core-IT-software/architecture/infraNet.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#ecommerce",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,15 +106,7 @@
             }
           },
           {
-            "id": "65a8ff0f016cdae5",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "558870e99317619c",
+            "id": "d0519fadddcfa020",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5026054382324
+    "width": 304.5
   },
   "right": {
     "id": "c5afeaa06140f1fc",
@@ -93,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023/oct/2023-10-20.md",
+                "file": "power/knowledge/core-IT-software/architecture/verStruc/core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023/oct/2023-10-20.md",
+                "file": "power/knowledge/core-IT-software/architecture/verStruc/core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023/oct/2023-10-20.md"
+                "file": "power/knowledge/core-IT-software/architecture/verStruc/core.md"
               }
             }
           },
@@ -164,13 +204,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "9d1b0eb4ebb6cd5d",
+            "type": "leaf",
+            "state": {
+              "type": "time-ruler-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,35 +233,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "522a5d4bb1e9db6b",
+  "active": "f63c55b1dd4b58eb",
   "lastOpenFiles": [
-    "power/knowledge/productivity/tools/Obsidian/Daily Note.md",
-    "daily/2023/oct/2023-10-20.md",
-    "Index of Origin.md",
-    "power/knowledge/productivity/root.md",
-    "power/knowledge/productivity/tools/Obsidian/root.md",
-    "genesis/power/knowledge/productivity/ee.md",
-    "genesis/power/knowledge/productivity/power.md",
-    "power/knowledge/coreIT/architecture/int/proLan/lan/javascript.md",
-    "genesis/power/productivity/ee/root.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/api & bridge.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/core.md",
+    "power/knowledge/n/core.md",
+    "power/knowledge/m/core.md",
+    "daily/2023/nov/2023-11-02.md",
+    "power/knowledge/productivity/core.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/technical/proLan/html-css-javascript-framework.md",
+    "power/knowledge/core-IT-software/architecture/infraNet.md",
+    "power/knowledge/core-IT-software/pipeline/core.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/db.md",
+    "daily/2023/nov/2023-11-01.md",
+    "ee.md",
+    "power/knowledge/core-IT-software/pipeline/VCS.md",
+    "daily/2023/nov",
+    "daily/2023/oct/2023-10-31.md",
+    "power/knowledge/productivity/tools/obsidian/daily.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/technical/dsa.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/technical/proLan/core.md",
+    "daily/2023/oct/2023-10-30.md",
+    "daily/2023/oct/2023-10-28.md",
+    "daily/2023/oct/2023-10-27.md",
+    "daily/2023/oct/2023-10-26.md",
+    "daily/2023/oct/2023-10-25.md",
+    "power/knowledge/core-IT-software/architecture/verStruc/technical/proLan/java.md",
+    "daily/2023/oct/2023-10-24.md",
+    "daily/2023/oct/2023-10-23.md",
+    "daily/2023/oct/2023-10-22.md",
+    "archive_images/Pasted image 20231023092506.png",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "power/knowledge/m",
     "genesis/power/knowledge/productivity/sustenance",
-    "power/knowledge/coreIT/architecture/int/hardWare.md",
-    "power/knowledge/coreIT/architecture/int/proLan/lan/root.md",
-    "daily/2023/oct/2023-10-14.md",
-    "daily/2023/oct/2023-10-15.md",
-    "daily/2023/oct/2023-10-16.md",
-    "power/knowledge/m/root.md",
-    "power/social/lanAcq/English.md",
-    "power/social/lanAcq/Japanese.md",
-    "daily/2023/oct/2023-10-19.md",
-    "daily/2023/oct/2023-10-07.md",
-    "daily/2023/oct/2023-10-13.md",
-    "daily/2023/oct/2023-10-12.md",
-    "daily/2023/oct/2023-10-10.md",
-    "daily/2023/oct/2023-10-11.md",
-    "power/knowledge/coreIT/pipeline/2-build.md",
-    "power/knowledge/coreIT/pipeline/1-code.md",
-    "power/knowledge/productivity/tools/OneTab.md",
     "archive_images/Pasted image 20231010170441.png",
     "archive_images/Pasted image 20231010100209.png",
     "archive_images/Pasted image 20231009080104.png",
@@ -224,15 +279,11 @@
     "archive_images/Pasted Image 20230903140748_825.png",
     "archive_images/Pasted Image 20230903140748_681.png",
     "archive_images/Pasted Image 20230903140723_487.png",
-    "power/knowledge/coreIT/architecture/int/proLan/lan",
+    "power/knowledge/core-IT-software/architecture/verStruc/technical/proLan",
     "power/knowledge/n/portfolio",
     "power/knowledge/m",
     "power/knowledge/n",
-    "power/knowledge/coreIT/architecture/int/libFra/server",
-    "power/knowledge/coreIT/architecture/int/libFra/client",
-    "genesis/power/knowledge/good-services/it/architecture/int/libFra/web",
-    "power/knowledge/coreIT/architecture/int/libFra/server",
-    "archive_images/Pasted image 20230902105911.png",
-    "Untitled.canvas"
+    "power/knowledge/core-IT-software/architecture/verStruc/libFra/server",
+    "power/knowledge/core-IT-software/architecture/verStruc/libFra/client"
   ]
 }

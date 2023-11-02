@@ -1,0 +1,17 @@
+![[PhysicalArchitectureModel.excalidraw]]
+- CPU
+	- Intel Core i5, i7 (i7-9750H 2.60GHz x64, 64-bit OS), Xeon
+	- AMD Ryzen 5, 7, ARM for mobile -> Apple Silicon, SoCs, NVIDA Tegra
+- RAM
+	- 8-16GB (8GB DDR4 2666MHz) + 64 bit data width -> (DDR) 128 bits
+- GPU: +VRAM (specialized for graphics =/= CPU general purposes)  
+	- NVIDIA GeForce RTX, GTX, Quadro, Tesla (GTX 1650 4GB GDDR5)
+	- AMD Radeon RX, Pro
+- storage 
+	- flash storage -> SSD (512GB SSD M.2 2242 NVMe)
+	- HDD
+	- Hybrid (SSD as cache))
+- IO
+	- ports (2x USB 3.1, 1x USB 3.1 Type-C, HDMI, RJ-45), USB, HDMI, Ethernet
+- display 
+	- HDR, refresh rate, Panel type (response time, contrast, viewing angle): TN, VA, IPS

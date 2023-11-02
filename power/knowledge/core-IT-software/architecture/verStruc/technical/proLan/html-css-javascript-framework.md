@@ -1,0 +1,42 @@
+[#leetCode]
+[Roadmap](https://roadmap.sh/javascript)
+
+- html
+	- doctype , data-, semantic (html tag -> meaning -> context, accessibility for device, search engine)
+	- accept-header -> web/app server (framework) -> dynamically generated html (placeholders) -> languages content (i18n json format)
+	- script, link
+- css
+	- specificity
+		- 1000 inline styles, 
+		- internal, external style sheet
+			- 100 id
+			- 10 class, pseudo class (style to specific class), attr selector (^, $, ~, |, *)
+			- 1 el, pseudo el (style to specific el)
+	- types
+		- layout, flexbox, grid, box alignment, borders, sizing, spacing, backgrounds, typography
+		- effects, filter, interactivity, transform, transition
+	- preprocessor
+- javascript - single threaded, garbage collection, dynamic/weakly typed, multi-paradigm
+	- variables
+		- (var)
+			- redeclare, reassign
+			- scope: function, global/module
+			- hoisted: undefined
+		- let, const
+			- redeclare / reassign
+			- scope: block (function, curly braces), global/module
+			- hoisted: referenceError (temporal dead zone)
+	- data types
+		- primitives (immutable, pass by value) null (typeof === object) vs undefined, string, symbol, bigint, number, boolean
+		- objects (mutable, pass by address) 
+			- prototype vs ES6 class, built-ins (.prototypes) (root: Object.prototype), constructors for built-ins (root: Function.prototype)  --- The purpose of prototype + constructors is to imitate OOP class
+			- this - refers to object, or global object in function ('window', 'global', 'globalThis') (note: arrow function, scope from parent)
+			- function
+				- apply(), call(), bind() https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
+				- closure
+	- async (callback, XMLHttpRequest - promise - async/await, fetch)
+- framework
+	- react: hooks - virtual dom (reconciliation - diffing algo) reactivity, jsx template -> reuseability, performance
+		- https://stackoverflow.com/questions/53729917/react-hooks-whats-happening-under-the-hood
+		- synthetic events
+	- next: + seo (ssr)

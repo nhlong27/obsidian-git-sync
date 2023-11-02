@@ -1,0 +1,55 @@
+- cv: resume, portfolio, linkedin, github
+- discuss
+	- screening
+		- mail https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing
+		- offer
+			- gross, net income (income tax vs VAT tax)
+			- benefits: insurances (bhxh, bhyt)
+			- watch out for: unlimited pto/vacations, flexible time,
+	- interview
+		- knowledge.coreIT.software
+			- client
+				- html-css-javascript-react
+					- algo
+						- utils: (debounce, throttle, deepClone, flatten, groupBy, chunk, observer, toCamelCase(regex), signal)
+						- sort (array.prototype.sort() + number, string -> object) https://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function
+						- 2 pointers, sliding window, datStr, dynamic programming, sort, binary search
+					- datStr: array, list, linked list, hash map, stack/queue, tree, graph
+			- infraNet+server
+				- api
+				- web-server
+					- spa vs mpa, next
+				- app-server
+					- auth
+					- tier1-tier2
+				- db
+		- social https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html
+			- int
+				- I've graduated from __  recently this year with BS in CS and an Ietls certificate of 8.0, I chose CS have always been interested in software and my goal is to be in managing role (more impact), know alot more than just web _, some of my personal projects I've done consisted of __ (goals)
+			- ext
+				- what's the culture like
+				- my top priorities if I start today, what expected to accomplish in the first 3 months
+				- who would I be reporting to in this role
+				- what do you plan to do if
+				- salary: budget -> my skills, from position, geography, current market rate (lower end is expecting)
+				- when expected to hear back
+- core
+	- goods/services
+		- price (seller)
+			- profit ~ risk, "pain point"
+			- cost
+				- (resources + effort) * time 
+				- accounts for unplanned: delays, mishaps, 
+		- value (buyer) - the least risky option
+	- "your job is not to write code, more code is not progress, beyond code" - business problem /impact, picking stack based on what problem you're solving
+	- ease - certainty - reward
+- tips
+	- [Offshore companies produce worse code](https://qr.ae/pvukdL)
+	-   [https://qr.ae/pvg41b](https://qr.ae/pvg41b) actual startup experience
+	-   [cheap af companies](https://qr.ae/pveoxj)
+	-   [respect in interview](https://qr.ae/pveoz6)
+	-   [https://qr.ae/pvM2BB](https://qr.ae/pvM2BB)
+	- [https://www.reddit.com/r/cscareerquestions/comments/qp08vk/how_difficult_is_it_to_reach_100k_plus/](https://www.reddit.com/r/cscareerquestions/comments/qp08vk/how_difficult_is_it_to_reach_100k_plus/)
+	-   [https://www.reddit.com/r/cscareerquestions/comments/wa4krq/alright_engineers_whats_an_industry_secret_from/?utm_source=share&utm_medium=web2x&context=3](https://www.reddit.com/r/cscareerquestions/comments/wa4krq/alright_engineers_whats_an_industry_secret_from/?utm_source=share&utm_medium=web2x&context=3)
+	- [https://qr.ae/pvbLoB](https://qr.ae/pvbLoB)
+	- ![[interview_tips]]

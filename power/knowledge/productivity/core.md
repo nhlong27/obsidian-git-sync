@@ -1,0 +1,31 @@
+- node framework: lifestyle/power (emotions) -> [[ee|cycles]] + tiers
+	- -----
+	- state/node -> ( >powers |&-> emotions)
+	- emotion (neurotransmission system): motivators <-| (others ~ meaning)
+	- power (process & memorization system):  pre | post ( +s8e )
+		- s8e
+			- m
+			- n
+			- prod
+			- social
+			- others
+				- health
+					- types
+						- cardiovascular: hypertension (<-atherosclerosis), 
+						- musculoskeletal: osteoarthritis
+						- nervous: dementia, parkinson
+						- endocrine, lymphatic, digestive, urinary, reproductive
+						- respiratory: pneumonia
+					- dad's teeth
+					- dad's eye
+					- dad's hemorrhoid
+				- nutrition
+				- exercise
+				- surrounding 
+					- lamb
+	- -----
+	- e.g. why does sisyphus roll the boulder
+- goal: clear, simple -> vague, complex
+	- step: kk, ku, uu
+	- task mgmt: reflect + mvp/greedy strategy
+	- energy mgmt: boredom -> follow plan (instead boredom -> well-traveled path of habit/routine (cycle))

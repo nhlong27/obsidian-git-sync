@@ -1,0 +1,36 @@
+- plan
+	- management: jira
+	- design: miro, eraser, excalidraw
+- code & build
+	- dev server - live reload https://blog.logrocket.com/complete-guide-full-stack-live-reload/#what-is-live-reload
+		- chrome-dev-tools
+			- i18n - sensors
+	- code 
+		- [[VCS]]
+		- (dev server)
+		- [[IDE]] : debugger + linter + formatter + (packet manager) + (task runner) + *build tools*  
+	- build
+		- (bundler): files + dependencies + assets: Webpack, *Vite, ESbuild (transpiling, minification), Rollup (bundling) 
+			- -> optimize: tree shaking, minification, code splitting + loaders 
+		- preprocessor
+			- transpiler: babel, ESbuild 
+- test 
+	- unit: jest, react-testing-library 
+	- e2e: playwright, cypress, selenium, pw
+- release 
+	- automation: Github Actions, Jenkins 
+- deploy
+	- IaaS: [[AWS|AWS-EC2]]
+	- PaaS: S3, CDN
+	- CaaS: Fargate 
+	- FaaS/Serverless: Lambda, Vercel serverless funcs 
+- operate 
+	- [[IaC]] : provision, manage: terraform, ansible, AWS cloudformation 
+	- container orchestration: ECS, EKS, Kurbenetes 
+	- service mesh
+	- artifact management: artifactory
+- monitor +  logs management: Elastic stack (Kibana)
+		- instrumentation
+		- telemetry/application monitoring: datadog
+		- infrastructure monitoring: prometheus + grafana
+    
