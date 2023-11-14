@@ -2,20 +2,22 @@
 [Roadmap](https://roadmap.sh/javascript)
 
 - html
-	- doctype , data-, semantic (html tag -> meaning -> context, accessibility for device, search engine)
-	- accept-header -> web/app server (framework) -> dynamically generated html (placeholders) -> languages content (i18n json format)
-	- script, link
+	- implementation: plain html, js, css -> html template language -> web component (htmx) (reusability) -> framework
+		- shadow dom https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
+	- accessibility: semantic html, wai-aria, responsive design
+	- doctype , meta-viewport, data-, type=module, lang=en (i18n json format), script, link
 - css
-	- specificity
+	- specificity - selector: >, +, ~, 
 		- 1000 inline styles, 
 		- internal, external style sheet
 			- 100 id
 			- 10 class, pseudo class (style to specific class), attr selector (^, $, ~, |, *)
 			- 1 el, pseudo el (style to specific el)
-	- types
-		- layout, flexbox, grid, box alignment, borders, sizing, spacing, backgrounds, typography
-		- effects, filter, interactivity, transform, transition
-	- preprocessor
+	- types: + style systems, behavior libraries, component libraries 
+		- vanilla
+			- layout (box-sizing, display, float, position, z-index), flexbox (flex-flow, align-content, align-self), grid (grid-area, grid-template), box alignment, borders, sizing (dvh), spacing, backgrounds, typography
+			- effects, filter, interactivity, transform, transition
+		- extension: preprocessor (scss, sass, less), tailwind
 - javascript - single threaded, garbage collection, dynamic/weakly typed, multi-paradigm
 	- variables
 		- (var)
@@ -39,4 +41,20 @@
 	- react: hooks - virtual dom (reconciliation - diffing algo) reactivity, jsx template -> reuseability, performance
 		- https://stackoverflow.com/questions/53729917/react-hooks-whats-happening-under-the-hood
 		- synthetic events
+		- https://www.youtube.com/watch?v=Oh2IEVqarHs
+		- https://www.youtube.com/watch?v=XB993rQ-5DY
+		- https://www.youtube.com/watch?v=LzbwXj9cnVk
+		- https://www.youtube.com/watch?v=bUy4xiJ05KY&list=WL&index=19&t=55s
+		- https://www.youtube.com/watch?v=724nBX6jGRQ
+		- https://www.youtube.com/watch?v=fX5T2CGSwns
+		- https://www.youtube.com/watch?v=t3FUkq7yoCw
+		- https://www.youtube.com/watch?v=NCBTRQoF9hc
+		- https://www.youtube.com/watch?v=Yh2eH4fXgbU&t=1s
+		- https://www.youtube.com/watch?v=ZqerXMzt-EY
+		- https://www.youtube.com/watch?v=SO8lBVWF2Y8&t=10s
+		- https://www.youtube.com/watch?v=ffveQQtxNgM
+		- https://www.youtube.com/watch?v=GSyn2hNPXYM
+		- https://www.youtube.com/watch?v=KYDwcUKlxwQ&list=WL&index=4
+		- https://hackernoon.com/mastering-react-forms-building-dynamic-and-user-friendly-interfaces?source=rss&ref=dailydev
+		- https://hackernoon.com/stop-using-state-for-react-forms-there-is-a-much-better-way?source=rss&ref=dailydev
 	- next: + seo (ssr)

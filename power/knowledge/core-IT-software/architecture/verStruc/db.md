@@ -1,2 +1,7 @@
+- orm vs sql + query builder (sanitizing input)
 - server vs dbms vs engine
 - types https://blog.bytebytego.com/p/understanding-database-types
+	- noSQL
+		- mongoDB
+			- https://stackoverflow.com/questions/71177942/what-is-the-difference-between-mongod-and-service-of-mongodb-run-in-windows-serv
+			- ODM or not https://qr.ae/pKAGWM

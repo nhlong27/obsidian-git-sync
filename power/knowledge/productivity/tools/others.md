@@ -1,3 +1,5 @@
 - KVM synergy -> barrier 
 	- https://github.com/debauchee/barrier/releases
 	- https://github.com/debauchee/barrier/issues/231
+- VSC
+	- ![[Pasted image 20230522081255.png]]

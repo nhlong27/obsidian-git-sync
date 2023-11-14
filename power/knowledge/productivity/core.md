@@ -22,7 +22,8 @@
 				- nutrition
 				- exercise
 				- surrounding 
-					- lamb
+					- lighting: overhead, ambience, task, accent
+						- 
 	- -----
 	- e.g. why does sisyphus roll the boulder
 - goal: clear, simple -> vague, complex

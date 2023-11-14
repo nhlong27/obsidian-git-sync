@@ -1,23 +1,67 @@
-- compensation ~ c8y / s12n (technology)
-- current
-	- pending: recruitery, innorix
-	- applied
-		- other: zalopay tech fresher, fpt, imt solutions
-		- itviec: 
-		- linkedin: grab, nodeflair, ainavio, dxc, buymed, mealsuite, codelink
-		- vietnamwork: code88, navigo, edgur
-		- topdev: intelin (fb), datanext, south telecom
-	- rejected
-		- itviec: 2dm soft, cybozu, tyme, vietcap, the access group, nexon dev vina, aideavn, hdwebsoft, keystack pty, south telecom
-		- linkedin: JAC, Netcompany, employment hero, scc, transperfect, the access group, ampstek, gameloft, knorex, orient, retail foundation, katalon, tmrw, nexon dev vina, the access group 2, imt, l4 studio, talentkompass deutschland, tyme, hehealth, pollen, samsung, ekino, orthian
-	- post
-		- filter & sort: salary, location, culture, reviews
-- references
-	- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
-	- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
-	- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform
-	- tier 4: Viettel: sen 2k5, Fsoft, TMA, Global cybersoft, KMS, Nashtech, Momo, VinAI, Shopee, Lazada, NQF
-	- channels
-		- markets: linkedin, ITViect, careerBuilder, vietnamWorks
-		- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
-	- 
+- screening: resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
+- interview [interview questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
+	- uni (comsci, ielts) - arch.verStr.tier 1 & 2
+		- algo
+			- utils: (debounce, throttle, deepClone, flatten, groupBy, chunk, observer, toCamelCase(regex), signal)
+			- sort (array.prototype.sort() + number, string -> object) https://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function
+			- 2 pointers, sliding window, datStr, dynamic programming, sort, binary search
+		- datStr: array, list, linked list, hash map, stack/queue, tree, graph
+	- exp + projects 
+		- pipeline (vcs, test)
+		- arch
+			- client
+				- user agent
+				- html-css-js-ts
+					- accessibility (semantic, responsive)
+					- css selector, em rem, rgb, rgba, vh
+					- a++, ++a, asyn nonblocking
+					- unknown, typeof, enum, typeof =[1], age func
+					- SOLID, OOP, obj-class
+				- react, next
+					- spa - mpa, csr - ssr, useEffect - useMemo, next buildtime request time, getstaticpaths
+					- redux
+					- event loop
+					- https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev
+					- https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev
+			- infraNet+server
+				- api
+					- http, api, rest
+					- webhook, kafka, rabbitmq
+					- auth
+					- https://reflectoring.io/complete-guide-to-cors/
+				- app-server
+					- express, nest, cqrs, asp.net, mvc
+					- https://www.youtube.com/watch?v=6cxgasCDJgA
+					- https://www.youtube.com/watch?v=7DnpItYmiSM
+				- db
+					- sql - nosql
+					- https://www.youtube.com/watch?v=nWchov5Do-o
+					- https://www.youtube.com/watch?v=sLIoCfKK5SA&t=229s
+- index
+	- sau quá trình học đại học
+		- kiến trúc máy tính
+		- quy trình phát triển sản phẩm
+		- thuật toán + cấu trúc dữ liệu  thích hợp
+	
+	- tích lũy kinh nghiệm phát triển sản phẩm
+		- dự án tự tay xây dựng
+		- kinh nghiệm làm việc thực tế tại 
+	
+	- tóm lược qua 2 khía cạnh
+		- 1, tiếp xúc trực tiếp quy trình xây dựng, cộng tác trong môi trường làm việc chuyên nghiệp
+			- dựng lên user story, thực hiện, build, test, deploy
+				- outsource, mô hình 
+			- công cụ ở từng bước quy trình, Git, github actions
+				- git - vcs, quản lý theo dõi sự thay đổi mã nguồn và lưu lịch sử thay đổi chuỗi commit, branch, object database
+		- 2, sử dụng nhiều công nghệ, giao thức, phương pháp và hiểu vai trò của chúng trong cấu thành ứng dụng web, cụ thể
+			- xây dựng giao diện người dùng bằng javascript và ngôn ngữ document html, css sao cho đảm bảo tính accessibility, sự tương thích giữa trình duyệt
+				- html - accessibility semantic html, responsive
+				- css - bem (quy ước đặt tên, quản lý css class), sass/scss/less (css preprocessor, mở rộng syntax, cung cấp tính năng variable, nesting, mixin)
+				- javascript - ngôn ngữ chính mang lại tương tác ứng dụng web, dynamic/weakly typed, interpreted, garbage collection, single threaded
+			- sử dụng nextjs, framework dựa trên react để đảm bảo seo
+				- react - opensource library, jsx mở rộng syntax js để viết html trong js file -> babel react element. virtual dom (reconciliation - diffing algo) --> reusability, performance hiệu suất
+				- next - fetch data, server side render, trả về html hoàn chỉnh, search engine có content hoàn chỉnh tính accessibility
+			- thiết kế restful api quản lý dữ liệu giữa client và server, đồng thời xác thực, ủy quyền người dùng
+				- api - tập các quy tắc, cơ chế để một ứng dụng tương tác với một ứng dụng khác, rest - kiểu kiến trúc để viết api, dựa trên giao thức http, sử dụng phương thức get, post, put, delete đến một url để xử lý dữ liệu, còn gọi là CRUD
+				- http application layer, giao thức trao đổi dữ liệu giữa client và server 
+				- mongodb - dbms cho document, key-value data giống json. Nosql. semi-structured, nhiều data query đơn giản, horizontal scale,

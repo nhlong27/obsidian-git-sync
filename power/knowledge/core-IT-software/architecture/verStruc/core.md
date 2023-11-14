@@ -6,8 +6,12 @@
 		- SSD + HDD
 		- ROM
 			- firmware: bios, hypervisor (type 1)
+		- display
+			- resolution, bit depth (per color RGB) 
+				- https://www.danrodney.com/blog/retina-web-graphics-explained-1x-versus-2x-low-res-versus-hi-res/#:~:text=2x%20graphics%20are%20twice%20the,have%20the%20same%20size%20pixels
+				- https://www.youtube.com/watch?v=9d-6Alkcymo
 - tier 2
-	- kernel
+	- kernel [embedded ?](https://www.quora.com/Do-all-embedded-systems-have-an-operating-system/answer/Tom-Crosley-1?ch=17&oid=75550492&share=144939ae&srid=y5Rp&target_type=answer)
 		- process (program instance) mgmt
 			- thread mgmt
 				- program counters + registers (+stack pointers) + stack ( unwinds itself -> local var, func, pointer)
@@ -36,11 +40,12 @@
 					- persistence: cookies, localStorage, sessionStorage, cache
 					- javascript engine (javascript interpreter) + webapi + event loop (macrotask + microtask) https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context
 					- rendering engine: html, css -> parsers -> dom, cssom -> event propagation (capturing, target, bubbling)
+					- https://reflectoring.io/complete-guide-to-cors/
 				- [[html-css-javascript-framework]]
 			- desktop
 				- native: WinForm (GUI libaries/frameworks WinForms + (compiled) machine code)
 				- others: Electron (chromium rendering engine + node (V8 engine))
-			- mobile
+			- mobile 
 				- native:  Objective-C/Swift for iOS, Java/Kotlin for Android (adk (jdk) (compiler .class -> .dex for dalvik))
 				- cross-platforms: React Native (javascriptCore - Hermes, Metro, bridge (C++/Java)), Flutter (Skia), Xamarin
 				- PWA

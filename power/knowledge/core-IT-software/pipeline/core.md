@@ -1,35 +1,50 @@
-- plan
-	- management: jira
-	- design: miro, eraser, excalidraw
-- code & build
-	- dev server - live reload https://blog.logrocket.com/complete-guide-full-stack-live-reload/#what-is-live-reload
-		- chrome-dev-tools
-			- i18n - sensors
-	- code 
+- process
+	- https://www.youtube.com/watch?v=oNmcX6Gozg0
+	- https://www.youtube.com/watch?v=Dl-BdxNRUqs&t=191s
+	- https://www.youtube.com/watch?v=KHX4jXDKgE4&t=33s
+	- https://www.youtube.com/watch?v=xSPA2yBgDgA
+- tools
+	- plan
+		- communicate: slack, outlook
+		- design & management: jira, miro, eraser, excalidraw
+	- code & build
 		- [[VCS]]
-		- (dev server)
-		- [[IDE]] : debugger + linter + formatter + (packet manager) + (task runner) + *build tools*  
-	- build
-		- (bundler): files + dependencies + assets: Webpack, *Vite, ESbuild (transpiling, minification), Rollup (bundling) 
-			- -> optimize: tree shaking, minification, code splitting + loaders 
-		- preprocessor
-			- transpiler: babel, ESbuild 
-- test 
-	- unit: jest, react-testing-library 
-	- e2e: playwright, cypress, selenium, pw
-- release 
-	- automation: Github Actions, Jenkins 
-- deploy
-	- IaaS: [[AWS|AWS-EC2]]
-	- PaaS: S3, CDN
-	- CaaS: Fargate 
-	- FaaS/Serverless: Lambda, Vercel serverless funcs 
-- operate 
-	- [[IaC]] : provision, manage: terraform, ansible, AWS cloudformation 
-	- container orchestration: ECS, EKS, Kurbenetes 
-	- service mesh
-	- artifact management: artifactory
-- monitor +  logs management: Elastic stack (Kibana)
+		- web
+			- code editor VSC 
+				- + dev (web) server --> user-agent client: chrome-dev-tools
+					- https://blog.logrocket.com/complete-guide-full-stack-live-reload/#what-is-live-reload
+					- i18n - sensors
+				- (debugger + linter + formatter + task runner + package manager)
+				- bundler ( files + dependencies + assets): browserify, webpack - vite: esbuild (transpiling, minification), rollup (bundling)
+				- transpiler: babel (typescript, jsx, js->js), postcss (js->css)
+					- https://stackoverflow.com/questions/43459558/what-is-the-difference-between-preprocessor-and-transpiler
+				- preprocessor: sass, less
+		- mobile & desktop
+			- IDE android studio
+				- android emulator
+			- IDE xcode
+				- ios simulator
+			- IDE visual studio
+				- live preview
+		- server
+			- Intellij (java)
+	- test: prevent mistakes (like type-checking) - ranking based on criticalness
+		- web
+			- unit: jest, react-testing-library 
+			- e2e: playwright, cypress, selenium, pw
+	- release 
+		- automation: Github Actions, Jenkins 
+	- deploy
+		- IaaS: [[AWS|AWS-EC2]]
+		- PaaS: S3, CDN
+		- CaaS: Fargate 
+		- FaaS/Serverless: Lambda, Vercel serverless funcs 
+	- operate 
+		- [[IaC]] : provision, manage: terraform, ansible, AWS cloudformation 
+		- container orchestration: ECS, EKS, Kurbenetes 
+		- service mesh
+		- artifact management: artifactory
+	- monitor +  logs management: Elastic stack (Kibana)
 		- instrumentation
 		- telemetry/application monitoring: datadog
 		- infrastructure monitoring: prometheus + grafana
