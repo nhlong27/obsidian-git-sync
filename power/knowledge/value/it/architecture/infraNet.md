@@ -1,0 +1,42 @@
+- internet - interconnected (vs connected) networks of computers -> data sharing
+	- www - system built on top of internet, uses standardized protocols (http, html), browsers, hypertext documents, multi-media -> sharing & navigating more efficiently (web-like manner, indexed)
+		- uri: url (scheme/protocol + domain + port + path + resource) / urn
+	- osi [1](https://www.youtube.com/watch?v=0y6FtKsg6J4) [2](https://stackoverflow.com/questions/41986458/osi-layers-explained) [custom](https://www.quora.com/Is-it-mandatory-to-use-a-protocol-TCP-UDP-etc-to-send-data-from-one-PC-to-another-Is-it-possible-to-transmit-data-between-programs-over-the-Internet-without-following-any-protocol-but-your-own-If-yes-how)
+		- physical connections (raw bits)
+		- data link (frames - MAC header: src, des MAC/ethernet address)
+		- network (packets - IP header: src, des ip addresses), NAT, different ips for container/vm
+		- transport (segments - TCP/UDP header: src, des port, sequence no, tcp err checking - checksum)
+			- http 80 https 443 default unless overidden, server/client creates socket and binds it to a port for sending/listening to incoming request/response https://qr.ae/pK2Deg
+			- DNS lookup - upd, os https://serverfault.com/questions/643506/how-does-the-http-get-method-work-in-relation-to-dns-protocol
+			- TCP handshake (syn, syn-ack, ack) + certificate check SSL/TLS (certificate is signature signed by private keys of certificate authorities, client (browser) store public keys -> server return TLS version, cipher suite) - session key exchange (RSA TLS <=1.2, DH  TSL 1.3) https://www.youtube.com/watch?v=j9QmMEWmcfo&t=3s
+				- symmetric: DES (64 bits), AES (128, 192, 256 bits)
+				- asymmetric: RSA - signature DSA
+		- application ( . header)
+			- http/s 
+				- header: method / status (1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error ) + (path) +  protocol (version)
+					- host/domain, user-agent, cookie
+				- body
+			- websockets
+			- streaming [protocols](https://www.wowza.com/blog/streaming-protocols#streaming-protocol, https://www.reddit.com/r/learnprogramming/comments/xwjda4/comment/ir70vma/?utm_source=share&utm_medium=web2x&context=3)
+				- ingest: rtmp (flash), rtsp (ip camera) (control protocol) (not supported in many players), srt, webrtc
+				- transcode into http-based
+				- delivery: http adaptive streaming (hls, dash) -- bitrate Mbps, webrtc
+	- data format https://stackoverflow.com/questions/54122999/is-json-a-string
+		- raw/encoded string - (serialization) html, xml, css, csv, json 
+		- binary (array buffers) - (serialization) protocol buffers
+		- blobs
+	- api 
+		- style
+			- rest (http) - resources
+			- rpc (http) - actions --> grpc (http/2 + protocol buffers) microservices, mobile? browsers doesn't allow control over http/2 primitives
+			- graphql (http) - single url to engine point
+			- tRPC - '*simpler REST*', a single API endpoint that operates behind your api engine
+			- openAPI/swagger - specification for building api https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
+		- patterns/techniques
+			- server-sent event
+			- polling
+				- long polling
+				- short polling
+			- webhook
+	- api security
+		- jwt

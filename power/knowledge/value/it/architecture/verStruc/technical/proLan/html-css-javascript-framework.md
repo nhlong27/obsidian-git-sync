@@ -2,10 +2,8 @@
 [Roadmap](https://roadmap.sh/javascript)
 
 - html
-	- implementation: plain html, js, css -> html template language -> web component (htmx) (reusability) -> framework
-		- shadow dom https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
-	- accessibility: semantic html, wai-aria, responsive design
-	- doctype , meta-viewport, data-, type=module, lang=en (i18n json format), script, link
+	- implementation: html + js, html template languages, web component (htmx), library/framework
+	- semantic html, wai-aria, doctype, meta-viewport, data-, type=module, lang=en (i18n json format), script, link, shadow dom https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
 - css
 	- specificity - selector: >, +, ~, 
 		- 1000 inline styles, 
@@ -13,11 +11,9 @@
 			- 100 id
 			- 10 class, pseudo class (style to specific class), attr selector (^, $, ~, |, *)
 			- 1 el, pseudo el (style to specific el)
-	- types: + style systems, behavior libraries, component libraries 
-		- vanilla
-			- layout (box-sizing, display, float, position, z-index), flexbox (flex-flow, align-content, align-self), grid (grid-area, grid-template), box alignment, borders, sizing (dvh), spacing, backgrounds, typography
-			- effects, filter, interactivity, transform, transition
-		- extension: preprocessor (scss, sass, less), tailwind
+	- types: extensions (preprocessor , tailwind) + style systems + behavior libraries -> component libraries 
+		- layout (box-sizing, display, float, position, z-index), flexbox (flex-flow, align-content, align-self), grid (grid-area, grid-template), box alignment, borders, sizing (dvh), spacing, backgrounds, typography
+		- effects, filter, interactivity, transform, transition
 - javascript - single threaded, garbage collection, dynamic/weakly typed, multi-paradigm
 	- variables
 		- (var)
@@ -31,12 +27,15 @@
 	- data types
 		- primitives (immutable, pass by value) null (typeof === object) vs undefined, string, symbol, bigint, number, boolean
 		- objects (mutable, pass by address) 
-			- prototype vs ES6 class, built-ins (.prototypes) (root: Object.prototype), constructors for built-ins (root: Function.prototype)  --- The purpose of prototype + constructors is to imitate OOP class
+			- prototype (ES6 class syntax), Object.prototype --> built-ins (Array / String / etc. / Function.prototype --> functions, Foo constructor + Foo.prototype) 
+				- array: find, filter, map, forEach()
+				- object: groupBy()
+				- function
+					- apply(), call(), bind() - function methods to point *this* context to a object https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
+					- closure - function is defined within another function, and the inner function has access to variables or functions from the outer (enclosing) function's scope
 			- this - refers to object, or global object in function ('window', 'global', 'globalThis') (note: arrow function, scope from parent)
-			- function
-				- apply(), call(), bind() https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
-				- closure
-	- async (callback, XMLHttpRequest - promise - async/await, fetch)
+	- + web api, event loop
+		- async (callback, XMLHttpRequest - promise - async/await, fetch)
 - framework
 	- react: hooks - virtual dom (reconciliation - diffing algo) reactivity, jsx template -> reuseability, performance
 		- https://stackoverflow.com/questions/53729917/react-hooks-whats-happening-under-the-hood

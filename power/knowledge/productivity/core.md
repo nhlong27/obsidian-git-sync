@@ -1,32 +1,29 @@
-- node framework: lifestyle/power (emotions) -> [[ee|cycles]] + tiers
-	- -----
-	- state/node -> ( >powers |&-> emotions)
-	- emotion (neurotransmission system): motivators <-| (others ~ meaning)
-	- power (process & memorization system):  pre | post ( +s8e )
-		- s8e
-			- m
-			- n
-			- prod
+- hierarchy of needs -> state
+	- goal clarification: start state - (a range of acceptable) final states
+	- path clarification: set of probable steps/nodes (that based on other probable steps/nodes (unknowns, knowns) --> down to irrefutable rules) - each step is a goal itself
+	- state/node -> ( >powers |&-> needs)
+		- need (neurotransmission system): motivators <-| (others ~ meaning)
+		- power (process & memorization system):  pre | post ( +s8e )
 			- social
-			- others
-				- health
-					- types
-						- cardiovascular: hypertension (<-atherosclerosis), 
-						- musculoskeletal: osteoarthritis
-						- nervous: dementia, parkinson
-						- endocrine, lymphatic, digestive, urinary, reproductive
-						- respiratory: pneumonia
-					- dad's teeth
-					- dad's eye
-					- dad's hemorrhoid
-				- nutrition
-				- exercise
-				- surrounding 
-					- lighting: overhead, ambience, task, accent
-						- 
-	- -----
-	- e.g. why does sisyphus roll the boulder
-- goal: clear, simple -> vague, complex
-	- step: kk, ku, uu
-	- task mgmt: reflect + mvp/greedy strategy
-	- energy mgmt: boredom -> follow plan (instead boredom -> well-traveled path of habit/routine (cycle))
+			- knowledge:  ~ value: token | good/service - buyer : good/service <-> token/price (cost + profit) seller
+- it
+	- onboarding (training (best practices) - self-learning (code + doc))
+		- arch (learning path)
+			- tier 5: system overiew (fe, be (services), db)
+			- tier 4, 3: tech/version roles (core (routing, api, state managing) + additionals) + feature debug
+		- pipeline
+			- plan (contacts w/ mentor/manager, colleagues)
+- health
+	- types
+		- cardiovascular: hypertension (<-atherosclerosis), 
+		- musculoskeletal: osteoarthritis
+		- nervous: dementia, parkinson
+		- endocrine, lymphatic, digestive, urinary, reproductive
+		- respiratory: pneumonia
+	- dad's teeth
+	- dad's eye
+	- dad's hemorrhoid
+- nutrition
+- exercise
+- surrounding 
+	- lighting: overhead, ambience, task, accent 

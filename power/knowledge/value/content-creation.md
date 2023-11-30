@@ -1,0 +1,16 @@
+- goal: 
+	- core: concepts + visual.art.narrative 
+	- marketing: audience
+		- social media (tiktok, twitter, google, pinterest, reddit, facebook, instagram)
+		- publisher (webtoon)
+- type 
+	- storytelling
+		- visual.art.narrative - graphic novels
+			- meta-data 
+				- genre (marketing)
+			- form: shape + volume
+- medium: (+mixed) 
+	- verbal 
+	- written (blogs)
+	- visual (film (animation), videos, streams)
+		- art: illustration (technical, commercial, conceptual), fine art, *narrative* 

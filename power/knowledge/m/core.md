@@ -1,67 +1,60 @@
+- hierarchy of needs ~ value: token | good/service
+	- buyer : good/service <-> token/price (cost + profit) seller
 - screening: resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
 - interview [interview questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
+	- sau quá trình học đại học (kiến trúc máy tính, quy trình phát triển sản phẩm, thuật toán + cấu trúc dữ liệu thích hợp) / tích lũy kinh nghiệm phát triển sản phẩm dự án tự tay xây dựng + kinh nghiệm làm việc thực tế tại / tóm lược qua 2 khía cạnh (1, tiếp xúc trực tiếp quy trình xây dựng, cộng tác trong môi trường làm việc chuyên nghiệp, 2, sử dụng nhiều công nghệ, giao thức, phương pháp và hiểu vai trò của chúng trong cấu thành ứng dụng web, cụ thể) / role: xây dựng giao diện người dùng bằng javascript và ngôn ngữ document html, css sao cho đảm bảo tính accessibility, sự tương thích giữa trình duyệt + sử dụng nextjs, framework dựa trên react để đảm bảo seo + thiết kế restful api quản lý dữ liệu giữa client và server, đồng thời xác thực, ủy quyền người dùng
 	- uni (comsci, ielts) - arch.verStr.tier 1 & 2
 		- algo
-			- utils: (debounce, throttle, deepClone, flatten, groupBy, chunk, observer, toCamelCase(regex), signal)
+			- utils: (debounce, throttle, deepClone, flatten, groupBy, chunk, observer, toCamelCase(regex), signal), isPrimeNumber
 			- sort (array.prototype.sort() + number, string -> object) https://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function
-			- 2 pointers, sliding window, datStr, dynamic programming, sort, binary search
+			- 2 pointers, sliding window, datStr, dynamic programming, sort, binary search, " thuật toán tăng dần và lấy tổng trung bình 2 số của array"
 		- datStr: array, list, linked list, hash map, stack/queue, tree, graph
 	- exp + projects 
 		- pipeline (vcs, test)
+			- git - vcs, quản lý theo dõi sự thay đổi mã nguồn và lưu lịch sử thay đổi chuỗi commit, branch, object database
 		- arch
-			- client
-				- user agent
-				- html-css-js-ts
-					- accessibility (semantic, responsive)
-					- css selector, em rem, rgb, rgba, vh
-					- a++, ++a, asyn nonblocking
-					- unknown, typeof, enum, typeof =[1], age func
-					- SOLID, OOP, obj-class
-				- react, next
-					- spa - mpa, csr - ssr, useEffect - useMemo, next buildtime request time, getstaticpaths
-					- redux
-					- event loop
-					- https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev
-					- https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev
-			- infraNet+server
-				- api
-					- http, api, rest
-					- webhook, kafka, rabbitmq
-					- auth
+			- verStr
+				- trinh duyet, user agent - phan mem to access, display noi dung va dich vu web. e.g. --> architecture 
+					- data persistence
+						- local storage: (personalization) no additional request + large size + same origin 
+						- session storage: .. + .. + .. + short term sensitive / tab-specific data
+						- cookie: (personalization, session, analytics) server access (sent with each request) + small size + cross domain sharing
+					- compatibility - ability of a website function correctly, consistently , browsers, browser versions (rendering engine, web stardards interpretations) --> specifications
+					- accessibility (semantic html, aria, responsive)  
+				- html - structure/content
+					- DOM - web api, browser html parser -> PI for web documents that scripts to interact/manipulate structure/content as hierachical tree of objects
+				- css - style/layout,  bem (quy ước đặt tên, quản lý css class), sass/scss/less (css preprocessor, mở rộng syntax, cung cấp tính năng variable, nesting, mixin)
+					- selector ( , >, +, ~), em rem, rgb, rgba, vh, justify content
+				- javascript - nnlt chính mang lại tương tác ứng dụng web, interpreted, dynamic/weakly typed, garbage collection, single threaded
+					- es6 - es5: arrow, let & const block scope, template literals, destructuring assignment, spread operator, default parameter, esm, symbol, class syntax -> define constructor functions
+					- module system: commonjs -> esm - organize, structure js code into resuable modules
+					- var, let, const - scope, hoisting, closure, this, SOLID, OOP --- obj-class, while vs for loop, typeof array, a++, ++a, async nonblocking, event loop
+					- ajax -> callback hell, promise chaining .then() .catch() method, async await keyword + try/catch block
+					- ts: type (primitive, union) vs interface (object), enum, unknown, age func
+				- lib&frame
+					- react - opensource library -> reusability, performance break down UI -> reusable functional components, declarative way jsx mở rộng syntax js để viết html-like code trong js file (babel) transpiles to js functions return react element. instructions for react to create virtual dom (reconciliation - diffing algo)
+						- state represent data that changes, react hook - functions let components keep track and respond to events
+						- component communication: props (callback functions), context api -> state management library (redux: actions, store, reducers)
+						- useCallback, useMemo
+						- SPA (single html page, update ajax - interactive complex) vs MPA (multiple page, full page reload - SEO, faster initial load)
+					- next - fetch data, server side render, trả về html hoàn chỉnh, search engine có content hoàn chỉnh tính accessibility
+						- build - request time, csr - ssr, spa - mpa, getStaticProps, getServerSideProps, getStaticPaths
+				- nosql vs sql
+					- mongodb - dbms cho document, key-value data giống json. Nosql. semi-structured, nhiều data query đơn giản, horizontal scale,
+			- infraNet
+				- osi
+					- http - application layer, giao thức trao đổi dữ liệu giữa client và server 
+						- https://blog.openreplay.com/seo-basics-for-web-developers/?ref=dailydev
+						- https://hackernoon.com/front-end-optimization-my-journey-to-accelerate-load-times-in-heavy-front-end?source=rss&ref=dailydev
 					- https://reflectoring.io/complete-guide-to-cors/
-				- app-server
-					- express, nest, cqrs, asp.net, mvc
-					- https://www.youtube.com/watch?v=6cxgasCDJgA
-					- https://www.youtube.com/watch?v=7DnpItYmiSM
-				- db
-					- sql - nosql
-					- https://www.youtube.com/watch?v=nWchov5Do-o
-					- https://www.youtube.com/watch?v=sLIoCfKK5SA&t=229s
-- index
-	- sau quá trình học đại học
-		- kiến trúc máy tính
-		- quy trình phát triển sản phẩm
-		- thuật toán + cấu trúc dữ liệu  thích hợp
-	
-	- tích lũy kinh nghiệm phát triển sản phẩm
-		- dự án tự tay xây dựng
-		- kinh nghiệm làm việc thực tế tại 
-	
-	- tóm lược qua 2 khía cạnh
-		- 1, tiếp xúc trực tiếp quy trình xây dựng, cộng tác trong môi trường làm việc chuyên nghiệp
-			- dựng lên user story, thực hiện, build, test, deploy
-				- outsource, mô hình 
-			- công cụ ở từng bước quy trình, Git, github actions
-				- git - vcs, quản lý theo dõi sự thay đổi mã nguồn và lưu lịch sử thay đổi chuỗi commit, branch, object database
-		- 2, sử dụng nhiều công nghệ, giao thức, phương pháp và hiểu vai trò của chúng trong cấu thành ứng dụng web, cụ thể
-			- xây dựng giao diện người dùng bằng javascript và ngôn ngữ document html, css sao cho đảm bảo tính accessibility, sự tương thích giữa trình duyệt
-				- html - accessibility semantic html, responsive
-				- css - bem (quy ước đặt tên, quản lý css class), sass/scss/less (css preprocessor, mở rộng syntax, cung cấp tính năng variable, nesting, mixin)
-				- javascript - ngôn ngữ chính mang lại tương tác ứng dụng web, dynamic/weakly typed, interpreted, garbage collection, single threaded
-			- sử dụng nextjs, framework dựa trên react để đảm bảo seo
-				- react - opensource library, jsx mở rộng syntax js để viết html trong js file -> babel react element. virtual dom (reconciliation - diffing algo) --> reusability, performance hiệu suất
-				- next - fetch data, server side render, trả về html hoàn chỉnh, search engine có content hoàn chỉnh tính accessibility
-			- thiết kế restful api quản lý dữ liệu giữa client và server, đồng thời xác thực, ủy quyền người dùng
 				- api - tập các quy tắc, cơ chế để một ứng dụng tương tác với một ứng dụng khác, rest - kiểu kiến trúc để viết api, dựa trên giao thức http, sử dụng phương thức get, post, put, delete đến một url để xử lý dữ liệu, còn gọi là CRUD
-				- http application layer, giao thức trao đổi dữ liệu giữa client và server 
-				- mongodb - dbms cho document, key-value data giống json. Nosql. semi-structured, nhiều data query đơn giản, horizontal scale,
+				- webhook, kafka, rabbitmq
+				- auth
+			- app-server
+				- express, nest, cqrs, asp.net, mvc
+				- https://www.youtube.com/watch?v=6cxgasCDJgA
+				- https://www.youtube.com/watch?v=7DnpItYmiSM
+			- db
+				- sql - nosql
+				- https://www.youtube.com/watch?v=nWchov5Do-o
+				- https://www.youtube.com/watch?v=sLIoCfKK5SA&t=229s

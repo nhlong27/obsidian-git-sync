@@ -1,16 +1,21 @@
-- strategy: listening (-reading), speaking (-writing) -- "languages are just pointers to meanings"
-	- introduction: naming (pronunciation)
-	- immersion
-		- simple sentences (dictionary in that language)
-		- conversations with myself
-		- switch your environment
-- case
-	- Vietnamese - speaking
-		- technical translation: translate terms
-		- networking: use frequent words, search for words
-	- English - listening + speaking
-		- shadowing
-		- frequent words pronunciation
-	- Japanese - listening + speaking
-		- frequent word vocabulary
-		- immersion
+- socStu
+	- networking - relationships based on aligned set of values (hierarchy of needs) (social media and loneliness, being likeable)
+- lanMas
+	- tier 2
+		- thought structuring
+	- tier 1
+		- core strategy: listening (-reading), speaking (-writing) -- "languages are just pointers to meanings"
+			- introduction: naming (pronunciation)
+			- immersion
+				- simple sentences (dictionary in that language)
+				- conversations with myself
+				- switch your environment
+		- Vietnamese - speaking
+			- technical translation: translate terms
+			- networking: use frequent words, search for words
+		- English - listening + speaking
+			- shadowing
+			- frequent words pronunciation
+		- Japanese - listening + speaking
+			- frequent word vocabulary
+			- immersion

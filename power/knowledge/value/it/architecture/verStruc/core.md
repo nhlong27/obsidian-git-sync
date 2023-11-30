@@ -29,19 +29,25 @@
 		- gui
 		- cli: mac (Zsh), windows (cmd), linux (bash)
 - tier 3
-	- [[power/knowledge/core-IT-software/architecture/verStruc/technical/proLan/core|proLan]]
+	- [[power/knowledge/value/it/architecture/verStruc/technical/proLan/core|proLan]]
 	- [[dsa]]
 - tier 4: 
 	- standalone: (event -> process) -> storage
 	- over-network (*persistence*): ((event -> process) ---> process ->) storage 
 		- frontend
 			- web
-				- user agent (blink - v8, gecko - spidermonkey, webkit - javascriptcore)
-					- persistence: cookies, localStorage, sessionStorage, cache
-					- javascript engine (javascript interpreter) + webapi + event loop (macrotask + microtask) https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context
+				- user agent (blink - v8, gecko - spidermonkey, webkit - javascriptcore) https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739 compatibility - ability of a website function correctly, consistently , browsers, browser versions  + accessibility (semantic html, aria, responsive)
+					- data persistence
+						- local storage: (personalization) no additional request + large size + same origin 
+						- session storage: .. + .. + .. + short term sensitive / tab-specific data
+						- cookie: (personalization, session, analytics) server access (sent with each request) + small size + cross domain sharing
+					- javascript engine (javascript interpreter) 
 					- rendering engine: html, css -> parsers -> dom, cssom -> event propagation (capturing, target, bubbling)
-					- https://reflectoring.io/complete-guide-to-cors/
-				- [[html-css-javascript-framework]]
+						- [[html-css-javascript-framework]]
+						- https://reflectoring.io/complete-guide-to-cors/
+					- browser engine
+						- web api + event loop (macrotask + microtask) https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context
+							- event propagation: capturing + target + bubbling
 			- desktop
 				- native: WinForm (GUI libaries/frameworks WinForms + (compiled) machine code)
 				- others: Electron (chromium rendering engine + node (V8 engine))

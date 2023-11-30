@@ -4,9 +4,9 @@
 	- https://www.youtube.com/watch?v=KHX4jXDKgE4&t=33s
 	- https://www.youtube.com/watch?v=xSPA2yBgDgA
 - tools
-	- plan
+	- plan & design
 		- communicate: slack, outlook
-		- design & management: jira, miro, eraser, excalidraw
+		- design & management (module -> system): jira, miro, eraser, excalidraw
 	- code & build
 		- [[VCS]]
 		- web
@@ -48,4 +48,4 @@
 		- instrumentation
 		- telemetry/application monitoring: datadog
 		- infrastructure monitoring: prometheus + grafana
-    
+- redmine, netbeans, vagrant
