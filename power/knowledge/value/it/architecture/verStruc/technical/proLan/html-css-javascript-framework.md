@@ -3,7 +3,11 @@
 
 - html
 	- implementation: html + js, html template languages, web component (htmx), library/framework
-	- semantic html, wai-aria, doctype, meta-viewport, data-, type=module, lang=en (i18n json format), script, link, shadow dom https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
+	- tags + attributes
+		- doctype DTD (public, system identifier), html (xmlns, lang), head (base, script, type=module, link, meta-viewport)
+		- input: form (fieldset, input (type (reset, hidden), pattern), label, readonly vs disabled), select (option)
+		- display: table (thead/body/footer, tr, th, td), map (area), [iframe vs embed vs object](https://stackoverflow.com/questions/16660559/difference-between-iframe-embed-and-object-elements) (mime), meter vs progress, title vs name, target (blank, self, parent, top, frameName)
+	- semantic html, wai-aria,, data-, shadow dom https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
 - css
 	- specificity - selector: >, +, ~, 
 		- 1000 inline styles, 
@@ -13,7 +17,9 @@
 			- 1 el, pseudo el (style to specific el)
 	- types: extensions (preprocessor , tailwind) + style systems + behavior libraries -> component libraries 
 		- layout (box-sizing, display, float, position, z-index), flexbox (flex-flow, align-content, align-self), grid (grid-area, grid-template), box alignment, borders, sizing (dvh), spacing, backgrounds, typography
+			- grid, flex https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties
 		- effects, filter, interactivity, transform, transition
+	- :checked, :disabled, :enabled, :empty, :not(), :target, ::first-line
 - javascript - single threaded, garbage collection, dynamic/weakly typed, multi-paradigm
 	- variables
 		- (var)
@@ -28,8 +34,8 @@
 		- primitives (immutable, pass by value) null (typeof === object) vs undefined, string, symbol, bigint, number, boolean
 		- objects (mutable, pass by address) 
 			- prototype (ES6 class syntax), Object.prototype --> built-ins (Array / String / etc. / Function.prototype --> functions, Foo constructor + Foo.prototype) 
-				- array: find, filter, map, forEach()
-				- object: groupBy()
+				- array: find, filter, map, forEach(), 
+				- object: groupBy(), for .. in
 				- function
 					- apply(), call(), bind() - function methods to point *this* context to a object https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb
 					- closure - function is defined within another function, and the inner function has access to variables or functions from the outer (enclosing) function's scope

@@ -10,9 +10,13 @@
 	- onboarding (training (best practices) - self-learning (code + doc))
 		- arch (learning path)
 			- tier 5: system overiew (fe, be (services), db)
-			- tier 4, 3: tech/version roles (core (routing, api, state managing) + additionals) + feature debug
+			- tier 4: tech/version roles (core (routing, api, state managing) + additionals) + feature debug
+				- [ ] next -> create copy + animation -> (real next later)
+				- [ ] nest clone -> plugin trello -> copy and store cv (html, css) -> translate english
+			- tier 3
 		- pipeline
-			- plan (contacts w/ mentor/manager, colleagues)
+			- plan (contacts w/ mentor/manager, colleagues): discord, mail (long.nguyen@recruitery.co, P9SGUje&%jug2jP&), trello 
+			- code: github
 - health
 	- types
 		- cardiovascular: hypertension (<-atherosclerosis), 

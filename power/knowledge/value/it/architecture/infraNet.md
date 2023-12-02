@@ -25,6 +25,7 @@
 		- raw/encoded string - (serialization) html, xml, css, csv, json 
 		- binary (array buffers) - (serialization) protocol buffers
 		- blobs
+		- mime: text/plain, application/json, image/jpeg, audio/mp3, application/pdf, application/x-www-form-urlencoded, multipart/form-data
 	- api 
 		- style
 			- rest (http) - resources

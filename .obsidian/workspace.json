@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023/nov/2023-11-30.md",
+                "file": "daily/2023/dec/2023-12-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f859d48e06cc96d",
+            "id": "e2192bb156c0a387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "power/knowledge/productivity/core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "857772e0fa918117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "power/knowledge/s/log/core.md",
+                "file": "power/knowledge/value/it/architecture/verStruc/technical/dsa.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "power/knowledge/productivity/core.md",
+                "file": "power/knowledge/value/it/architecture/verStruc/technical/dsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "power/knowledge/productivity/core.md",
+                "file": "power/knowledge/value/it/architecture/verStruc/technical/dsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "power/knowledge/productivity/core.md"
+                "file": "power/knowledge/value/it/architecture/verStruc/technical/dsa.md"
               }
             }
           },
@@ -203,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,22 +207,26 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3f859d48e06cc96d",
+  "active": "e2192bb156c0a387",
   "lastOpenFiles": [
+    "daily/2023/dec/2023-12-02.md",
+    "power/knowledge/value/it/architecture/verStruc/technical/dsa.md",
+    "power/knowledge/m/core.md",
+    "power/knowledge/value/it/architecture/verStruc/technical/proLan/html-css-javascript-framework.md",
+    "power/knowledge/productivity/core.md",
+    "daily/2023/dec/2023-12-01.md",
+    "power/knowledge/value/it/architecture/infraNet.md",
+    "power/knowledge/value/it/architecture/verStruc/core.md",
+    "power/social/core.md",
+    "daily/2023/dec",
+    "daily/2023/nov/2023-11-30.md",
     "power/knowledge/s/log/core.md",
     "power/knowledge/s/core.md",
-    "daily/2023/nov/2023-11-30.md",
     "power/knowledge/s/log",
-    "power/knowledge/productivity/core.md",
-    "power/knowledge/m/core.md",
-    "power/knowledge/value/it/architecture/infraNet.md",
     "power/knowledge/value/it/pipeline/core.md",
     "daily/2023/nov/2023-11-29.md",
-    "power/social/core.md",
-    "power/knowledge/value/it/architecture/verStruc/core.md",
     "power/social/socStu.md",
     "daily/2023/nov/2023-11-28.md",
-    "power/knowledge/value/it/architecture/verStruc/technical/proLan/html-css-javascript-framework.md",
     "power/knowledge/value/it/architecture/verStruc/technical/proLan/core.md",
     "power/knowledge/productivity/tools/obsidian/daily.md",
     "power/knowledge/value/it/architecture/verStruc/technical/proLan/linux.md",
@@ -245,10 +238,7 @@
     "power/knowledge/value/content-creation.md",
     "power/knowledge/value/it",
     "power/knowledge/value/Untitled.md",
-    "power/knowledge/productivity/tools/others.md",
-    "daily/2023/nov/2023-11-23.md",
     "power/knowledge/Untitled",
-    "power/knowledge/value/it/architecture/verStruc/api & bridge.md",
     "Pasted image 20231114144601.png",
     "Pasted image 20231114142217.png",
     "daily/2023/nov",
@@ -268,7 +258,6 @@
     "archive_images/Pasted image 20230927162124.png",
     "archive_images/Pasted Image 20230903140748_825.png",
     "power/knowledge/value/it/architecture/verStruc/technical/proLan",
-    "power/knowledge/s/log/projects",
-    "power/knowledge/m"
+    "power/knowledge/s/log/projects"
   ]
 }

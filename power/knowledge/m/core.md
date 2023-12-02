@@ -23,7 +23,7 @@
 					- accessibility (semantic html, aria, responsive)  
 				- html - structure/content
 					- DOM - web api, browser html parser -> PI for web documents that scripts to interact/manipulate structure/content as hierachical tree of objects
-				- css - style/layout,  bem (quy ước đặt tên, quản lý css class), sass/scss/less (css preprocessor, mở rộng syntax, cung cấp tính năng variable, nesting, mixin)
+				- css - style/layout, bem (quy ước đặt tên, quản lý css class), sass/scss/less (css preprocessor, mở rộng syntax, cung cấp tính năng variable, nesting, mixin)
 					- selector ( , >, +, ~), em rem, rgb, rgba, vh, justify content
 				- javascript - nnlt chính mang lại tương tác ứng dụng web, interpreted, dynamic/weakly typed, garbage collection, single threaded
 					- es6 - es5: arrow, let & const block scope, template literals, destructuring assignment, spread operator, default parameter, esm, symbol, class syntax -> define constructor functions

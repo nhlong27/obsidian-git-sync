@@ -2,11 +2,12 @@
 [Roadmap](https://roadmap.sh/computer-science)
 [Data structures we use everyday](https://www.youtube.com/watch?v=ouipSd_5ivQ)
 
-
 - algo - bigO breakpoints
-	- dynamic programming: tabulation + iterative / bottom-up, memoization + recursive / top-down
-	- sort 
-- datStr: container of data - for efficient access and modification of data - https://stackoverflow.com/questions/75734006/are-all-data-structures-implemented-with-arrays-and-linked-structures array -> linked list -> graph, tree -> stack, queue -> hash table -> OOP -> advanced 
+	- utils: (debounce, throttle, deepClone, flatten, groupBy, chunk, observer, toCamelCase(regex), signal), isPrimeNumber
+	- sort (array.prototype.sort() + number, string -> object) https://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function
+	- 2 pointers, sliding window, datStr, dynamic programming, sort, binary search, " thuật toán tăng dần và lấy tổng trung bình 2 số của array"
+		- dynamic programming: tabulation + iterative / bottom-up, memoization + recursive / top-down
+- datStr - [datStr  ~ array? ](https://stackoverflow.com/questions/75734006/are-all-data-structures-implemented-with-arrays-and-linked-structures)
 	- array  -> list: fixed, constant access (matrix, weather app, image processing)
 		- collection of elements or values, each identified by an index or a key -> random access because contiguous memory locations
 		- fixed size, homogeneous (same type)
