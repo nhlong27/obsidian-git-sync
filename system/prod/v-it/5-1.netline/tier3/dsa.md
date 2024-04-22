@@ -1,0 +1,59 @@
+[#leetCode]
+- ds - collection
+	- [array]
+		- [hashtable]
+		- [2graph]: spanning
+			- noncyclic - [4-9tree]
+				- binary tree: full - complete (logN) - balanced
+					- binary search tree
+						- red black tree
+						- avl tree
+					- [heap]
+				- trie
+					- suffix tree
+				- b tree
+					- b+ tree
+			- chain-like - [linkedlist]
+- a: big-o/omega/theta (constant, logarithmic, linear, polynomial, exponential, factorial)
+	- search (array: linear, binary - graph: dfs (pre/in/post order), bfs), insert, delete
+	- 6sort: quick, selection, insertion, heap, merge, bubble - [(array.prototype.sort() + number, string -> object)](https://stackoverflow.com/questions/3423394/algorithm-of-javascript-sort-function) - indexing
+	- ...
+		- ds + operations (conditions + loops): brute force, recursion, two pointer, sliding window, divide and conquer, greedy, backtracking (branch & bound), dynamic programming (tabulation + iterative / bottom-up, memoization + recursive / top-down), randomised   
+- in-depth
+	- a 
+		- (debounce, throttle, deepClone, flatten, groupBy, chunk, observer, toCamelCase(regex), signal), isPrimeNumber
+	- ds
+		- [array](https://stackoverflow.com/questions/75734006/are-all-data-structures-implemented-with-arrays-and-linked-structures)  -> list (matrix, weather app, image processing) -> stack, queue: undo, redo (text editor, browser history) (chat app, queue job)
+			- fixed size, continuous, homogeneous / reference
+			- accessByIndex 1, accessByValue N, insert/remove N N (push, pop, shift, unshift, concat, slice) ->  splice/toSpliced
+		- hash map (search engine, caching system, interpreter/compiler) - hash map load factor
+			- key-value pairs. collision: chaining, open addressing, separate chaining
+			- access/insert/remove (hashFunc?) 1
+		- graph: relationship (social network, recommendation engine, path finding algo)
+			- vertices + edges: degree, path, cycle, connectedness, spanning, directed, weighted
+			- adjacency matrix - access/insert/remove edge 1 V^2
+			- adjacency list - access/insert/remove degree V+E
+		- tree: hierarchy (comments)
+			- acyclic graph: root, leaf, depth, height
+				- traverse: O(N) - BFS (iterative + queue), DFS (recursive + *inorder*, preorder, postorder traversal (binary) - iterative easiest with preorder)
+			- types
+				- binary
+					- bst - access, insert, delete: O(h) |
+						- balanced tree: AVL, Red-black tree - access, insert, delete: O(logN)
+					- heap: (task scheduling, memory management) - access max/min: O(1) - insert, delete: height O(logN) 
+				- trie - access, insert, delete: O(m length of key)
+					- suffix tree: (text editor)
+				- r tree: nearest neighbor (mapping/geolocation)
+				- B, B+ tree: (database index)
+		- linked list: non-contiguous (social media feeds, task management, shopping carts)
+			- dynamic size, non-continous, heterogeneous
+			- accessByIndex/accessIndexByValue N, insertByIndex/append/removeByIndex/removeByValue* 1, iterate N
+		- class (reusability + maintainability)
+			- oop
+				- abstraction: constructor (1 only), this (can't work with static properties, cause no instance)
+				- encapsulation: properties + methods, static (fixed configs), access modifiers: public - private - protected (not in prototype inheritance)
+				- hierarchy: extends, super 
+					- only inherited methods can access private super properties 
+				- polymorphism
+			- abstract (constructor)
+			- interface

@@ -1,0 +1,55 @@
+- internet - interconnected (vs connected) networks of computers -> data sharing. www - system built on top of internet, uses standardized protocols (http, html), browsers, hypertext documents, multi-media -> sharing & navigating more efficiently (web-like manner, indexed)
+	- tier osi [1](https://www.youtube.com/watch?v=0y6FtKsg6J4) [2](https://stackoverflow.com/questions/41986458/osi-layers-explained) [custom](https://www.quora.com/Is-it-mandatory-to-use-a-protocol-TCP-UDP-etc-to-send-data-from-one-PC-to-another-Is-it-possible-to-transmit-data-between-programs-over-the-Internet-without-following-any-protocol-but-your-own-If-yes-how)
+		- physical connections (raw bits)
+		- data link (frames - MAC header: src, des MAC/ethernet address)
+		- network (packets - IP header: src, des ip addresses), different ips for container/vm
+			- public -> NAT (router) -> private (192.168.0.0 - 192.168.255.255)
+			- 127.0.0.1 / localhost (loopback ip)
+			- MAC: ipconfig getifaddr en0 / en1 (ethernet)
+			- dns: google (8.8.8.8) vs 1.1.1.1
+		- transport (segments - TCP/UDP header: src, des port, sequence no, tcp err checking - checksum)
+			- [http 80 https 443 default unless overidden](https://qr.ae/pK2Deg), server/client creates socket and binds it to a port for sending/listening to incoming request/response 
+			- [DNS lookup](https://serverfault.com/questions/643506/how-does-the-http-get-method-work-in-relation-to-dns-protocol) - upd, os 
+			- [TCP handshake](https://www.youtube.com/watch?v=j9QmMEWmcfo&t=3s)(syn, syn-ack, ack) + certificate check SSL/TLS (certificate is signature signed by private keys of certificate authorities, client (browser) store public keys -> server return TLS version, cipher suite) - session key exchange (RSA TLS <=1.2, DH  TSL 1.3) 
+				- symmetric: DES (64 bits), AES (128, 192, 256 bits)
+				- asymmetric: RSA - signature DSA
+		- application ( . header)
+			- http/s - uri: url (scheme/protocol + domain + port + path + resource) / urn
+				- body + header: method / status (1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error ) + (path) +  protocol (version)
+					- host/domain, user-agent, cookie
+					- mime: text/plain, application/json, image/jpeg, audio/mp3, application/pdf, application/x-www-form-urlencoded, multipart/form-data
+			- websocket
+			- streaming [protocol](https://www.wowza.com/blog/streaming-protocols#streaming-protocol, https://www.reddit.com/r/learnprogramming/comments/xwjda4/comment/ir70vma/?utm_source=share&utm_medium=web2x&context=3)
+				- ingest: rtmp (flash), rtsp (ip camera) (control protocol) (not supported in many players), srt, webrtc
+				- transcode into http-based
+				- delivery: http adaptive streaming (hls, dash) -- bitrate Mbps, webrtc
+	- tier api 
+		- ajax
+			- fetch, axios, swr, react-query, redux thunk/saga
+		- style
+			- rest (http) - resources
+				- get [(safe (consistent result) + idempotent (doesn't change state)](https://stackoverflow.com/questions/49572486/how-does-concepts-idempotent-and-safe-methods-differ)), put + delete (idempotent), post + patch
+			- rpc (http) - actions --> grpc (http/2 + protocol buffers) microservices, mobile? browsers doesn't allow control over http/2 primitives
+			- graphql (http) - single url to engine point
+			- tRPC - '*simpler REST*', a single API endpoint that operates behind your api engine
+			- openAPI/swagger - specification for building api https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
+		- data format 
+			- raw/encoded string - (serialization) html, xml, css, csv, [json](https://stackoverflow.com/questions/54122999/is-json-a-string) 
+			- binary/blob (array buffers) - (serialization) protocol buffers 
+	- tier network
+		- seccon CRSF, XSS
+			- browser (osi.application): cors, samesite=lax
+				- cookies: ga cookie (->ga server | server )
+				- localstorage
+			- access-control
+				- encryption
+					- jwt
+			- rate limiting
+		- resource locating
+			- pagination: page+offset, cursor-based
+			- query string, cross reference
+		- technique
+			- server-sent event: client (sse object) - single http connection - server (sse endpoint)
+			- polling (long & short): client - multiple http connections - server
+			- webhook: available server (webhook endpoint) - single http connection - server (webhook event) 
+			- webpush (push notif -> event listener (when service worker registers) -> service worker restarts (terminates when tab closes))

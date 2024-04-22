@@ -1,0 +1,53 @@
+- platform
+	- client
+		- desktop
+			- native: WinForm (GUI libaries/frameworks WinForms + (compiled) machine code)
+			- others: Electron (chromium rendering engine + node (V8 engine))
+		- mobile 
+			- native: Objective-C/Swift for iOS, Java/Kotlin for Android (adk (jdk) (compiler .class -> .dex for dalvik))
+			- cross-platforms: React Native (javascriptCore - Hermes, Metro, bridge (C++/Java)), Flutter (Skia), Xamarin
+			- PWA
+		- web
+			- runtime env - user agent: compatibility (between browsers, browser versions)  + accessibility (semantic html, aria, responsive)
+				- browser engine: web api + event loop [(macrotask + microtask)](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context) 
+				- rendering engine: html, css -> parsers -> dom, cssom -> event propagation (capturing, target, bubbling)
+					- engine (compiler + runtime (+interpreter)) (blink - v8, gecko - spidermonkey, webkit - javascriptcore)
+				- data persistence
+					- local storage: (personalization) no additional request + large size + same origin 
+					- session storage: .. + .. + .. + short term sensitive / tab-specific data
+					- cookie: (personalization, session, analytics)  + small size + cross domain sharing (sent with each request)
+			- [template-reactivity](https://www.youtube.com/watch?v=Oh2IEVqarHs)-api
+				- react: [hooks](https://stackoverflow.com/questions/53729917/react-hooks-whats-happening-under-the-hood) - jsx + synthetic events: virtual dom ([reconciliation](https://www.youtube.com/watch?v=724nBX6jGRQ) (diffing algo: function reference (no rerender), type (rerender, ? new instance), key (rerender, ? new instance)) - only on return) 
+					- performance ( [1](https://www.youtube.com/watch?v=qTDnwmMF5q8) [2](https://www.youtube.com/watch?v=So6plt0QE_M) [3](https://www.youtube.com/watch?v=gEW0Wv0DMso) [4](https://www.youtube.com/watch?v=pNaW0Md2o0g) [5](https://www.youtube.com/watch?v=huBxeruVnAM)) - prevent unnecessary rerenders
+						- memoirization: useMemo, useCallback (+ closure)
+						- moving state down (custom hook <--> component with props) / pass as props
+				- next: + seo (ssr)
+				- vue: watcher (getter, setter) - vue template + synthetic events: virtual dom
+					- $emit, v-bind, v-model, v-if, v-for
+	- server (nginx, apache): javascript + next/express, java + spring, ruby + rails, python + django, php + laravel, c# + asp.net
+		- runtime [env](https://stackoverflow.com/questions/55690143/what-is-the-difference-between-env-local-and-env-development-local) - [node](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module) [2](https://stackoverflow.com/questions/52584811/javascript-not-loading-in-html-file-nodejs-http) : [libuv (event queue + thread pool) - binding -  engine](https://stackoverflow.com/questions/36766696/which-is-correct-node-js-architecture)
+			- [esm/commonjs](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/)
+			- npm: [dependencies](https://stackoverflow.com/questions/65487385/should-i-duplicate-peerdependencies-in-dependencies-field-of-package-json) [version](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
+		- controller (request-mapping)-command/query-model
+			- express / nest
+				- interceptor / guard / exception filter / pipe, module, controller, provider
+				- gateway (socket), cqrs - event, saga
+			- rails / sinatra (ruby)
+			- (automapper)
+	- [db](https://blog.bytebytego.com/p/understanding-database-types) - model (design) -> schema (implementatino) -> server (dbms (engine)) - declaration & manipulation
+		- nosql
+			- key-value (redis): fast - no queries / limited -> cache
+			- wide-column (cassandra): schema-less - no joins, decentralized -> time-series (high-write, low-read)
+			- graph
+			- document ([mongoDB](https://stackoverflow.com/questions/71177942/what-is-the-difference-between-mongod-and-service-of-mongodb-run-in-windows-serv)): collection-document(bson)-embedded
+				- [odm](https://qr.ae/pKAGWM)
+				- fast chat mongo ram -> harddrive vs sql, more queries -> faster
+		- sql (relation - join): schema, centralized (acid transaction) 
+			- command
+				- data type: int, decimal, char, varchar, date, datetime, binary, boolean
+				- ddl: create, drop, truncate, rename, alter (add, drop, modify)
+				- dml: insert into (values), select (from, where), update (set, where), delete from (where) 
+			- integrity: constraint, normalization 
+			- security 
+		- search engine
+

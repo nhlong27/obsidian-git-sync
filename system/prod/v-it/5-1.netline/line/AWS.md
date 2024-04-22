@@ -1,0 +1,18 @@
+- IaaS
+	- EC2
+		- https://www.reddit.com/r/aws/comments/10hmnh0/comment/j59ydyq/?utm_source=share&utm_medium=web2x&context=3
+		- https://www.reddit.com/r/aws/comments/10hmnh0/comment/j5chy5p/?utm_source=share&utm_medium=web2x&context=3
+		- ssh into ec2
+			-  ssh -i "aws-key.pem" ec2-user@ec2-54-206-119-124.ap-southeast-2.compute.amazonaws.com
+			- https://www.youtube.com/watch?v=kHnK3a6xpv0 & https://jhooq.com/terraform-ssh-into-aws-ec2/
+			- https://everythingdevops.dev/how-to-deploy-a-multi-container-docker-compose-application-on-amazon-ec2/ ("sudo yum install docker" instead)
+			- close ssh https://superuser.com/questions/467398/how-do-i-exit-an-ssh-connection
+		- aws linux ami
+			- yum https://stackoverflow.com/questions/14045262/how-to-fix-apt-get-command-not-found-on-aws-ec2
+			- docker permission
+				- https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker
+				- https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+			- kafka heap space error https://github.com/wurstmeister/kafka-docker/issues/74
+- PaaS
+	- S3
+		- https://serverless.pub/s3-or-dynamodb/

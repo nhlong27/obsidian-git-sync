@@ -1,0 +1,49 @@
+- int
+	- hair
+		- core: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in)
+		- styling: prestyler + blow dry, [product](https://www.misterpompadour.com/blogs/hair/17216789-paste-pomade-and-clay-whats-the-difference) (wax: apestomen, [pomade](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csltotj/?utm_source=share&utm_medium=web2x&context=3) / gel / cream), flat iron - heat protectant, hair.perm: 24h, no water, minimal contact - ironcap, daik_chien  + balaclava
+	- dental
+		- core: floss - toothpaste/toothbrush - scraper - mouthwash
+	- skin
+		- scr: moisturizer: cocoon (alcohol-free, antioxidants) + cleanser (cerave) + sunscreen: cocoon (chemical face, physical body, spf 50+, pa+++ / ppd 8-16) / make-up remover (bioderma)
+		- acnetrea: sebum production + clogging factor
+			- pre: topical - exfoliant ([benzoyl peroxide](https://www.reddit.com/r/SkincareAddiction/comments/1i2ygr/comment/cb0iebj/?utm_source=share&utm_medium=web2x&context=3) 2.5% - 10%, AHA / BHA (salicylic acid 2%), [others](https://www.google.com/search?q=pure+active%2Fhautklar+sos+anti-spots+stick&sca_esv=fd299e0f5b2672c9&sxsrf=ACQVn0_YWEMdfwRYrMxbGeORudRJjcy7Gw%3A1712851448858&ei=-AkYZsCMNNTV4-EPrr2z8AY&oq=pure+active+hautklar+sos+an&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3B1cmUgYWN0aXZlIGhhdXRrbGFyIHNvcyBhbioCCAAyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IpRZQ7QJY3g1wB3gBkAEDmAGMAaAB4QqqAQQxLjExuAEDyAEA-AEBmAIQoALoCMICChAAGEcY1gQYsAPCAgsQABiABBiKBRiGA8ICBRAhGKABmAMAiAYBkAYCkgcDNy45oAeMKQ&sclient=gws-wiz-serp), [others2](https://www.google.com/search?q=yoosun+rau+m%C3%A1&oq=yoosun+rau+m%C3%A1&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgATSAQgzNzkzajBqMagCALACAA&sourceid=chrome&ie=UTF-8)) +  oral (tretinoid)
+			- post [1](https://www.youtube.com/watch?v=sK00I_1BrrQ): large pore - dark spot - red spot - scar (tethered: rolling, boxed -> subcision + filler, icepick -> TCA cross, hypertrophic) -> [microneedling / co2 laser](https://www.youtube.com/watch?v=P6oF08hmkRE)
+				- subcision derma fillers
+				- chemical peel (TCA cross, fenol) (asian skin?)
+				- microneedling / subcision
+				- laser therapy (fractional, co2) (asian skin?)
+				- microdermabrasion / dermabrasion
+			- case
+				- info Tran Dat, chi phi, many times, 9-12,15-20h30
+				- chaams ãi, tach day seo, ca 3, amh nang, an dam, dau mo lao hoa, 4-  6 tuan, 5-7, ngày 5-7 dong vo, truoc 30, lo chan long: 0, mun viem do laser
+				- face mole
+		- [nose](https://thammyhanquoc.vn/nang-mui/thu-gon-canh-mui-bao-nhieu-tien.html) [wing reduction](https://www.youtube.com/watch?v=3FZwpaq0OZw)
+	- nutrition
+		- sautéing
+		- stir-frying
+		- steaming
+		- baking
+			- crinkle, flan, cheese cake
+		- grilling
+- ext
+	- brand: icondenim, bst
+	- form: babytee, 
+	- material: satin, polar fleece (nỉ)
+	- wi
+		- headphone/earpods/laptop + chargerx3, keyboard, bagx3, stand, hyperdrive, mouse, glasses cleaner
+	- edc
+		- key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216) (ridge, orbitkey - expensive))
+	- fit
+		- shoes: 1xblack-dress-leather + 1xblack-casual-sport
+		- socks: 5xblack
+		- pants: 2xblack-casual-jeans, 2xblack-casual-short
+		- belt: 2xblack
+		- [higher]( [shirts](https://shopee.vn/%C3%81o-s%C6%A1-mi-nam-C%E1%BB%95-T%C3%A0u-hai-m%C3%A0u-tr%E1%BA%AFng-%C4%91en-tr%C6%A1n-basic-v%E1%BA%A3i-l%E1%BB%A5a-%C3%A1o-s%C6%A1-mi-nam-c%C3%B4ng-s%E1%BB%9F-m%E1%BA%B7c-v%C4%83n-ph%C3%B2ng-s%E1%BB%B1-ki%E1%BB%87n-l%E1%BB%8Bch-s%E1%BB%B1-i.153602447.3493396241)): 1xwhite-dress-shirt, 3xblack-casual-tee
+		- jackets: 
+			- 2xblack-casual-shirt
+			- 1xblack-dress-blazer
+		- undies: 4xblack
+	- perfume: le-labo-santal-33
+	- contacts (daily)
+	- [eyeglasses](https://www.youtube.com/watch?v=FVPj4om505E&list=PLzi60fSuOmPBWMT-jd7GYS6EDpv3CfK5P&index=2): frame size (2 eye size + dbl (14-18, 19-22)), temple - nose pad, high index, half rimmed - seeson, chrome heart - hmk, titan

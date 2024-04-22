@@ -1,0 +1,8 @@
+- core: buyer : value (good/service) <-> value-token (cost + profit) : seller
+	- budgeting: food, utilities, medical, transportation, insurance
+	- saving
+	- investing
+- system 
+	- bank (apy, asset = liability + equity): checking (debit, check) -  credit - card, visa, paylater, e-wallet (momo, zalopay)
+	- [card scheme](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system)
+	- psp

@@ -1,0 +1,107 @@
+- [relationship](https://www.reddit.com/r/Adulting/comments/15tu9ld/how_to_know_when_to_end_a_relationship/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (rapport): [effort](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/be_a_magnet_not_a_rope/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) + [interest](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/comment/gkxo10i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (magnet, dealbreaker area)
+- system (mindset)
+	- me: hà đông (ngoại), thái bình (nội)
+	- tier1
+		- tra
+			- aniday, content marketing project lead (past bd); ha tinh (ngoai), ha nam (noi)
+				- chiikawa x sanrio, flower: *cẩm tú cầu*, cẩm chướng hồng, (hoa sao nhí - cousin), chuột lang: doan ham chi, doan ha cao (chíp)
+			- arc
+				- aniday
+					- feb23: phu quoc, nhi, company 
+					- apr24: vt, sora
+					- jun24: dalat nhi, mom
+	- tier2
+		- ngan
+			- ast thien binh, aniday delivery
+			- apartment complex
+			- gau truc fubao HQ
+			- shopee sale
+			- arc
+				- sec
+					- history specialized
+				- high
+					- english specialized
+				- hcmue
+					- military, 3 days, 4 modules
+				- aniday
+		- cheu
+			- fpt polytechnic, club (english, music)
+			- arc
+				- fpt
+					- dec23: talent show
+					- 21/2-18/4: philippines (activity hotel work, hcm unit, 77 member hn+hcm, 7h30 - 17h, orientation, manila metro (capital region), mrt, 50k meal, similar climate, vaseline, max aircon),  (ca mau, english), friend My (similar to Khiem) pregnant, last day supermarket
+					- apr24: 7-day exp ca mau's teaching english to kids
+	- tier3
+		- the gang (huy, tulong, thien, khanh, thao, cheu)
+			- huy
+				- pham ngoc thanh hospital, general kid, teaching english
+			- thien
+				- sister fpt computer science
+		- nhung
+			- motio
+				- ast song ngu, aniday cs
+				- ftu2
+					- highest floor, suicide, ghost
+					- military, quan khu 4, tiring, 1 month
+					- uni war
+		- le hien
+			- motio
+				- ast su tu, nhung's roommate
+				- ftu2 
+					- past generation
+		- hp
+			- motio
+				- huflit, hr, getlinks
+				- entertainment
+					- movie: lalaland, 
+					- music: indie, pop rock - album, single
+					- recreation: guitar, gym, cooking, reading  
+				- food
+					- no cafe
+				- dream: cafe, local artist, mini show, ~ hanoi rock city
+				- nicotine struggle
+			- socio
+				- nhung, tra
+			- m
+				- 23: birthday old coworker, VT trip,  ha noi scam
+				- getlinks
+		- minh
+			- motio
+				- house (le duc tho)
+				- work: esl kid invest (since 1st year), logistics iu (older gen, near youngest, 2002 intern pool, le quy don - dinh doc lap, jogging tue thu, work 8 - 5 sometimes OT request)
+				- recreation: pool (brother, weekends), drawing (1/year), violin (sometimes), photography
+			- socio
+				- bo me, em trai (3rd year, vnuhcm, computer science), ban gai
+				- ban be cu / moi (2nd school no)
+			- arc
+				- Tet 2/24: sri lanka (1 week, aunt, Tet)
+				- 4/24: cao lanh
+		- trang
+			- motio
+				- tp cam ranh - khánh hoà, hà nội. ftu2 (1 semester left). data (sql). bts, genshin (zhongli)
+		- vlac
+		- Ttd
+			- motio
+				- rmit, 2001, freelance, marketing, undergraduate, capstone project / internship, past projects, hue, ar/vr
+	- social
+		- trangt, giang, sora, vvien, tyen, tkhiem, phu, thuong, [datd](https://www.facebook.com/profile.php?id=100007456268645), [myt](https://www.facebook.com/khiet.my.07), huy, kim, 
+		- [phuoc](https://www.facebook.com/phuoc0702), [ghuy](https://www.facebook.com/ngh1290), [mhuy](https://www.facebook.com/nguyen.minhhuy.5055) , [chi](https://www.facebook.com/imchinguyen), 
+	- linkedin
+		- https://www.linkedin.com/in/nguyennganhani/ - https://www.linkedin.com/in/nguyen-hani-324886246/
+		- https://www.linkedin.com/in/edricthanh/
+		- https://www.linkedin.com/in/thtrang294/
+		- https://www.linkedin.com/in/giang-trandinhle/
+		- https://www.linkedin.com/in/amelia-doan/
+		- https://www.linkedin.com/in/vnaking/
+		- https://www.linkedin.com/in/truongvt/
+		- https://www.linkedin.com/in/kim-nguyen-060516113/
+		- https://www.linkedin.com/in/nam-phan-00388b187/
+		- https://www.linkedin.com/in/huyvo020801/
+		- https://www.linkedin.com/in/jane-nguyen-3063a2183/
+		- https://www.linkedin.com/in/daopham241/
+		- https://www.linkedin.com/in/hong-nhung-do-462281240/
+		- https://www.linkedin.com/in/my-trankhiet/
+		- https://www.linkedin.com/in/-nguyen-tien-hung/
+		- https://www.linkedin.com/in/ngocanh-dao/
+		- https://www.linkedin.com/in/suong-tran-99er/
+		- https://www.linkedin.com/in/kyaw-lin-thant/

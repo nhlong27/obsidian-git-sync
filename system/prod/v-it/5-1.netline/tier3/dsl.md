@@ -1,0 +1,24 @@
+- [dsl](https://stackoverflow.com/questions/809574/what-is-a-domain-specific-language-anybody-using-it-and-in-what-way#:~:text=domain%2Dspecific%20language%20(DSL),or%20a%20particular%20solution%20technique) query (sql, graphql), document (html, css), data storage & exchange (xml, yaml)
+	- html
+		- implementation: html + js, html template languages, web component (htmx), library/framework
+			- innerHTML, innerText, textContent
+		- tags + attributes
+			- doctype DTD (public, system identifier), html (xmlns, lang), head (base, script, type=module, link, meta-viewport)
+			- input: form (fieldset, input (type (reset, hidden), pattern), label, readonly vs disabled), select (option)
+			- display: table (thead/body/footer, tr, th, td), map (area), [iframe vs embed vs object](https://stackoverflow.com/questions/16660559/difference-between-iframe-embed-and-object-elements) (mime), meter vs progress, title vs name, target (blank, self, parent, top, frameName)
+		- semantic html, wai-aria,, data-, [shadow dom](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/) 
+	- css
+		- specificity - selector: >, +, ~
+			- 1000 inline styles
+			- internal, external style sheet
+				- 100 id
+				- 10 class, pseudo class (style to specific class), attr selector (^, $, ~, |, *)
+				- 1 el, pseudo el (style to specific el)
+		- types: extensions (preprocessor , tailwind) + style systems + behavior libraries -> component libraries
+			- layout (box-sizing, display, float, position, z-index), flexbox (flex-flow, align-content, align-self), grid (grid-area, grid-template), box alignment, borders, sizing (dvh), spacing, backgrounds, typography
+				- grid, [flex](https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties) 
+			- effects, filter, interactivity, transform, transition
+		- :checked, :disabled, :enabled, :empty, :not(), :target, ::first-line
+	- sql
+	- *linux*
+		- commands: pwd, cd (- ~ ..), ls (-R -lh), cat, cp (-R), mv, mkdir (-p, -m, -v), rmdir, rm, touch, code / vi / nano

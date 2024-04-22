@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "15cedc75c969dc7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e9d4a3671a53de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b73443e324c88f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024/4/2024-04-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "324d531f9b96d8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/s/career.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56b1696f8d85af53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/m/high.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3a012f632fbecf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/m/high.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4d629991592580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/s/pre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "074e7ff1c1d8e349",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d4c3b4837fc8ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86db6f543993f9a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80a5a49faf4c0a35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c34105a8e4b603ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f47802d9c020cc91",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d17ac958f1bda8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b5b22ea9853909",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "system/prod/m/high.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87414fa491f0706f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "system/prod/m/high.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e86ea56e1fa2597d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be0cd0fcad139807",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "system/prod/m/high.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "56b1696f8d85af53",
+  "lastOpenFiles": [
+    "system/prod/m.md",
+    "system/prod/m/high.md",
+    "system/prod/s/career.md",
+    "system/prod/m/lbase.md",
+    "system/prod/s/social/core.md",
+    "system/prod/s/social/draft.md",
+    "system/prod/s/pre.md",
+    "daily/2024/4/2024-04-22.md",
+    "system/prod/core.md",
+    "daily/2024/4/2024-04-19.md",
+    "system/prod/s/social/network.md",
+    "daily/2024/4/2024-04-17.md",
+    "daily/2024/4/2024-04-14.md",
+    "daily/2024/4/2024-04-15.md",
+    "daily/2024/4/2024-04-16.md",
+    "daily/2024/4/2024-04-13.md",
+    "daily/2024/4/2024-04-12.md",
+    "daily/2024/4/2024-04-10.md",
+    "system/prod/v-it/5-1.netline/tier3/dsa.md",
+    "daily/2024/4/2024-04-09.md",
+    "daily/2024/4/2024-04-08.md",
+    "daily/2024/4/2024-04-06.md",
+    "daily/2024/4/2024-04-05.md",
+    "daily/2024/4/2024-04-04.md",
+    "system/prod/v-it/timeline.md",
+    "daily/2024/4/2024-04-03.md",
+    "daily/2024/4",
+    "system/prod/core",
+    "daily/2024/3",
+    "daily/2024/2",
+    "Excalidraw",
+    "l",
+    "system/core/v-it/Untitled",
+    "system/core/s/social/meta",
+    "daily/2024/1",
+    "daily/2024"
+  ]
+}

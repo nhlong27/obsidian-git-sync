@@ -1,0 +1,97 @@
+- relationship (rapport): [effort](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/be_a_magnet_not_a_rope/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) + [interest](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/comment/gkxo10i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+	- imp
+		- bodlan
+		- voice: shadowing
+			- pitch
+			- rate
+			- volume
+	- thre
+		- map
+			- higher
+				- careful when to hold the most power (for example, who invites everyone else)
+				- info (fragmented - spaghettied)
+				- emotion
+					- story = memory <- emotion, details around that [emotions] more chances for threads
+		- gen
+			- dic
+				- en
+					- aug23: government, within, walk, although, college, development, society, treatment, professor, executive, camera, throughout, challenge, magazine, marriage, civil, painting, senior, hierarchy, hierarchical, sudden, southern, fresh, species, insurance, scale, european, presence, worth, failure, procedure, chairman, threaten, negative, fuel, corporate, towel, conclusion, difficulty, recommend, stress, content, actually, ensure, estate, ancient, bowl, pour, necessarily, resolution, bomb, secretary, typically, physician, wrap, prosecutor, housing, comparison, alcohol, arab, existence, consistent, online, occasion, breathe, investigator, ordinary, vs, competitive, transfer, illustrate, breakfast, veteran, confront, pure, nearby, accompany, exhibition, consultant, administrator, mayor, stomach, suggestion, elementary, absence, latin, rapidly, origin, advise, onion, islamic, refugee, incorporate, extraordinary, satellite, portrait, cooperate, testimony, literary, fortune, occupy, accurate, whereas, bullet, scenario, natural, finance, diverse, behind, pronunciation
+					- sep23: unknown, protest, possess, political, loose, considerable, headquarters, shelter, controversy, alter, establishment, pollution, variation, immersion, agile, scavenge, cashier, perfume- hysterical, hyena, dermatology, eavesdrop, elusive, blossom, league, metaphor, junkyard, forfeit, mature, else, schematic - some ways of keeping myself entertained, the more the merrier, bow out, cat's out of the bag, distribute, vulnerable, capability, gradually, ongoing, economist, consume, tobacco, explosion, whistle, generosity, anonymous, commandeer, ruin, shovel - under the hood, behind the scenes, strengthen, sophisticated, barrel, glove, photography, stroke, detailed, laboratory, auto, orange, edition, shove, rotten, insult, misinterpret, release, garage, operator, heritage, shrug, wound, furthermore, sanction, consciousness, nomination, acid, distinguish, discourse, persuade, subsequent, rhythm, exhibit, chase, horror, colonial, confusion, confuse, cognitive, dramatically, decrease, regulate, cure, abuse, reign, disease, voluntary, ache, thievery, treasure, of course, crew, horizon, adolescent, northwest, interrupt, salmon, stem, sculpture, compound, flour, subtle, medal, integrity, essence, exclude, closet, islam, roman, korean, mainstream, suburb, legislative, array, burst -bust, inevitable, supervisor, diagnosis, warrior, infrastructure, privilege, delicious, vapor, etiquette leap, pond, continuing, simultaneously, transmission, colony, indigenous, alarm, wherever, rhetoric, rhetorical, injure, mandate, mailmen, orphanage, luxury, visual, epiphany, calendar, mechanism, compromise, fork, sidewalk, olympic, pension, sodium, delicate, doll, anxious, residential, precinct, diversion, thorough, closure, expertise, elegant, casual, opera, wildlife, elevator, endorse, realm, recipient, bias, inventory, popularity, cereal, oven, cologne, precious, trailer, accuracy, nominee, alleged, donate, aisle, changed, owe, transfusion, foul, separate, dinosaur, advise - advice, alternative, rampant, luxurious, afterward, lane, shrimp, vaccine, jewelry, wagon, alongside, drawer, sheep, onward, ideological, intimate, whale, alumni, skull, entrepreneur, bureau, ambitious, christianity, aesthetic, haphazard, appreciation, tumor, decorate, pulse, alley, icon, consequently, legislature, unprecedented, columnist, preliminary, patent, disabled, hormone, frontier, stimulate, debut, proclaim, confrontation, fierce, protocol, marketplace, terrain, genre, hurricane, retailer, coup, journalism, robot, likewise, persian, sphere, tighten, validity, ecosystem, streak, mentor, debris, developmental, cemetery, deliberate, embarrass, eligible, processor, plunge, refuge, elaborate, triumph, comparable, transport, conscience, hypocrisy, cease, electricity, parameter, allegedly, philosophical, municipal, grandparent, cruise, mobile, opt, soar, threshold, overnight, corpse, cuisine, sewer, obscure, commotion, rigorous, representative, olive, exhale, radar, rehabilitation, surveillance, harvest, sovereign, contributor, transit, seminar, economically, profile, commentary, patronize, lever, twentieth, foreigner, bolt, diplomat, vacuum, dictate, naval, proceed, hassle, cleanse, caterer, behest, recede, chasten, tether, discrepancy, regurgitate, parachute, attic, champagne, dosage, ambulance, comforting, unerring, distraught, trellis, afoot, probate, exclusion, discord, prenup, undue, salami, presumptuous, weariness, scrutiny, awry, patriarch, malice, heinous, syringe, rendezvous, vicious, wreak, absorb, gurgle, relish, altruism, infectious, dementia, latch, nourish, compass, puzzle, momentary, extravagant, stir, serenade, genial, reclamation, commune, apprentice, predefinite, legit, trifle, toot, foil, tribute, infraction, incredulity, partay, heirloom, autopsy, acute, convene, envelope, reverence, outrageous, buttress, aground, perjure, expeditious, confound, ransack, numbing
+					- oct23: insincere, smear, deify, tortoise, cerebellum, ghoulish, relinquish, lenient, renounce, dismantle, divorce, tack onto, mislead, pierce, moisture, perpendicular, brine, segue, subsist, serum, seize, arbitrary, erode, agony, barbaric, toxicity, regime, agitate, secrete, run amok, plummet, entice, wafer, necklace, campaign, chasm, yawning, clandestine, rad, cantina, accord, dunce, deterrence, variable, mediocre, vacuous, eschew, continuity, sentient, nazi, hospice, ominous, obnoxious, impede, usurp, spiel, scrunch, wail, wilt, bile, wriggle, suffice, meticulous, choreograph, wrath
+					- jan24: average - trivial - unimportant - neligible - inconsequential - trifling, flight of stairs, in lieu, make do / get by / manage with, motivating vs motivational, between two groups
+					- mar24: iota, fief, acolyte, duress 
+					- apri24: serendipity
+				- vi
+					- other: chằm zn, xà lơ - sai lơ, đồ đệ - đệ tử, gãy, sào phơi, mồ chôn - mộ - mả, điển hình - tiêu biểu, khúc mắc - uẩn khúc, sành sỏi, lược sử, biên niên sử, kế sách, thâm tâm, nhuệ khí, săm xe, tiềm năng, truong phong / chu tich / thuỳen trưởng, thanh cảnh, tinjuan, biệt ngữ xã hội, gậy gộc, hình rẻ quạt
+						- freq: thường nhật
+						- env: hiu quạnh
+					- adj: sành sỏi, phóng túng, phè phỡn, giàu nứt vách, khuây khoả, ngả ngớn, bí xị, phù phiếm, tần ngần, rũ rượi, thích đáng, bất giác, gạo cội, nhanh nhảu, nền nã (nết na, điềm đạm), nhộn nhạo / nao nao, da diết, bèo nhèo, lùng nhùng, lùng bùng, xô bồ, bánh bèo, tung tăng, ào ạt, cuồn cuộn, lấp lánh, dồn dập, tĩnh mịch, vương vấn / vấn vít, hung hãn, tang tảng, nguy nga diễm lệ, bồng bềnh
+						- group: la liệt, ngả ngốn
+						- excl: vãi chưởng
+					- verb: lộ liễu, hẹo, thài, nếm trải, ghé-quẹo, nhấm nháp / nhâm nhi, gặm, tâng bốc, giác ngộ, đàm đạo, giấu giếm, hấp thụ, xả láng, kiếu, trổ bóng, trệu trạo, cuỗm, xà nẹo, phung phí, đú đởn, nhã hứng, nhượng bộ, tủm tỉm, chực, ngấm ngấu, quyện nhuyễn, khắc khẩu, bập bẹ, bù lu bù loa, lê la, bẽn lẽn, hí hoáy / loay hoay, lồng lộn, đổ dầu, câu nệ, hỏi han, nô đùa / giỡn, thích thú, lang thang, du ngoạn, chập chững
+			- exag
+				- lap luan ng dung fb - lo hong
+				- bỏ tư bản lên cộng sản
+				- lúc lạnh lúc nóng / khó đoán hơn bồ
+				- sự nghiệp của kicm - rách
+				- có xét nghiệm ko
+				- chỉ có sĩ k có hiệp
+				- bác sĩ bảo hay vậy ba / bất ngờ trời, tí vô coi miệng a ấy có sủi bọt ko, đẩy ra thuyền sáng thấy ở bến bạch đằng
+				- giáo dục công dân mở mồm ra là dm, sống lỗi, sống giả tạo, 
+				- trà chắc dưới 52k. lỡ khen r khen 25k đi đừng 52k nữa
+				- t2 thấy nhận dc lương, gửi mail thấy final. cảm ơn e đã góp dui, đủ dui r k cần e nữa, sự hiện diện của e là có hại cho cty
+				- sáng mai k thấy e thì mn báo công an liền nha. lúc đó e sình bụng r, e hết hạn sử dụng r
+				- má giống như hổng ai hưởng ứng hết, quay xong xoá clip đi nha, k ai join hết á, rất là quê nha
+				- a tú nhuộm tóc k a, nhuộm màu cháy nắng, xui a thì a sẽ đi tu, tên của a sẽ mất dấu, a Tu
+				- ambulance k a, e muốn dc ship nhanh
+				- đừng có mở mồm, toàn chất hoá học
+				- tái hòa nhập, sắp cai nghiện thành công r
+				- ôm cái cột, thấy mỏi háng quá
+				- đến cồn chơi mình
+				- đừng cãi nhau nữa đánh nhau luôn ik
+				- pho mai con bò cười ỉa cười lăn lộn
+				- i love youtừbé, di vo long em cung dc
+				- het roi nhung lam đầy dc a
+				- muon dong gop vi ng ngheo nhung minh là ng ngheo, bedroom session
+				- sương khói mờ nhân ảnh
+				- di cư
+				- đi xe rồng
+				- mũ bảo hiểm sinh ra để bảo vệ não
+				- đào bưởi - vú
+				- vừa có tiền vừa có quyền
+				- cứ 1 mét vuông có - 2 quán trà đá, 1 cơm tấm, 10 thằng ăn trộm
+				- landmark, ngón giữa chọc trời
+				- đừng dạy nhà giàu cách tiêu tiền
+				- quan hệ với nhị vị sinh ra bạn
+				- đừng bóp còi có phải việt nam vô world cup
+				- hà nội ngàn năm văn vở
+				- điều kiện thời tiết cần phải mưa thì mới có chỗ này
+				- biệt đội grab part time
+				- người anh em 2 bánh / 4 bánh
+				- nhức cái nách,
+				- con gà kêu (game)
+				- thời tiết đẹp ngày bạn nghỉ và mưa rất to khi bạn đi làm
+				- kiếm dc đủ tiền để sống từ h đến cuối đời, miễn sao chết vào cn tuần này
+				- 2024 phải kiếm dc 300 triệu, thế h chỉ cần 1 tỷ nữa thôi là đạt dc mục tiêu r
+				- tìm ở mọi góc của trái đất, có điều trái đất hình cầu
+				- phân tích tác phẩm theo ý của em và chấm điểm theo ý của cô
+				- nhất cự li nhì tốc độ
+				- đeo lắc bạc, nhà nước nuôi
+				- bình sữa, bình rượu, bình truyền nước, bình tro
+				- tư sản -> vô sản cuộc cách mạng hôn nhân
+				- đắc nhân tâm là cuốn sách giáo khoa lớp 1
+				- con gái là cỏ rác đầy đường, thích hái lúc nào thì hái
+				- tia nắng nhảy nhót đùa nghịch như trẻ nhỏ (nước)
+				- tình yêu bự - lực tay to
+				- nó như củ loz, nhưng ngoài cái đó ra thì gì cũng tốt
+				- xi măng trong mái lều
+				- hải quay xe
+				- góc ăn tiền / tiền âm phủ
+				- anh *chả* ngon à (Như)
+			- wordplay
+				- su kem, khoan hồng / không hoàn, trai dìm - zai chìm - lowkey, phí phụ thu / thụ phu, hard to get / get hard, vân vân và mây mây, hay cực/ hư cac, đinh tặc/ đặc tinh, nấu lưng / nứng lâu, sặc 1 cục/ sục 1 cac, toả là hương / tưởng là hoa, chính đạo / chính đụ, ý hàng sao - áo hàng si, châu âu - châu quảng, thành công - cổ thụ, tăng hai / ba tăng xông, tiền - tiền đồ trắc trở, tiền đình, hệ luỵ, guccirkle k - disney chanel - luôn vuituoi, ôm cua úp vỉa, mốt như lìn, chè hột la, báo đời (về đời sống), khuân bốc/ bốc đầu, biển / số xe, phố / đèn đỏ, số nhà đánh số chẵn lẽ như nhà cái, củ chi / chỉ cu, bến thành / thánh bền, chặt heo dùng tứ quý, áo mưa trap boi / trap girl, mùa đông / vcl, bulon, bắc / nam kỳ chó, hmong bên bếp lửa, mường tè bên gốc cây, bú fami, bóp / vớ / quất /thịt chị đi em ơi, bình xuôi / buồi xinh, biệt thự / thiệt bự, nặng kí / kị nắng, đá vào miệng chai / đái vào miệng cha, trân trọng / trong trận, xiết nợ / biết sợ, ta không thể ngủ / ngu không thể tả, chủ đị / chỉ đụ, chất lượng / lượng châm, lượng nơ, công tác xã hội đen, mút / tụt mút, sờ / sờ trét, ielts/ ai iêu, tô ích / tô xích, kế / kế toán, vị thế cao / điện cao thế, thua keo này ta bày keo chó, toán tìm ích (x), đạo / đạo hàm, không gian / dối, định luật ôm, tụ điện / tiện đụ, tái sinh / đẻ chưa chín, yếu cơ / cớ yêu, dạy / thì, đang chuyến mại vô cùng lớn, cờ su / sờ cu, đây dồi / đôi dầy, nỗi lòng / nóng lồn, đạn đu / đan đụ, thấy mẹ chưa, diịeoubu, vớ quá cũ / vú quá cỡ, kệ cả ngụ / nghệ cả củ, hưng láy / hay nứng, cuốn / hút, chanh thần / chân thành, một vãi lền
+			- reaction phrase + core.meta (emoticons in texting)
+				- that's/that sounds great/noice/nice/lovely/wonderful/fantastic/amazing, lucky you, i envy you, congrats, glad/happy to hear,
+				- unbelievable, are you serious, no kidding, no way, you're joking, holy, damn, wild, really, 
+				- that's/that sounds awful/terrible/too bad/a shame/a pity/a nightmare/stressful, oh no, i'm sorry to hear that, tell me about it
+

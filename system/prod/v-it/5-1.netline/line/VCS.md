@@ -1,0 +1,49 @@
+- object database (key-value): commit (ID, previous, author, committer, message, tree ~directory(, ID, blob file IDs))
+- strategy
+	- branching --> complexity, rapid development vs stability
+		- git flow: main, develop - feature, release (tag), hotfix
+		- trunk-based
+	- repo --> flexibility vs consistency
+		- mono-repo: yarn workspaces, lerna, turborepo
+		- micro-repo 
+- [commands](https://antonz.org/git-by-example/?ref=dailydev)
+	- basics: --cached/--staged, --global
+		- git init
+		- git config user.email alice@example.com
+		- git config user.name "Alice"
+		- git config --list --show-origin
+		- git add .
+		- git diff --cached / commit1 commit2 --name-only
+		- git commit -m "" ([markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+		- git commit -am ""
+		- git mv a b
+		- git rm a
+		- git status
+		- git log --all --oneline --graph --decorate -n branch --pretty=format:'%h %an %s %d'
+		- git reflog 
+		- git shortlog -ns
+		- git show HEAD~n
+		- git grep "" HEAD~n
+	- branch & merge
+		- git branch -m oldname newname
+		- git [checkout](https://stackoverflow.com/questions/57265785/whats-the-difference-between-git-switch-and-git-checkout-branch) --theirs/--ours | branch -- file1 file2
+			- switch: git switch -c branch | git checkout -b branch
+			- restore: git restore HEAD~n | git checkout HEAD~n
+			- git clone --no-checkout + git sparse-checkout init --cone + git sparse-checkout set directory
+		- git merge --no-ff branch -m "" | --squash branch
+		- git rebase -i
+		- git cherry-pick
+	- [local & remote](https://kbroman.org/github_tutorial/pages/init.html)
+		- git branch --all
+		- git remote add origin remote
+		- git clone remote base --no-checkout
+		- git push -u origin branch
+		- git pull
+		- git [tag](https://stackoverflow.com/questions/3790669/git-is-a-tag-unique-per-commit) (log --decorate, push --tags) HEAD~n -l -d ([rename](https://stackoverflow.com/questions/1028649/how-do-you-rename-a-git-tag), [edit](https://stackoverflow.com/questions/7813194/how-do-i-edit-an-existing-tag-message-in-git), [release](https://git-scm.com/book/en/v2/Git-Basics-Tagging), [versioning](https://www.gitkraken.com/gitkon/semantic-versioning-git-tags) [2](https://frontside.com/blog/2022-02-09-semver-or-calver-by-project-type/))
+	- undo
+		- git commit --amend -m "" | git rebase -i HEAD~n
+		- git restore --staged file
+		- git reset --soft/--hard HEAD~n
+		- git revert HEAD~n --no-edit ([removing remote file](https://daily-dev-tips.com/posts/removing-a-env-file-from-git-history/))
+		- git stash list/pop/apply/clear/show -p stash@{1}
+		- [rename remote branch](https://stackoverflow.com/questions/6591213/how-can-i-rename-a-local-git-branch)

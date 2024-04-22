@@ -1,0 +1,104 @@
+- roadmap
+	- arch
+		- [[tier1.2.5|verStruc]]
+			- tier3
+				- [dsa](https://roadmap.sh/computer-science)
+			- tier4
+				- [frontend](https://roadmap.sh/frontend)
+					- [javascript](https://roadmap.sh/javascript)
+						- [typescript](https://roadmap.sh/typescript)
+					- [react](https://roadmap.sh/react)
+					- [best practices - performance](https://roadmap.sh/best-practices/frontend-performance)
+				- [backend](https://roadmap.sh/backend)
+					- [nodejs](https://roadmap.sh/nodejs)
+					- [java](https://roadmap.sh/java)
+						- [springboot](https://roadmap.sh/spring-boot)
+					- [mongodb](https://roadmap.sh/mongodb)
+					- [sql](https://roadmap.sh/sql)
+						- [postgres](https://roadmap.sh/postgresql-dba)
+			- [tier 5](https://roadmap.sh/system-design) [2](https://roadmap.sh/software-design-architecture)
+		- [[net]]
+			- [best practices - api security](https://roadmap.sh/best-practices/api-security)
+	- [pipeline](https://roadmap.sh/devops)
+		- [best practices - code reviews](https://roadmap.sh/best-practices/code-review)
+		- [docker](https://roadmap.sh/docker)
+		- [aws](https://roadmap.sh/best-practices/aws)
+- tier 1
+	- architecture ([[specs]])
+		- CPU (registers, ALU, CU, SRAM L1-L2-L3)
+		- RAM
+			- page (virtual address chunks) -> secondary memory (swapped pages)
+		- SSD + HDD
+		- ROM
+			- firmware: bios, hypervisor (type 1)
+		- display
+			- resolution, bit depth (per color RGB)
+				- https://www.danrodney.com/blog/retina-web-graphics-explained-1x-versus-2x-low-res-versus-hi-res/#:~:text=2x%20graphics%20are%20twice%20the,have%20the%20same%20size%20pixels
+				- https://www.youtube.com/watch?v=9d-6Alkcymo
+	- specs
+		- CPU
+			- Intel Core i5, i7 (i7-9750H 2.60GHz x64, 64-bit OS), Xeon
+			- AMD Ryzen 5, 7, ARM for mobile -> Apple Silicon, SoCs, NVIDA Tegra
+		- RAM
+			- 8-16GB (8GB DDR4 2666MHz) + 64 bit data width -> (DDR) 128 bits
+		- GPU: +VRAM (specialized for graphics =/= CPU general purposes)  
+			- NVIDIA GeForce RTX, GTX, Quadro, Tesla (GTX 1650 4GB GDDR5)
+			- AMD Radeon RX, Pro
+		- storage 
+			- flash storage -> SSD (512GB SSD M.2 2242 NVMe)
+			- HDD
+			- Hybrid (SSD as cache))
+		- IO
+			- ports (2x USB 3.1, 1x USB 3.1 Type-C, HDMI, RJ-45), USB, HDMI, Ethernet
+		- display 
+			- HDR, refresh rate, Panel type (response time, contrast, viewing angle): TN, VA, IPS
+- tier 2
+	- kernel [embedded ?](https://www.quora.com/Do-all-embedded-systems-have-an-operating-system/answer/Tom-Crosley-1?ch=17&oid=75550492&share=144939ae&srid=y5Rp&target_type=answer)
+		- process (program instance) mgmt (memory page - fixed length continuous block virtual memory, PCB)
+			- thread mgmt 
+				- registers (stack pointers, program counters) + stack ( unwinds itself -> local, func, pointer)
+			- heap (dynamic)
+			- data (global)
+			- code (instruction)
+		- memory & storage mgmt 
+			- file system: mac (System + Users/user + hidden library), windows (Windows + Users/user + hidden AppData (local, low local (low integrity, security), roaming (across computers in same domain)) vs program files (shared, installed not modified) vs programData (shared, modified)), linux (boot + home/user + hidden dot files)
+		- device mgmt: drivers + APIs
+			- graphic apis: DirectX (win), Metal (mac, ios), Vulkan (android), opengl (unix) ->  OS graphic driver -> gpu -> frame buffer -> display controller -> monitor
+			- system apis/system call interface: windows api, posix (unix)
+			- network apis: winsock, ... -> OS network driver -> network adapter/network interface card
+			- I/O apis: standard C library, directx directinput
+	- shell - communicates with kernel though api/wrapper functions (system calls are how api implemented) 
+		- gui
+		- cli: mac (Zsh), windows (cmd), linux (bash)
+- tier 5
+	- use case
+		-  [payment system](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), ledger (pending, completed) / wallter (balance - pending)
+	- principle
+		- ddd
+	- pattern
+		- design (blueprint) vs algo (recipe):
+			-  IoC - DI
+			- creational: abstract factory vs factory method (composition vs inheritance), builder
+			- structural: adapter, facade, proxy, decorator
+			- behavioral: iterator, [strategy](https://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface)
+				- observer
+					- publish-subscribe
+				- command
+				- cqrs
+				- event sourcing
+				- mapper
+				- dto
+		- architecture
+			- db: replication, sharding
+			- EDA (message queue)
+			- cms: headless (strapi) vs tranditional (wordpress)
+			- distributed
+				- event-bus
+					- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
+	- data
+		- ai -(nlp, ip, robotics) 
+			- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)
+				- deep learning - nlp (RNN, LSTM, CNN, word embedding, attention mechanism, transformer (BERT, GPT)) 
+				- fine-tuning, hyperparameter, 
+				- recommendation system
+	- mobile 50MB (zip - icon, images), game - web game, chat lag - chat app

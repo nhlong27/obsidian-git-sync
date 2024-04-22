@@ -1,0 +1,116 @@
+- others
+	- seo (se - serps)
+		- onpage
+		- offpage (keyword research, backlink)
+			- mailbluster
+			- e27, techinasia
+- it
+	- employement hero  (Ly Gioi An, friends, QA, voz, youtube) 100 (4.5 left) [1](https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/post-27554372)  [2](https://voz.vn/t/event-box-cntt-2023-chia-se-kinh-nghiem-phong-van.694369/post-23521883) [jd](https://www.linkedin.com/jobs/view/3867616151/?refId=0b8e05c5-c234-4901-a955-e3d7dab3c9b7&trackingId=%2B9tEhyN5Tk6PxSahbDu1%2Fg%3D%3D) [75% situational 25% behavioral (25 design + 0 leadership)](https://www.youtube.com/watch?v=0Z9RW_hhUT4&t=330s)
+		- round1
+			- criteria 25
+				- cognify 5 - 10
+				- employee personality profile 12 - 15
+			- colidity 70 (task score: correctness + performance) - difficulty (medium), scope (divide & conquer, recursion, bruteforce), ide (NO)
+				- test suite 1
+				- test suite 2
+		- round2: English live coding (ds optimize), EM (simon), flow (features, focus around HR)
+		- round3: English culture fit [1](https://reviewcongty.com/companies/employment-hero/review/61d5b83f5c627f39a5f648cc) [2](https://www.youtube.com/watch?v=y-ueVqgeq9M&t=123s) (research company, soft question, past company, altitude, mindset) (Nếu em bây giờ công ty không còn dự án về Ruby nữa thì em làm sao?)
+	- 5-1:netline: tier 1
+		- ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
+			- [function guard clause](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+		- client (performance)
+			- browser vs node (open-source, non-blocking i/o)
+				- architecture
+				- js single-threaded (blocking)  -> event loop (non blocking)
+					- stack + browser queue (micro + macro) / [node queue](https://www.youtube.com/watch?v=AiPrW8zAiL4) + [thread pool](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113) (I/O: file system, network, database, ) / webapi (I/O: dom event, ajax calls, timers + callbacks (firstclass js))) 
+			- html-css-[ts]
+				- async
+					- callback (callback hell->), promise, await
+					- [deadzone](https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev)
+			- [react]-[redux]-next
+		- server (performance, cqrs, rxjs, mvc)
+			- runtime node
+			- db
+				- nosql + sql (when & why)
+			- nest
+		- netline
+			- osi
+				- http to nginx, bring authentication header or not, into app become what object
+				- socket
+			- api (security)
+				- webhook
+			- network (auth)
+				- expired token solution (localstorage + refetch token < cookie + exp time)
+			- line.code
+				- solve git conflict
+				- aws basic services
+				- software engineering processes (agile, testing, think like an engineer?)
+	- seek
+		- screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
+			- companies
+				- nodeflair, supercoder, employment hero, qode jobs
+				- grab
+			- event
+				- [14/3 tech after dark](https://quickom.net/event/tech-after-dark-pi-day-edition--1496)
+				- [27/4 hackhcmc](https://www.eventbrite.com/e/hackhcmc-2024-tickets-813737941087)
+				- [3/7 hex](https://allevents.in/ho%20chi%20minh%20city/hex-networking-night-in-ho-chi-minh-city/10000868004072547)
+		- interview [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
+			- experience
+			- project
+				- webscrape
+					- [install node, git, docker, aws-cli, terraform](https://www.youtube.com/watch?v=-atblwgc63E)
+					- gh cli token: in webscrape-playground .env
+					- [file system - case sensitive](https://unix.stackexchange.com/questions/230090/differences-between-home-root-and-usr)
+				- firmedia
+					- goal 
+						- interested in how to build a movie site, how server and crud work, how auth works with jwt
+						- try vite, full ts, experimenting with state management libs like jotai, zustand, deploy on the web
+					- state
+						- architecture
+							- client: react/ts + vite, tailwind, jotai, zustand
+							- server: 
+								- [JWT-based](https://stackoverflow.com/questions/75635389/secretorprivatekey-must-be-an-asymmetric-key-when-using-rs256)
+								- express + restful api (zod)
+								- mongoose/mongodb
+						- pipeline
+							- deploy: onrender, railway.app
+				- dengue-defense
+					- goal 
+						- refactored from thesis project, interested in building an application integrated with IoT devices to help combat dengue. How pub/sub works and when to use it
+						- how trpc and type-safe api work, try session based auth. Implement polling to kafka and save telemetries to time series database. Deploy to ec2 instance
+					- state
+						- architecture
+							- client: next/ts, tailwind (shadcn, recharts), jotai
+							- server: session-based next-auth, trpc (zod), prisma/postgresql + timeseries, kafka pub/sub
+						- pipeline
+							- deploy: vercel, supabase
+				- ecommerce
+					- goal
+						- interested in how ecommerce site architecture works, use saas like stripe checkout and webhook. As for data, scrapes websites like pepsico, but the data changes often so set up a cron job push to kafka topics, and consumes in a service that updates data in mongodb
+						- try next api routes with next auth, graphql for crud. postgresql for storing users, orders, cart items that have strong relationships and mongodb for products because query faster. Also a redis cache layer to query products only (because products don't change much, not have to deal with cache invalidation). For client use redux for state management
+					- state
+						- architecture
+							- client: next/ts + tailwind (shadcn), redux
+							- server: 
+								- JWT-based next-auth [1](https://stackoverflow.com/questions/73982523/nextauth-selecting-a-different-google-account-for-login), [2](https://stackoverflow.com/questions/74089665/next-auth-credentials-provider-authorize-type-error), [3](https://stackoverflow.com/questions/69234170/difference-between-usesession-and-getsession-in-next-auth), [4](https://github.com/nextauthjs/next-auth/issues/693), [5](https://www.youtube.com/watch?v=yCJH72nZ8DI&list=WL&index=4&t=446s), [6](https://remaster.com/blog/next-auth-jwt-session), [7](https://authjs.dev/guides/basics/refresh-token-rotation), [8](https://next-auth.js.org/getting-started/client), [9](https://authjs.dev/guides/basics/pages), [10](https://next-auth.js.org/tutorials/securing-pages-and-api-routes), [11](https://www.youtube.com/watch?v=VP-RCddbjrc), [12](https://www.oauth.com/oauth2-servers/access-tokens/access-token-response/), [13](https://www.youtube.com/watch?v=RJpevpbC4YY)
+									- JWT verification: middleware vs api routes vs getServerSideProps (getServerSession, getToken) 
+								- next api + graphql (zod) [1](https://www.youtube.com/watch?v=2cB5Fh46Vi4&t=200s), [2]( https://stackoverflow.com/questions/62690747/next-js-api-is-back-end), [3](https://stackoverflow.com/questions/74621518/how-to-get-api-call-origin-in-nextjs-api-endpoint), [4](https://github.com/TanStack/query/discussions/3448), [5](https://stackoverflow.com/questions/74063463/how-do-i-wait-for-next-auth-session-before-using-usequery), [6](https://www.reddit.com/r/reactjs/comments/oqx5me/apollo_client_vs_reactquery_help_me_choose_do_i/), [7](https://stackoverflow.com/questions/74064124/react-query-usemutation-no-overload-matches-this-call)
+								- prisma/postgresql, mongoose/mongodb, redis
+								- kafka pub/sub service + cron job
+								- s3 + image
+									- next Image src
+										- relative/absolute paths, imported module, [data uri](https://css-tricks.com/data-uris/)
+									- from client to server
+										- [multipart/form-data](https://stackoverflow.com/questions/66797673/how-can-i-send-image-from-client-to-server-node-js-react)
+										- [multer middleware](https://stackoverflow.com/questions/66457571/multer-doesnt-return-req-body-and-req-file-using-next-connect) 
+										- "unsupported body payload"-[stream the image file](https://stackoverflow.com/questions/60789156/aws-s3-file-upload-with-node-js-unsupported-body-payload-error) 
+									- S3 [best practice](https://stackoverflow.com/questions/33279153/rest-api-file-ie-images-processing-best-practices)
+										- [putObject vs upload](https://stackoverflow.com/questions/38442512/difference-between-upload-and-putobject-for-uploading-a-file-to-s3)
+									- [make S3 public](https://www.youtube.com/watch?v=4zrupVYqQFs&t=338s)
+							- service: Stripe checkout, webhook
+								- *provided*: Checkout: Order summary, Shipping/Billing info, Payment method, Payment details, 
+								- Payment Gateway -> PCI, DSS - Risk check/ Fraud prevention
+								- Payment Processor <-> Acquiring Bank <--> Card Schemes <--> Issuing Bank
+								- ![[Pasted image 20230708134057.png]]
+						- pipeline
+							- deploy: vercel, railway.app, s3
