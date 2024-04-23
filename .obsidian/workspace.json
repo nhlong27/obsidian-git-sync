@@ -32,43 +32,18 @@
             }
           },
           {
-            "id": "56b1696f8d85af53",
+            "id": "62aa3cc3a53bbb83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/m/high.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3a012f632fbecf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/m/high.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4d629991592580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/s/pre.md",
+                "file": "system/prod/v-it/5-1.netline/line/core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/m/high.md",
+                "file": "daily/2024/4/2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/m/high.md",
+                "file": "daily/2024/4/2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,16 +149,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/m/high.md"
+                "file": "daily/2024/4/2024-04-22.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +171,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56b1696f8d85af53",
+  "active": "b73443e324c88f49",
   "lastOpenFiles": [
-    "system/prod/m.md",
-    "system/prod/m/high.md",
+    "system/prod/v-it/5-1.netline/line/core.md",
+    "system/prod/v-it/5-1.netline/line/VCS.md",
     "system/prod/s/career.md",
+    "system/prod/m/high.md",
+    "system/prod/m.md",
     "system/prod/m/lbase.md",
     "system/prod/s/social/core.md",
     "system/prod/s/social/draft.md",
@@ -222,8 +199,6 @@
     "daily/2024/4/2024-04-06.md",
     "daily/2024/4/2024-04-05.md",
     "daily/2024/4/2024-04-04.md",
-    "system/prod/v-it/timeline.md",
-    "daily/2024/4/2024-04-03.md",
     "daily/2024/4",
     "system/prod/core",
     "daily/2024/3",
