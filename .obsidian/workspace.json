@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/4/2024-04-22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324d531f9b96d8ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/s/career.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62aa3cc3a53bbb83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v-it/5-1.netline/line/core.md",
+                "file": "daily/2024/4/2024-04-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024/4/2024-04-22.md",
+                "file": "daily/2024/4/2024-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024/4/2024-04-22.md",
+                "file": "daily/2024/4/2024-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024/4/2024-04-22.md"
+                "file": "daily/2024/4/2024-04-23.md"
               }
             }
           }
@@ -173,16 +149,17 @@
   },
   "active": "b73443e324c88f49",
   "lastOpenFiles": [
-    "system/prod/v-it/5-1.netline/line/core.md",
-    "system/prod/v-it/5-1.netline/line/VCS.md",
-    "system/prod/s/career.md",
     "system/prod/m/high.md",
+    "daily/2024/4/2024-04-23.md",
+    "system/prod/v-it/5-1.netline/line/core.md",
+    "system/prod/s/career.md",
+    "daily/2024/4/2024-04-22.md",
+    "system/prod/v-it/5-1.netline/line/VCS.md",
     "system/prod/m.md",
     "system/prod/m/lbase.md",
     "system/prod/s/social/core.md",
     "system/prod/s/social/draft.md",
     "system/prod/s/pre.md",
-    "daily/2024/4/2024-04-22.md",
     "system/prod/core.md",
     "daily/2024/4/2024-04-19.md",
     "system/prod/s/social/network.md",
@@ -198,7 +175,6 @@
     "daily/2024/4/2024-04-08.md",
     "daily/2024/4/2024-04-06.md",
     "daily/2024/4/2024-04-05.md",
-    "daily/2024/4/2024-04-04.md",
     "daily/2024/4",
     "system/prod/core",
     "daily/2024/3",
