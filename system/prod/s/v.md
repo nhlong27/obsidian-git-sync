@@ -5,16 +5,39 @@
 			- mailbluster
 			- e27, techinasia
 - it
-	- employement hero  (Ly Gioi An, friends, QA, voz, youtube) 100 (4.5 left) [1](https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/post-27554372)  [2](https://voz.vn/t/event-box-cntt-2023-chia-se-kinh-nghiem-phong-van.694369/post-23521883) [jd](https://www.linkedin.com/jobs/view/3867616151/?refId=0b8e05c5-c234-4901-a955-e3d7dab3c9b7&trackingId=%2B9tEhyN5Tk6PxSahbDu1%2Fg%3D%3D) [75% situational 25% behavioral (25 design + 0 leadership)](https://www.youtube.com/watch?v=0Z9RW_hhUT4&t=330s)
-		- round1
-			- criteria 25
-				- cognify 5 - 10
-				- employee personality profile 12 - 15
-			- colidity 70 (task score: correctness + performance) - difficulty (medium), scope (divide & conquer, recursion, bruteforce), ide (NO)
-				- test suite 1
-				- test suite 2
-		- round2: English live coding (ds optimize), EM (simon), flow (features, focus around HR)
-		- round3: English culture fit [1](https://reviewcongty.com/companies/employment-hero/review/61d5b83f5c627f39a5f648cc) [2](https://www.youtube.com/watch?v=y-ueVqgeq9M&t=123s) (research company, soft question, past company, altitude, mindset) (Nếu em bây giờ công ty không còn dự án về Ruby nữa thì em làm sao?)
+	- index
+		- history
+			- employement hero  (Ly Gioi An, friends, QA, voz, youtube) 100 (4.5 left) [1](https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/post-27554372)  [2](https://voz.vn/t/event-box-cntt-2023-chia-se-kinh-nghiem-phong-van.694369/post-23521883) [jd](https://www.linkedin.com/jobs/view/3867616151/?refId=0b8e05c5-c234-4901-a955-e3d7dab3c9b7&trackingId=%2B9tEhyN5Tk6PxSahbDu1%2Fg%3D%3D) [75% situational 25% behavioral (25 design + 0 leadership)](https://www.youtube.com/watch?v=0Z9RW_hhUT4&t=330s)
+				- round1
+					- criteria 25
+						- cognify 5 - 10
+						- employee personality profile 12 - 15
+					- colidity 70 (task score: correctness + performance) - difficulty (medium), scope (divide & conquer, recursion, bruteforce), ide (NO)
+						- test suite 1
+						- test suite 2
+				- round2: English live coding (ds optimize), EM (simon), flow (features, focus around HR)
+				- round3: English culture fit [1](https://reviewcongty.com/companies/employment-hero/review/61d5b83f5c627f39a5f648cc) [2](https://www.youtube.com/watch?v=y-ueVqgeq9M&t=123s) (research company, soft question, past company, altitude, mindset) (Nếu em bây giờ công ty không còn dự án về Ruby nữa thì em làm sao?)
+			- katalon: product - software testing --> frontend (product - marketing)
+				- arch stack (next - nodejs, mongodb), pipeline team (4-5)
+				- p .., wlb ..
+				- 1 hr, 1 technical
+			- recruitery: product - HR tech (SEA, headhunters -> employee) (multi lang, cv template) 6/20
+				- arch stack (next - nodejs, C#, mongodb *startup*) 2, pipeline team (4-5) *startup* 1
+				- p 6mil/monthx2 1, wlb *startup* 2
+				- 1 code, 1 technical
+			- wala ict: outsource
+				- arch stack (react,next - node, spring boot -react native, flutter), pipeline team 1 - 8 hybrid (1-2 day/week) intern/fresher/junior
+				- p .., wlb ..
+				- 2 technical
+			- fsoft: outsource
+				- arch stack (next-gen, multi) 4, pipeline team 22 SME - RND < CEP
+				- p 10mil/month 3, wlb 3
+				- 1 technical
+		- references
+			- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
+			- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
+			- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform, zalora, Tyme
+			- tier 4: Viettel: sen 2k5, Fsoft, TMA, Global cybersoft, KMS, Nashtech, Momo, VinAI, Shopee, Lazada, NQ, Be
 	- 5-1:netline: tier 1
 		- ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
 			- [function guard clause](https://www.youtube.com/watch?v=CFRhGnuXG-4)
@@ -46,16 +69,25 @@
 				- aws basic services
 				- software engineering processes (agile, testing, think like an engineer?)
 	- seek
-		- screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
-			- companies
-				- nodeflair, supercoder, employment hero, qode jobs
-				- grab
-			- event
-				- [14/3 tech after dark](https://quickom.net/event/tech-after-dark-pi-day-edition--1496)
-				- [27/4 hackhcmc](https://www.eventbrite.com/e/hackhcmc-2024-tickets-813737941087)
-				- [3/7 hex](https://allevents.in/ho%20chi%20minh%20city/hex-networking-night-in-ho-chi-minh-city/10000868004072547)
-		- interview [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
-			- experience
+		-  screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
+			- career progression
+				- business unit (good/service)
+					- embedded software on embedded system (GAM/autosar)
+					- general-purpose software on standard platforms (testing)
+					- server-side software
+					- internal recruiting (tuyển dụng nội bộ) for company - headhunting for client
+				- [startup?](https://qr.ae/pvg41b), outsource - product
+			- p&wlb
+				- env ([cheap companies](https://qr.ae/pveoxj))
+			- compensation ~ c8y / s12n (technology)
+				- markets: linkedin, ITViect, careerBuilder, vietnamWorks
+				- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
+		- interview (+interview process - more rounds?, when expect to hear back) [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
+			- pay & career progression
+				- responsibility - my top problems, priorities 
+				- arch - technology (future)
+				- pipeline - team, training/mentoring
+			- wlb
 			- project
 				- webscrape
 					- [install node, git, docker, aws-cli, terraform](https://www.youtube.com/watch?v=-atblwgc63E)

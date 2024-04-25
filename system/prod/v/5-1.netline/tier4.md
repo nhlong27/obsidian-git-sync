@@ -48,6 +48,6 @@
 				- ddl: create, drop, truncate, rename, alter (add, drop, modify)
 				- dml: insert into (values), select (from, where), update (set, where), delete from (where) 
 			- integrity: constraint, normalization 
-			- security 
+			- security
 		- search engine
 

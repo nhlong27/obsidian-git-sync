@@ -1,5 +1,14 @@
-
-- core: SUM(highs - hierarchy, instability): motio (socio (connection)) <- power --> recursion (plan + feeback): state-abstraction: start-final, reward-cost
+- core: SUM(highs - hierarchy, instability): motio (socio (connection)) <- power --> optimization - abstraction transparency scope + resource (probability) scope
+	- endorphin > dopamine - norepinephrine, serotonin
+		- dopamine: joy 
+		- serotonin: sadness 
+		- norepinephrine: anger, fear 
+		- acetylcholine: novel / surprise
+		- oxytocin: disgust, bonding, love
+		- gaba: anxiety
+		- endorphin: content
+	- surrounding (base, japan, weathering with you, suzume)
+		- lighting: overhead, ambience, task, accent
 	- motio: curiosity, problem solving, thriller (motio to reach a goal that's meaningful)
 		- tier1: working, drinking/eating + music (bar/club), board game, sport (rock climbing, soccer, badminton), shopping, karaoke, kayaking, archery, cooking, pool
 			- pool: term (cuetec - nỉ, cơ, bi / cái, chô, mát xê, cu lê, 8-9 bi, phin xếp bi, cộng bi), 2 ways to redirect, how to phá bi, 2 ways to bridge, hold cơ and strike 

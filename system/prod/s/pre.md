@@ -1,12 +1,12 @@
 - int
 	- hair
-		- core: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in)
-		- styling: prestyler + blow dry, [product](https://www.misterpompadour.com/blogs/hair/17216789-paste-pomade-and-clay-whats-the-difference) (wax: apestomen, [pomade](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csltotj/?utm_source=share&utm_medium=web2x&context=3) / gel / cream), flat iron - heat protectant, hair.perm: 24h, no water, minimal contact - ironcap, daik_chien  + balaclava
+		- rout: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in)
+		- style: prestyler + blow dry, [product](https://www.misterpompadour.com/blogs/hair/17216789-paste-pomade-and-clay-whats-the-difference) (wax: apestomen, [pomade](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csltotj/?utm_source=share&utm_medium=web2x&context=3) / gel / cream), flat iron - heat protectant, hair.perm: 24h, no water, minimal contact - ironcap, daik_chien  + balaclava
 	- dental
-		- core: floss - toothpaste/toothbrush - scraper - mouthwash
+		- rout: floss - toothpaste/toothbrush - scraper - mouthwash
 	- skin
-		- scr: moisturizer: cocoon (alcohol-free, antioxidants) + cleanser (cerave) + sunscreen: cocoon (chemical face, physical body, spf 50+, pa+++ / ppd 8-16) / make-up remover (bioderma)
-		- acnetrea: sebum production + clogging factor
+		- rout: moisturizer: cocoon (alcohol-free, antioxidants) + cleanser (cerave) + sunscreen: cocoon (chemical face, physical body, spf 50+, pa+++ / ppd 8-16) / make-up remover (bioderma)
+		- treat: sebum production + clogging factor
 			- pre: topical - exfoliant ([benzoyl peroxide](https://www.reddit.com/r/SkincareAddiction/comments/1i2ygr/comment/cb0iebj/?utm_source=share&utm_medium=web2x&context=3) 2.5% - 10%, AHA / BHA (salicylic acid 2%), [others](https://www.google.com/search?q=pure+active%2Fhautklar+sos+anti-spots+stick&sca_esv=fd299e0f5b2672c9&sxsrf=ACQVn0_YWEMdfwRYrMxbGeORudRJjcy7Gw%3A1712851448858&ei=-AkYZsCMNNTV4-EPrr2z8AY&oq=pure+active+hautklar+sos+an&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3B1cmUgYWN0aXZlIGhhdXRrbGFyIHNvcyBhbioCCAAyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IpRZQ7QJY3g1wB3gBkAEDmAGMAaAB4QqqAQQxLjExuAEDyAEA-AEBmAIQoALoCMICChAAGEcY1gQYsAPCAgsQABiABBiKBRiGA8ICBRAhGKABmAMAiAYBkAYCkgcDNy45oAeMKQ&sclient=gws-wiz-serp), [others2](https://www.google.com/search?q=yoosun+rau+m%C3%A1&oq=yoosun+rau+m%C3%A1&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgATSAQgzNzkzajBqMagCALACAA&sourceid=chrome&ie=UTF-8)) +  oral (tretinoid)
 			- post [1](https://www.youtube.com/watch?v=sK00I_1BrrQ): large pore - dark spot - red spot - scar (tethered: rolling, boxed -> subcision + filler, icepick -> TCA cross, hypertrophic) -> [microneedling / co2 laser](https://www.youtube.com/watch?v=P6oF08hmkRE)
 				- subcision derma fillers
@@ -18,22 +18,12 @@
 				- info Tran Dat, chi phi, many times, 9-12,15-20h30
 				- chaams ãi, tach day seo, ca 3, amh nang, an dam, dau mo lao hoa, 4-  6 tuan, 5-7, ngày 5-7 dong vo, truoc 30, lo chan long: 0, mun viem do laser
 				- face mole
-		- [nose](https://thammyhanquoc.vn/nang-mui/thu-gon-canh-mui-bao-nhieu-tien.html) [wing reduction](https://www.youtube.com/watch?v=3FZwpaq0OZw)
-	- nutrition
-		- sautéing
-		- stir-frying
-		- steaming
-		- baking
-			- crinkle, flan, cheese cake
-		- grilling
+	- [nose](https://thammyhanquoc.vn/nang-mui/thu-gon-canh-mui-bao-nhieu-tien.html) [wing reduction](https://www.youtube.com/watch?v=3FZwpaq0OZw)
 - ext
 	- brand: icondenim, bst
 	- form: babytee, 
 	- material: satin, polar fleece (nỉ)
-	- wi
-		- headphone/earpods/laptop + chargerx3, keyboard, bagx3, stand, hyperdrive, mouse, glasses cleaner
-	- edc
-		- key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216) (ridge, orbitkey - expensive))
+
 	- fit
 		- shoes: 1xblack-dress-leather + 1xblack-casual-sport
 		- socks: 5xblack

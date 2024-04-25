@@ -1,0 +1,115 @@
+- process
+	- https://www.youtube.com/watch?v=oNmcX6Gozg0
+	- https://www.youtube.com/watch?v=Dl-BdxNRUqs&t=191s
+	- https://www.youtube.com/watch?v=KHX4jXDKgE4&t=33s
+	- https://www.youtube.com/watch?v=xSPA2yBgDgA
+- tools
+	- plan & design
+		- communicate: slack, outlook
+		- design & management (module -> system): jira, miro, eraser, excalidraw
+	- code & build
+		- machine
+			- /usr/local/bin (PATH) npm symbolic links -> packages in shared lib (node_modules, /usr/local/lib), 
+			- [hidden folder -mac](https://setapp.com/how-to/user-local-bin-folder-on-mac)
+			- [zsh permission denied](https://stackoverflow.com/questions/72862871/zsh-permission-denied-webstorm-on-attempting-to-create-shell-script-that-lau)
+			- [multiple ssh](https://stackoverflow.com/questions/2419566/best-way-to-use-multiple-ssh-private-keys-on-one-client), [update ssh](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey) (using id_ed55519, check ~/.ssh/config)
+			- [user](https://stackoverflow.com/questions/37805621/change-email-address-in-git)
+		- [ide/editor](https://gist.github.com/nhlong27)
+		- vcs: object database (key-value): commit (ID, previous, author, committer, message, tree ~directory(, ID, blob file IDs))
+			- strategy
+				- branching --> complexity, rapid development vs stability
+					- git flow: main, develop - feature, release (tag), hotfix
+					- trunk-based
+				- repo --> flexibility vs consistency
+					- mono-repo: yarn workspaces, lerna, turborepo
+					- micro-repo 
+			- [commands](https://antonz.org/git-by-example/?ref=dailydev)
+				- basics: --cached/--staged, --global
+					- git init
+					- git config user.email alice@example.com
+					- git config user.name "Alice"
+					- git config --list --show-origin
+					- git add .
+					- git diff --cached / commit1 commit2 --name-only
+					- git commit -m "" ([markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+					- git commit -am ""
+					- git mv a b
+					- git rm a
+					- git status
+					- git log --all --oneline --graph --decorate -n branch --pretty=format:'%h %an %s %d'
+					- git reflog 
+					- git shortlog -ns
+					- git show HEAD~n
+					- git grep "" HEAD~n
+				- branch & merge
+					- git branch -m oldname newname
+					- git [checkout](https://stackoverflow.com/questions/57265785/whats-the-difference-between-git-switch-and-git-checkout-branch) --theirs/--ours | branch -- file1 file2
+						- switch: git switch -c branch | git checkout -b branch
+						- restore: git restore HEAD~n | git checkout HEAD~n
+						- git clone --no-checkout + git sparse-checkout init --cone + git sparse-checkout set directory
+					- git merge --no-ff branch -m "" | --squash branch
+					- git rebase -i
+					- git cherry-pick
+				- [local & remote](https://kbroman.org/github_tutorial/pages/init.html)
+					- git branch --all
+					- git remote add origin remote
+					- git clone remote base --no-checkout
+					- git push -u origin branch
+					- git pull
+					- git [tag](https://stackoverflow.com/questions/3790669/git-is-a-tag-unique-per-commit) (log --decorate, push --tags) HEAD~n -l -d ([rename](https://stackoverflow.com/questions/1028649/how-do-you-rename-a-git-tag), [edit](https://stackoverflow.com/questions/7813194/how-do-i-edit-an-existing-tag-message-in-git), [release](https://git-scm.com/book/en/v2/Git-Basics-Tagging), [versioning](https://www.gitkraken.com/gitkon/semantic-versioning-git-tags) [2](https://frontside.com/blog/2022-02-09-semver-or-calver-by-project-type/))
+				- undo
+					- git commit --amend -m "" | git rebase -i HEAD~n
+					- git restore --staged file
+					- git reset --soft/--hard HEAD~n
+					- git revert HEAD~n --no-edit ([removing remote file](https://daily-dev-tips.com/posts/removing-a-env-file-from-git-history/))
+					- git stash list/pop/apply/clear/show -p stash@{1}
+					- [rename remote branch](https://stackoverflow.com/questions/6591213/how-can-i-rename-a-local-git-branch)
+		- runtime env (browser, node)
+			- (package manager + debugger (sourcemap) + linter + formatter + task runner)
+				- npm root -g
+			- bundler ( files + dependencies + assets): browserify, webpack - vite: esbuild (transpiling, minification), rollup (bundling)
+			- [transpiler](https://stackoverflow.com/questions/43459558/what-is-the-difference-between-preprocessor-and-transpiler): babel (typescript, jsx, js->js), postcss (js->css)
+			- preprocessor: sass, less
+		- workflow: husky
+	- test: prevent mistakes (like type-checking) - ranking based on criticalness
+		- web
+			- unit: jest, react-testing-library 
+			- e2e: playwright, cypress, selenium, pw
+	- release 
+		- automation: github actions, jenkins 
+	- deploy
+		- IaaS: [[AWS|AWS-EC2]]
+			- EC2
+			- https://www.reddit.com/r/aws/comments/10hmnh0/comment/j59ydyq/?utm_source=share&utm_medium=web2x&context=3
+			- https://www.reddit.com/r/aws/comments/10hmnh0/comment/j5chy5p/?utm_source=share&utm_medium=web2x&context=3
+			- ssh into ec2
+				-  ssh -i "aws-key.pem" ec2-user@ec2-54-206-119-124.ap-southeast-2.compute.amazonaws.com
+				- https://www.youtube.com/watch?v=kHnK3a6xpv0 & https://jhooq.com/terraform-ssh-into-aws-ec2/
+				- https://everythingdevops.dev/how-to-deploy-a-multi-container-docker-compose-application-on-amazon-ec2/ ("sudo yum install docker" instead)
+				- close ssh https://superuser.com/questions/467398/how-do-i-exit-an-ssh-connection
+			- aws linux ami
+				- yum https://stackoverflow.com/questions/14045262/how-to-fix-apt-get-command-not-found-on-aws-ec2
+				- docker permission
+					- https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker
+					- https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
+				- kafka heap space error https://github.com/wurstmeister/kafka-docker/issues/74
+		- PaaS: S3, CDN
+			- S3
+				- https://serverless.pub/s3-or-dynamodb/
+		- CaaS: Fargate 
+		- FaaS/Serverless: Lambda, Vercel serverless funcs 
+	- operate 
+		- [[IaC]] : provision, manage: terraform, ansible, AWS cloudformation 
+		- container orchestration: ECS, EKS, Kurbenetes
+			- terraform
+			- ansible
+				- https://www.youtube.com/watch?v=Egnsb89T0Rs
+				- https://www.youtube.com/watch?v=QxgJlJgGA0E
+				- https://www.youtube.com/watch?v=CQk9AOPh5pw&feature=youtu.be & https://gcore.com/learning/install-and-setup-docker-using-ansible-on-ubuntu-18-04-part-2/
+		- service mesh
+		- artifact management: artifactory
+	- monitor +  logs management: Elastic stack (Kibana)
+		- instrumentation
+		- telemetry/application monitoring: datadog
+		- infrastructure monitoring: prometheus + grafana
+- redmine, netbeans, vagrant
