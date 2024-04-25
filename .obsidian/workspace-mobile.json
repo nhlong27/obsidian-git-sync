@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f1b1b31c7213b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024/1/2024-01-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84fbe0bf95a35442",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/4/2024-04-23.md",
+                "file": "system/prod/m.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily/2024/4/2024-04-23.md",
+            "file": "system/prod/m.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily/2024/4/2024-04-23.md",
+            "file": "system/prod/m.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily/2024/4/2024-04-23.md"
+            "file": "system/prod/m.md"
           }
         }
       }
@@ -147,51 +134,51 @@
   },
   "active": "84fbe0bf95a35442",
   "lastOpenFiles": [
-    "system/prod/v/5-1.netline/roadmap.md",
-    "system/prod/s/v.md",
-    "daily/2024/4/2024-04-25.md",
+    "m/2024/4/25.md",
+    "system/prod/m.md",
+    "images/2024/4/25/IMG_4570.jpg",
+    "images/IMG_4570.jpg",
+    "IMG_4570.jpg",
     "daily/2024/4/2024-04-23.md",
-    "daily/2024/1/2024-01-23.md",
-    "daily/2024/4/2024-04-19.md",
-    "daily/2024/4/2024-04-17.md",
-    "system/prod/s/social/network.md",
-    "system/prod/m/high.md",
-    "daily/2024/4/2024-04-16.md",
-    "daily/2024/4/2024-04-14.md",
-    "daily/2024/4/2024-04-13.md",
-    "system/prod/s/social/core.md",
-    "daily/2024/4/2024-04-12.md",
-    "system/prod/s/app.md",
-    "daily/2024/4/2024-04-10.md",
-    "daily/2024/4/2024-04-09.md",
-    "daily/2024/4/2024-04-08.md",
-    "daily/2024/4/2024-04-06.md",
-    "system/prod/v-it/5-1.netline/tier3/dsa.md",
-    "daily/2024/4/2024-04-04.md",
-    "daily/2024/3/2024-03-26.md",
-    "system/prod/v-it/tool/obsidian/core.md",
-    "system/prod/v-it/tool/obsidian/daily.md",
-    "system/prod/v-it/5-1.netline/tier3/dsl.md",
-    "system/prod/v-it/5-1.netline/tier3/gpl.md",
-    "system/prod/v-it/tool/obsidian",
-    "system/prod/v-it/5-1.netline/tier3",
-    "system/prod/v-it/5-1.netline/line",
-    "system/prod/s/social",
-    "system/prod/v-it/tool",
-    "system/prod/v-it/5-1.netline",
-    "system/prod/m",
-    "system/prod/s",
-    "system/prod/v-it",
-    "system/prod",
+    "m/2023/jun/2023-06-28.md",
+    "m/2023/jun/2023-06-29.md",
+    "m/2023/jun/2023-06-19.md",
+    "m/2023/jun/2023-06-02.md",
+    "m/2023/jun/2023-06-26.md",
+    "m/2023/jun/2023-06-06.md",
+    "m/2023/jun/2023-06-16.md",
+    "m/2023/jun/2023-06-22.md",
+    "m/2023/jun/2023-06-17.md",
+    "m/2023/jun/2023-06-03.md",
+    "m/2023/jun/2023-06-27.md",
+    "m/2023/jun/2023-06-13.md",
+    "m/2023/jun/2023-06-30.md",
+    "m/2023/jun/2023-06-04.md",
+    "m/2023/jun/2023-06-14.md",
+    "m/2023/jun/2023-06-10.md",
+    "m/2023/jun/2023-06-01.md",
+    "m/2023/jun/2023-06-05.md",
+    "m/2023/jun/2023-06-15.md",
+    "m/2023/jun/2023-06-21.md",
+    "m/2023/Apr/2023-04-19.md",
+    "m/2023/Apr/2023-04-16.md",
+    "m/2023/Apr/2023-04-26.md",
+    "m/2023/jun",
+    "m/2023/Apr",
+    "m/2023/May",
+    "m/2023/nov",
+    "m/2023/dec",
+    "m/2023/Aug",
+    "m/2023/jul",
+    "m/2023/Mar",
+    "m/2023/Oct",
+    "m/2023/Sep",
+    "images/2024/4/25/IMG_4571.jpg",
+    "archive_images/2024/4/2024-04-25/IMG_4571.jpg",
+    "IMG_4571.jpg",
     "archive_images/Pasted Image 20230324074636_910.png",
     "archive_images/Pasted image 20230427215225.png",
     "archive_images/Pasted image 20230504083953.png",
-    "archive_images/Pasted image 20230515073851.png",
-    "archive_images/Pasted image 20230628182241.png",
-    "archive_images/Pasted image 20231010100209.png",
-    "archive_images/Pasted image 20230501185856.png",
-    "archive_images/Pasted image 20230503082339.png",
-    "archive_images/Pasted image 20230504141303.png",
-    "archive_images/Pasted image 20230719180724.png"
+    "archive_images/Pasted image 20230515073851.png"
   ]
 }

@@ -5,3 +5,9 @@
 	- baking
 		- crinkle, flan, cheese cake
 	- grilling
+- v
+	- seo (se - serps)
+		- onpage
+		- offpage (keyword research, backlink)
+			- mailbluster
+			- e27, techinasia

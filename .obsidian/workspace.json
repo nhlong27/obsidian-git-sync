@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a23c855747935ffd",
+            "id": "15a166cf814a65f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024/4/2024-04-25.md",
+                "file": "m/2024/4/2024-04-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024/4/2024-04-25.md",
+                "file": "m/2024/4/2024-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024/4/2024-04-25.md",
+                "file": "m/2024/4/2024-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024/4/2024-04-25.md"
+                "file": "m/2024/4/2024-04-24.md"
               }
             }
           }
@@ -148,43 +148,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a23c855747935ffd",
+  "active": "15a166cf814a65f3",
   "lastOpenFiles": [
+    "system/prod/m.md",
+    "m/2024/4/25.md",
+    "images/2024/4/25/IMG_4571.jpg",
+    "images/2024/4/25/IMG_4570.jpg",
+    "IMG_4570.jpg",
+    "system/prod/s/social/core.md",
+    "archive_images/2024/4/2024-04-25.md",
+    "images/2024/4/25",
+    "archive_images/Untitled.md",
+    "images/2024/4",
+    "images/2024",
+    "system/prod/daily.md",
+    "m/2024/4/2024-04-23.md",
+    "archive_excalidraw/DevelopmentPipeline.excalidraw.md",
+    "archive_excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
+    "archive_excalidraw/interview_tips.md",
+    "archive_excalidraw/JavascriptModel.excalidraw.md",
+    "archive_excalidraw/LifestyleModel.excalidraw.md",
+    "archive_excalidraw/OriginModel.excalidraw.md",
+    "archive_excalidraw/portfolio_IT.excalidraw.md",
+    "archive_excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
+    "archive_excalidraw/ProductivityModel.excalidraw.md",
+    "archive_excalidraw/SoftwareModel.excalidraw.md",
+    "archive_images/2023-06-05 2023-06-05 08.28.06.excalidraw.md",
+    "archive_images/Pasted image 20231023092506.png",
+    "archive_images/Pasted image 20231010100209.png",
+    "archive_images/Pasted image 20231010170441.png",
+    "system/prod/s/pre.md",
+    "system/prod/v/eco.line.md",
+    "system/prod/v/other.md",
+    "system/prod/s/v.md",
     "system/prod/v/5-1.netline/tier3/dsa.md",
     "system/prod/v/5-1.netline/tier4.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
-    "system/prod/v/5-1.netline/roadmap.md",
-    "daily/2024/4/2024-04-25.md",
-    "system/prod/v/other.md",
-    "system/prod/v/eco.line.md",
-    "system/prod/s/pre.md",
-    "system/prod/m.md",
-    "system/prod/m/high.md",
-    "system/prod/s/v.md",
-    "system/prod/m/lbase.md",
-    "system/prod/s/social/network.md",
-    "system/prod/s/social/core.md",
-    "system/prod/s/social/draft.md",
-    "system/prod/v/tool/obsidian/core.md",
-    "system/prod/v/tool/obsidian/daily.md",
-    "system/prod/v/tool/midjourney.md",
-    "system/prod/v/tool/onetab.md",
-    "system/prod/v/tool/other.md",
-    "system/prod/v/chatgpt.md",
-    "system/prod/v/5-1.netline/line.md",
-    "system/prod/v/5-1.netline/line/core.md",
-    "system/prod/v/5-1.netline/line/AWS.md",
-    "system/prod/v/5-1.netline/line/IaC.md",
-    "system/prod/v/5-1.netline/line/VCS.md",
-    "daily/2024/4",
+    "m/2024/4",
     "system/prod/core",
-    "daily/2024/3",
-    "daily/2024/2",
+    "m/2024/3",
+    "m/2024/2",
     "Excalidraw",
     "l",
-    "system/core/v-it/Untitled",
-    "system/core/s/social/meta",
-    "daily/2024/1",
-    "daily/2024"
+    "system/core/v-it/Untitled"
   ]
 }

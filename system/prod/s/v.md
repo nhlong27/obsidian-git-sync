@@ -1,9 +1,3 @@
-- others
-	- seo (se - serps)
-		- onpage
-		- offpage (keyword research, backlink)
-			- mailbluster
-			- e27, techinasia
 - it
 	- index
 		- history
