@@ -3,5 +3,6 @@
   "promptDelete": false,
   "spellcheck": false,
   "newFileLocation": "root",
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "readableLineLength": false
 }

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60dd962a6ce5848b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/m.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "system/prod/m.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "system/prod/m.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/daily.md"
+                "file": "system/prod/m.md"
               }
             }
           }
@@ -148,12 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15a166cf814a65f3",
+  "active": "60dd962a6ce5848b",
   "lastOpenFiles": [
-    "2024-04-25.md",
     "system/prod/daily.md",
-    "m/2024/4/25.md",
     "system/prod/m.md",
+    "m/2024/4/25.md",
+    "images/2023/12",
+    "images/2023",
+    "system/prod/v/eco.line.md",
+    "2024-04-25.md",
     "m/2024/4/2024-04-01.md",
     "images/2024/4/25/IMG_4579.jpg",
     "system/prod/v/5-1.netline/line.md",
@@ -184,15 +200,11 @@
     "archive_images/Pasted image 20231010100209.png",
     "archive_images/Pasted image 20231010170441.png",
     "system/prod/s/pre.md",
-    "system/prod/v/eco.line.md",
     "system/prod/v/other.md",
-    "system/prod/s/v.md",
     "m/2024/4",
     "system/prod/core",
     "m/2024/3",
     "m/2024/2",
-    "Excalidraw",
-    "l",
-    "system/core/v-it/Untitled"
+    "Excalidraw"
   ]
 }

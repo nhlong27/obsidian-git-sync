@@ -11,11 +11,9 @@
             "id": "84fbe0bf95a35442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "system/prod/m.md",
-                "mode": "source",
-                "source": false
+                "file": "images/2024/4/25/IMG_4570.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "system/prod/m.md",
+            "file": "images/2024/4/25/IMG_4570.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "system/prod/m.md",
+            "file": "images/2024/4/25/IMG_4570.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "system/prod/m.md"
+            "file": "images/2024/4/25/IMG_4570.jpg"
           }
         }
       }
@@ -134,12 +132,14 @@
   },
   "active": "84fbe0bf95a35442",
   "lastOpenFiles": [
+    "system/prod/v/eco.line.md",
+    "system/prod/s/pre.md",
+    "system/prod/m.md",
     "images/2024/4/25/IMG_4579.jpg",
     "images/2024/4/25/IMG_4580.jpg",
     "images/IMG_4580.jpg",
     "images/IMG_4579.jpg",
     "m/2024/4/25.md",
-    "system/prod/m.md",
     "images/2024/4/25/IMG_4570.jpg",
     "images/IMG_4570.jpg",
     "IMG_4570.jpg",
@@ -165,7 +165,6 @@
     "m/2023/jun/2023-06-15.md",
     "m/2023/jun/2023-06-21.md",
     "m/2023/Apr/2023-04-19.md",
-    "m/2023/Apr/2023-04-16.md",
     "m/2023/jun",
     "m/2023/Apr",
     "m/2023/May",
@@ -178,7 +177,6 @@
     "m/2023/Sep",
     "images/2024/4/25/IMG_4571.jpg",
     "archive_images/2024/4/2024-04-25/IMG_4571.jpg",
-    "IMG_4571.jpg",
-    "archive_images/Pasted Image 20230324074636_910.png"
+    "IMG_4571.jpg"
   ]
 }
