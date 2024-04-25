@@ -38,8 +38,9 @@
 									- [x] lens
 									- [x] refactor
 								- int
-									- dental: floss
-									- skin: dur: spot
+									- [x] dental: floss
+									- [x] skin: dur: hautklar1
+									- skin: dur: hautklar2
 						- v
 							- 5-1:netline
 								- [x] 3

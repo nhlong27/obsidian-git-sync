@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/m.md",
+                "file": "system/prod/daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/m.md",
+                "file": "system/prod/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/m.md",
+                "file": "system/prod/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/m.md"
+                "file": "system/prod/daily.md"
               }
             }
           }
@@ -150,13 +150,15 @@
   },
   "active": "15a166cf814a65f3",
   "lastOpenFiles": [
-    "m/2024/4/2024-04-01.md",
+    "2024-04-25.md",
+    "system/prod/daily.md",
+    "m/2024/4/25.md",
     "system/prod/m.md",
+    "m/2024/4/2024-04-01.md",
     "images/2024/4/25/IMG_4579.jpg",
     "system/prod/v/5-1.netline/line.md",
     "images/2024/4/25/IMG_4580.jpg",
     "m/2024/4/2024-04-24.md",
-    "m/2024/4/25.md",
     "images/2024/4/25/IMG_4571.jpg",
     "images/2024/4/25/IMG_4570.jpg",
     "IMG_4570.jpg",
@@ -166,7 +168,6 @@
     "archive_images/Untitled.md",
     "images/2024/4",
     "images/2024",
-    "system/prod/daily.md",
     "m/2024/4/2024-04-23.md",
     "archive_excalidraw/DevelopmentPipeline.excalidraw.md",
     "archive_excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
@@ -186,7 +187,6 @@
     "system/prod/v/eco.line.md",
     "system/prod/v/other.md",
     "system/prod/s/v.md",
-    "system/prod/v/5-1.netline/tier3/dsa.md",
     "m/2024/4",
     "system/prod/core",
     "m/2024/3",

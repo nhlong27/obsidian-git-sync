@@ -1,13 +1,4 @@
 {
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
   "file-explorer:new-file-in-new-pane": [],
   "editor:swap-line-up": [
     {
