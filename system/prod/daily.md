@@ -26,33 +26,29 @@
 		- [2]
 			- [apr]
 				- week4
-					- thu
+					- fri
 						- s
 							- social
 								- core
 									- a method for remembering (have i shared)
 									- update core (from phone)
-								- network refactor
+								- network
+									- refactor
+									- tra: letter -> effort
+										- good times, caring, open to activities -> I am important
+										- initiator, 
 							- pre
 								- ext
-									- [x] lens
-									- [x] refactor
 								- int
-									- [x] dental: floss
-									- [x] skin: dur: hautklar1
 									- skin: dur: hautklar2
 						- v
 							- 5-1:netline
-								- [x] 3
+								- 3
 								- gen
 							- eco:line: edc
-								- [x] bottle 5
-								- [x] mask
-						- prod
-							- [x] m: combine to one 15
-							- mhigh prod food places and networking
-							- [x] icloud: backup 5
-							- [x] tools to eco.line 10
+								- [x] key clip
+								- key organizer
+						- [x] m: refactor
 			- [may]
 				- week1
 					- m
