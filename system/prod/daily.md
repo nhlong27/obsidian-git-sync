@@ -29,7 +29,7 @@
 					- sat
 						- prod.core
 							- task scheduling
-							- greedy approach to life planning
+							- [x] greedy approach to life planning
 								- 2024: dalat, mui ne, nha trang, camping, vung tau - nam cat tien, thao cam vien, phu quy, ha giang
 								- further: rplace, fic watch party - sep japan (cousin wedding), liti bar, japan, korea, china, taiwain 
 						- s
@@ -39,6 +39,18 @@
 									- update core (from phone)
 								- network
 									- refactor
+									- thread: cousing shower under the rain pic, tony viet line
+									- daily
+										- Tra
+											- mine
+												- keeping me sane - live for moments of the day, week, month, year
+													- hers
+														- jun dalat ? change their mind
+														- cafe work co
+												- nct 
+													- clothes
+										- Ngan
+											- forest gaming
 							- pre
 								- int
 									- [x] skin: dur: hautklar2
@@ -50,8 +62,9 @@
 								- [x] edc: key organizer
 								- [x] cover: sun protector, backpack rain protector, shoe boot
 						- m
-							- [x] update
-							- refactor
+							- [x] update log
+							- [x] +prod.core greedy method
+							- 2024 event planner 
 			- [may]
 				- week1
 					- m
