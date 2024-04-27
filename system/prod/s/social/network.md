@@ -10,6 +10,9 @@
 					- feb23: phu quoc, nhi, company 
 					- apr24: vt, sora
 					- jun24: dalat nhi, mom
+			- todo
+				- jun dalat ? change their mind
+				- cafe work co
 	- tier2
 		- ngan
 			- ast thien binh, aniday delivery

@@ -26,7 +26,12 @@
 		- [2]
 			- [apr]
 				- week4
-					- fri
+					- sat
+						- prod.core
+							- task scheduling
+							- greedy approach to life planning
+								- 2024: dalat, mui ne, nha trang, camping, vung tau - nam cat tien, thao cam vien, phu quy, ha giang
+								- further: rplace, fic watch party - sep japan (cousin wedding), liti bar, japan, korea, china, taiwain 
 						- s
 							- social
 								- core
@@ -34,25 +39,24 @@
 									- update core (from phone)
 								- network
 									- refactor
-									- tra: letter -> effort
-										- good times, caring, open to activities -> I am important
-										- initiator, 
 							- pre
-								- ext
 								- int
-									- skin: dur: hautklar2
+									- [x] skin: dur: hautklar2
 						- v
 							- 5-1:netline
 								- 3
 								- gen
-							- eco:line: edc
-								- [x] key clip
-								- key organizer
-						- [x] m: refactor
+							- eco:line
+								- [x] edc: key organizer
+								- [x] cover: sun protector, backpack rain protector, shoe boot
+						- m
+							- [x] update
+							- refactor
 			- [may]
 				- week1
 					- m
 						- [fic](https://www.youtube.com/watch?v=tSTNG-cLByk)
+						- [train-trip](https://vnexpress.net/duong-sat-mo-doan-tau-chat-luong-cao-sai-gon-da-nang-4739702.html)
 				- rest
 					- prod
 						- refactor m with photos (notion)
