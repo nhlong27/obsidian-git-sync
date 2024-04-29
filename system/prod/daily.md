@@ -26,7 +26,7 @@
 		- [2]
 			- [apr]
 				- week4
-					- sat
+					- sun
 						- prod.core
 							- task scheduling
 							- [x] greedy approach to life planning
@@ -65,11 +65,27 @@
 							- [x] update log
 							- [x] +prod.core greedy method
 							- 2024 event planner 
+							- nct
+								- goal 4h30 (5h15) - 14h30 (15h00), 10h - 19h
+									- to & back trips, hp
+									- sightseeing
+									- picnic lunch
+										- music, drawing, 
+								- prep
+									- fit
+										- gloves, hoodies, cap, boot, masks
+										- papers, sunscreenx2, clay, bag, charger, extra lens, glasses + cases, speakers + downloaded song, backpack cover, trash bag, deo
+									- cost
+										- 12 revive, khan uot + rut, snack + water 8 (free) 70
+										- bus fee 300
+										- area fee 60
+										- bike 130
+										- zoo 30
 			- [may]
 				- week1
 					- m
 						- [fic](https://www.youtube.com/watch?v=tSTNG-cLByk)
-						- [train-trip](https://vnexpress.net/duong-sat-mo-doan-tau-chat-luong-cao-sai-gon-da-nang-4739702.html)
+						- [train-trip](https://vnexpress.net/duong-sat-mo-doan-tau-chat-luong-cao-sai-gon-da-nang-4739702.html), phu quy le vie resort tiktok
 				- rest
 					- prod
 						- refactor m with photos (notion)
