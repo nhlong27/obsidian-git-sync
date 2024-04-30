@@ -29,9 +29,6 @@
 					- sun
 						- prod.core
 							- task scheduling
-							- [x] greedy approach to life planning
-								- 2024: dalat, mui ne, nha trang, camping, vung tau - nam cat tien, thao cam vien, phu quy, ha giang
-								- further: rplace, fic watch party - sep japan (cousin wedding), liti bar, japan, korea, china, taiwain 
 						- s
 							- social
 								- core
@@ -39,7 +36,6 @@
 									- update core (from phone)
 								- network
 									- refactor
-									- thread: cousing shower under the rain pic, tony viet line
 									- daily
 										- Tra
 											- mine
@@ -47,40 +43,19 @@
 													- hers
 														- jun dalat ? change their mind
 														- cafe work co
-												- nct 
-													- clothes
+														- nct my feelings
+													- tony viet line
+													- cousing shower under the rain pic
 										- Ngan
 											- forest gaming
-							- pre
-								- int
-									- [x] skin: dur: hautklar2
+							- [x] pre.ext: gropcore (cargo pants + jacket)
 						- v
 							- 5-1:netline
 								- 3
 								- gen
-							- eco:line
-								- [x] edc: key organizer
-								- [x] cover: sun protector, backpack rain protector, shoe boot
 						- m
-							- [x] update log
-							- [x] +prod.core greedy method
-							- 2024 event planner 
-							- nct
-								- goal 4h30 (5h15) - 14h30 (15h00), 10h - 19h
-									- to & back trips, hp
-									- sightseeing
-									- picnic lunch
-										- music, drawing, 
-								- prep
-									- fit
-										- gloves, hoodies, cap, boot, masks
-										- papers, sunscreenx2, clay, bag, charger, extra lens, glasses + cases, speakers + downloaded song, backpack cover, trash bag, deo
-									- cost
-										- 12 revive, khan uot + rut, snack + water 8 (free) 70
-										- bus fee 300
-										- area fee 60
-										- bike 130
-										- zoo 30
+							- 2024 event planner
+							- [x] nct
 			- [may]
 				- week1
 					- m

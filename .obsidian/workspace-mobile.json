@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3743adc4cc7daa8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "system/prod/daily.md",
+            "file": "nct.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "system/prod/daily.md",
+            "file": "nct.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "system/prod/daily.md"
+            "file": "nct.md"
           }
         }
       }
@@ -132,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84fbe0bf95a35442",
+  "active": "3743adc4cc7daa8b",
   "lastOpenFiles": [
+    "system/prod/daily.md",
+    "nct.md",
     "images/2024/4/25/IMG_4570.jpg",
     "m/2023/12/8.md",
     "images/2023/12/8/IMG_2955.jpg",
@@ -145,7 +160,6 @@
     "images/2023/12/8/IMG_2896.jpg",
     "images/2023/12/8/IMG_2882.jpg",
     "images/2023/12/8/IMG_2935.jpg",
-    "images/2023/12/8/IMG_2934.jpg",
     "images/2023/12/8",
     "m/2023/12/7.md",
     "m/2023/12",
@@ -173,7 +187,6 @@
     "m/2023/jun/2023-06-04.md",
     "m/2023/jun/2023-06-14.md",
     "m/2023/jun/2023-06-10.md",
-    "m/2023/jun/2023-06-01.md",
     "m/2023/jun",
     "m/2023/Apr",
     "m/2023/May",
