@@ -24,9 +24,9 @@
 					- dsa: leetcode + basic ds
 					- tier3: python
 		- [2]
-			- [apr]
-				- week4
-					- sun
+			- [may]
+				- week1
+					- mon
 						- prod.core
 							- task scheduling
 						- s
@@ -48,20 +48,20 @@
 													- cousing shower under the rain pic
 										- Ngan
 											- forest gaming
-							- [x] pre.ext: gropcore (cargo pants + jacket)
 						- v
 							- 5-1:netline
 								- 3
 								- gen
 						- m
 							- 2024 event planner
-							- [x] nct
-			- [may]
-				- week1
+							- core: neurotransmitter 5 20
+								- mood, motio, aesthetic, camaraderie, socio
+								- coffee shop, base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one
+								- horror, game rplace, 
+				- rest
 					- m
 						- [fic](https://www.youtube.com/watch?v=tSTNG-cLByk)
 						- [train-trip](https://vnexpress.net/duong-sat-mo-doan-tau-chat-luong-cao-sai-gon-da-nang-4739702.html), phu quy le vie resort tiktok
-				- rest
 					- prod
 						- refactor m with photos (notion)
 						- v.eco:line

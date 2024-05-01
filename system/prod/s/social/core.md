@@ -22,7 +22,7 @@
 					- mar24: iota, fief, acolyte, duress 
 					- apri24: serendipity
 				- vi
-					- other: chằm zn, xà lơ - sai lơ, đồ đệ - đệ tử, gãy, sào phơi, mồ chôn - mộ - mả, điển hình - tiêu biểu, khúc mắc - uẩn khúc, sành sỏi, lược sử, biên niên sử, kế sách, thâm tâm, nhuệ khí, săm xe, tiềm năng, truong phong / chu tich / thuỳen trưởng, thanh cảnh, tinjuan, biệt ngữ xã hội, gậy gộc, hình rẻ quạt
+					- other: chằm zn, xà lơ - sai lơ, đồ đệ - đệ tử, gãy, sào phơi, mồ chôn - mộ - mả, điển hình - tiêu biểu, khúc mắc - uẩn khúc, sành sỏi, lược sử, biên niên sử, kế sách, thâm tâm, nhuệ khí, săm xe, tiềm năng, truong phong / chu tich / thuỳen trưởng, thanh cảnh, tinjuan, biệt ngữ xã hội, gậy gộc, hình rẻ quạt, gia quyến / khuyển
 						- freq: thường nhật
 						- env: hiu quạnh
 					- adj: sành sỏi, phóng túng, phè phỡn, giàu nứt vách, khuây khoả, ngả ngớn, bí xị, phù phiếm, tần ngần, rũ rượi, thích đáng, bất giác, gạo cội, nhanh nhảu, nền nã (nết na, điềm đạm), nhộn nhạo / nao nao, da diết, bèo nhèo, lùng nhùng, lùng bùng, xô bồ, bánh bèo, tung tăng, ào ạt, cuồn cuộn, lấp lánh, dồn dập, tĩnh mịch, vương vấn / vấn vít, hung hãn, tang tảng, nguy nga diễm lệ, bồng bềnh
