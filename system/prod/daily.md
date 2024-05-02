@@ -26,9 +26,9 @@
 		- [2]
 			- [may]
 				- week1
-					- mon
+					- thu
 						- prod.core
-							- task scheduling
+							- process - scheduling: v-it, s.social, s.pre, m
 						- s
 							- social
 								- core

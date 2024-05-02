@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9311e8f8c3548888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/m.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -174,10 +162,12 @@
   },
   "active": "15a166cf814a65f3",
   "lastOpenFiles": [
-    "system/prod/m.md",
-    "system/prod/daily.md",
+    "system/prod/s/v.md",
     "system/prod/s/social/core.md",
     "system/prod/s/pre.md",
+    "system/prod/v/other.md",
+    "system/prod/daily.md",
+    "system/prod/m.md",
     "nct.md",
     "system/prod/s/social/network.md",
     "system/prod/v/eco.line.md",
@@ -217,8 +207,6 @@
     "archive_excalidraw/JavascriptModel.excalidraw.md",
     "archive_excalidraw/LifestyleModel.excalidraw.md",
     "archive_excalidraw/OriginModel.excalidraw.md",
-    "archive_excalidraw/portfolio_IT.excalidraw.md",
-    "archive_excalidraw/Productivity.ExecutionPipeline.Tech.excalidraw.md",
     "m/2024/4"
   ]
 }
