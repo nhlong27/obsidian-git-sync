@@ -1,5 +1,8 @@
 - [relationship](https://www.reddit.com/r/Adulting/comments/15tu9ld/how_to_know_when_to_end_a_relationship/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (rapport): [effort](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/be_a_magnet_not_a_rope/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) + [interest](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/comment/gkxo10i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (magnet, dealbreaker area)
 - system (mindset)
+	- tra, ngan, cheu, qminh, hp
+	- trangt, giang, sora, vvien, tyen, tkhiem, phu, thuong, [datd](https://www.facebook.com/profile.php?id=100007456268645), [myt](https://www.facebook.com/khiet.my.07), huy, kim, vlac 
+	- [phuoc](https://www.facebook.com/phuoc0702), [ghuy](https://www.facebook.com/ngh1290), [mhuy](https://www.facebook.com/nguyen.minhhuy.5055) , [chi](https://www.facebook.com/imchinguyen)
 	- me: hà đông (ngoại), thái bình (nội)
 	- tier1
 		- tra

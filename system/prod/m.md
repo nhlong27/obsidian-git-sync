@@ -1,30 +1,6 @@
-- core: SUM(highs - hierarchy, instability): motio (socio (connection)) <- power --> optimization - abstraction transparency scope + resource (probability) scope
-	- event
-		- fit 
-			- gloves, hoodies, cap, boot, mask
-			- papers, sunscreenx2, clay, bag, charger, extra lens, glasses + cases, speakers + downloaded song, backpack cover, trash bag, deoderant, hand sanitizer, hair holder
-		- 2024: dalat, mui ne, nha trang, camping, vung tau - nam cat tien, thao cam vien, phu quy, ha giang - further: rplace, fic watch party - sep japan (cousin wedding), liti bar, japan, korea, china, taiwain
-	- neurotransmitter (receptor: adenosine)
-		- dopamine: joy 
-		- serotonin: sadness 
-		- norepinephrine: anger, fear 
-		- acetylcholine: novel / surprise
-		- oxytocin: disgust, bonding, love
-		- gaba: anxiety
-		- endorphin: content
-	- surrounding (base, japan, weathering with you, suzume)
-		- lighting: overhead, ambience, task, accent
-	- motio: curiosity, problem solving, thriller (motio to reach a goal that's meaningful)
-		- socio (ego/confidence: reward - effort/risk)
-			- network
-				- tra, ngan, cheu, qminh, hp
-				- trangt, giang, sora, vvien, tyen, tkhiem, phu, thuong, [datd](https://www.facebook.com/profile.php?id=100007456268645), [myt](https://www.facebook.com/khiet.my.07), huy, kim, vlac 
-				- [phuoc](https://www.facebook.com/phuoc0702), [ghuy](https://www.facebook.com/ngh1290), [mhuy](https://www.facebook.com/nguyen.minhhuy.5055) , [chi](https://www.facebook.com/imchinguyen)
-			- ador: friendship - [...] - relationship (80-20), limerance / oneitis, codependency
-				- step1: navigate
-				- step2: you can't imagine the pain/fall (situationship). you are lost, hoping to find something that doesn't exist. easy come easy go. for the first time I experience real fear, and I know it would destroy me. 
-					- the only control is self-control. save yourself, have boundaries (replace every what-if with the image of him with her). it's ok to return to your boring life, are we really friends or am I just someone to pass the time with (wtf do i even offer you)
-					- start from the beginning, given what you have learned
+- core: mood: motio (hierarchy) <- power (stability) --> optimization - abstraction transparency + resource probability
+	- motio (coffee shop (base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one)) (socio (ego/confidence: reward - effort/risk) - ador: friendship - [...] - relationship (80-20), limerance / oneitis, codependency)
+		- tier0: aesthetic
 		- tier1: working, drinking/eating + music (bar/club), board game, sport (rock climbing, soccer, badminton), shopping, karaoke, kayaking, archery, cooking, pool
 			- pool: term (cuetec - nỉ, cơ, bi / cái, chô, mát xê, cu lê, 8-9 bi, phin xếp bi, cộng bi), 2 ways to redirect, how to phá bi, 2 ways to bridge, hold cơ and strike 
 			- vt
@@ -53,11 +29,15 @@
 			- [fic] tpn, mib, erased, angel beats, twgok, ngnl, wttnhk, prison school, mob psycho (opm, tatami galaxy, shadow house)
 		- tier3: course, "travelling" (lbase: surrounding + high: planning)
 		- tier4 (arc): work, school, "life transitioning at a new place" (lbase: surrounding + high: oppportunities)
+- fit
+	- gloves, hoodies, cap, boot, mask
+	- papers, sunscreenx2, clay, bag, charger, extra lens, glasses + cases, speakers + downloaded song, backpack cover, trash bag, deoderant, hand sanitizer, hair holder
 
 
 | 2024           | date                  | name                                                                                                                                | p.o.i                                             | desc                                                                                                                | loca                                                                                                                                                                                                                                                                                      | weight | tier |
 | -------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- |
 | 86/148, 58.1%  |                       |                                                                                                                                     | co(28), Tra(26), Tu(15), c3(10), Ngan(10), fam(9) |                                                                                                                     |                                                                                                                                                                                                                                                                                           | 89     |      |
+| 88             | thu, fri 2,3/4        | morning & after at new office                                                                                                       |                                                   |                                                                                                                     | [pax sky](https://maps.app.goo.gl/YLZnBjNVJ6M5NCkZA)                                                                                                                                                                                                                                      | 1      | 1    |
 | 87             | mon 29/4              | nam cat tien trip                                                                                                                   | tra, hp, sora, linh, tvi                          | terrible, i achieved nothing                                                                                        | [nam cat tien](https://maps.app.goo.gl/JvWmCbjStxWnAJCt9)                                                                                                                                                                                                                                 | 2      | 2    |
 | 86             | thu [[25]]/4          | cafe (ngan, co)                                                                                                                     | ngan, co                                          |                                                                                                                     | [haue](https://maps.app.goo.gl/djzKAS28ERyPpjny7), [paper&i](https://maps.app.goo.gl/VN2qNxnatPYYKX589)                                                                                                                                                                                   | 2      | 1.5  |
 | 85 [week4]     | wed 24/4              | movie with fam                                                                                                                      | fam                                               | Lat mat 7: Mot dieu uoc, good movie                                                                                 | [cgv phan van tri](https://maps.app.goo.gl/QsodaZafVKdUeQrH9)                                                                                                                                                                                                                             | 1      | 1    |

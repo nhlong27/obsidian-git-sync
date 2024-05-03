@@ -21,6 +21,7 @@
 					- jan24: average - trivial - unimportant - neligible - inconsequential - trifling, flight of stairs, in lieu, make do / get by / manage with, motivating vs motivational, between two groups
 					- mar24: iota, fief, acolyte, duress 
 					- apri24: serendipity
+					- may24: camaraderie
 				- vi
 					- other: chằm zn, xà lơ - sai lơ, đồ đệ - đệ tử, gãy, sào phơi, mồ chôn - mộ - mả, điển hình - tiêu biểu, khúc mắc - uẩn khúc, sành sỏi, lược sử, biên niên sử, kế sách, thâm tâm, nhuệ khí, săm xe, tiềm năng, truong phong / chu tich / thuỳen trưởng, thanh cảnh, tinjuan, biệt ngữ xã hội, gậy gộc, hình rẻ quạt, gia quyến / khuyển
 						- freq: thường nhật

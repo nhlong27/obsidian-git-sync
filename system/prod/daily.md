@@ -11,93 +11,81 @@
 	- finis
 		- fin.sheet
 		- s.app.int (dental, hair, skin)
-	- 2024
-		- [1]
-			- [jan-feb-mar]
-				- m: board-game, lauch-event, mr-yen-visit, Tet, minh's-birthday
-				- s.pre
-					- int
-						- hair: routine (shampoo, conditioner, finasteride: 1mg 7/week -> 2/week ->3/ week, minoxidil 5% [fake-or-real](https://www.cosmetics-hut.com/blogs/minoxidil/a-practical-guide-to-identifying-fake-kirkland-minoxidil), ketoconazole, style: perm
-						- skin: post-treatment, pre-topical
-					- ext: lens
-				- v.5-1:netline
-					- dsa: leetcode + basic ds
-					- tier3: python
-		- [2]
-			- [may]
-				- week1
-					- thu
-						- prod.core
-							- process - scheduling: v-it, s.social, s.pre, m
-						- s
-							- social
-								- core
-									- a method for remembering (have i shared)
-									- update core (from phone)
-								- network
-									- refactor
-									- daily
-										- Tra
-											- mine
-												- keeping me sane - live for moments of the day, week, month, year
-													- hers
-														- jun dalat ? change their mind
-														- cafe work co
-														- nct my feelings
-													- tony viet line
-													- cousing shower under the rain pic
-										- Ngan
-											- forest gaming
-						- v
-							- 5-1:netline
-								- 3
-								- gen
-						- m
-							- 2024 event planner
-							- core: neurotransmitter 5 20
-								- mood, motio, aesthetic, camaraderie, socio
-								- coffee shop, base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one
-								- horror, game rplace, 
-				- rest
-					- m
-						- [fic](https://www.youtube.com/watch?v=tSTNG-cLByk)
-						- [train-trip](https://vnexpress.net/duong-sat-mo-doan-tau-chat-luong-cao-sai-gon-da-nang-4739702.html), phu quy le vie resort tiktok
-					- prod
-						- refactor m with photos (notion)
-						- v.eco:line
-							- fix bike (headlines, washing, ignitor)
-							- clean house (fix toilet smell)
-							- edc: key
-							- station: longer mac charger
-					- s.pre
-						- int
-							- hair: style
-						- ext
-							- shirt
-							- rain boot for shoes, bag, perfume, eyeglasses
-							- 1xblack-dress-blazer
-							- pants: high-waist-trousers, shirts: so-mi-co-tau
-							- perfume: le-labo-santal-33
-					- v-it
-						- 5-1:netline
-							- line.deploy:docker
-							- 3: unicode vs ascii
-							- pipeline: test, deploy, monitor
-		- [3]
-			- v
-				- 5-1:netline
-					- 3
-						- 200 leetcode
-						- java
-				- eco:line: edc: towel, multi-tools
-			- s.pre.int
-				- dental
-					- scaling
-					- sonicare
-		- [4]
-			- s
-				- v: screening+interview
-				- pre.int
-					- skin.acne: cosmetic surgery
-					- health: lipoma
-					- nose: cosmetic surgery
+	- [...]
+		- prod
+			- v.eco:line
+				- fix bike (headlines, washing, ignitor)
+				- clean house (fix toilet smell)
+				- station: longer mac charger
+		- s.pre
+			- int
+				- hair: style
+			- ext
+				- shirt
+				- rain boot for shoes, bag, perfume, eyeglasses
+				- 1xblack-dress-blazer
+				- pants: high-waist-trousers, shirts: so-mi-co-tau
+				- perfume: le-labo-santal-33
+		- v-it
+			- 5-1:netline
+				- line.deploy:docker
+				- 3: unicode vs ascii
+				- pipeline: test, deploy, monitor
+	- [2025]
+		- [jul]
+			- m.japan
+	- [2024]
+		- [dec]
+			- [mon23]
+				- m.quanbirthday
+		- [oct]
+			- [thu31]
+				- m.trabirthday
+		- [sep]
+			- m.hagiang
+			- [mon30]
+				- m.nganbirthday
+		- [july]
+			- [thu18]
+				- m.mombirthday
+		- [june]
+			- [thu27]
+				- m.mybirthday
+			- [sat1]
+				- m.dadbirthday
+		- [may]
+			- [week4]
+				- [fri24]
+					- m.phuquy
+			- [week3]
+				- [sun19]
+					- m.parentsanniversary
+			- [week2]
+				- [sat11]
+					- m.tcv
+			- [week1]
+				- m
+					- tier1: [sun5] nhi, minh
+					- tier0: [sat4] vivien
+				- prod.core
+					- process - scheduling: v-it, s.social, s.pre, m
+					- 2024 event planner, bucket list
+					- dealing with not on gg map [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
+				- [x] m: update m (morning and after at new office)
+				- s
+					- pre.ext: cleanser, body sunscreen, shaving cream, toothbrush, shaving razor
+					- social
+						- core
+							- a method for remembering (have i shared)
+							- update core (from phone)
+							- what to say - tiktok
+						- network [21h-22h30] 
+							- refactor
+							- daily
+								- tra, nhung, hien, ngan
+									- tonight sushi place
+								- sora japan, giang, vivien
+				- v
+					- 5-1:netline
+						- 3
+						- gen
