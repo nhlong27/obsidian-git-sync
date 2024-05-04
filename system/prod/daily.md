@@ -66,25 +66,27 @@
 			- [week1]
 				- m
 					- tier1: [sun5] nhi, minh
-					- tier0: [sat4] vivien
-				- prod.core
+					- tier0: [sat4] vivien, sale shopee w/ tra, ngan
+				- core
 					- process - scheduling: v-it, s.social, s.pre, m
-					- 2024 event planner, bucket list
+					- 2024 event planner, bucket list, who I want to be
 					- dealing with not on gg map [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
-				- [x] m: update m (morning and after at new office)
 				- s
-					- pre.ext: cleanser, body sunscreen, shaving cream, toothbrush, shaving razor
+					- pre.ext: cleanser, body sunscreen, shaving cream, toothbrush, shaving razo, bike plate
 					- social
 						- core
+							- wiki leading
 							- a method for remembering (have i shared)
 							- update core (from phone)
 							- what to say - tiktok
-						- network [21h-22h30] 
-							- refactor
+						- network [21h-22h30]
+							- refactor - networking (who to ask what)
 							- daily
 								- tra, nhung, hien, ngan
 									- tonight sushi place
-								- sora japan, giang, vivien
+								- sora japan, giang, vivien, nhi (tan phu, tan binh)
+				- eco:line
+					- shopee: flash sale, shopee mall
 				- v
 					- 5-1:netline
 						- 3
