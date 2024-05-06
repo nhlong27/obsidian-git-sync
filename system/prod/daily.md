@@ -11,26 +11,6 @@
 	- finis
 		- fin.sheet
 		- s.app.int (dental, hair, skin)
-	- [...]
-		- prod
-			- v.eco:line
-				- fix bike (headlines, washing, ignitor)
-				- clean house (fix toilet smell)
-				- station: longer mac charger
-		- s.pre
-			- int
-				- hair: style
-			- ext
-				- shirt
-				- rain boot for shoes, bag, perfume, eyeglasses
-				- 1xblack-dress-blazer
-				- pants: high-waist-trousers, shirts: so-mi-co-tau
-				- perfume: le-labo-santal-33
-		- v-it
-			- 5-1:netline
-				- line.deploy:docker
-				- 3: unicode vs ascii
-				- pipeline: test, deploy, monitor
 	- [2025]
 		- [jul]
 			- m.japan
@@ -65,8 +45,8 @@
 					- m.tcv
 			- [week1]
 				- m
-					- tier1: [sun5] nhi, minh
-					- tier0: [sat4] vivien, sale shopee w/ tra, ngan
+					- tier1: 
+					- tier0:
 				- core
 					- process - scheduling: v-it, s.social, s.pre, m
 					- 2024 event planner, bucket list, who I want to be
@@ -86,8 +66,26 @@
 									- tonight sushi place
 								- sora japan, giang, vivien, nhi (tan phu, tan binh)
 				- eco:line
-					- shopee: flash sale, shopee mall
+					- longer mac charger, keycap puller, coolmate socks, cosmetic bag, umbrella, arm cover
 				- v
 					- 5-1:netline
 						- 3
 						- gen
+				- v.eco:line
+					- fix bike (headlines, washing, ignitor)
+					- clean house (fix toilet smell)
+					- station: 
+				- s.pre
+					- int
+						- hair: style
+					- ext
+						- shirt
+						- rain boot for shoes, bag, perfume, eyeglasses
+						- 1xblack-dress-blazer
+						- pants: high-waist-trousers, shirts: so-mi-co-tau
+						- perfume: le-labo-santal-33
+				- v-it
+					- 5-1:netline
+						- line.deploy:docker
+						- 3: unicode vs ascii
+						- pipeline: test, deploy, monitor

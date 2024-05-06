@@ -25,6 +25,6 @@
 	- [onetab](https://docs.google.com/document/d/1klvwDo19ubelJPK8tkcDBqnoirTCnve3zjQNYsAedLY/edit?usp=sharing)
 	- trans: shopee, grab
 		- [banh su kem](https://food.grab.com/vn/en/restaurant/b%C3%A1nh-su-que-nguy%E1%BB%85n-thi%E1%BB%87n-thu%E1%BA%ADt-delivery/5-CY2BR321L7UZT6)
-		- grabfood: milano cofffee
+		- grabfood: milano cofffee, ginger honey tea
 	- barrier (kvm, synergy alt) [1](https://github.com/debauchee/barrier/releases) [2](https://github.com/debauchee/barrier/issues/231)
 	- [p](ACB 14521807 ILeGyFs27oct  0724)
