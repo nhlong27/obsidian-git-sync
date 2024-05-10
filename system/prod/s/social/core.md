@@ -1,17 +1,23 @@
 - relationship (rapport): [effort](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/be_a_magnet_not_a_rope/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) + [interest](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/comment/gkxo10i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-	- imp
+	- imp: energy
 		- bodlan
 		- voice: shadowing
 			- pitch
 			- rate
 			- volume
-	- thre
-		- map
-			- higher
-				- careful when to hold the most power (for example, who invites everyone else)
-				- info (fragmented - spaghettied)
-				- emotion
-					- story = memory <- emotion, details around that [emotions] more chances for threads
+	- thre: communicate desire
+		- a method for remembering (have i shared)
+			- 
+			- thread (to lead): info exchange, stimulate feelings
+				- storytelling (motio (curiosity), imagination, personal), trend
+					- confidence - nghi rang, co le, chua biet/ro, tuy (take ownership / believe in what you say)
+				- research topics
+				- flirt (draw from her perspective), push-pull
+					- cigarette problem
+		- info (fragmented - spaghettied)
+		- emotion
+			- story = memory <- emotion, details around that [emotions] more chances for threads
+		- sentence structure
 		- gen
 			- dic
 				- en
@@ -26,7 +32,7 @@
 					- other: chằm zn, xà lơ - sai lơ, đồ đệ - đệ tử, gãy, sào phơi, mồ chôn - mộ - mả, điển hình - tiêu biểu, khúc mắc - uẩn khúc, sành sỏi, lược sử, biên niên sử, kế sách, thâm tâm, nhuệ khí, săm xe, tiềm năng, truong phong / chu tich / thuỳen trưởng, thanh cảnh, tinjuan, biệt ngữ xã hội, gậy gộc, hình rẻ quạt, gia quyến / khuyển
 						- freq: thường nhật
 						- env: hiu quạnh
-					- adj: sành sỏi, phóng túng, phè phỡn, giàu nứt vách, khuây khoả, ngả ngớn, bí xị, phù phiếm, tần ngần, rũ rượi, thích đáng, bất giác, gạo cội, nhanh nhảu, nền nã (nết na, điềm đạm), nhộn nhạo / nao nao, da diết, bèo nhèo, lùng nhùng, lùng bùng, xô bồ, bánh bèo, tung tăng, ào ạt, cuồn cuộn, lấp lánh, dồn dập, tĩnh mịch, vương vấn / vấn vít, hung hãn, tang tảng, nguy nga diễm lệ, bồng bềnh
+					- adj: sành sỏi, phóng túng, phè phỡn, giàu nứt vách, khuây khoả, ngả ngớn, bí xị, phù phiếm, tần ngần, rũ rượi, thích đáng, bất giác, gạo cội, nhanh nhảu, nền nã (nết na, điềm đạm), nhộn nhạo / nao nao, da diết, bèo nhèo, lùng nhùng, lùng bùng, xô bồ, bánh bèo, tung tăng, ào ạt, cuồn cuộn, lấp lánh, dồn dập, tĩnh mịch, vương vấn / vấn vít, hung hãn, tang tảng, nguy nga diễm lệ, bồng bền, ăn mặc chỉnh tề, vồn vã, đụt
 						- group: la liệt, ngả ngốn
 						- excl: vãi chưởng
 					- verb: lộ liễu, hẹo, thài, nếm trải, ghé-quẹo, nhấm nháp / nhâm nhi, gặm, tâng bốc, giác ngộ, đàm đạo, giấu giếm, hấp thụ, xả láng, kiếu, trổ bóng, trệu trạo, cuỗm, xà nẹo, phung phí, đú đởn, nhã hứng, nhượng bộ, tủm tỉm, chực, ngấm ngấu, quyện nhuyễn, khắc khẩu, bập bẹ, bù lu bù loa, lê la, bẽn lẽn, hí hoáy / loay hoay, lồng lộn, đổ dầu, câu nệ, hỏi han, nô đùa / giỡn, thích thú, lang thang, du ngoạn, chập chững
@@ -92,10 +98,32 @@
 				- mức độ hấp dẫn = 0, mức độ tắt nứng là vô đối, simp chúa
 				- băng vệ sinh cảm xúc
 				- kiếm vợ giàu thì cả đời hướng ngoại
+				- fa -> chim mốc hết đời
+				- k dẫn dắt, tự chủ - đợi anh về nhà hỏi mẹ
+				- để lâu cứt trâu hoá bùn
+				- thợ phá cửa, khoan giếng
+				- mqh - bến đỗ lâu dài
+				- i sell dreams
+				- tin nhắn này là liều thuốc gây mê cho con gái, mê man bất tỉnh đến vài chục ngày sau
+				- cầm dép chạy xa bạn hàng km
+				- 10 năm trên rừng, 20 năm ở đảo hoang giờ mới được hoà nhập 
+				- không ăn được sẽ đạp đổ
+				- muối mặt với chính bản thân mình
+				- quét mạng nhện, làm bạn với dưa chuột
+				- đỉa đói, quỵ luỵ, van xin
+				- mượn hồn ai để thoát khỏi cái Shell
+				- tắt đèn - ngô tất tố
+				- đầu nhảy số
+				- lạc ở vùng đất lý thuyết
 			- wordplay
-				- su kem, khoan hồng / không hoàn, trai dìm - zai chìm - lowkey, phí phụ thu / thụ phu, hard to get / get hard, vân vân và mây mây, hay cực/ hư cac, đinh tặc/ đặc tinh, nấu lưng / nứng lâu, sặc 1 cục/ sục 1 cac, toả là hương / tưởng là hoa, chính đạo / chính đụ, ý hàng sao - áo hàng si, châu âu - châu quảng, thành công - cổ thụ, tăng hai / ba tăng xông, tiền - tiền đồ trắc trở, tiền đình, hệ luỵ, guccirkle k - disney chanel - luôn vuituoi, ôm cua úp vỉa, mốt như lìn, chè hột la, báo đời (về đời sống), khuân bốc/ bốc đầu, biển / số xe, phố / đèn đỏ, số nhà đánh số chẵn lẽ như nhà cái, củ chi / chỉ cu, bến thành / thánh bền, chặt heo dùng tứ quý, áo mưa trap boi / trap girl, mùa đông / vcl, bulon, bắc / nam kỳ chó, hmong bên bếp lửa, mường tè bên gốc cây, bú fami, bóp / vớ / quất /thịt chị đi em ơi, bình xuôi / buồi xinh, biệt thự / thiệt bự, nặng kí / kị nắng, đá vào miệng chai / đái vào miệng cha, trân trọng / trong trận, xiết nợ / biết sợ, ta không thể ngủ / ngu không thể tả, chủ đị / chỉ đụ, chất lượng / lượng châm, lượng nơ, công tác xã hội đen, mút / tụt mút, sờ / sờ trét, ielts/ ai iêu, tô ích / tô xích, kế / kế toán, vị thế cao / điện cao thế, thua keo này ta bày keo chó, toán tìm ích (x), đạo / đạo hàm, không gian / dối, định luật ôm, tụ điện / tiện đụ, tái sinh / đẻ chưa chín, yếu cơ / cớ yêu, dạy / thì, đang chuyến mại vô cùng lớn, cờ su / sờ cu, đây dồi / đôi dầy, nỗi lòng / nóng lồn, đạn đu / đan đụ, thấy mẹ chưa, diịeoubu, vớ quá cũ / vú quá cỡ, kệ cả ngụ / nghệ cả củ, hưng láy / hay nứng, cuốn / hút, chanh thần / chân thành, một vãi lền, đích thực / thích đực, follow me / my pha lau, cung khòn, màu nho, xaolon
-			- reaction phrase + core.meta (emoticons in texting)
-				- that's/that sounds great/noice/nice/lovely/wonderful/fantastic/amazing, lucky you, i envy you, congrats, glad/happy to hear,
-				- unbelievable, are you serious, no kidding, no way, you're joking, holy, damn, wild, really, 
-				- that's/that sounds awful/terrible/too bad/a shame/a pity/a nightmare/stressful, oh no, i'm sorry to hear that, tell me about it
+				- su kem, khoan hồng / không hoàn, trai dìm - zai chìm - lowkey, phí phụ thu / thụ phu, hard to get / get hard, vân vân và mây mây, hay cực/ hư cac, đinh tặc/ đặc tinh, nấu lưng / nứng lâu, sặc 1 cục/ sục 1 cac, toả là hương / tưởng là hoa, chính đạo / chính đụ, ý hàng sao - áo hàng si, châu âu - châu quảng, thành công - cổ thụ, tăng hai / ba tăng xông, tiền - tiền đồ trắc trở, tiền đình, hệ luỵ, guccirkle k - disney chanel - luôn vuituoi, ôm cua úp vỉa, mốt như lìn, chè hột la, báo đời (về đời sống), khuân bốc/ bốc đầu, biển / số xe, phố / đèn đỏ, số nhà đánh số chẵn lẽ như nhà cái, củ chi / chỉ cu, bến thành / thánh bền, chặt heo dùng tứ quý, áo mưa trap boi / trap girl, mùa đông / vcl, bulon, bắc / nam kỳ chó, hmong bên bếp lửa, mường tè bên gốc cây, bú fami, bóp / vớ / quất /thịt chị đi em ơi, bình xuôi / buồi xinh, biệt thự / thiệt bự, nặng kí / kị nắng, đá vào miệng chai / đái vào miệng cha, trân trọng / trong trận, xiết nợ / biết sợ, ta không thể ngủ / ngu không thể tả, chủ đị / chỉ đụ, chất lượng / lượng châm, lượng nơ, công tác xã hội đen, mút / tụt mút, sờ / sờ trét, ielts/ ai iêu, tô ích / tô xích, kế / kế toán, vị thế cao / điện cao thế, thua keo này ta bày keo chó, toán tìm ích (x), đạo / đạo hàm, không gian / dối, định luật ôm, tụ điện / tiện đụ, tái sinh / đẻ chưa chín, yếu cơ / cớ yêu, dạy / thì, đang chuyến mại vô cùng lớn, cờ su / sờ cu, đây dồi / đôi dầy, nỗi lòng / nóng lồn, đạn đu / đan đụ, thấy mẹ chưa, diịeoubu, vớ quá cũ / vú quá cỡ, kệ cả ngụ / nghệ cả củ, hưng láy / hay nứng, cuốn / hút, chanh thần / chân thành, một vãi lền, đích thực / thích đực, follow me / my pha lau, cung khòn, màu nho, xaolon, mũ em đội, coin card, xăm lính, mỹ đa
+			- flirt
+				- (self) cgi cũng về nhất - yêu em muốn mãi về sau
+				- (time) từ khi yêu xếp hàng, hàng giờ nhớ em
+				- (wea) có cái nóng nào bằng cái nóng lòng được gặp em
+				- (dic) tra từ điển cả ngày nhưng k thể tra dc từ lúc nào anh đã thích em, nhớ là một tính từ tính từ khi quen em
+				- (her) anh biết em đã 0 điểm nào chê, em toả hương làm anh tưởng hoa
+				- thức khuya anh tỉnh bằng tra, yêu em anh trả bằng tình được không
+				- xiêu lòng ánh mắt xong liều yêu em
+				- nấu tay cặm
 

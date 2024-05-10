@@ -43,40 +43,30 @@
 			- [week2]
 				- m
 					- tier2: m.tcv [sat11]
+						- route, food + drink place, movie
 					- tier0:
 				- core
 					- process - scheduling: v-it, s.social, s.pre, m
 					- 2024 event planner, bucket list, who I want to be
 					- dealing with not on gg map [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
+					- learn map
 				- s
 					- pre.ext: cleanser, body sunscreen, shaving cream, toothbrush, shaving razo, bike plate
 					- social
-						- core
-							- wiki leading
-							- a method for remembering (have i shared)
-							- update core (from phone)
-							- what to say - tiktok
+						- [x] core
 						- network
-							- [x] the base of all relationships: investment - separates friendship, situationship from relationship: investment in returns of needs (+attraction)
+							- the base of all relationships: investment - separates friendship, situationship from relationship: investment in returns of needs (+attraction)
 								- stages of dating
-								- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
+								- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
 									- texting - pivot, 3-5 times window (purpose: safe, potential) -> filter/investment 1: hanging out (giu gia small challenge -> suggest, max 3) + social: investment (they won't choose risky actions)
-									- Trong tình yêu, lòng tốt của người đàn ông chỉ có tác dụng khi anh ta hấp dẫn và cô ta đang để ý đến anh ta
-								- socio: ador s.social (s.pre image)
-									- avoid: comparison
-									- energy
-								- [ ] environment to communicate
-								- [ ] respect, trust
+									- her friends, nervous, spend time, details, laugh at jokes
 							- refactor - networking (who to ask what)
 							- daily
 								- tra, nhung, hien, ngan
 									- tonight sushi place
 								- sora japan, giang, vivien, nhi (tan phu, tan binh)
+								- cheu relationship tips
 				- eco:line
 					- longer mac charger, keycap puller, coolmate socks, cosmetic bag, [umbrella], arm cover, rain boot for shoes, bag, perfume (le-labo-santal-33), eyeglasses
 					- fix bike (headlines, washing, ignitor)
 					- clean house (fix toilet smell)
-				- v
-					- 5-1:netline
-						- 3
-						- gen
