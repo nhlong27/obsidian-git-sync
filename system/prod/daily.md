@@ -43,8 +43,22 @@
 			- [week2]
 				- m
 					- tier2: m.tcv [sat11]
-						- route, food + drink place, movie
-					- tier0:
+						- setup
+							- clothes: 
+							- gloves, boot, mask, arm cover, head cover, hair holder
+							- tissue, cloth, clay, bag, charger, extra lens, glasses + cases, backpack cover, bike cover, trash bag, deoderant, hand sanitizer
+						- route
+							- house -> zoo: vo van kiet 30
+							- zoo -> food -> cafe: xo viet nghe tinh 5, le duan 15
+						- zoo: 60k (online?)
+							- vuon thu thieu nhi 9-11
+							- khu vuc phong tieu ban moi
+							- Vườn Bướm, Vườn Hồng Hạc 
+						- food: [bun bo](https://maps.app.goo.gl/iVbujjF4DQdLKw8n6), [hanuri](https://maps.app.goo.gl/5XvePzZiXDiKyoTP6), [bun rieu](https://maps.app.goo.gl/yCz6wyiQVtQwrGST7)
+							- menu
+						- cafe: [tonkin](https://maps.app.goo.gl/jj3YKTeB87CWamog9), [caztus](https://maps.app.goo.gl/cbxBfYWZQ7tKFTpe9), [things](https://maps.app.goo.gl/qiN63bRePgGmu5o68)
+							- menu
+							- movie
 				- core
 					- process - scheduling: v-it, s.social, s.pre, m
 					- 2024 event planner, bucket list, who I want to be
