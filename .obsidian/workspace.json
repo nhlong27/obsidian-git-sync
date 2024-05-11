@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e9d4a3671a53de",
+        "id": "d4ca38c91c57f686",
         "type": "tabs",
         "children": [
           {
-            "id": "15a166cf814a65f3",
+            "id": "e32c38b9304dc4a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/daily.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0214741188ec5556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/m.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c064ad5446164ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/s/social/core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6673f626b376f7bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/s/social/network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "system/prod/daily.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -184,13 +140,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15a166cf814a65f3",
+  "active": "e32c38b9304dc4a7",
   "lastOpenFiles": [
-    "system/prod/m.md",
     "system/prod/daily.md",
-    "system/prod/eco.line.md",
-    "system/prod/s/social/network.md",
+    "system/prod/m.md",
     "system/prod/s/social/core.md",
+    "system/prod/s/social/network.md",
+    "system/prod/eco.line.md",
     "system/prod/s/pre.md",
     "system/prod/s/v.md",
     "system/prod/v/other.md",
