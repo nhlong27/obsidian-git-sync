@@ -13,6 +13,7 @@
 	- edc: key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216) (ridge, orbitkey - expensive)), [towel](https://www.google.com/search?q=matador+nanodry+towel&oq=matador+nano&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIMCAgQABgUGIcCGIAE0gEIMjYwNWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8), bottle, multi-tools, [mask](https://vt.tiktok.com/ZSFcM47Y2/) , wallet (bi-fold, zip-around, cardholder)
 		- lens
 		- [eyeglasses](https://www.youtube.com/watch?v=FVPj4om505E&list=PLzi60fSuOmPBWMT-jd7GYS6EDpv3CfK5P&index=2): frame size (2 eye size + dbl (14-18, 19-22)), temple - nose pad, high index, half rimmed - seeson, chrome heart - hmk, titan
+	- umbrella, raincoat, arm cover, rain boot for shoes, cosmetic bag
 - digital
 	- icloud (ios, macos)
 	- google
@@ -28,3 +29,7 @@
 		- grabfood: milano cofffee, ginger honey tea
 	- barrier (kvm, synergy alt) [1](https://github.com/debauchee/barrier/releases) [2](https://github.com/debauchee/barrier/issues/231)
 	- [p](ACB 14521807 ILeGyFs27oct  0724)
+- util
+	- https://sieuthikhoavantay.com/
+	- https://thaiyencafe.com/
+	- [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)

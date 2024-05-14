@@ -11,80 +11,36 @@
 	- finis
 		- fin.sheet
 		- s.app.int (dental, hair, skin)
-	- [2025]
-		- [jul]
-			- m.japan
-	- [2024]
-		- [dec]
-			- [mon23]
-				- m.quanbirthday
-		- [oct]
-			- [thu31]
-				- m.trabirthday
-		- [sep]
-			- m.hagiang
-			- [mon30]
-				- m.nganbirthday
-		- [july]
-			- [thu18]
-				- m.mombirthday
-		- [june]
-			- [thu27]
-				- m.mybirthday
-			- [sat1]
-				- m.dadbirthday
-		- [may]
-			- [week4]
-				- [fri24]
-					- m.phuquy
-			- [week3]
-				- [sun19]
-					- m.parentsanniversary
-			- [week2]
-				- m
-					- tier2: m.tcv [sat11]
-						- setup
-							- clothes: 
-							- gloves, boot, mask, arm cover, head cover, hair holder
-							- tissue, cloth, clay, bag, charger, extra lens, glasses + cases, backpack cover, bike cover, trash bag, deoderant, hand sanitizer, rain coat, umbrella
-						- route
-							- house -> zoo: vo van kiet 30
-							- zoo -> food -> cafe: xo viet nghe tinh 5, le duan 15
-						- zoo: 60k (online?)
-							- vuon thu thieu nhi 9-11
-							- khu vuc phong tieu ban moi
-							- Vườn Bướm, Vườn Hồng Hạc
-							- photography
-							- phu quy trip, another date
-								- vung tau, ninh binh, dong xoai, dalat, animal: panda, cat, corgi, dinh doc lap, cafe, hcmue, 
-								- my tcv, book, food, movie, music
-						- food: [bun bo](https://maps.app.goo.gl/iVbujjF4DQdLKw8n6), [hanuri](https://maps.app.goo.gl/5XvePzZiXDiKyoTP6), [bun rieu](https://maps.app.goo.gl/yCz6wyiQVtQwrGST7)
-							- menu
-						- cafe: [tonkin](https://maps.app.goo.gl/jj3YKTeB87CWamog9), [caztus](https://maps.app.goo.gl/cbxBfYWZQ7tKFTpe9), [things](https://maps.app.goo.gl/qiN63bRePgGmu5o68)
-							- menu
-							- movie
-				- core
-					- process - scheduling: v-it, s.social, s.pre, m
-					- 2024 event planner, bucket list, who I want to be
-					- dealing with not on gg map [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
-					- learn map
-				- s
-					- pre.ext: cleanser, body sunscreen, shaving cream, toothbrush, shaving razo, bike plate
-					- social
-						- [x] core
-						- network
-							- the base of all relationships: investment - separates friendship, situationship from relationship: investment in returns of needs (+attraction)
-								- stages of dating
-								- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
-									- texting - pivot, 3-5 times window (purpose: safe, potential) -> filter/investment 1: hanging out (giu gia small challenge -> suggest, max 3) + social: investment (they won't choose risky actions)
-									- her friends, nervous, spend time, details, laugh at jokes
-							- refactor - networking (who to ask what)
-							- daily
-								- tra, nhung, hien, ngan
-									- tonight sushi place
-								- sora japan, giang, vivien, nhi (tan phu, tan binh)
-								- cheu relationship tips
-				- eco:line
-					- longer mac charger, keycap puller, coolmate socks, cosmetic bag, [umbrella], arm cover, rain boot for shoes, bag, perfume (le-labo-santal-33), eyeglasses
-					- fix bike (headlines, washing, ignitor)
-					- clean house (fix toilet smell)
+	- [2024] uppertier
+		- [mon23/12] quanbirthday
+		- [thu31/10] trabirthday
+		- [mon30/9] nganbirthday, hagiang
+		- [thu18/7] mombirthday
+		- [thu27/6] mybirthday
+		- [sat1/6] dadbirthday
+		- [fri24/5] phuquy
+		- [sun19/5] anni
+		- [tue14/5] cousin Tung
+		- tier1: cafe Ngan, cafe Tra, pool Minh, net Nhi+Vi, tiktok mega [wed15/5]
+			- cafe Ngan
+				- food&drink: cafe bet, dagona coffee (oromia, barxiu), 7/11 yukimi daifuku mochi + tra tac
+				- entertainment: movie, netflix, picnic global city
+		- prod
+			- m
+				- process - scheduling: v-it, s.social, s.pre, m
+			- s
+				- social
+					- core: what people talk about
+						- books: dune 2, actors, actresses, acting, movie, cinematogrpahy, blade runner,
+					- network
+						- the base of all relationships: investment - separates friendship, situationship from relationship: investment in returns of needs (+attraction)
+							- stages of dating
+							- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
+								- texting - pivot, 3-5 times window (purpose: safe, potential) -> filter/investment 1: hanging out (giu gia small challenge -> suggest, max 3) + social: investment (they won't choose risky actions)
+								- her friends, nervous, spend time, details, laugh at jokes
+						- daily
+							- tra, nhung, hien, ngan
+							- sora japan, giang, vivien, nhi (tan phu, tan binh)
+			- eco:line
+				- longer mac charger, keycap puller, perfume (le-labo-santal-33), eyeglasses, phone holder bike, attachable phone wire, toothbrush, shaving razo, bike plate
+				- fix bike (headlines, washing, ignitor)

@@ -10,7 +10,7 @@
 				- chiikawa x sanrio, flower: *cẩm tú cầu*, cẩm chướng hồng, (hoa sao nhí - cousin), chuột lang: doan ham chi, doan ha cao (chíp)
 			- arc
 				- aniday
-					- feb23: phu quoc, nhi, company 
+					- feb23: phu quoc, nhi, company
 					- apr24: vt, sora
 					- jun24: dalat nhi, mom
 			- todo
