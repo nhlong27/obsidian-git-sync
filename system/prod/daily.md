@@ -25,7 +25,7 @@
 			- cafe Ngan
 				- food&drink: cafe bet, dagona coffee (oromia, barxiu), 7/11 yukimi daifuku mochi + tra tac
 				- entertainment: movie, netflix, picnic global city
-			- ban 
+			- dai hoc: co so, ban
 		- prod
 			- m
 				- process - scheduling: v-it, s.social, s.pre, m
