@@ -25,13 +25,14 @@
 			- cafe Ngan
 				- food&drink: cafe bet, dagona coffee (oromia, barxiu), 7/11 yukimi daifuku mochi + tra tac
 				- entertainment: movie, netflix, picnic global city
+			- ban 
 		- prod
 			- m
 				- process - scheduling: v-it, s.social, s.pre, m
 			- s
 				- social
-					- core: what people talk about
-						- books: dune 2, actors, actresses, acting, movie, cinematogrpahy, blade runner,
+					- core: the flow of conversation - echoing emotion
+						- humour
 					- network
 						- the base of all relationships: investment - separates friendship, situationship from relationship: investment in returns of needs (+attraction)
 							- stages of dating

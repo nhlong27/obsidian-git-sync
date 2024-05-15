@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "9a9c536a90e021b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/m.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3423e5f04540b7ce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ador.md"
+              }
+            }
+          },
+          {
             "id": "80f9f414ca3d3478",
             "type": "leaf",
             "state": {
@@ -31,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "Excalidraw/ador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "Excalidraw/ador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/daily.md"
+                "file": "Excalidraw/ador.md"
               }
             }
           }
@@ -160,11 +183,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68ed1c114f1ec098",
+  "active": "86db6f543993f9a1",
   "lastOpenFiles": [
-    "system/prod/eco.line.md",
-    "system/prod/daily.md",
     "system/prod/m.md",
+    "Excalidraw/ador.md",
+    "Excalidraw",
+    "system/prod/daily.md",
+    "system/prod/eco.line.md",
     "system/prod/s/social/network.md",
     "system/prod/s/pre.md",
     "system/prod/s/social/core.md",
@@ -205,8 +230,6 @@
     "archive_excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
     "archive_excalidraw/interview_tips.md",
     "archive_excalidraw/JavascriptModel.excalidraw.md",
-    "archive_excalidraw/LifestyleModel.excalidraw.md",
-    "archive_excalidraw/OriginModel.excalidraw.md",
-    "m/2024/4"
+    "archive_excalidraw/LifestyleModel.excalidraw.md"
   ]
 }
