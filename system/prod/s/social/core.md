@@ -7,7 +7,6 @@
 			- volume
 	- thre: communicate desire
 		- a method for remembering (have i shared)
-			- 
 			- thread (to lead): info exchange, stimulate feelings
 				- storytelling (motio (curiosity), imagination, personal), trend
 					- confidence - nghi rang, co le, chua biet/ro, tuy (take ownership / believe in what you say)
@@ -19,111 +18,16 @@
 			- story = memory <- emotion, details around that [emotions] more chances for threads
 		- sentence structure
 		- gen
-			- dic
-				- en
-					- aug23: government, within, walk, although, college, development, society, treatment, professor, executive, camera, throughout, challenge, magazine, marriage, civil, painting, senior, hierarchy, hierarchical, sudden, southern, fresh, species, insurance, scale, european, presence, worth, failure, procedure, chairman, threaten, negative, fuel, corporate, towel, conclusion, difficulty, recommend, stress, content, actually, ensure, estate, ancient, bowl, pour, necessarily, resolution, bomb, secretary, typically, physician, wrap, prosecutor, housing, comparison, alcohol, arab, existence, consistent, online, occasion, breathe, investigator, ordinary, vs, competitive, transfer, illustrate, breakfast, veteran, confront, pure, nearby, accompany, exhibition, consultant, administrator, mayor, stomach, suggestion, elementary, absence, latin, rapidly, origin, advise, onion, islamic, refugee, incorporate, extraordinary, satellite, portrait, cooperate, testimony, literary, fortune, occupy, accurate, whereas, bullet, scenario, natural, finance, diverse, behind, pronunciation
-					- sep23: unknown, protest, possess, political, loose, considerable, headquarters, shelter, controversy, alter, establishment, pollution, variation, immersion, agile, scavenge, cashier, perfume- hysterical, hyena, dermatology, eavesdrop, elusive, blossom, league, metaphor, junkyard, forfeit, mature, else, schematic - some ways of keeping myself entertained, the more the merrier, bow out, cat's out of the bag, distribute, vulnerable, capability, gradually, ongoing, economist, consume, tobacco, explosion, whistle, generosity, anonymous, commandeer, ruin, shovel - under the hood, behind the scenes, strengthen, sophisticated, barrel, glove, photography, stroke, detailed, laboratory, auto, orange, edition, shove, rotten, insult, misinterpret, release, garage, operator, heritage, shrug, wound, furthermore, sanction, consciousness, nomination, acid, distinguish, discourse, persuade, subsequent, rhythm, exhibit, chase, horror, colonial, confusion, confuse, cognitive, dramatically, decrease, regulate, cure, abuse, reign, disease, voluntary, ache, thievery, treasure, of course, crew, horizon, adolescent, northwest, interrupt, salmon, stem, sculpture, compound, flour, subtle, medal, integrity, essence, exclude, closet, islam, roman, korean, mainstream, suburb, legislative, array, burst -bust, inevitable, supervisor, diagnosis, warrior, infrastructure, privilege, delicious, vapor, etiquette leap, pond, continuing, simultaneously, transmission, colony, indigenous, alarm, wherever, rhetoric, rhetorical, injure, mandate, mailmen, orphanage, luxury, visual, epiphany, calendar, mechanism, compromise, fork, sidewalk, olympic, pension, sodium, delicate, doll, anxious, residential, precinct, diversion, thorough, closure, expertise, elegant, casual, opera, wildlife, elevator, endorse, realm, recipient, bias, inventory, popularity, cereal, oven, cologne, precious, trailer, accuracy, nominee, alleged, donate, aisle, changed, owe, transfusion, foul, separate, dinosaur, advise - advice, alternative, rampant, luxurious, afterward, lane, shrimp, vaccine, jewelry, wagon, alongside, drawer, sheep, onward, ideological, intimate, whale, alumni, skull, entrepreneur, bureau, ambitious, christianity, aesthetic, haphazard, appreciation, tumor, decorate, pulse, alley, icon, consequently, legislature, unprecedented, columnist, preliminary, patent, disabled, hormone, frontier, stimulate, debut, proclaim, confrontation, fierce, protocol, marketplace, terrain, genre, hurricane, retailer, coup, journalism, robot, likewise, persian, sphere, tighten, validity, ecosystem, streak, mentor, debris, developmental, cemetery, deliberate, embarrass, eligible, processor, plunge, refuge, elaborate, triumph, comparable, transport, conscience, hypocrisy, cease, electricity, parameter, allegedly, philosophical, municipal, grandparent, cruise, mobile, opt, soar, threshold, overnight, corpse, cuisine, sewer, obscure, commotion, rigorous, representative, olive, exhale, radar, rehabilitation, surveillance, harvest, sovereign, contributor, transit, seminar, economically, profile, commentary, patronize, lever, twentieth, foreigner, bolt, diplomat, vacuum, dictate, naval, proceed, hassle, cleanse, caterer, behest, recede, chasten, tether, discrepancy, regurgitate, parachute, attic, champagne, dosage, ambulance, comforting, unerring, distraught, trellis, afoot, probate, exclusion, discord, prenup, undue, salami, presumptuous, weariness, scrutiny, awry, patriarch, malice, heinous, syringe, rendezvous, vicious, wreak, absorb, gurgle, relish, altruism, infectious, dementia, latch, nourish, compass, puzzle, momentary, extravagant, stir, serenade, genial, reclamation, commune, apprentice, predefinite, legit, trifle, toot, foil, tribute, infraction, incredulity, partay, heirloom, autopsy, acute, convene, envelope, reverence, outrageous, buttress, aground, perjure, expeditious, confound, ransack, numbing
-					- oct23: insincere, smear, deify, tortoise, cerebellum, ghoulish, relinquish, lenient, renounce, dismantle, divorce, tack onto, mislead, pierce, moisture, perpendicular, brine, segue, subsist, serum, seize, arbitrary, erode, agony, barbaric, toxicity, regime, agitate, secrete, run amok, plummet, entice, wafer, necklace, campaign, chasm, yawning, clandestine, rad, cantina, accord, dunce, deterrence, variable, mediocre, vacuous, eschew, continuity, sentient, nazi, hospice, ominous, obnoxious, impede, usurp, spiel, scrunch, wail, wilt, bile, wriggle, suffice, meticulous, choreograph, wrath
-					- jan24: average - trivial - unimportant - neligible - inconsequential - trifling, flight of stairs, in lieu, make do / get by / manage with, motivating vs motivational, between two groups
-					- mar24: iota, fief, acolyte, duress 
-					- apri24: serendipity
-					- may24: camaraderie
-				- vi
-					- other: chằm zn, xà lơ - sai lơ, đồ đệ - đệ tử, gãy, sào phơi, mồ chôn - mộ - mả, điển hình - tiêu biểu, khúc mắc - uẩn khúc, sành sỏi, lược sử, biên niên sử, kế sách, thâm tâm, nhuệ khí, săm xe, tiềm năng, truong phong / chu tich / thuỳen trưởng, thanh cảnh, tinjuan, biệt ngữ xã hội, gậy gộc, hình rẻ quạt, gia quyến / khuyển
-						- freq: thường nhật
-						- env: hiu quạnh
-					- adj: sành sỏi, phóng túng, phè phỡn, giàu nứt vách, khuây khoả, ngả ngớn, bí xị, phù phiếm, tần ngần, rũ rượi, thích đáng, bất giác, gạo cội, nhanh nhảu, nền nã (nết na, điềm đạm), nhộn nhạo / nao nao, da diết, bèo nhèo, lùng nhùng, lùng bùng, xô bồ, bánh bèo, tung tăng, ào ạt, cuồn cuộn, lấp lánh, dồn dập, tĩnh mịch, vương vấn / vấn vít, hung hãn, tang tảng, nguy nga diễm lệ, bồng bền, ăn mặc chỉnh tề, vồn vã, đụt
-						- group: la liệt, ngả ngốn
-						- excl: vãi chưởng
-					- verb: lộ liễu, hẹo, thài, nếm trải, ghé-quẹo, nhấm nháp / nhâm nhi, gặm, tâng bốc, giác ngộ, đàm đạo, giấu giếm, hấp thụ, xả láng, kiếu, trổ bóng, trệu trạo, cuỗm, xà nẹo, phung phí, đú đởn, nhã hứng, nhượng bộ, tủm tỉm, chực, ngấm ngấu, quyện nhuyễn, khắc khẩu, bập bẹ, bù lu bù loa, lê la, bẽn lẽn, hí hoáy / loay hoay, lồng lộn, đổ dầu, câu nệ, hỏi han, nô đùa / giỡn, thích thú, lang thang, du ngoạn, chập chững
-			- exag
-				- lap luan ng dung fb - lo hong
-				- bỏ tư bản lên cộng sản
-				- lúc lạnh lúc nóng / khó đoán hơn bồ
-				- sự nghiệp của kicm - rách
-				- có xét nghiệm ko
-				- chỉ có sĩ k có hiệp
-				- bác sĩ bảo hay vậy ba / bất ngờ trời, tí vô coi miệng a ấy có sủi bọt ko, đẩy ra thuyền sáng thấy ở bến bạch đằng
-				- giáo dục công dân mở mồm ra là dm, sống lỗi, sống giả tạo, 
-				- trà chắc dưới 52k. lỡ khen r khen 25k đi đừng 52k nữa
-				- t2 thấy nhận dc lương, gửi mail thấy final. cảm ơn e đã góp dui, đủ dui r k cần e nữa, sự hiện diện của e là có hại cho cty
-				- sáng mai k thấy e thì mn báo công an liền nha. lúc đó e sình bụng r, e hết hạn sử dụng r
-				- má giống như hổng ai hưởng ứng hết, quay xong xoá clip đi nha, k ai join hết á, rất là quê nha
-				- a tú nhuộm tóc k a, nhuộm màu cháy nắng, xui a thì a sẽ đi tu, tên của a sẽ mất dấu, a Tu
-				- ambulance k a, e muốn dc ship nhanh
-				- đừng có mở mồm, toàn chất hoá học
-				- tái hòa nhập, sắp cai nghiện thành công r
-				- ôm cái cột, thấy mỏi háng quá
-				- đến cồn chơi mình
-				- đừng cãi nhau nữa đánh nhau luôn ik
-				- pho mai con bò cười ỉa cười lăn lộn
-				- i love youtừbé, di vo long em cung dc
-				- het roi nhung lam đầy dc a
-				- muon dong gop vi ng ngheo nhung minh là ng ngheo, bedroom session
-				- sương khói mờ nhân ảnh
-				- di cư
-				- đi xe rồng
-				- mũ bảo hiểm sinh ra để bảo vệ não
-				- đào bưởi - vú
-				- vừa có tiền vừa có quyền
-				- cứ 1 mét vuông có - 2 quán trà đá, 1 cơm tấm, 10 thằng ăn trộm
-				- landmark, ngón giữa chọc trời
-				- đừng dạy nhà giàu cách tiêu tiền
-				- quan hệ với nhị vị sinh ra bạn
-				- đừng bóp còi có phải việt nam vô world cup
-				- hà nội ngàn năm văn vở
-				- điều kiện thời tiết cần phải mưa thì mới có chỗ này
-				- biệt đội grab part time
-				- người anh em 2 bánh / 4 bánh
-				- nhức cái nách,
-				- con gà kêu (game)
-				- thời tiết đẹp ngày bạn nghỉ và mưa rất to khi bạn đi làm
-				- kiếm dc đủ tiền để sống từ h đến cuối đời, miễn sao chết vào cn tuần này
-				- 2024 phải kiếm dc 300 triệu, thế h chỉ cần 1 tỷ nữa thôi là đạt dc mục tiêu r
-				- tìm ở mọi góc của trái đất, có điều trái đất hình cầu
-				- phân tích tác phẩm theo ý của em và chấm điểm theo ý của cô
-				- nhất cự li nhì tốc độ
-				- đeo lắc bạc, nhà nước nuôi
-				- bình sữa, bình rượu, bình truyền nước, bình tro
-				- tư sản -> vô sản cuộc cách mạng hôn nhân
-				- đắc nhân tâm là cuốn sách giáo khoa lớp 1
-				- con gái là cỏ rác đầy đường, thích hái lúc nào thì hái
-				- tia nắng nhảy nhót đùa nghịch như trẻ nhỏ (nước)
-				- tình yêu bự - lực tay to
-				- nó như củ loz, nhưng ngoài cái đó ra thì gì cũng tốt
-				- xi măng trong mái lều
-				- hải quay xe
-				- góc ăn tiền / tiền âm phủ
-				- anh *chả* ngon à (Như)
-				- mức độ hấp dẫn = 0, mức độ tắt nứng là vô đối, simp chúa
-				- băng vệ sinh cảm xúc
-				- kiếm vợ giàu thì cả đời hướng ngoại
-				- fa -> chim mốc hết đời
-				- k dẫn dắt, tự chủ - đợi anh về nhà hỏi mẹ
-				- để lâu cứt trâu hoá bùn
-				- thợ phá cửa, khoan giếng
-				- mqh - bến đỗ lâu dài
-				- i sell dreams
-				- tin nhắn này là liều thuốc gây mê cho con gái, mê man bất tỉnh đến vài chục ngày sau
-				- cầm dép chạy xa bạn hàng km
-				- 10 năm trên rừng, 20 năm ở đảo hoang giờ mới được hoà nhập 
-				- không ăn được sẽ đạp đổ
-				- muối mặt với chính bản thân mình
-				- quét mạng nhện, làm bạn với dưa chuột
-				- đỉa đói, quỵ luỵ, van xin
-				- mượn hồn ai để thoát khỏi cái Shell
-				- tắt đèn - ngô tất tố
-				- đầu nhảy số
-				- lạc ở vùng đất lý thuyết
-			- wordplay
-				- su kem, khoan hồng / không hoàn, trai dìm - zai chìm - lowkey, phí phụ thu / thụ phu, hard to get / get hard, vân vân và mây mây, hay cực/ hư cac, đinh tặc/ đặc tinh, nấu lưng / nứng lâu, sặc 1 cục/ sục 1 cac, toả là hương / tưởng là hoa, chính đạo / chính đụ, ý hàng sao - áo hàng si, châu âu - châu quảng, thành công - cổ thụ, tăng hai / ba tăng xông, tiền - tiền đồ trắc trở, tiền đình, hệ luỵ, guccirkle k - disney chanel - luôn vuituoi, ôm cua úp vỉa, mốt như lìn, chè hột la, báo đời (về đời sống), khuân bốc/ bốc đầu, biển / số xe, phố / đèn đỏ, số nhà đánh số chẵn lẽ như nhà cái, củ chi / chỉ cu, bến thành / thánh bền, chặt heo dùng tứ quý, áo mưa trap boi / trap girl, mùa đông / vcl, bulon, bắc / nam kỳ chó, hmong bên bếp lửa, mường tè bên gốc cây, bú fami, bóp / vớ / quất /thịt chị đi em ơi, bình xuôi / buồi xinh, biệt thự / thiệt bự, nặng kí / kị nắng, đá vào miệng chai / đái vào miệng cha, trân trọng / trong trận, xiết nợ / biết sợ, ta không thể ngủ / ngu không thể tả, chủ đị / chỉ đụ, chất lượng / lượng châm, lượng nơ, công tác xã hội đen, mút / tụt mút, sờ / sờ trét, ielts/ ai iêu, tô ích / tô xích, kế / kế toán, vị thế cao / điện cao thế, thua keo này ta bày keo chó, toán tìm ích (x), đạo / đạo hàm, không gian / dối, định luật ôm, tụ điện / tiện đụ, tái sinh / đẻ chưa chín, yếu cơ / cớ yêu, dạy / thì, đang chuyến mại vô cùng lớn, cờ su / sờ cu, đây dồi / đôi dầy, nỗi lòng / nóng lồn, đạn đu / đan đụ, thấy mẹ chưa, diịeoubu, vớ quá cũ / vú quá cỡ, kệ cả ngụ / nghệ cả củ, hưng láy / hay nứng, cuốn / hút, chanh thần / chân thành, một vãi lền, đích thực / thích đực, follow me / my pha lau, cung khòn, màu nho, xaolon, mũ em đội, coin card, xăm lính, mỹ đa
-			- flirt
-				- (self) cgi cũng về nhất - yêu em muốn mãi về sau
-				- (time) từ khi yêu xếp hàng, hàng giờ nhớ em
-				- (wea) có cái nóng nào bằng cái nóng lòng được gặp em
-				- (dic) tra từ điển cả ngày nhưng k thể tra dc từ lúc nào anh đã thích em, nhớ là một tính từ tính từ khi quen em
-				- (her) anh biết em đã 0 điểm nào chê, em toả hương làm anh tưởng hoa
-				- thức khuya anh tỉnh bằng tra, yêu em anh trả bằng tình được không
-				- xiêu lòng ánh mắt xong liều yêu em
-				- nấu tay cặm
+			- exp
+				- mặt nhăn nhó, đăm chiêu, nheo nheo mắt, rụt cổ, nom gọn gàng, trố mắt, lẩn thẩn nghĩ, t ngơ ngác, dỏng tai nghe, đờ mặt, há hốc mồm, tóc gáy dựng đứng, buồn như vừa dc vớt lên từ dưới suối, rười rượi, nẫu ruột, ủ ũ, ỉu xìu, u ám, u sầu mặt bí xị, tần ngần, bơ phờ rũ rượi, cười tủm tỉm, sửng sốt, bặm môi
+					- giọng reo vui, giọng rầu rầu, đằng hắng ầm ĩ, cười khì khì, run run hỏi, hỏi như ng mơ ngủ, mắng t nhưng mắt nói điều ngược lại, nôn nao buột miệng, cố kềm một tiếng reo, chẹp chẹp miệng, miệng lẩm bẩm xuýt xa, hét thất thanh, la bài hãi, cười hăng hắc, miệng lắp bắp, bập bẹ, liên tu bất tận, nói hoạt bát, hát nghêu ngao, gầm gừ
+				- mân mê, săm soi, nhúc nhích, cựa quậy, băn khoăn, đâm chột dạ, năn nỉ, thinh thích, thích thú, sờ sợ, sợ sệt, hớt hơ hớt hải, tằng tịu, sục sạo, mò mẫm, mường tượng, nhao nhao, láo liên mắt, xà lơ, co giò bỏ chạy, ngồi xích sát, nhanh như cắt, đuổi nhau huỳnh huỵch, vù ra, vọt lên, phi thẳng về, thở phì phò, hậm hực, lặng lẽ đi, phè phỡn, cười đùa ngả ngớn, bất giác hỏi, nhanh nhảu, nền nã, nhớ da diết, tung tăng, hung hãn, mặc chỉnh tề, nhấm nháp, nhâm nhi, đàm đạo, giấu giếm, chơi xả láng, nhai trệu trạo, cuỗm, xà nẹo, xài phung phí, đú đởn, nhã hứng, nhượng bộ, chực lấy, đọc ngấu nghiến, khắc khẩu, lục đục, khóc bù lu bù loa, lê la quán xá, bén lẽn, hí hoáy, loay hoay, lồng lộn, câu nệ, hỏi han, nô đùa, lang thang, du ngoạn, chập chững, hãnh diện, hăng hái, làm cần mẫn, thấy rờn rợn, tim đập tiếng chân thình thịch, quỵ luỵ, hoạt khẩu, lém lỉnh, xúm xít nghe, lui cui lúi húi gặt, làm gì lầm lỗi, vụt đen đét, lén lút, một cách biếng nhác, tắm lớn tồng nghồng, bứt rứt, thuật lại, kể lể, chật vật nghĩ, ghi nguệch ngoạc, thực thi
+					- cùi tay tựa lên bậu cửa sổ, giọt lệ lăn tròn trên gò má, sự tươi tỉnh lại nhuộm hồng gương mặt mới đây còn tái xanh, nhờn nhợt, gió cù mơn man, vòng xếp từng lớp trông hệt như những vòng sóng khi t nghịch ngợm ném một hòn sỏi xuống mặt ao, xoắn vào nhau như vũng nc xoáy, kiểng chân lên để có thể, tức cảnh sinh tình, tia nhìn bị hút về, 
+				- cả thảy, ngay tức khắc, một chốc sau, giảng giải, chằm zn, đồ đệ, điển hình, uẩn khúc, sành sỏi, thâm tâm, nhuệ khí, tiềm năng, thanh cảnh, gậy gộc, gia quyến, hiu quạnh, thường nhật, phóng túng, giàu nứt vách, khuây khoả, nguôi ngoai, phù phiếm, gạo cội, nhộn nhạo, nao nao, bèo nhèo, lùng bùng, lùng nhùng, xô bồ, ào ạt, cuồn cuộn, lấp lánh, dồn dập, tĩnh mịch, vương vấn, tang tảng sáng, nguy nga diễm lệ, bồng bềnh, la liệt, ngả ngốn, ngổ ngang, lộ liễu, quyện nhuyễn, đều tăm tắp, long lanh, mênh mông, lập loè, ngắn ngủi, rùng rợn, nhơm nhớp, cũ rích, tay áo phất phơ, tiếng leng keng, đom đóm chập chờn, tối mịt, cực hình, ngoảnh cổ, co cẳng chạy, són ra quần, nồng nặc mùi, khe kẽ, mưa rơi lách tách, lộp độp, rả rích, ào ạt, dào dạt, trắng xoá, mây đen ùn ùn kéo tới, người rối rít trú mưa, cây ngả nghiên rũ rượi, sấm đùng đùng
+			- comp
+				- giọng t thất vọng như thể t chỉ có 2 cái răng hay 2 ngón chân, lap luan ng dung fb - lo hong, bỏ tư bản lên cộng sản, lúc lạnh lúc nóng / khó đoán hơn bồ, có xét nghiệm ko, giáo dục công dân mở mồm ra là dm, sống lỗi, sống giả tạo, trà chắc dưới 52k. lỡ khen r khen 25k đi đừng 52k nữa, t2 thấy nhận dc lương, gửi mail thấy final. cảm ơn e đã góp dui, đủ dui r k cần e nữa, sự hiện diện của e là có hại cho cty, sáng mai k thấy e thì mn báo công an liền nha. lúc đó e sình bụng r, e hết hạn sử dụng r, a tú nhuộm tóc k a, nhuộm màu cháy nắng, xui a thì a sẽ đi tu, tên của a sẽ mất dấu, a Tu, ambulance k a, e muốn dc ship nhanh, đừng có mở mồm, toàn chất hoá học, tái hòa nhập, sắp cai nghiện thành công r, ôm cái cột, thấy mỏi háng quá, đến cồn chơi mình, đừng cãi nhau nữa đánh nhau luôn ik, pho mai con bò cười ỉa cười lăn lộn, i love youtừbé, muon dong gop vi ng ngheo nhung minh là ng ngheo, đi xe rồng, mũ bảo hiểm sinh ra để bảo vệ não, đào bưởi - vú, cứ 1 mét vuông có - 2 quán trà đá, 1 cơm tấm, 10 thằng ăn trộm, landmark, ngón giữa chọc trời, quan hệ với nhị vị sinh ra bạn, đừng bóp còi có phải việt nam vô world cup, hà nội ngàn năm văn vở, người anh em 2 bánh / 4 bánh, đeo lắc bạc, nhà nước nuôi, băng vệ sinh cảm xúc, fa -> chim mốc hết đời, để lâu cứt trâu hoá bùn, thợ phá cửa, khoan giếng, mqh - bến đỗ lâu dài, cầm dép chạy xa bạn hàng km, 10 năm trên rừng, 20 năm ở đảo hoang giờ mới được hoà nhập, quét mạng nhện, làm bạn với dưa chuột, số nhà đánh số chẵn lẽ như nhà cái
+					- kiếm dc đủ tiền để sống từ h đến cuối đời, miễn sao chết vào cn tuần này, 2024 phải kiếm dc 300 triệu, thế h chỉ cần 1 tỷ nữa thôi là đạt dc mục tiêu r, tìm ở mọi góc của trái đất, có điều trái đất hình cầu, phân tích tác phẩm theo ý của em và chấm điểm theo ý của cô, bình sữa, bình rượu, bình truyền nước, bình tro, tư sản -> vô sản cuộc cách mạng hôn nhân, đắc nhân tâm là cuốn sách giáo khoa lớp 1, con gái là cỏ rác đầy đường, thích hái lúc nào thì hái, anh *chả* ngon à (Như), mức độ hấp dẫn = 0, mức độ tắt nứng là vô đối, simp chúa, kiếm vợ giàu thì cả đời hướng ngoại, k dẫn dắt, tự chủ - đợi anh về nhà hỏi mẹ, tăng hai / ba tăng xông, tiền - tiền đồ trắc trở, tiền đình, ôm cua úp vỉa, hệ luỵ, báo đời (về đời sống), khuân bốc/ bốc đầu, biển / số xe, phố / đèn đỏ, áo mưa trap boi / trap girl, bắc / nam kỳ chó, hmong bên bếp lửa, mường tè bên gốc cây, bú fami, bóp / vớ / quất /thịt chị đi em ơi, công tác xã hội đen, mút / tụt mút, sờ / sờ trét, ielts/ ai iêu, tô ích / tô xích, kế / kế toán, vị thế cao / điện cao thế, thua keo này ta bày keo chó, toán tìm ích (x), đạo / đạo hàm, không gian / dối, định luật ôm, tụ điện / tiện đụ, tái sinh / đẻ chưa chín, yếu cơ / cớ yêu, dạy / thì, đang chuyến mại vô cùng lớn,
+						- cgi cũng về nhất - yêu em muốn mãi về sau, từ khi yêu xếp hàng, hàng giờ nhớ em, có cái nóng nào bằng cái nóng lòng được gặp em, tra từ điển cả ngày nhưng k thể tra dc từ lúc nào anh đã thích em, nhớ là một tính từ tính từ khi quen em, anh biết em đã 0 điểm nào chê, em toả hương làm anh tưởng hoa, thức khuya anh tỉnh bằng tra, yêu em anh trả bằng tình được không, xiêu lòng ánh mắt xong liều yêu em
+					- su kem, khoan hồng, trai dìm, phụ thu, hard to get, hay cực, đinh tặc, nấu lưng, sặc 1 cục, toả là hương, ý hàng sao, mốt như lìn, chè hột la, củ chi, bến thành, bình xuôi, biệt thự, nặng kí, đá vào miệng chai, trân trọng, ta không thể ngủ, chủ đị, lượng châm, lượng nơ, cờ su, đây dồi, nỗi lòng, đạn đu, vớ quá cũ, kệ cả ngụ, hưng láy, một vãi lền, đích thực, follow me / my pha lau, cung khòn, màu nho, mũ em đội, coin card, xăm lính, mỹ đa, nấu tay cặm
+		- chỉ tìm ra những gì để nói là đủ khó, liên hệ với ngta ngỏ ý muốn bắt nhịp với nhau / cập nhật về cs, 
 
