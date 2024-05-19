@@ -34,6 +34,7 @@
 					- core: the flow of conversation - echoing emotion
 						- humour
 					- network
+					- middle: the fat bullying duo, scary stories: ghost hunt, midday nap movies, pokemon / football card / oc muon hon crazes, 
 						- the base of all relationships: investment - separates friendship, situationship from relationship: investment in returns of needs (+attraction)
 							- stages of dating
 							- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
