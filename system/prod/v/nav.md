@@ -140,3 +140,17 @@
 								- ![[Pasted image 20230708134057.png]]
 						- pipeline
 							- deploy: vercel, railway.app, s3
+- other 
+	- nutrition
+		- sautéing
+		- stir-frying
+		- steaming
+		- baking
+			- crinkle, flan, cheese cake
+		- grilling
+	- v
+		- seo (se - serps)
+			- onpage
+			- offpage (keyword research, backlink)
+				- mailbluster
+				- e27, techinasia

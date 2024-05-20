@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "eef5f42541c9757e",
+            "id": "044ab8833b2f0548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/s/social/core.md",
+                "file": "system/prod/m.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127931c3bf323666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/fin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/s/social/core.md",
+                "file": "system/prod/v/fin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/s/social/core.md",
+                "file": "system/prod/v/fin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/s/social/core.md"
+                "file": "system/prod/v/fin.md"
               }
             }
           }
@@ -161,18 +173,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eef5f42541c9757e",
+  "active": "127931c3bf323666",
   "lastOpenFiles": [
-    "system/prod/daily.md",
-    "Excalidraw/ador.md",
     "system/prod/m.md",
-    "Excalidraw",
-    "system/prod/eco.line.md",
-    "system/prod/s/social/network.md",
+    "system/prod/daily.md",
+    "system/prod/v/nav.md",
+    "system/prod/v/fin.md",
     "system/prod/s/pre.md",
-    "system/prod/s/social/core.md",
+    "Excalidraw/ador.md",
+    "system/prod/eco.line.md",
+    "system/prod/s/soc.md",
     "system/prod/s/v.md",
-    "system/prod/v/other.md",
+    "system/prod/s/soc/core.md",
+    "system/prod/s/net.md",
+    "system/prod/s/soc/network.md",
+    "Excalidraw",
     "nct.md",
     "m/2023/12/8.md",
     "m/2023/12/7.md",
@@ -205,9 +220,6 @@
     "images/2024",
     "m/2024/4/2024-04-23.md",
     "archive_excalidraw/DevelopmentPipeline.excalidraw.md",
-    "archive_excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md",
-    "archive_excalidraw/interview_tips.md",
-    "archive_excalidraw/JavascriptModel.excalidraw.md",
-    "archive_excalidraw/LifestyleModel.excalidraw.md"
+    "archive_excalidraw/Drawing 2023-03-24 08.23.13.excalidraw.md"
   ]
 }

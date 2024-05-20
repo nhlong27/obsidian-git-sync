@@ -17,18 +17,12 @@
 		- [mon30/9] nganbirthday, hagiang
 		- [thu18/7] mombirthday
 		- [thu27/6] mybirthday
+		- [mid/6] phuquy
 		- [sat1/6] dadbirthday
-		- [fri24/5] phuquy
-		- [sun19/5] anni
-		- [tue14/5] cousin Tung
-		- tier1: cafe Ngan, cafe Tra, pool Minh, net Nhi+Vi, tiktok mega [wed15/5]
-			- cafe Ngan
-				- food&drink: cafe bet, dagona coffee (oromia, barxiu), 7/11 yukimi daifuku mochi + tra tac
-				- entertainment: movie, netflix, picnic global city
-			- dai hoc: co so, ban
 		- prod
-			- m
-				- process - scheduling: v-it, s.social, s.pre, m
+			- net + fin
+				- refactor
+				- eco:line: longer mac charger, keycap puller, perfume (le-labo-santal-33), eyeglasses, phone holder bike, attachable phone wire, toothbrush
 			- s
 				- social
 					- core: the flow of conversation - echoing emotion
@@ -40,9 +34,3 @@
 							- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
 								- texting - pivot, 3-5 times window (purpose: safe, potential) -> filter/investment 1: hanging out (giu gia small challenge -> suggest, max 3) + social: investment (they won't choose risky actions)
 								- her friends, nervous, spend time, details, laugh at jokes
-						- daily
-							- tra, nhung, hien, ngan
-							- sora japan, giang, vivien, nhi (tan phu, tan binh)
-			- eco:line
-				- longer mac charger, keycap puller, perfume (le-labo-santal-33), eyeglasses, phone holder bike, attachable phone wire, toothbrush, shaving razo, bike plate
-				- fix bike (headlines, washing, ignitor)
