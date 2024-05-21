@@ -1,34 +1,25 @@
 - eco:line
 	- fin
 		- core: buyer : value (good/service) <-> value-token (cost + profit) : seller
-			- ele, wat
-			- ser: wifi, phone, cellular data 0.07, icloud 0.030, youtube premium 0.150, netflix 0.07
-			- trans 0.2
-			- mea 3 + 1
-			- ins health (life), vehicle (non-life), social 
-			- eco:line
-		- system 
 			- bank (apy, asset = liability + equity): checking (debit, check) -  credit - card, visa, paylater, e-wallet (momo, zalopay, apple pay)
-			- [card scheme](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system)
-			- psp
-	- physical
-		- bike: (vá ép, vá lụi)
-		- station: headphone/earpods/laptop + chargerx3, keyboard, bagx3, stand, hyperdrive, mouse, glasses cleaner, mouse pad (speed/control/hard, 2-6mm,50k)
-		- edc: key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216) (ridge, orbitkey - expensive)), [towel](https://www.google.com/search?q=matador+nanodry+towel&oq=matador+nano&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIMCAgQABgUGIcCGIAE0gEIMjYwNWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8), bottle, multi-tools, [mask](https://vt.tiktok.com/ZSFcM47Y2/) , wallet (bi-fold, zip-around, cardholder)
-			- lens
-			- [eyeglasses](https://www.youtube.com/watch?v=FVPj4om505E&list=PLzi60fSuOmPBWMT-jd7GYS6EDpv3CfK5P&index=2): frame size (2 eye size + dbl (14-18, 19-22)), temple - nose pad, high index, half rimmed - seeson, chrome heart - hmk, titan
-		- umbrella, raincoat, arm cover, rain boot for shoes, cosmetic bag
-	- digital
-		- map
-		- trans: shopee, grab
-			- [banh su kem](https://food.grab.com/vn/en/restaurant/b%C3%A1nh-su-que-nguy%E1%BB%85n-thi%E1%BB%87n-thu%E1%BA%ADt-delivery/5-CY2BR321L7UZT6)
-			- grabfood: milano cofffee, ginger honey tea
-		- barrier (kvm, synergy alt) [1](https://github.com/debauchee/barrier/releases) [2](https://github.com/debauchee/barrier/issues/231)
-		- [p](ACB 14521807 ILeGyFs27oct  0724)
-	- util
-		- https://sieuthikhoavantay.com/
-		- https://thaiyencafe.com/
-		- [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
+			- [card scheme](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), psp
+	- quan: ele 2.8, wat 0.3, ser (wifi 0.3, phone) + me: trans 0.2, mea 3 + 1, ser (cellular data 0.07, icloud 0.03, youtube premium 0.150, netflix 0.07), ins (health (life) 0.8, social, vehicle (non-life)), eco:line. --- 4.5
+		- eco:line
+			- station: headphone/earpods/laptop + chargerx3, keyboard, bagx3, stand, hyperdrive, mouse, glasses cleaner, mouse pad (speed/control/hard, 2-6mm,50k)
+			- edc: key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216) (ridge, orbitkey - expensive)), [towel](https://www.google.com/search?q=matador+nanodry+towel&oq=matador+nano&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIMCAgQABgUGIcCGIAE0gEIMjYwNWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8), bottle, multi-tools, [mask](https://vt.tiktok.com/ZSFcM47Y2/) , wallet (bi-fold, zip-around, cardholder)
+				- lens
+				- [eyeglasses](https://www.youtube.com/watch?v=FVPj4om505E&list=PLzi60fSuOmPBWMT-jd7GYS6EDpv3CfK5P&index=2): frame size (2 eye size + dbl (14-18, 19-22)), temple - nose pad, high index, half rimmed - seeson, chrome heart - hmk, titan
+			- umbrella, raincoat, arm cover, rain boot for shoes, cosmetic bag
+			- util
+				- map
+				- trans: shopee, grab
+					- [banh su kem](https://food.grab.com/vn/en/restaurant/b%C3%A1nh-su-que-nguy%E1%BB%85n-thi%E1%BB%87n-thu%E1%BA%ADt-delivery/5-CY2BR321L7UZT6)
+					- grabfood: milano cofffee, ginger honey tea
+				- barrier (kvm, synergy alt) [1](https://github.com/debauchee/barrier/releases) [2](https://github.com/debauchee/barrier/issues/231)
+				- [p](ACB 14521807 ILeGyFs27oct  0724)
+				- https://sieuthikhoavantay.com/
+				- https://thaiyencafe.com/
+				- [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
 -  int
 	- hair
 		- rout: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in)
