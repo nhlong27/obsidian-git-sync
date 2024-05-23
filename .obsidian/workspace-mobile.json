@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "system/prod/daily.md",
+            "file": "draft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "system/prod/daily.md",
+            "file": "draft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "system/prod/daily.md"
+            "file": "draft.md"
           }
         }
       }
@@ -147,8 +147,8 @@
   },
   "active": "3743adc4cc7daa8b",
   "lastOpenFiles": [
-    "system/prod/s/social/core.md",
     "system/prod/daily.md",
+    "system/prod/s/social/core.md",
     "nct.md",
     "images/2024/4/25/IMG_4570.jpg",
     "m/2023/12/8.md",

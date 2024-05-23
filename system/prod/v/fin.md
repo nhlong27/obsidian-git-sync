@@ -20,6 +20,7 @@
 				- https://sieuthikhoavantay.com/
 				- https://thaiyencafe.com/
 				- [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
+				- [popmart crescent mall](https://maps.app.goo.gl/D1EKCgnasGJwdMhcA), hobiverse
 -  int
 	- hair
 		- rout: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in)

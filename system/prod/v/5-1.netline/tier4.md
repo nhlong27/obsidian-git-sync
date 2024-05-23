@@ -1,5 +1,5 @@
 - platform
-	- client
+	- view
 		- desktop
 			- native: WinForm (GUI libaries/frameworks WinForms + (compiled) machine code)
 			- others: Electron (chromium rendering engine + node (V8 engine))
@@ -24,7 +24,7 @@
 				- next: + seo (ssr)
 				- vue: watcher (getter, setter) - vue template + synthetic events: virtual dom
 					- $emit, v-bind, v-model, v-if, v-for
-	- server (nginx, apache): javascript + next/express, java + spring, ruby + rails, python + django, php + laravel, c# + asp.net
+	- translator (nginx, apache): javascript + next/express, java + spring, ruby + rails, python + django, php + laravel, c# + asp.net
 		- runtime [env](https://stackoverflow.com/questions/55690143/what-is-the-difference-between-env-local-and-env-development-local) - [node](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module) [2](https://stackoverflow.com/questions/52584811/javascript-not-loading-in-html-file-nodejs-http) : [libuv (event queue + thread pool) - binding -  engine](https://stackoverflow.com/questions/36766696/which-is-correct-node-js-architecture)
 			- [esm/commonjs](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/)
 			- npm: [dependencies](https://stackoverflow.com/questions/65487385/should-i-duplicate-peerdependencies-in-dependencies-field-of-package-json) [version](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)

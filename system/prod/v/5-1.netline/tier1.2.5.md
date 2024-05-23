@@ -1,4 +1,4 @@
-- tier 1
+- tier1
 	- architecture ([[specs]])
 		- CPU (registers, ALU, CU, SRAM L1-L2-L3)
 		- RAM
@@ -27,7 +27,7 @@
 			- ports (2x USB 3.1, 1x USB 3.1 Type-C, HDMI, RJ-45), USB, HDMI, Ethernet
 		- display 
 			- HDR, refresh rate, Panel type (response time, contrast, viewing angle): TN, VA, IPS
-- tier 2
+- tier2
 	- kernel [embedded ?](https://www.quora.com/Do-all-embedded-systems-have-an-operating-system/answer/Tom-Crosley-1?ch=17&oid=75550492&share=144939ae&srid=y5Rp&target_type=answer)
 		- process (program instance) mgmt (memory page - fixed length continuous block virtual memory, PCB)
 			- thread mgmt 
@@ -45,7 +45,8 @@
 	- shell - communicates with kernel though api/wrapper functions (system calls are how api implemented) 
 		- gui
 		- cli: mac (Zsh), windows (cmd), linux (bash)
-- tier 5
+- tier5 
+	- mvc, mvp, mvvm, mvvm-c, viper
 	- use case
 		-  [payment system](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), ledger (pending, completed) / wallter (balance - pending)
 	- principle
@@ -63,13 +64,16 @@
 				- event sourcing
 				- mapper
 				- dto
-		- architecture
+		- [architecture](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkxr1i1R0FegZw9VsbkKsIGgM29nlWIoTs3)
+			- layered
+			- distributed
+				- event-driven: event-bus, pub-sub model
+					- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
+				- microservices vs monolith
+			- microkernel
 			- db: replication, sharding
 			- EDA (message queue)
 			- cms: headless (strapi) vs tranditional (wordpress)
-			- distributed
-				- event-bus
-					- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
 	- data
 		- ai -(nlp, ip, robotics) 
 			- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)

@@ -3,6 +3,7 @@
 	- https://www.youtube.com/watch?v=Dl-BdxNRUqs&t=191s
 	- https://www.youtube.com/watch?v=KHX4jXDKgE4&t=33s
 	- https://www.youtube.com/watch?v=xSPA2yBgDgA
+- [aws](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxNo4SB7QTeyZh47HBDl2ze-psSLno5IvT)
 - tools
 	- plan & design
 		- communicate: slack, outlook
