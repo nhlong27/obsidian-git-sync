@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft.md",
+                "file": "system/prod/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft.md",
+                "file": "system/prod/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draft.md"
+                "file": "system/prod/daily.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ebf2fa687a69773",
+  "active": "68ed1c114f1ec098",
   "lastOpenFiles": [
-    "system/prod/daily.md",
     "draft.md",
+    "system/prod/daily.md",
     "system/prod/m.md",
     "system/prod/v/fin.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
