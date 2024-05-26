@@ -37,4 +37,14 @@ what's your color scheme?
 - what they be doing in this red light district
 - why I only want to travel to japan, korea or china (taiwan now)
 - english journey
-- 
+- gen
+	- tier3 travel Thailand, sora taiwan
+- cur
+	- Tra's frustration & homestay, danbo ramen & saigon japan town w/ Tra
+	- cousin Tung & gf visit & time in Japan, gigamall & dinner & apricot wine, lunch w/ Tung & gf airport departure
+		- banh mi Huynh hoa, banh canh hem 484 vinh vien
+	- haircut, lang dai hoc & vikings arena & hcmue visit, whole day at vikings arena
+	- parents 32nd anniversary
+- env
+	- Bo by Butterman cake cookies 
+	- dinner
