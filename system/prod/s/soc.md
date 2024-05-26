@@ -1,11 +1,15 @@
 - relationship (rapport): [effort](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/be_a_magnet_not_a_rope/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) + [interest](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/comment/gkxo10i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-	- imp: energy
+	- exe: energy
 		- bodlan
 		- voice: shadowing
 			- pitch
 			- rate
 			- volume
-	- thre: communicate desire
+	- thre
+		- hook
+		- parotting, 
+	- int
+		- interest / desire
 		- a method for remembering (have i shared)
 			- thread (to lead): info exchange, stimulate feelings
 				- storytelling (motio (curiosity), imagination, personal), trend

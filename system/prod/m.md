@@ -1,6 +1,9 @@
 - core: mood: motio (hierarchy) <- power (stability) --> optimization - abstraction transparency + resource probability
 	- motio (coffee shop (base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one)) (socio (ego/confidence: reward - effort/risk) - ador: friendship - [...] - relationship (80-20), limerance / oneitis, codependency)
 		- tier1: working, drinking/eating + music (bar/club), board game, sport (rock climbing, soccer, badminton), shopping, karaoke, kayaking, archery, cooking, pool
+			- fiction 
+				- bullet train, knives out, spirited away, monster university, parasyte, cloudy w/ a chance of meatballs, bladerunner 2048, monster house
+				- silent voice, mia, mob psycho, nhk, ngnl, tpn, twgok, angel beats, prison school, tatami
 			- pool: term (cuetec - nỉ, cơ, bi / cái, chô, mát xê, cu lê, 8-9 bi, phin xếp bi, cộng bi), 2 ways to redirect, how to phá bi, 2 ways to bridge, hold cơ and strike
 			- entertainment
 				- [bao tang my thuat](https://www.google.com/maps/place/97A+P.+%C4%90%E1%BB%A9c+Ch%C3%ADnh,+Ph%C6%B0%E1%BB%9Dng+Nguy%E1%BB%85n+Th%C3%A1i+B%C3%ACnh,+Qu%E1%BA%ADn+1,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam/@10.7699285,106.6965997,17z/data=!4m15!1m8!3m7!1s0x31752f3f8430828d:0x9e40f87f558c0e36!2zOTdBIFAuIMSQ4bupYyBDaMOtbmgsIFBoxrDhu51uZyBOZ3V54buFbiBUaMOhaSBCw6xuaCwgUXXhuq1uIDEsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmlldG5hbQ!3b1!8m2!3d10.7699232!4d106.6991746!16s%2Fg%2F11f2cm0snj!3m5!1s0x31752f3f8430828d:0x9e40f87f558c0e36!8m2!3d10.7699232!4d106.6991746!16s%2Fg%2F11f2cm0snj?entry=ttu), 3 buildings - 30k, [bao tang tp hcm](https://www.google.com/maps/place/65+L%C3%BD+T%E1%BB%B1+Tr%E1%BB%8Dng,+B%E1%BA%BFn+Ngh%C3%A9,+Qu%E1%BA%ADn+1,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam/@10.7759515,106.6970715,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f38792861a9:0xd0b14126d87b8b80!8m2!3d10.7759462!4d106.6996464!16s%2Fg%2F11bw40mplq?entry=ttu), 30k
