@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c62b2508d778ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/fin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9305ba08b89c98a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/5-1.netline/tier4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8995ae1c3a1eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/s/soc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/v/5-1.netline/tier4.md",
+                "file": "system/prod/daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/v/5-1.netline/tier4.md",
+                "file": "system/prod/daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/v/5-1.netline/tier4.md"
+                "file": "system/prod/daily.md"
               }
             }
           }
@@ -185,19 +148,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9305ba08b89c98a",
+  "active": "68ed1c114f1ec098",
   "lastOpenFiles": [
     "system/prod/v/fin.md",
+    "system/prod/v/nav.md",
+    "system/prod/v/aniday.md",
     "system/prod/daily.md",
+    "system/prod/m.md",
+    "system/prod/v/5-1.netline/line.md",
+    "system/prod/v/5-1.netline/tier4.md",
     "system/prod/s/soc.md",
     "draft.md",
-    "system/prod/m.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
-    "system/prod/v/5-1.netline/tier4.md",
-    "system/prod/v/5-1.netline/line.md",
     "system/prod/s/net.md",
     "Excalidraw/ador.md",
-    "system/prod/v/nav.md",
     "system/prod/s/pre.md",
     "system/prod/eco.line.md",
     "system/prod/s/v.md",
@@ -230,7 +194,6 @@
     "m/2024/4/2024-04-24.md",
     "archive_images/2024/4/2024-04-25.md",
     "images/2024/4/25",
-    "archive_images/Untitled.md",
     "images/2024/4",
     "images/2024"
   ]

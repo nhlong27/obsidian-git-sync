@@ -1,29 +1,14 @@
-- core: mood: motio (hierarchy) <- power (stability) --> optimization - abstraction transparency + resource probability
-	- motio (coffee shop (base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one)) (socio (ego/confidence: reward - effort/risk) - ador: friendship - [...] - relationship (80-20), limerance / oneitis, codependency)
-		- tier1: working, drinking/eating + music (bar/club), board game, sport (rock climbing, soccer, badminton), shopping, karaoke, kayaking, archery, cooking, pool
-			- fiction 
-				- bullet train, knives out, spirited away, monster university, parasyte, cloudy w/ a chance of meatballs, bladerunner 2048, monster house
-				- silent voice, mia, mob psycho, nhk, ngnl, tpn, twgok, angel beats, prison school, tatami
+- core: mood: motio (hierarchy) <- power (stability) --> optimization - abstraction transparency + resource probability. (coffee shop (base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one)) (socio (ego/confidence: reward - effort/risk) - ador: friendship - [...] - relationship (80-20), limerance / oneitis, codependency)
+	- tier1
+		- relax: food + music (bar/club), shopping, karaoke, cooking, gardening, museum, picnic
+			- food: [banh su kem](https://food.grab.com/vn/en/restaurant/b%C3%A1nh-su-que-nguy%E1%BB%85n-thi%E1%BB%87n-thu%E1%BA%ADt-delivery/5-CY2BR321L7UZT6), grabfood: milano cofffee, ginger honey tea, https://thaiyencafe.com/, [che oi](https://shopeefood.vn/ho-chi-minh/che-oi-ca-phe-muoi-tra-trai-cay-nguyen-van-thuong.xdzbew)
+			- fiction: bullet train, knives out, spirited away, monster university, parasyte, cloudy w/ a chance of meatballs, bladerunner 2048, monster house - silent voice, mia, mob psycho, nhk, ngnl, tpn, twgok, angel beats, prison school, tatami, erased, shadow house
+		- sport (mental: board game - physical: pool, rock climbing, soccer, badminton, archery, kayaking)
 			- pool: term (cuetec - nỉ, cơ, bi / cái, chô, mát xê, cu lê, 8-9 bi, phin xếp bi, cộng bi), 2 ways to redirect, how to phá bi, 2 ways to bridge, hold cơ and strike
-			- entertainment
-				- [bao tang my thuat](https://www.google.com/maps/place/97A+P.+%C4%90%E1%BB%A9c+Ch%C3%ADnh,+Ph%C6%B0%E1%BB%9Dng+Nguy%E1%BB%85n+Th%C3%A1i+B%C3%ACnh,+Qu%E1%BA%ADn+1,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam/@10.7699285,106.6965997,17z/data=!4m15!1m8!3m7!1s0x31752f3f8430828d:0x9e40f87f558c0e36!2zOTdBIFAuIMSQ4bupYyBDaMOtbmgsIFBoxrDhu51uZyBOZ3V54buFbiBUaMOhaSBCw6xuaCwgUXXhuq1uIDEsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmlldG5hbQ!3b1!8m2!3d10.7699232!4d106.6991746!16s%2Fg%2F11f2cm0snj!3m5!1s0x31752f3f8430828d:0x9e40f87f558c0e36!8m2!3d10.7699232!4d106.6991746!16s%2Fg%2F11f2cm0snj?entry=ttu), 3 buildings - 30k, [bao tang tp hcm](https://www.google.com/maps/place/65+L%C3%BD+T%E1%BB%B1+Tr%E1%BB%8Dng,+B%E1%BA%BFn+Ngh%C3%A9,+Qu%E1%BA%ADn+1,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh,+Vietnam/@10.7759515,106.6970715,17z/data=!3m1!4b1!4m6!3m5!1s0x31752f38792861a9:0xd0b14126d87b8b80!8m2!3d10.7759462!4d106.6996464!16s%2Fg%2F11bw40mplq?entry=ttu), 30k
-					- photo phone, clothes, bags, food
-				- thu thiem park (movie, toilet, food, trans5)
-				- global city (picnic, kyte, toilet, food, trans6)
-			- food & beverage
-				- [chung cu 42 NH](https://www.google.com/maps/place/42+%C4%90.+Nguy%C3%AA%CC%83n+Hu%C3%AA%CC%A3,+B%E1%BA%BFn+Ngh%C3%A9,+Qu%E1%BA%ADn+1,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+700000,+Vietnam/@10.7748312,106.7029557,18.6z/data=!4m15!1m8!3m7!1s0x31752f46ea53ffff:0x7dffcb39a8e8c42d!2zNDIgxJAuIE5ndXnDqsyDbiBIdcOqzKMsIELhur9uIE5naMOpLCBRdeG6rW4gMSwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oIDcwMDAwMCwgVmlldG5hbQ!3b1!8m2!3d10.774102!4d106.7040848!16s%2Fg%2F11klxsm0wr!3m5!1s0x31752f46ea53ffff:0x7dffcb39a8e8c42d!8m2!3d10.774102!4d106.7040848!16s%2Fg%2F11klxsm0wr?entry=ttu)
-					- buihaus, Sai gon oi, arabica, the letter cafe, partea - orientea, the english tearoom, the maker, mango tree, mele (food), 
-				- chung cu 26 LTT
-					- 1st Garden, Cong cafe
-				- chung cu 90 NH
-				- chung cu TTD
-					- cafe haru
-				- [cafe vot](https://www.google.com/maps/place/Cafe+Vot/@10.7982111,106.6799902,18.32z/data=!4m15!1m8!3m7!1s0x317528d7205700fd:0xd874ec261127271e!2zMzMwLzIgUGhhbiDEkMOsbmggUGjDuW5nLCBQaMaw4budbmcgMSwgUGjDuiBOaHXhuq1uLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZpZXRuYW0!3b1!8m2!3d10.7984782!4d106.6808814!16s%2Fg%2F11c29xg72c!3m5!1s0x317528d72024c905:0x17fb6bfbd112227a!8m2!3d10.7984782!4d106.6808814!16s%2Fg%2F11bwhb3hd5?entry=ttu)
-		- tier2: volunteering, event (convention, concert), entertainment (movie-anime-manga-comic-book), hiking, camping
-			- concert (1.8 - 5 super junior, 5 cam)
-			- [fic] tpn, mib, erased, angel beats, twgok, ngnl, wttnhk, prison school, mob psycho (opm, tatami galaxy, shadow house)
-		- tier3: course, "travelling" (lbase: surrounding + high: planning)
-		- tier4 (arc): work, school, "life transitioning at a new place" (lbase: surrounding + high: oppportunities)
+	- tier2: volunteering, event (convention, concert), entertainment (movie-anime-manga-comic-book), hiking, camping
+		- concert (1.8 - 5 super junior, 5 cam)
+	- tier3: course, "travelling" (lbase: surrounding + high: planning)
+	- tier4 (arc): work, school, "life transitioning at a new place" (lbase: surrounding + high: oppportunities)
 
 | 2024           | date                  | name                                                                                                                                | p.o.i                          | desc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | loca                                                                                                                                                                                                                                                                                      | weight | tier |
 | -------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---- |

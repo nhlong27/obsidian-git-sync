@@ -15,6 +15,7 @@
 			- [zsh permission denied](https://stackoverflow.com/questions/72862871/zsh-permission-denied-webstorm-on-attempting-to-create-shell-script-that-lau)
 			- [multiple ssh](https://stackoverflow.com/questions/2419566/best-way-to-use-multiple-ssh-private-keys-on-one-client), [update ssh](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey) (using id_ed55519, check ~/.ssh/config)
 			- [user](https://stackoverflow.com/questions/37805621/change-email-address-in-git)
+			- barrier (kvm, synergy alt) [1](https://github.com/debauchee/barrier/releases) [2](https://github.com/debauchee/barrier/issues/231)
 		- [ide/editor](https://gist.github.com/nhlong27)
 		- vcs: object database (key-value): commit (ID, previous, author, committer, message, tree ~directory(, ID, blob file IDs))
 			- strategy

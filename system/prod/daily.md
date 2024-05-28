@@ -13,14 +13,16 @@
 		- prod
 			- v
 				- fin
-					- supply, demand - equilibrium
-					- eco:line: longer mac charger, perfume (le-labo-santal-33, saint laurent), eyeglasses, toothbrush
+					- refactor eco:line
+					- carry bag, longer mac charger, perfume (le-labo-santal-33, saint laurent), eyeglasses, toothbrush
 				- 5-1:netline
 					- 5-1
 					- netline
 			- s
 				- net: definition of post: quality - time <-(interest-based, mood influencer)
-					- interest (primary, secondary, high, uni, aniday, fam) tier 1 - 4
+					- before: barf, low toilet, Ngan sleeping, fire ants, granddad pulling hair, scar head into bike wheel, step on shit damsen
+					- primary: twin bully, 
+					- secondary, high, uni, aniday, fam
 				- soc
 					- thi
 					- gen
