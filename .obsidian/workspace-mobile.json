@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/m.md",
+                "file": "system/prod/daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "system/prod/m.md",
+            "file": "system/prod/daily.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "system/prod/m.md",
+            "file": "system/prod/daily.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "system/prod/m.md"
+            "file": "system/prod/daily.md"
           }
         }
       }
@@ -147,6 +147,7 @@
   },
   "active": "3743adc4cc7daa8b",
   "lastOpenFiles": [
+    "system/prod/m.md",
     "system/prod/daily.md",
     "draft.md",
     "system/prod/s/social/core.md",
@@ -170,7 +171,6 @@
     "images/2023/12/Untitled.md",
     "system/prod/v/eco.line.md",
     "system/prod/s/pre.md",
-    "system/prod/m.md",
     "m/2024/4/25.md",
     "daily/2024/4/2024-04-23.md",
     "m/2023/jun/2023-06-28.md",

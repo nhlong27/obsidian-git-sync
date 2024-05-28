@@ -10,11 +10,14 @@
 		- [sat1/6] dadbirthday
 			- cake, plan
 			- birthday gift, letter
+		- [fri31/5 / sun2/6] Ngan's garfield movie (+ global city picnic)
+			- garfield shopee
+			- movie time
 		- prod
 			- v
 				- fin
 					- refactor eco:line
-					- carry bag, longer mac charger, perfume (le-labo-santal-33, saint laurent), eyeglasses, toothbrush
+					- carry bag, longer mac charger (rubber dome, mechanical: cN, ten-key-less), perfume (le-labo-santal-33, saint laurent), eyeglasses, toothbrush, keyboard
 				- 5-1:netline
 					- 5-1
 					- netline
