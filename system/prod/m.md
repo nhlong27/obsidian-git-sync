@@ -7,6 +7,9 @@
 			- pool: term (cuetec - nỉ, cơ, bi / cái, chô, mát xê, cu lê, 8-9 bi, phin xếp bi, cộng bi), 2 ways to redirect, how to phá bi, 2 ways to bridge, hold cơ and strike
 	- tier2: volunteering, event (convention, concert), entertainment (movie-anime-manga-comic-book), hiking, camping
 		- concert (1.8 - 5 super junior, 5 cam)
+		- volunteering
+		- reposition: living in a airport
+		- train
 	- tier3: course, "travelling" (lbase: surrounding + high: planning)
 	- tier4 (arc): work, school, "life transitioning at a new place" (lbase: surrounding + high: oppportunities)
 

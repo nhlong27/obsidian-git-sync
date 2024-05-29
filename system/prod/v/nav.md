@@ -7,11 +7,12 @@
 			- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
 		 - pending
 			 - [tue28/5] hasaki
-			 - [wed 29/5]
+			 - [wed 29/5] hybrbase
 			- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
 			- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
 			- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform, zalora, Tyme
 			- tier 4: Viettel: sen 2k5, Fsoft, TMA, Global cybersoft, KMS, Nashtech, Momo, VinAI, Shopee, Lazada, NQ, Be
+		 - failed: evsearch, qode jobs, supercoder, employment hero,  
 		- history
 			- employement hero  (Ly Gioi An, friends, QA, voz, youtube) 100 (4.5 left) [1](https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/post-27554372)  [2](https://voz.vn/t/event-box-cntt-2023-chia-se-kinh-nghiem-phong-van.694369/post-23521883) [jd](https://www.linkedin.com/jobs/view/3867616151/?refId=0b8e05c5-c234-4901-a955-e3d7dab3c9b7&trackingId=%2B9tEhyN5Tk6PxSahbDu1%2Fg%3D%3D) [75% situational 25% behavioral (25 design + 0 leadership)](https://www.youtube.com/watch?v=0Z9RW_hhUT4&t=330s)
 				- round1
