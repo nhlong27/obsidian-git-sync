@@ -1,3 +1,15 @@
+- pattern: design (blueprint) vs algo (recipe)
+	-  IoC - DI
+	- creational: abstract factory vs factory method (composition vs inheritance), builder
+	- structural: adapter, facade, proxy, decorator
+	- behavioral: iterator, [strategy](https://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface)
+		- observer
+			- publish-subscribe
+		- command
+		- cqrs
+		- event sourcing
+		- mapper
+		- dto
 - platform
 	- view
 		- desktop

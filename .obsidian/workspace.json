@@ -18,6 +18,54 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6007861ed8a6ebe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/nav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d3a726464b3c60c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/m.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dc7f94a46cb27a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/s/soc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e132826ac9e4b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/nav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -150,17 +198,17 @@
   },
   "active": "68ed1c114f1ec098",
   "lastOpenFiles": [
-    "system/prod/v/fin.md",
-    "system/prod/v/nav.md",
-    "system/prod/v/aniday.md",
-    "system/prod/daily.md",
     "system/prod/m.md",
-    "system/prod/v/5-1.netline/line.md",
-    "system/prod/v/5-1.netline/tier4.md",
+    "system/prod/v/nav.md",
+    "system/prod/daily.md",
     "system/prod/s/soc.md",
-    "draft.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
+    "system/prod/v/5-1.netline/tier4.md",
+    "system/prod/v/fin.md",
     "system/prod/s/net.md",
+    "system/prod/v/aniday.md",
+    "system/prod/v/5-1.netline/line.md",
+    "draft.md",
     "Excalidraw/ador.md",
     "system/prod/s/pre.md",
     "system/prod/eco.line.md",

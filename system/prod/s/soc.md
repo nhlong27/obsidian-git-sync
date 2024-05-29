@@ -7,8 +7,8 @@
 			- volume
 	- thre
 		- hook
-		- parotting, 
-	- int
+		- parotting
+	- intr
 		- interest / desire
 		- a method for remembering (have i shared)
 			- thread (to lead): info exchange, stimulate feelings

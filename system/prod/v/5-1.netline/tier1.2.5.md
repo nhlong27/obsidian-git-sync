@@ -1,15 +1,10 @@
 - tier1
 	- architecture ([[specs]])
 		- CPU (registers, ALU, CU, SRAM L1-L2-L3)
-		- RAM
-			- page (virtual address chunks) -> secondary memory (swapped pages)
+		- RAM: page (virtual address chunks) -> secondary memory (swapped pages)
 		- SSD + HDD
-		- ROM
-			- firmware: bios, hypervisor (type 1)
-		- display
-			- resolution, bit depth (per color RGB)
-				- https://www.danrodney.com/blog/retina-web-graphics-explained-1x-versus-2x-low-res-versus-hi-res/#:~:text=2x%20graphics%20are%20twice%20the,have%20the%20same%20size%20pixels
-				- https://www.youtube.com/watch?v=9d-6Alkcymo
+		- ROM: firmware: bios, hypervisor (type 1)
+		- display: [resolution](https://www.danrodney.com/blog/retina-web-graphics-explained-1x-versus-2x-low-res-versus-hi-res/#:~:text=2x%20graphics%20are%20twice%20the,have%20the%20same%20size%20pixels) [2](https://www.youtube.com/watch?v=9d-6Alkcymo), bit depth (per color RGB)
 	- specs
 		- CPU
 			- Intel Core i5, i7 (i7-9750H 2.60GHz x64, 64-bit OS), Xeon
@@ -46,38 +41,12 @@
 		- gui
 		- cli: mac (Zsh), windows (cmd), linux (bash)
 - tier5 
-	- mvc, mvp, mvvm, mvvm-c, viper
+	- architecture
+		- mvc (purpose)
+		- distributed (purpose)
+			- event-driven: event-bus, pub-sub model
+				- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
+		- a/synchronosity (net)
 	- use case
 		-  [payment system](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), ledger (pending, completed) / wallter (balance - pending)
-	- principle
-		- ddd
-	- pattern
-		- design (blueprint) vs algo (recipe):
-			-  IoC - DI
-			- creational: abstract factory vs factory method (composition vs inheritance), builder
-			- structural: adapter, facade, proxy, decorator
-			- behavioral: iterator, [strategy](https://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface)
-				- observer
-					- publish-subscribe
-				- command
-				- cqrs
-				- event sourcing
-				- mapper
-				- dto
-		- [architecture](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkxr1i1R0FegZw9VsbkKsIGgM29nlWIoTs3)
-			- layered
-			- distributed
-				- event-driven: event-bus, pub-sub model
-					- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
-				- microservices vs monolith
-			- microkernel
-			- db: replication, sharding
-			- EDA (message queue)
-			- cms: headless (strapi) vs tranditional (wordpress)
-	- data
-		- ai -(nlp, ip, robotics) 
-			- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)
-				- deep learning - nlp (RNN, LSTM, CNN, word embedding, attention mechanism, transformer (BERT, GPT)) 
-				- fine-tuning, hyperparameter, 
-				- recommendation system
-	- mobile 50MB (zip - icon, images), game - web game, chat lag - chat app
+		- cms: headless (strapi) vs tranditional (wordpress)

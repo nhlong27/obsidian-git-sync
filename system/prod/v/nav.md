@@ -1,7 +1,13 @@
 - it
-	- index
-		- references
-			 - pending: hasaki
+	- screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
+		- p&wlb
+			- env ([cheap companies](https://qr.ae/pveoxj))
+		- compensation ~ c8y / s12n (technology)
+			- markets: linkedin, ITViect, careerBuilder, vietnamWorks
+			- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
+		 - pending
+			 - [tue28/5] hasaki
+			 - [wed 29/5]
 			- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
 			- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
 			- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform, zalora, Tyme
@@ -33,53 +39,46 @@
 				- arch stack (next-gen, multi) 4, pipeline team 22 SME - RND < CEP
 				- p 10mil/month 3, wlb 3
 				- 1 technical
-	- 5-1:netline
-		- ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
-			- [function guard clause](https://www.youtube.com/watch?v=CFRhGnuXG-4)
-		- client (performance)
-			- browser vs node (open-source, non-blocking i/o)
-				- architecture
-				- js single-threaded (blocking)  -> event loop (non blocking)
-					- stack + browser queue (micro + macro) / [node queue](https://www.youtube.com/watch?v=AiPrW8zAiL4) + [thread pool](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113) (I/O: file system, network, database, ) / webapi (I/O: dom event, ajax calls, timers + callbacks (firstclass js))) 
-			- html-css-[ts]
-				- async
-					- callback (callback hell->), promise, await
-					- [deadzone](https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev)
-			- [react]-[redux]-next
-		- server (performance, cqrs, rxjs, mvc)
-			- runtime node
-			- db
-				- nosql + sql (when & why)
-			- nest
-		- netline
-			- osi
-				- http to nginx, bring authentication header or not, into app become what object
-				- socket
-			- api (security)
-				- webhook
-			- network (auth)
-				- expired token solution (localstorage + refetch token < cookie + exp time)
-			- line.code
-				- solve git conflict
-				- aws basic services
-				- software engineering processes (agile, testing, think like an engineer?)
-	- seek
-		-  screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
-			- career progression
-				- business unit (good/service)
-					- embedded software on embedded system (GAM/autosar)
-					- general-purpose software on standard platforms (testing)
-					- server-side software
-					- internal recruiting (tuyển dụng nội bộ) for company - headhunting for client
-				- [startup?](https://qr.ae/pvg41b), outsource - product
-			- p&wlb
-				- env ([cheap companies](https://qr.ae/pveoxj))
-			- compensation ~ c8y / s12n (technology)
-				- markets: linkedin, ITViect, careerBuilder, vietnamWorks
-				- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
-		- interview (+interview process - more rounds?, when expect to hear back) [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
-			- pay & career progression
-				- responsibility - my top problems, priorities 
-				- arch - technology (future)
-				- pipeline - team, training/mentoring
-			- wlb
+	- interview (+interview process - more rounds?, when expect to hear back) [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
+		- pay & career progression
+			- responsibility - my top problems, priorities 
+			- arch - technology (future)
+			- pipeline - team, training/mentoring
+		- wlb
+		- 5-1:netline
+			- ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
+				- [function guard clause](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+			- client (performance)
+				- browser vs node (open-source, non-blocking i/o)
+					- architecture
+					- js single-threaded (blocking)  -> event loop (non blocking)
+						- stack + browser queue (micro + macro) / [node queue](https://www.youtube.com/watch?v=AiPrW8zAiL4) + [thread pool](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113) (I/O: file system, network, database, ) / webapi (I/O: dom event, ajax calls, timers + callbacks (firstclass js))) 
+				- html-css-[ts]
+					- async
+						- callback (callback hell->), promise, await
+						- [deadzone](https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev)
+				- [react]-[redux]-next
+			- server (performance, cqrs, rxjs, mvc)
+				- runtime node
+				- db
+					- nosql + sql (when & why)
+				- nest
+			- netline
+				- osi
+					- http to nginx, bring authentication header or not, into app become what object
+					- socket
+				- api (security)
+					- webhook
+				- network (auth)
+					- expired token solution (localstorage + refetch token < cookie + exp time)
+				- line.code
+					- solve git conflict
+					- aws basic services
+					- software engineering processes (agile, testing, think like an engineer?)
+		- data
+			- ai -(nlp, ip, robotics) 
+				- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)
+					- deep learning - nlp (RNN, LSTM, CNN, word embedding, attention mechanism, transformer (BERT, GPT)) 
+					- fine-tuning, hyperparameter
+					- recommendation system
+		- mobile 50MB (zip - icon, images), game - web game, chat lag - chat app

@@ -2,6 +2,8 @@
 	- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
 	- texting - pivot, 3-5 times window (purpose: safe, potential) -> filter/investment 1: hanging out (giu gia small challenge -> suggest, max 3) + social: investment (they won't choose risky actions)
 - system (mindset)
+	- ngan
+		- the medium
 	- tra, ngan, cheu, qminh, hp
 	- trangt, giang, sora, vvien, tyen, tkhiem, phu, thuong, [datd](https://www.facebook.com/profile.php?id=100007456268645), [myt](https://www.facebook.com/khiet.my.07), huy, kim, vlac 
 	- [phuoc](https://www.facebook.com/phuoc0702), [ghuy](https://www.facebook.com/ngh1290), [mhuy](https://www.facebook.com/nguyen.minhhuy.5055) , [chi](https://www.facebook.com/imchinguyen)
