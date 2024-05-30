@@ -33,4 +33,4 @@
 	- tran: bike, tool, phone holder bag (outside boots, gloves), (sun protective cover, raincoat)
 	- prod: prod bag, laptop, phone, earphone, headphone, mouspad, mouse, hub, speaker, power bank, stand, cleaning tool, mac charger extension
 		- [p](ACB 14521807 ILeGyFs27oct  0724)
-		- [keyboard](https://maps.app.goo.gl/ToFZ3SCLdmLHLSEj8): switch (rubber dome, scissor, mechanical: cN), keycap (dsa, sa), layout (ten-key-less, ansi, 1.25, soldered vs hotswap)) [ek810x](https://dareu.com.vn/ban-phim-quang-co-gaming-dareu-ek810x-black-grey-waterproof-optical-switch-multi-led/), [Mỹ's](https://gearvn.com/products/ban-phim-leopold-fc750rbt-bluetooth-blue-grey-brown-switch)
+		- [keyboard](https://maps.app.goo.gl/ToFZ3SCLdmLHLSEj8): switch (rubber dome, scissor, mechanical: cN), keycap (dsa - sa), layout (ten-key-less, ansi, 1.25, soldered vs hotswap)) [ek810x](https://dareu.com.vn/ban-phim-quang-co-gaming-dareu-ek810x-black-grey-waterproof-optical-switch-multi-led/), [Mỹ's](https://gearvn.com/products/ban-phim-leopold-fc750rbt-bluetooth-blue-grey-brown-switch)

@@ -3,7 +3,7 @@
 		 - pending
 			 - [tue28/5] hasaki
 			 - [wed 29/5] hybrbase, anywr, galaxy finx, kti
-			 - [thu 30/5] lf global tech
+			 - [thu 30/5] lf global tech, cimb, saola labs, clps, smg swiss
 		 - failed: evsearch, qode jobs, supercoder, employment hero
 		- p&wlb
 			- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance

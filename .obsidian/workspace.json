@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "7e132826ac9e4b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/nav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84147bc22b89efdb",
             "type": "leaf",
             "state": {
@@ -174,13 +162,13 @@
   },
   "active": "68ed1c114f1ec098",
   "lastOpenFiles": [
+    "system/prod/v/fin.md",
+    "system/prod/daily.md",
     "system/prod/v/nav.md",
+    "system/prod/m.md",
     "system/prod/v/5-1.netline/tier4.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
-    "system/prod/daily.md",
-    "system/prod/m.md",
     "system/prod/s/soc.md",
-    "system/prod/v/fin.md",
     "system/prod/s/net.md",
     "system/prod/v/aniday.md",
     "system/prod/v/5-1.netline/line.md",
