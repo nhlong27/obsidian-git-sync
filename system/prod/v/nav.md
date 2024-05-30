@@ -1,18 +1,19 @@
 - it
 	- screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
-		- p&wlb
-			- env ([cheap companies](https://qr.ae/pveoxj))
-		- compensation ~ c8y / s12n (technology)
-			- markets: linkedin, ITViect, careerBuilder, vietnamWorks
-			- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
 		 - pending
 			 - [tue28/5] hasaki
-			 - [wed 29/5] hybrbase
+			 - [wed 29/5] hybrbase, anywr, galaxy finx, kti
+			 - [thu 30/5] lf global tech
+		 - failed: evsearch, qode jobs, supercoder, employment hero
+		- p&wlb
 			- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
 			- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
 			- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform, zalora, Tyme
 			- tier 4: Viettel: sen 2k5, Fsoft, TMA, Global cybersoft, KMS, Nashtech, Momo, VinAI, Shopee, Lazada, NQ, Be
-		 - failed: evsearch, qode jobs, supercoder, employment hero,  
+			- env ([cheap companies](https://qr.ae/pveoxj))
+		- compensation ~ c8y / s12n (technology)
+			- markets: linkedin, ITViect, vietnamWorks
+			- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
 		- history
 			- employement hero  (Ly Gioi An, friends, QA, voz, youtube) 100 (4.5 left) [1](https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/post-27554372)  [2](https://voz.vn/t/event-box-cntt-2023-chia-se-kinh-nghiem-phong-van.694369/post-23521883) [jd](https://www.linkedin.com/jobs/view/3867616151/?refId=0b8e05c5-c234-4901-a955-e3d7dab3c9b7&trackingId=%2B9tEhyN5Tk6PxSahbDu1%2Fg%3D%3D) [75% situational 25% behavioral (25 design + 0 leadership)](https://www.youtube.com/watch?v=0Z9RW_hhUT4&t=330s)
 				- round1
@@ -41,41 +42,38 @@
 				- p 10mil/month 3, wlb 3
 				- 1 technical
 	- interview (+interview process - more rounds?, when expect to hear back) [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
-		- pay & career progression
-			- responsibility - my top problems, priorities 
-			- arch - technology (future)
-			- pipeline - team, training/mentoring
-		- wlb
 		- 5-1:netline
-			- ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
+			- 5
+			- 4
+				- view (performance)
+					- browser vs node (open-source, non-blocking i/o)
+						- architecture
+						- js single-threaded (blocking)  -> event loop (non blocking)
+							- stack + browser queue (micro + macro) / [node queue](https://www.youtube.com/watch?v=AiPrW8zAiL4) + [thread pool](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113) (I/O: file system, network, database, ) / webapi (I/O: dom event, ajax calls, timers + callbacks (firstclass js))) 
+					- html-css-[ts]
+						- async
+							- callback (callback hell->), promise, await
+							- [deadzone](https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev)
+					- [react]-[redux]-next
+				- controller - model (performance, cqrs, rxjs, mvc)
+					- runtime node
+					- db
+						- nosql + sql (when & why)
+					- nest
+				- netline
+					- osi
+						- http to nginx, bring authentication header or not, into app become what object
+						- socket
+					- api (security)
+						- webhook
+					- network (auth)
+						- expired token solution (localstorage + refetch token < cookie + exp time)
+					- line.code
+						- solve git conflict
+						- aws basic services
+						- software engineering processes (agile, testing, think like an engineer?)
+			- 3: ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
 				- [function guard clause](https://www.youtube.com/watch?v=CFRhGnuXG-4)
-			- client (performance)
-				- browser vs node (open-source, non-blocking i/o)
-					- architecture
-					- js single-threaded (blocking)  -> event loop (non blocking)
-						- stack + browser queue (micro + macro) / [node queue](https://www.youtube.com/watch?v=AiPrW8zAiL4) + [thread pool](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113) (I/O: file system, network, database, ) / webapi (I/O: dom event, ajax calls, timers + callbacks (firstclass js))) 
-				- html-css-[ts]
-					- async
-						- callback (callback hell->), promise, await
-						- [deadzone](https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev)
-				- [react]-[redux]-next
-			- server (performance, cqrs, rxjs, mvc)
-				- runtime node
-				- db
-					- nosql + sql (when & why)
-				- nest
-			- netline
-				- osi
-					- http to nginx, bring authentication header or not, into app become what object
-					- socket
-				- api (security)
-					- webhook
-				- network (auth)
-					- expired token solution (localstorage + refetch token < cookie + exp time)
-				- line.code
-					- solve git conflict
-					- aws basic services
-					- software engineering processes (agile, testing, think like an engineer?)
 		- data
 			- ai -(nlp, ip, robotics) 
 				- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)
@@ -83,3 +81,8 @@
 					- fine-tuning, hyperparameter
 					- recommendation system
 		- mobile 50MB (zip - icon, images), game - web game, chat lag - chat app
+		- pay & career progression
+			- responsibility - my top problems, priorities 
+			- arch - technology (future)
+			- pipeline - team, training/mentoring
+		- wlb
