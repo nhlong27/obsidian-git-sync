@@ -5,15 +5,13 @@
 		- bank (apy, asset = liability + equity): checking (debit, check), credit, visa, paylater, e-wallet (momo, zalopay, apple pay), [card scheme](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), psp
 -  int
 	- hair
-		- rout: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in)
-		- style: prestyler + blow dry, [product](https://www.misterpompadour.com/blogs/hair/17216789-paste-pomade-and-clay-whats-the-difference) (wax: apestomen, [pomade](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csltotj/?utm_source=share&utm_medium=web2x&context=3) / gel / cream), flat iron - heat protectant, hair.perm: 24h, no water, minimal contact - ironcap, daik_chien  + balaclava
-	- dental
-		- rout: floss - toothpaste/toothbrush - scraper - mouthwash
+		- pre: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in), minoxidil, finasteride
+		- post: prestyler + blow dry, [product](https://www.misterpompadour.com/blogs/hair/17216789-paste-pomade-and-clay-whats-the-difference) (wax: apestomen, [pomade](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csltotj/?utm_source=share&utm_medium=web2x&context=3) / gel / cream), flat iron - heat protectant, hair.perm: 24h, no water, minimal contact - ironcap, daik_chien  + balaclava
+	- dent
+		- pre: floss - toothpaste/toothbrush - scraper - mouthwash
 	- skin
-		- rout: moisturizer: cocoon (alcohol-free, antioxidants) + cleanser (cerave) + sunscreen: cocoon (chemical face, physical body, spf 50+, pa+++ / ppd 8-16) / make-up remover (bioderma)
-		- treat: sebum production + clogging factor
-			- pre: topical - exfoliant ([benzoyl peroxide](https://www.reddit.com/r/SkincareAddiction/comments/1i2ygr/comment/cb0iebj/?utm_source=share&utm_medium=web2x&context=3) 2.5% - 10%, AHA / BHA (salicylic acid 2%), [others](https://www.google.com/search?q=pure+active%2Fhautklar+sos+anti-spots+stick&sca_esv=fd299e0f5b2672c9&sxsrf=ACQVn0_YWEMdfwRYrMxbGeORudRJjcy7Gw%3A1712851448858&ei=-AkYZsCMNNTV4-EPrr2z8AY&oq=pure+active+hautklar+sos+an&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3B1cmUgYWN0aXZlIGhhdXRrbGFyIHNvcyBhbioCCAAyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IpRZQ7QJY3g1wB3gBkAEDmAGMAaAB4QqqAQQxLjExuAEDyAEA-AEBmAIQoALoCMICChAAGEcY1gQYsAPCAgsQABiABBiKBRiGA8ICBRAhGKABmAMAiAYBkAYCkgcDNy45oAeMKQ&sclient=gws-wiz-serp), [others2](https://www.google.com/search?q=yoosun+rau+m%C3%A1&oq=yoosun+rau+m%C3%A1&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgATSAQgzNzkzajBqMagCALACAA&sourceid=chrome&ie=UTF-8)) +  oral (tretinoid)
-			- dur: hautklar sos anti-spots stick
+		- pre: moisturizer: cocoon (alcohol-free, antioxidants) + cleanser (cerave) + sunscreen: cocoon (chemical face, physical body, spf 50+, pa+++ / ppd 8-16) / make-up remover (bioderma) - hautklar sos anti-spots stick, topical - exfoliant ([benzoyl peroxide](https://www.reddit.com/r/SkincareAddiction/comments/1i2ygr/comment/cb0iebj/?utm_source=share&utm_medium=web2x&context=3) 2.5% - 10%, AHA / BHA (salicylic acid 2%), [others](https://www.google.com/search?q=pure+active%2Fhautklar+sos+anti-spots+stick&sca_esv=fd299e0f5b2672c9&sxsrf=ACQVn0_YWEMdfwRYrMxbGeORudRJjcy7Gw%3A1712851448858&ei=-AkYZsCMNNTV4-EPrr2z8AY&oq=pure+active+hautklar+sos+an&gs_lp=Egxnd3Mtd2l6LXNlcnAiG3B1cmUgYWN0aXZlIGhhdXRrbGFyIHNvcyBhbioCCAAyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5IpRZQ7QJY3g1wB3gBkAEDmAGMAaAB4QqqAQQxLjExuAEDyAEA-AEBmAIQoALoCMICChAAGEcY1gQYsAPCAgsQABiABBiKBRiGA8ICBRAhGKABmAMAiAYBkAYCkgcDNy45oAeMKQ&sclient=gws-wiz-serp), [others2](https://www.google.com/search?q=yoosun+rau+m%C3%A1&oq=yoosun+rau+m%C3%A1&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgATSAQgzNzkzajBqMagCALACAA&sourceid=chrome&ie=UTF-8)) +  oral (tretinoid)
+		- post: sebum production + clogging factor
 			- post [1](https://www.youtube.com/watch?v=sK00I_1BrrQ): large pore - dark spot - red spot - scar (tethered: rolling, boxed -> subcision + filler, icepick -> TCA cross, hypertrophic) -> [microneedling / co2 laser](https://www.youtube.com/watch?v=P6oF08hmkRE)
 				- subcision derma fillers
 				- chemical peel (TCA cross, fenol) (asian skin?)
@@ -24,13 +22,13 @@
 				- info Tran Dat, chi phi, many times, 9-12,15-20h30
 				- chaams ãi, tach day seo, ca 3, amh nang, an dam, dau mo lao hoa, 4-  6 tuan, 5-7, ngày 5-7 dong vo, truoc 30, lo chan long: 0, mun viem do laser
 				- face mole
-	- [nose](https://thammyhanquoc.vn/nang-mui/thu-gon-canh-mui-bao-nhieu-tien.html) [wing reduction](https://www.youtube.com/watch?v=3FZwpaq0OZw)
+		- [nose](https://thammyhanquoc.vn/nang-mui/thu-gon-canh-mui-bao-nhieu-tien.html) [wing reduction](https://www.youtube.com/watch?v=3FZwpaq0OZw)
 - ext
 	- fit
-		- lens / [eyeglasses](https://www.youtube.com/watch?v=FVPj4om505E&list=PLzi60fSuOmPBWMT-jd7GYS6EDpv3CfK5P&index=2): frame size (2 eye size + dbl (14-18, 19-22)), temple - nose pad, high index, half rimmed - seeson, chrome heart - hmk, titan
-		- edc: carry bag, key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216)), [towel](https://www.google.com/search?q=matador+nanodry+towel&oq=matador+nano&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIMCAgQABgUGIcCGIAE0gEIMjYwNWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8), [mask](https://vt.tiktok.com/ZSFcM47Y2/) , wallet, wet wipe
-		- ext: umbrella, arm sleeves, headband
-	- tran: bike, tool, phone holder bag (outside boots, gloves), (sun protective cover, raincoat)
-	- prod: prod bag, laptop, phone, earphone, headphone, mouspad, mouse, hub, speaker, power bank, stand, cleaning tool, mac charger extension
+		- esse: clothe + lens / [eyeglasses](https://www.youtube.com/watch?v=FVPj4om505E&list=PLzi60fSuOmPBWMT-jd7GYS6EDpv3CfK5P&index=2): frame size (2 eye size + dbl (14-18, 19-22)), temple - nose pad, high index, half rimmed - seeson, chrome heart - hmk, titan
+		- edc: carry bag ([towel](https://www.google.com/search?q=matador+nanodry+towel&oq=matador+nano&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIMCAgQABgUGIcCGIAE0gEIMjYwNWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8), paper, glass case, headband, floss, boona bag, cosme bag), key ([clip](https://shopee.vn/M%C3%B3c-kh%C3%B3a-c%C3%A0i-th%E1%BA%AFt-l%C6%B0ng-Keybar-EDC-Titanium-FEGVE-(Ti-043)-i.469945.22166697302?publish_id=&sp_atk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec&xptdk=4bc4742a-c9c5-4afa-8fbc-dacfc67583ec) + [organizer](https://shopee.vn/NewBaby-Portable-compact-key-ring-smart-holder-keys-organizer-clip-key-chain-pocket-tool-Vn-VN-VN-i.97333156.22463740216)), [mask](https://vt.tiktok.com/ZSFcM47Y2/) , wallet
+			- camelia, lata
+	- tran: bike, tool, phone extension bag (rain boots, arm sleeves, gloves), (sun protective cover, raincoat x 2, umbrella)
+	- prod: boona bag, laptop, phone, earphone, headphone, mouspad, mouse, hub, speaker, power bank, stand, cleaning tool, mac charger extension
 		- [p](ACB 14521807 ILeGyFs27oct  0724)
 		- [keyboard](https://maps.app.goo.gl/ToFZ3SCLdmLHLSEj8): switch (rubber dome, scissor, mechanical: cN), keycap (dsa - sa), layout (ten-key-less, ansi, 1.25, soldered vs hotswap)) [ek810x](https://dareu.com.vn/ban-phim-quang-co-gaming-dareu-ek810x-black-grey-waterproof-optical-switch-multi-led/), [Mỹ's](https://gearvn.com/products/ban-phim-leopold-fc750rbt-bluetooth-blue-grey-brown-switch)

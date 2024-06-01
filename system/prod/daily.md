@@ -6,31 +6,31 @@
 	- 3 (2025 1st quarter 31dec - 31mar) japan/korea/hagiang
 	- 2 (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
 	- 1 (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday, hagiang, [thu18/7] mombirthday
+		- [fri26/7] conan
 	- 0 (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien - [thu27/6] mybirthday, [mid/6] phuquy
 		- [mid6] train test
+		- [sat14/6] inside out
+		- [tue4/6]  Ngan's garfield movie cheap
 		- [sun2/6] hangout w/ KK, MAn
 		- [sat1/6] dadbirthday
-			- cake
-				- chaterise mousse mango / passion fruit
-			- birthday gift, letter [wed]
-		- Ngan's garfield movie [tue4/6] cheap
-		- Ngan cafe [fri 31/5] water fes
-		- Ngan cafe [thu 30/5] Bo by butterman, reservation - garfield shopee
+			- [x] cake
 		- prod
-			- m
-				- bakery
-					- flour, salt, water, yeast, fat - whipped cream, butter, milk, sugar, syrup
-					- mousse
-					- chaterise, tous les jous
-				- drink
-					- steam milk
-					- latte
+			- m: update yesterday -> dad birthday
+				- [ ] exhibition
 			- v
-				- fin: perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp), eyeglasses, toothbrush, clothes rack
+				- fin
+					- ext
+						- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
+							- [ ] crossbody bag x 2, tote, clothes rack
+							- pant, jacket
+					- int
+						- [ ] hair.pre: minoxidil
+						- [ ] skin.pre: antispot, concealer
+						- dent.pre: toothbrush
 				- 5-1:netline
 					- 5-1
 					- netline
-				- [x] nav
+				- [ ] nav
 			- s
 				- net
 					- definition of post: quality - time <-(interest-based, mood influencer)

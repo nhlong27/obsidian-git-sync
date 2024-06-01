@@ -8,8 +8,7 @@
 	- thre
 		- hook
 		- parotting
-	- intr
-		- interest / desire
+	- intr: interest factor
 		- a method for remembering (have i shared)
 			- thread (to lead): info exchange, stimulate feelings
 				- storytelling (motio (curiosity), imagination, personal), trend

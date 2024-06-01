@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68ed1c114f1ec098",
+            "id": "24b0d63fb7537c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "84147bc22b89efdb",
+            "id": "c1488a9d98e7d627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/v/5-1.netline/tier4.md",
+                "file": "system/prod/s/soc.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,15 +160,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68ed1c114f1ec098",
+  "active": "24b0d63fb7537c06",
   "lastOpenFiles": [
-    "system/prod/v/fin.md",
-    "system/prod/daily.md",
-    "system/prod/v/nav.md",
-    "system/prod/m.md",
-    "system/prod/v/5-1.netline/tier4.md",
-    "system/prod/v/5-1.netline/tier1.2.5.md",
     "system/prod/s/soc.md",
+    "system/prod/m.md",
+    "system/prod/daily.md",
+    "system/prod/v/5-1.netline/tier4.md",
+    "system/prod/v/fin.md",
+    "system/prod/v/nav.md",
+    "system/prod/v/5-1.netline/tier1.2.5.md",
     "system/prod/s/net.md",
     "system/prod/v/aniday.md",
     "system/prod/v/5-1.netline/line.md",
