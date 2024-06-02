@@ -43,10 +43,10 @@
 - tier5 
 	- architecture
 		- mvc (purpose)
-		- distributed (purpose)
+			- distributed: microservices vs monolith
+		- a/synchronosity (net)
 			- event-driven: event-bus, pub-sub model
 				- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
-		- a/synchronosity (net)
 	- use case
 		-  [payment system](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), ledger (pending, completed) / wallter (balance - pending)
 		- cms: headless (strapi) vs tranditional (wordpress)

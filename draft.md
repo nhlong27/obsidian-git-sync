@@ -1,5 +1,7 @@
 what's your color scheme?
 [japan, fiction.anime]
+- who I am
+	- box with mirrors on all sides
 - game
 	- rocket league: new gen zen rw9 twins karmine corp falcons, old gen nrg
 	- sc2, wc3: clem, serral, koreans vs foreigners, beastyqt, parting
@@ -8,6 +10,7 @@ what's your color scheme?
 	- bus, Tra, aniday, old office, universities, people girls
 - food & drinks
 - environment
+	- boboiboy, upin ipin
 - korea, china
 - entertainment
 	- fiction: movie, book, anime, manga
@@ -48,3 +51,8 @@ what's your color scheme?
 - env
 	- Bo by Butterman cake cookies 
 	- dinner
+
+it's not that I don't have stories to tell, it's that I don't find them intersting enough to share. More specifically, I don't find it rewarding to share uninteresting stories. Also I think I'm afraid of sharing my own vulnerabilities, scared that they might judge me, or see me in a different light, that would have consequences for my future.
+
+Không phải là tôi không có chuyện để nói, mà là tôi không thấy chúng đủ thú vị để chia sẻ. Cụ thể hơn, tôi không cảm thấy thoả mãn khi chia sẻ những câu chuyện không thú vị. Và tôi nghĩ mình sợ phải chia sẻ những yếu kém của bản thân, sợ rằng người ta sẽ đánh giá mình, sẽ nhìn mình dưới góc nhìn khác, và để lại hậu quả cho tương lai.
+đi giải trí

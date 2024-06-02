@@ -1,13 +1,12 @@
-- pattern: design (blueprint) vs algo (recipe)
-	- solid, SoC, dry
-	- IoC - DI
-	- creational (when initialize): abstract factory (composition), factory method (inheritance), builder, singleton, prototype
-	- structural (when connect): adapter, facade, proxy, decorator
-	- behavioral (when satisfy a need): observer, mediator, iterator, [strategy](https://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface)
+- pattern
+	- solid, SoC, dry, IoC - DI
 		- cqrs
 		- event sourcing
 		- mapper
 		- dto
+	- creational (when initialize): abstract factory (composition), factory method (inheritance), builder, singleton, prototype
+	- structural (when connect): adapter, facade, proxy, decorator
+	- behavioral (when satisfy a need): observer, mediator, iterator, [strategy](https://stackoverflow.com/questions/383947/what-does-it-mean-to-program-to-an-interface)
 - platform
 	- view
 		- desktop
@@ -44,7 +43,7 @@
 				- gateway (socket), cqrs - event, saga
 			- rails / sinatra (ruby)
 			- (automapper)
-	- [db](https://blog.bytebytego.com/p/understanding-database-types) - model (design) -> schema (implementatino) -> server (dbms (engine)) - declaration & manipulation
+	- model: [db](https://blog.bytebytego.com/p/understanding-database-types) - model (design) -> schema (implementatino) -> server (dbms (engine)) - declaration & manipulation
 		- nosql
 			- key-value (redis): fast - no queries / limited -> cache
 			- wide-column (cassandra): schema-less - no joins, decentralized -> time-series (high-write, low-read)
