@@ -5,13 +5,14 @@
 - system
 	- 3 [0/30] (2025 1st quarter 31dec - 31mar) japan/korea/hagiang
 	- 2 [0/20] (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
-	- 1 [0/15] (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday, hagiang, [thu18/7] mombirthday
-		- [fri26/7] conan
-	- 0 [1/10] (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien - [thu27/6] mybirthday, [mid/6] phuquy
+	- 1 [0/15] (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday, hagiang, [fri26/7] conan, deadpool, [thu18/7] mombirthday
+	- 0 [1/10] (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
+		- [end/6] tier 2 (phuquy)
 		- [mid6] train test
+		- [thu27/6] mybirthday
 		- [sat14/6] inside out
 		- [tue4/6]  Ngan's garfield movie cheap
-			- cinema
+			- cinema: BHD, cgv
 		- prod
 			- m
 				- [ ] exhibition
@@ -26,8 +27,13 @@
 						- dent.pre: toothbrush
 				- 5-1:netline
 					- 5-1
+						- 3.dsa 5
+							- arr, ll
+							- [ ] ht
+							- tree
+							- graph
 					- netline
-				- [ ] nav
+				- nav x2
 			- s
 				- net
 					- definition of post: quality - time <-(interest-based, mood influencer)
@@ -36,6 +42,6 @@
 						- secondary, high, uni, aniday, fam
 					- hienle: midterm problem
 				- soc
-					- [x] exe
+					- exe x3
 					- thre
 					- intr
