@@ -11,19 +11,17 @@
 		- [mid6] train test
 		- [thu27/6] mybirthday
 		- [sat14/6] inside out
-		- [tue4/6]  Ngan's garfield movie cheap
-			- cinema: BHD, cgv
+		- [sat7/6] global city
+			- doraemon
 		- prod
-			- m
-				- [ ] exhibition
+			- [ ] m: exhibition
 			- v
 				- fin
 					- ext
 						- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
-							- [ ] crossbody leather bag, tote, clothes rack
+							- [ ] crossbody leather bag
 							- pant, jacket
 					- int
-						- [ ] skin.pre: antispot 
 						- dent.pre: toothbrush
 				- 5-1:netline
 					- 5-1
@@ -33,7 +31,10 @@
 							- tree
 							- graph
 					- netline
-				- nav x2
+				- nav
+					- [x] 1
+					- [ ] 2
+					- [ ] 3
 			- s
 				- net
 					- definition of post: quality - time <-(interest-based, mood influencer)
@@ -42,6 +43,9 @@
 						- secondary, high, uni, aniday, fam
 					- hienle: midterm problem
 				- soc
-					- exe x3
+					- exe
+						- [x] 1
+						- [ ] 2
+						- [ ] 3
 					- thre
 					- intr
