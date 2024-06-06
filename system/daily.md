@@ -8,33 +8,32 @@
 	- 1 [0/15] (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday, hagiang, [fri26/7] conan, deadpool, [thu18/7] mombirthday
 	- 0 [1/10] (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
 		- [end/6] tier 2 (phuquy)
-		- [mid6] train test
 		- [thu27/6] mybirthday
+			- ngan, tra
 		- [sat14/6] inside out
+		- [mid6] train test
 		- [sat7/6] global city
 			- doraemon
+		- [wed,thu5,6/6] shopee flash sale 0h, vo ha linh tiktok shop 20h
+		- [thu6/6] saola labs call
+			- blockchain (decentralized/distributed digital ledger), digital token (unit of value on blockchain), smart contracts (self-executing, on blockchain), dapps (p2p or on blockchain)
 		- prod
 			- [ ] m: exhibition
 			- v
 				- fin
 					- ext
 						- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
-							- [ ] crossbody leather bag
 							- pant, jacket
 					- int
 						- dent.pre: toothbrush
 				- 5-1:netline
 					- 5-1
-						- 3.dsa 5
-							- arr, ll
-							- [ ] ht
-							- tree
-							- graph
+						- sort: bubble, insertion
+						- html, css, sql, js, ts - react, next, nest, mongo, postgres
+						- engine, re (browser, nodejs), netline
 					- netline
 				- nav
 					- [x] 1
-					- [ ] 2
-					- [ ] 3
 			- s
 				- net
 					- definition of post: quality - time <-(interest-based, mood influencer)
@@ -45,7 +44,6 @@
 				- soc
 					- exe
 						- [x] 1
-						- [ ] 2
-						- [ ] 3
+						- [x] 2
 					- thre
 					- intr

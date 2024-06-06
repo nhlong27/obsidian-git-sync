@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "system/daily.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21d1921d8e0860e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/5-1.netline/tier3/gpl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efe29ae8b20ecdda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/5-1.netline/tier4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1921d6d73191a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/5-1.netline/line.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "system/prod/v/5-1.netline/tier3/gpl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "system/prod/daily.md",
+                "file": "system/prod/v/5-1.netline/tier3/gpl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/prod/daily.md"
+                "file": "system/prod/v/5-1.netline/tier3/gpl.md"
               }
             }
           }
@@ -148,22 +185,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24b0d63fb7537c06",
+  "active": "21d1921d8e0860e2",
   "lastOpenFiles": [
-    "system/prod/v/fin.md",
-    "system/prod/daily.md",
-    "system/prod/m.md",
-    "draft.md",
-    "system/prod/s/soc.md",
-    "system/prod/v/nav.md",
+    "system/daily.md",
     "system/prod/v/5-1.netline/tier4.md",
-    "system/prod/v/5-1.netline/tier1.2.5.md",
-    "system/prod/v/5-1.netline/tier3/dsa.md",
     "system/prod/v/5-1.netline/tier3/gpl.md",
-    "system/prod/v/5-1.netline/tier3/dsl.md",
-    "system/prod/s/net.md",
-    "system/prod/v/aniday.md",
+    "system/m.md",
     "system/prod/v/5-1.netline/line.md",
+    "system/prod/finnet.md",
+    "draft.md",
+    "system/prod/v/5-1.netline/tier1.2.5.md",
+    "system/prod/v/5-1.netline/tier3/dsl.md",
+    "system/prod/v/nav.md",
+    "system/prod/v/fin.md",
+    "system/prod/v/aniday.md",
+    "system/prod/s.md",
+    "system/prod/s/soc.md",
+    "system/prod/s/net.md",
+    "system/prod/v/5-1.netline/tier3/dsa.md",
     "Excalidraw/ador.md",
     "system/prod/s/pre.md",
     "system/prod/eco.line.md",
@@ -189,10 +228,8 @@
     "m/2023/12",
     "m/2023",
     "images/2023/12/7",
-    "images/2023/12/Untitled.md",
     "images/2023/12",
     "images/2023",
-    "2024-04-25.md",
     "images/2024/4/25",
     "images/2024/4",
     "images/2024"

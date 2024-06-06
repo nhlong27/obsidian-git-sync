@@ -1,6 +1,6 @@
 - tier1
 	- architecture ([[specs]])
-		- CPU (registers, ALU, CU, SRAM L1-L2-L3)
+		- CPU (registers, ALU, CU, SRAM L1-L2-L3): risc (arm: bigger cache, more power efficient), cisc (intel x86, amd x86) 
 		- RAM: page (virtual address chunks) -> secondary memory (swapped pages)
 		- SSD + HDD
 		- ROM: firmware: bios, hypervisor (type 1)

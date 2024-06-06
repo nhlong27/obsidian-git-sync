@@ -1,3 +1,10 @@
+- koren, china, japan, switzerland, tier 3 holiday, tier 4 working remote
+	- aesthetic: weather, temperature, developed (no trash)
+- steady supply of tier 1, 2, 3, 4
+	- visual, auditory, touch, smell
+	- fam: uncle nghi, 
+
+
 what's your color scheme?
 [japan, fiction.anime]
 - who I am

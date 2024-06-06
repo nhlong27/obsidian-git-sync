@@ -82,3 +82,372 @@
 			- arch - technology (future)
 			- pipeline - team, training/mentoring
 		- wlb
+- roadmap
+	- arch
+		- [[tier1.2.5|verStruc]]
+			- tier3
+				- [dsa](https://roadmap.sh/computer-science)
+			- tier4
+				- [frontend](https://roadmap.sh/frontend)
+					- [javascript](https://roadmap.sh/javascript)
+						- [typescript](https://roadmap.sh/typescript)
+					- [react](https://roadmap.sh/react)
+					- [best practices - performance](https://roadmap.sh/best-practices/frontend-performance)
+				- [backend](https://roadmap.sh/backend)
+					- [nodejs](https://roadmap.sh/nodejs)
+					- [java](https://roadmap.sh/java)
+						- [springboot](https://roadmap.sh/spring-boot)
+					- [mongodb](https://roadmap.sh/mongodb)
+					- [sql](https://roadmap.sh/sql)
+						- [postgres](https://roadmap.sh/postgresql-dba)
+			- [tier 5](https://roadmap.sh/system-design) [2](https://roadmap.sh/software-design-architecture)
+		- [[system/prod/v/5-1.netline/net]]
+			- [best practices - api security](https://roadmap.sh/best-practices/api-security)
+	- [pipeline](https://roadmap.sh/devops)
+		- [best practices - code reviews](https://roadmap.sh/best-practices/code-review)
+		- [docker](https://roadmap.sh/docker)
+		- [aws](https://roadmap.sh/best-practices/aws)
+- recruitery/aniday
+	- 5-1:netline:
+		- line
+			- plan: gmail, discord, trello
+			- business - referring, talent pool, payroll - candidate w/ headhunter
+				- prod/BD (Kim, Khoa, Isaac, NAnh, *Lin*), s/CS.D (Tu, Ngan, My, Hung, Dao, *Trang*, *Giang*, Nhu, Nhung), fin/accounting.admin (Suong, Suong be, TrangHo), v-it/product (Truong, Nam, *Long*, Huy, Tuan), m/marketing (*Huong*, *Xuan*, Tra, MLinh, TVi)
+		- 5
+			- newsletter
+				- bi (last week) -> sheet (firstname, lastname, language code, tags)
+				- mail (add new (firstname, lastname, email, tags, issubscribed), segment (update vietname, english recruiter), campaign (duplicate, name, edit html, spotlight link, query string date, save changes)
+			- dev_admin
+			- dev_static
+			- dev_home (job, blog, employer, payroll) : login (-> dev_app)
+				- browser-sync, browserlist, gulp
+			- dev_app (web.SEO: tag + data-layer -> google analytics) : chat (->dev_livechat) === dev_apigateway, dev_realtime (webhook tazapay)
+				- hiring process
+					- jobs: :id, saved
+					- referrals
+					- leaderboard
+				- talent pool
+					- marketplace, layoff-pool
+					- my-listing (to sell), candidates (bought)
+					- saved, histories
+				- profile
+					- placement, interview-calendar, chat : message (live-chat)
+					- notifications: workspaceapply, applytojob, jobcomment, job (tabs)
+					- settings: profile, brand, departments, members, identity-verification
+			- dev_livechat === dev_livechat_be
+				- flow
+					- room
+						- event
+							- room-created
+							- room-updated-ai-reply-status
+							- room-added-member
+							- room-removed-member
+							- room-removed
+						- command
+							- create-room.command --> (room-created.event)
+								- [room-user.sagas]
+									- create-room-user.comand --> (room-user-created.event)
+										- [room.sagas]
+											- add-room-member.command --> (room-added-member.event)
+												- [users.sagas]
+													- join-room.command
+												- [message.sagas]
+													- create-message.command --> (message-created.event)
+														- [notification.sagas]
+															- create-notification.command
+																- ...
+														- [read-by-recipient.sagas]
+															- create-read-by-recipient.command
+																- [message.sagas]
+																	- create-read-by-message.command ...?
+														- [room.sagas]
+															- update-room-ai-reply-status.command
+																- [socket.sagas]
+																	- send-updated-room.command
+														- [socket.sagas]
+															- send-message.command
+														- [web-push.sagas]
+															- send-web-push.command
+														- [open-ai.sagas]
+															- get-text-completion-open-ai.command
+														- [rrsync.sagas]
+															- create-message-to-sql.command
+														- [message-unread.sagas]
+															- create-message-unread-multi.command
+												- [notification.sagas]
+													- create-notification.command --> (notification-created.event)
+														- [socket.sagas]
+															- send-created-notification.command
+												- [socket.sagas]
+													- send-updated-room-socket.command
+								- [message.sagas]
+									- + (room-added-member.event) create-message.command
+										- ...
+								- [notification.sagas]
+									- + (room-added-member.event) create-notification.command
+										- ...
+								- [socket.sagas]
+									- + (room-added-member.event) send-created-room.command
+							- delete-room.command --> (room-removed.event)
+								- [users.sagas]
+									- leave-room.command
+							- update-room.command
+							- join-room.command
+					- message
+						- event
+							- message-created
+							- message-updated
+							- message-read
+							- message-deleted
+							- message-reclaimed
+							- message-typing
+						- command
+							- create-message.command ...
+							- update-message.command --> (message-updated.event)
+								- [socket.sagas]
+									- send-updated-message.command
+							- reclaim-message.command --> (messagereclaimed.event)
+								- [socket.sagas]
+									- send-message-removed-all.command
+							- set-user-typing-status.command --> (message-typing.event)
+								- [socket.sagas]
+									- send-user-typing-status.command
+							- delete-message.command ...?
+							- create-read-by-message.command
+					- notification
+						- event
+							- notification-created
+						- command
+							- create-notification.command --> (notification-created.event)
+								- [socket.sagas]
+									- send-created-notification.command
+								- [web-push.sagas]
+									- send-web-push.command
+					- room-user
+						- event
+							- room-user-created
+							- room-user-removed
+						- command
+							- create-room-user.command --> (room-user-created.event)
+								- [room.sagas]
+									- add-room-member.command
+							- remove-room-user.command --> (room-user-removed.event)
+								- [room.sagas]
+									- remove-room-member.command
+					- organization
+						- event
+							- organization-created
+							- organization-updated
+							- organization-removed-user
+						- command
+							- create-organization.command --> (organization-created.event)
+								- [users.sagas]
+									- join-organization.command
+							- update-organization.command ..?
+							- remove-user-organization.command ..?
+					- read-by-recipient
+						- event
+							- read-by-recipient-created
+						- command 
+							- create-read-by-recipient.comand --> (read-by-recipient-created.event)
+								- [message.sagas]
+									- create-read-by-message.command
+							- create-read-by-recipient-room --> (read-by-recipient-created.event)
+								- ...
+					- socket
+						- command
+							- send-created-room-socket
+							- send-updated-room-socket
+							- send-message-socket
+							- send-updated-message-socket
+							- send-removed-message-user-socket
+							- send-removed-message-all-socket
+							- send-deleted-message-socket
+							- send-user-typing-status-socket
+							- send-created-notification-socket
+					- web-push
+						- command
+							- send-web-push
+							- create-web-push
+							- update-web-push
+					- open-ai
+						- command
+							- get-text-completion-open-ai.command --> (text-replied-success-event)
+								- [message.sagas]
+									- create-message.command
+							- get-conversation-completion-open-ai.command --> (conversation-replied-success-event)
+								- [message.sagas]
+									- create-message.command
+					- users
+						- command
+							- leave-room
+				- arch
+					- auth-> req.user
+					- controller
+						- nest.pipe (transformation, validation) + dto - automapper - database entities (following schema)
+						- nest.cqrs (rxjs, event (bind object (class extends aggregateroot) with event bus)) -> services: odm (mongoose) / typeorm -> mongodb
+						- -> saga -> commands/services
+					- sync create message roomUsers (mergeOrg), mapper message.profile (entity (db doc) -> viewmodel)
+					- client (service worker subscribe with key + sdk) - vapid (onesignal omitted)- (sdk) server
+						- MessageCreatedEvent -> async notification, read-by-recipient, room (update messages room), socket (member) -> all members, webpush
+					- websocket: nest.gateway + device (store socket id)
+						- websocket connection when client open app - socket (roomCreated - roomAddedMember)
+					- ->errorhandling log (async multiple error)
+					- rabbitmq: app - (referral - createRoom) - chat 
+					- others
+						- servestatic, rabbitmq (amqp), organization,  device, socket, firestore, notification, rruser, messageuser, readbyrecipient, rrsync, openai, errorhandling, auth, todo, users, message, room, referral, job
+	- dec23
+		- week4
+			- dev_realtime
+				- :feat: 
+					- (template-cv) [crawl from links using playwright and jsdom]
+					- (template-cv) [translate using python deep translator]
+			- dev_app
+				- :feat: (jobs/new) [make skill section similar to admin]
+			- dev_livechat
+				- :fix: (referral-details-drawer)
+					- (section headers) [modify css (h5 margin)]
+					- (app) [add asyncThunk actions]
+				- :style: (message-box-input) 
+					- (message-box-input) [refactor message-box-media, message-box-file-store similar to rr-frontend-next]
+				- :feat: (message-box-input) [add send resume btn, setup suggestions]
+	- jan24
+		- week1
+			- dev_livechat (plugins)
+				- :refactor: (app)
+					- (rr-services/apis) [change type, name (fetch->get), use common function]
+					- (rr-services/apis) [divide files from baseUrl]
+					- (rr-services/apis) [combine functions with similar utilities]
+					- (app) [find and translate]
+		- week2
+			- dev_livechat
+				- :style: (message-box-input) [refactor layout similar to image]
+			- dev_app + dev_realtime
+				- :chore: (dev_app, dev_realtime, tazapay apis) [migrate v1 to v3]
+		- week3
+			- dev_app + dev_realtime
+				- :chore: (dev_app, dev_realtime, tazapay apis) [migrate v1 to v3]
+			- dev_app
+				- :style: (similar + candidate job items) [copy style from job-hunter-item]
+			- dev_livechat
+				- :feat: (send-resume-btn) [add send-resume-btn feature]
+		- week4
+			- dev_livechat
+				- :feat: (send-resume-btn) [add send-resume-btn feature]
+					- send-cv-message: IMessageModel, no need formWrapper
+					- render-cv-message
+					- render-resume-btn-file
+			- dev_livechat_be
+				- :fix:  [fix create-message error user not found]
+			- dev_livechat
+				- :chore: [update recruitery to aniday]
+			- dev_app
+				- :feat: [add search keyword to job filter]
+			- dev_realtime
+				- sql query: Cv with full info (duoc duyet, open/passive, name, email, cv), only validRequestListing = false 
+				- mongoCandidates <-aiCvQuery, parser info (mongodb aicvs document).reponseAiData -> year_exp
+				- runner.service, pushMarketplace, validRequestListing (dev_home, apply cv, my ngo -> id -> candidateIds (api/v3/runner/push-marketplace))
+				- before 2022, no parser info -> http-ai-config.service new uploadCv() cvthree, cmc (webhook ai-cv/back)
+	- feb24
+		- week1
+			 - dev_livechat
+				- :feat:
+					- [build npm]
+						- rr-login-plugin: complete plugin: tsconfig, package.json, webpack [1](https://stackoverflow.com/questions/28846814/what-does-publicpath-in-webpack-do) [2](https://stackoverflow.com/questions/49624202/why-use-babel-loader-with-ts-loader) [3](https://stackoverflow.com/questions/64639839/typescript-webpack-library-generates-referenceerror-self-is-not-defined): test-style-local-vs-plugin, narrow-down-package (HtmlWebpackPlugin, MiniCssExtractPlugin)
+						- private package repo dep -> personal access token: git repo [1](https://stackoverflow.com/questions/10386310/how-to-install-a-private-npm-module-without-my-own-registry) [2](https://stackoverflow.com/questions/42284213/installing-private-dependencies-via-npm-in-a-vs-team-services-ci-build), registry
+					- [add to chat login]
+					- [oauth]
+			- dev_livechat
+				- :feat:
+					- [add ai chatroom]
+		- week2
+			- openai
+				- ai -(nlp, ip, robotics): cv (cmc) + jd parsing -> slow, bring to local (fine-tuning)
+					- python: setup + lib (numpy, panda, matplotlib) -> docker (limit 12 / 16gb)
+				- nam: 2 year pm (mobile, web, backend), game - web game, chat lag - chat app, fast chat mongo ram -> harddrive vs sql,  
+			- dev_livechat
+				- :fix:
+					- [fix avatar not showing]
+		- week3	
+			- dev_livechat
+				- :feat:
+					- [add is-typing feature]
+						- socket: type, api, action, slice, fe - type, controller, event (aggregate), command, socket-saga, saga-event-command --> fe test
+							- payload: user-model, room, typing-status (isTyping, doneTyping)
+						- review
+							- enum+type, redux (chatTypingStatus: {roomId: roomTypingStatus: { userId: { user, typingStatus, createdAt  }}} )
+							- FE
+								- form.useWatch+useEffect  
+								- socket -> display
+							- BE
+								- controller -> command -> saga -> socket
+						- refactor
+					- [add is-online feature]
+						- check-active-devices -> add activeDevices, isRoomActive properties to returned activeRoomData & getPaginationRoom
+						- refactor
+				- :fix: 
+					- [fix ai chatroom]
+		- week4
+			- dev_livechat
+				- :refactor:
+					- [refactor is-typing feature]
+					- [refactor is-online feature] 
+						- outside mapper,  if online no iteration, .some -> .length, generic function
+						- automapper.afterMap not w/ long query -> passing argu
+							- map, array, list, linkedlist, graph, tree
+							- mapper: afterMap vs extend
+				- :fix: 
+					- [fix ai chatroom]
+						- create room command: ai vs real (swagger)
+							- -> query room (not: filter, mapper, cause entity)
+								- -> query roomUser (filter)
+									- -> add-user
+									- -> saga -> organizationId
+						- self-fixed with new commit
+			- dev_home
+				- :feat:
+					- [add chat button] understanding: 543 + plan
+	- mar24
+		- week1
+			- dev_livechat
+				- [refactor is-online feature] 
+				- [translation] 
+		- week2 
+			- dev_livechat
+				- [room-search] search regex based on room name, job name, room user name + organization name 
+				- [opan-ai name -> gender]
+					- users: [{id, fullName, firstName?, lastName?}] -> [{id, fullName, firstName, lastName, gender}]
+				- [ai suggestion] test: 1 - 10 (3 users)
+					- [x] 1: 0 message - 3 hardcoded examples 
+					- 2: >= 1 message -> open-ai (socket) : 1-3 suggested messages (roleplay) -> socket
+						- BE 
+							- [x] message-created-event -> open-ai.sagas -> [blackbox] -> suggestion-created-event -> socket.sagas -> send-message-suggestion-command
+							- [x] get-detail-room-query -> commandBus (condition) -> [blackbox] -> return message-suggestion field = []
+							- [x] [blackbox] (open-ai) input [1-...] -> filter (response, follow-up)-> output suggestion
+						- [x] FE socket.middleware: message-suggestion-event -> activeChatroomData.message-suggestion = []
+				- [cmc] cvThreeAction (app, create-ai-cv -> send cmc -> update-ai-cv), runner.service, cnadidate.id + uuidv4() + Eposition  + taskid
+			- dev_app
+				- [fix text]
+			- dev_livechat + dev_app
+				- [change logo]
+		- week3
+			- dev_realtime 
+				- [add api sync feat - to sync sql user to chat]
+					- http ai, (on init) token (cache, cmc api), uploadcv (catch -> token, cache, uploadcv pipe.) test (token (app.realtime), body (id))
+					- http rr, login like app -> admin token, api sync
+				- [tazapay v1 to v3]
+					- all tazapay flows
+			- dev_livechat
+				- [ai suggestion]
+			- dev_realtime 
+				- [tazapay v1 to v3] 2h
+					- [x] payment system
+					- [x] v1-v3 1h45
+						- test v3 45
+							- flow 15
+							- prototype 30
+						- sys flow 15
+						- api changes 45
+							- doc 15
+							- apply 30
+

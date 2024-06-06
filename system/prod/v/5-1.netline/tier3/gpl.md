@@ -21,7 +21,7 @@
 		- objects (mutable, pass by address) 
 			- prototype (ES6 class syntax), Object.prototype --> built-ins ([Array](https://stackoverflow.com/questions/500504/why-is-using-for-in-for-array-iteration-a-bad-idea) / String / etc. / Function.prototype --> functions, Foo constructor + Foo.prototype) 
 				- function
-					- [apply(), call(), bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb) - function methods to point *this* context to a object 
+					- [apply(), call(), bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb) - function methods to point *this* context to an object 
 					- closure - function is defined within another function, and the inner function has access to variables or functions from the outer (enclosing) function's scope
 			- this - refers to object, or global object in function ('window', 'global', 'globalThis') (note: arrow function, scope from parent)
 	- + web api, event loop
@@ -38,7 +38,7 @@
 		- utility: partial, pick, omit, readonly, record, exclude, extract, nonnullable, parameters, returntype, instancetype, awaited
 - python
 	- variables & datatypes: (objects) int, float, complex, str, bool, NoneType, list, tuple, dict, set, forzenSet, binary types
-- java
+- java: jdk (tools (javac,..), jre (jvm, libs))
 	- variables
 		- [hoist](https://stackoverflow.com/questions/56524796/why-is-a-method-available-in-java-before-its-declaration)
 	- data types
