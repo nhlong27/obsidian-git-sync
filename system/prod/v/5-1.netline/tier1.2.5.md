@@ -41,12 +41,52 @@
 		- gui
 		- cli: mac (Zsh), windows (cmd), linux (bash)
 - tier5 
+	- data: volume, complexity, speed
+		- reliability (error hardware/software/human: fault-tolerance, resilience), scalability (load parameters, performance metrics (latency vs response time - percentiles)), maintainability (operate, understand, evolve)
+	- cache, search index, database, stream processing, batch processing 
+	- data in memory: B - bit (B because cpu, memory address -> MMU use page table) -> data structure -> database engine -> data model
+		- index: primary, secondary, clustered, non-clustered, composite, full-text
+		- data model: structure schema, relationship, transaction ACID, query language
+			- relational: fixed schema structured data (table), complex queries + predefined relationship (foreign key, join), data integrity (transaction acid), sql, vertical
+				- b tree (efficient range query, balance structure - complex insert, delete)
+				- hash table (efficient lookup - inefficient range query, high collision handling overhead)
+			- document: un/semi-structured (json-bson-xml) , (embed references), eventual consistency acid at document level, mongodb query lang, high scalability horizontal
+				- tree (json, hierarchical data - inefficient deep nesting): MongoDB BSON, JSON
+				- graph (efficient query complex relationship - complex implementation, management): XML
+			- key-value
+				- hash table (fast - collision handling): Redis
+				- skip-list (ordered) (ordered structure, efficient range query - complex): LevelDB
+			- graph
+				- adjacent list (space efficient for sparse graph - less for dense)
+				- adjacent matrix (fast edge existence check - space inefficient for sparse graph)
+			- columnar
+				- sparse array (efficient column with many null - complex): Cassandra
+				- compressed storage: data warehouse Vertica
+		- storage engine
+			- hash index, sstable, lsm tree, b tree
+		- data encoding, schema
+	- distributed
+		- replication
+		- partitioning/sharding
+		- transaction
+		- distributed system
+	- derived data: homogeneous vs heterogeneous system
+		- batch processing
+		- stream processing
+	- 
 	- architecture
 		- mvc (purpose)
-			- distributed: microservices vs monolith
+			- distributed: SOA microservices vs monolith
 		- a/synchronosity (net)
 			- event-driven: event-bus, pub-sub model
 				- kafka - polling + Kafka protocol over TCP, [partitions](https://viblo.asia/p/005-bao-nhieu-partition-la-du-cho-mot-topic-trong-apache-kafka-V3m5WQxQZO7) 
 	- use case
 		-  [payment system](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), ledger (pending, completed) / wallter (balance - pending)
 		- cms: headless (strapi) vs tranditional (wordpress)
+- data
+	- ai -(nlp, ip, robotics) 
+		- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)
+			- deep learning - nlp (RNN, LSTM, CNN, word embedding, attention mechanism, transformer (BERT, GPT)) 
+			- fine-tuning, hyperparameter
+			- recommendation system
+- mobile 50MB (zip - icon, images), game - web game, chat lag - chat app

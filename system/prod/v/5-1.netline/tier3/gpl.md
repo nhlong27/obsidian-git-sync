@@ -24,9 +24,8 @@
 					- [apply(), call(), bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb) - function methods to point *this* context to an object 
 					- closure - function is defined within another function, and the inner function has access to variables or functions from the outer (enclosing) function's scope
 			- this - refers to object, or global object in function ('window', 'global', 'globalThis') (note: arrow function, scope from parent)
-	- + web api, event loop
-		- async (callback, XMLHttpRequest - promise - async/await, fetch)
-		- event (CustomEvent (name, event obj) -> dispatchEvent)
+	- + web api, event loop -> async + XMLHttpRequest (callback,  promise - async/await, fetch) -> ajax
+	- event (CustomEvent (name, event obj) -> dispatchEvent)
 	- ts
 		- type
 			- primitive: boolean, string, number, null, undefined, void

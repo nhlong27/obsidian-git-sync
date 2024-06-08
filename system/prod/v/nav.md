@@ -1,88 +1,38 @@
 - it
 	- screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
-		 - pending
-		- p&wlb
-			- tier 1: Worldquant, SEA, Axon, Anduin, Trusting Social, Binance: sen 6k, Bytedance
-			- tier 2: Fossil, Autonomous, Vin, NAB: sen 3k, 4k5 gross, backend light?, Grab, Naver/Line, Telio, Hero Employment: senior 3-5k rails
-			- tier 3: VNG, Zalo, Tiki - low com, only high for new graduates?, Shopback, Chotot, Teko, Parcel Perform, zalora, Tyme
-			- tier 4: Viettel: sen 2k5, Fsoft, TMA, Global cybersoft, KMS, Nashtech, Momo, VinAI, Shopee, Lazada, NQ, Be
-			- env ([cheap companies](https://qr.ae/pveoxj))
-		- compensation ~ c8y / s12n (technology)
-			- markets: linkedin, ITViect, vietnamWorks
-			- reviews: glassdoor, voz, levels.fyi, [payscale](https://www.payscale.com/research/CN/Job=Software_Engineer/Salary)
-		- history
-			- employement hero  (Ly Gioi An, friends, QA, voz, youtube) 100 (4.5 left) [1](https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/post-27554372)  [2](https://voz.vn/t/event-box-cntt-2023-chia-se-kinh-nghiem-phong-van.694369/post-23521883) [jd](https://www.linkedin.com/jobs/view/3867616151/?refId=0b8e05c5-c234-4901-a955-e3d7dab3c9b7&trackingId=%2B9tEhyN5Tk6PxSahbDu1%2Fg%3D%3D) [75% situational 25% behavioral (25 design + 0 leadership)](https://www.youtube.com/watch?v=0Z9RW_hhUT4&t=330s)
-				- round1
-					- criteria 25
-						- cognify 5 - 10
-						- employee personality profile 12 - 15
-					- colidity 70 (task score: correctness + performance) - difficulty (medium), scope (divide & conquer, recursion, bruteforce), ide (NO)
-						- test suite 1
-						- test suite 2
-				- round2: English live coding (ds optimize), EM (simon), flow (features, focus around HR)
-				- round3: English culture fit [1](https://reviewcongty.com/companies/employment-hero/review/61d5b83f5c627f39a5f648cc) [2](https://www.youtube.com/watch?v=y-ueVqgeq9M&t=123s) (research company, soft question, past company, altitude, mindset) (Nếu em bây giờ công ty không còn dự án về Ruby nữa thì em làm sao?)
-			- katalon: product - software testing --> frontend (product - marketing)
-				- arch stack (next - nodejs, mongodb), pipeline team (4-5)
-				- p .., wlb ..
-				- 1 hr, 1 technical
-			- recruitery: product - HR tech (SEA, headhunters -> employee) (multi lang, cv template) 6/20
-				- arch stack (next - nodejs, C#, mongodb *startup*) 2, pipeline team (4-5) *startup* 1
-				- p 6mil/monthx2 1, wlb *startup* 2
-				- 1 code, 1 technical
-			- wala ict: outsource
-				- arch stack (react,next - node, spring boot -react native, flutter), pipeline team 1 - 8 hybrid (1-2 day/week) intern/fresher/junior
-				- p .., wlb ..
-				- 2 technical
-			- fsoft: outsource
-				- arch stack (next-gen, multi) 4, pipeline team 22 SME - RND < CEP
-				- p 10mil/month 3, wlb 3
-				- 1 technical
-	- interview (+interview process - more rounds?, when expect to hear back) [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
-		- 5-1:netline
-			- 5
-			- 4
-				- view (performance)
-					- browser vs node (open-source, non-blocking i/o)
-						- architecture
-						- js single-threaded (blocking)  -> event loop (non blocking)
-							- stack + browser queue (micro + macro) / [node queue](https://www.youtube.com/watch?v=AiPrW8zAiL4) + [thread pool](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113) (I/O: file system, network, database, ) / webapi (I/O: dom event, ajax calls, timers + callbacks (firstclass js))) 
-					- html-css-[ts]
-						- async
-							- callback (callback hell->), promise, await
-							- [deadzone](https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/?ref=dailydev)
-					- [react]-[redux]-next
-				- controller - model (performance, cqrs, rxjs, mvc)
-					- runtime node
-					- db
-						- nosql + sql (when & why)
-					- nest
-				- netline
-					- osi
-						- http to nginx, bring authentication header or not, into app become what object
-						- socket
-					- api (security)
-						- webhook
-					- network (auth)
-						- expired token solution (localstorage + refetch token < cookie + exp time)
-					- line.code
-						- solve git conflict
-						- aws basic services
-						- software engineering processes (agile, testing, think like an engineer?)
-			- 3: ds + [oop] (2h) [1](https://voz.vn/t/tong-hop-ke-ve-nhung-bai-coding-challenge-khi-phong-van-it.27324/post-706933)
-				- [function guard clause](https://www.youtube.com/watch?v=CFRhGnuXG-4)
-		- data
-			- ai -(nlp, ip, robotics) 
-				- machine learning: supervised, unsupervised, reinforcement - nlp (SVM, Maximum entropy, CRF)
-					- deep learning - nlp (RNN, LSTM, CNN, word embedding, attention mechanism, transformer (BERT, GPT)) 
-					- fine-tuning, hyperparameter
-					- recommendation system
-		- mobile 50MB (zip - icon, images), game - web game, chat lag - chat app
-		- pay & career progression
-			- responsibility - my top problems, priorities 
-			- arch - technology (future)
-			- pipeline - team, training/mentoring
-		- wlb
+	- interview [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
+		- situational
+		- behavioral
+			- my name is NHL, I'm a fullstack developer . I graduated from HCMUT  in 2023 and I have over one year of practical work experience in professional, collaborated working environments, using various technologies
+				- during my working period in
+					- fpt & vuthao: I mainly worked with outsource products -> The scope of my responsibilities were to develop user interfaces on frontend side, collaborating with backend developers, following client's requirements 
+					- aniday: worked collectively within a team of five to maintain and develop several inhouse products.
+						- main taks - real time messaging app
+							- used open ai api to develop ai features in chatroom
+						- helped migrating projects written in angular to react, migration of tazapay api in payment system
+						- due to strong english skills - in charge of translation
+	- wlb
+		- interview process - more rounds?, when expect to hear back
+		- architecture: responsibility - my top problems, priorities 
+		- pipeline: team, training/mentoring
 - roadmap
+	- blockchain (decentralized/distributed digital ledger), digital token (unit of value on blockchain), smart contracts (self-executing, on blockchain), dapps (p2p or on blockchain)
+			- introduction
+				- core: architecture (why - what problems did you solve - how did you evaluate)
+					- benchmark 
+					- chat application: nextjs, redux - rest - nest, nosql
+						- flow
+					- app application: nextjs, redux - rest - nest, nosql, sql 
+						- payment, tazapay
+						- translation (remove)
+						- cqrs, rjx, nest, cmc, saga, dto
+				- "Although I have been fortunate to work in small, friendly teams during my internships where no significant conflicts arose, I understand that conflicts can occur in any work environment. If I were to face a conflict with a colleague, I would approach it using the following strategies... "
+					- Address the issue early: I would address the conflict as soon as I become aware of it to prevent it from escalating further. I believe that open communication is crucial in resolving misunderstandings and fostering a healthy work environment. 
+					- Focus on the problem, not the person: I would ensure that the discussion revolves around the issue at hand and not the individuals involved. This helps to maintain a professional atmosphere and prevents the conversation from becoming personal or emotional.  
+					- Active listening: I would listen carefully to the other person's perspective, making sure to understand their concerns and point of view. This demonstrates respect and empathy, which can go a long way in resolving conflicts.  
+					- Finding common ground: I would try to identify areas of agreement and shared goals between the conflicting parties. This helps to create a collaborative atmosphere and encourages teamwork in resolving the issue.  
+					- Seek a win-win solution: I would aim for a resolution that benefits all parties involved, rather than seeking a compromise where someone feels they have lost. This may involve brainstorming multiple potential solutions and selecting the one that best addresses everyone's needs.  
+					- Escalate when necessary: If we were unable to resolve the conflict ourselves, I would involve a manager or HR representative to help mediate the situation and find a suitable resolution.
 	- arch
 		- [[tier1.2.5|verStruc]]
 			- tier3

@@ -33,30 +33,33 @@
 				- next: + seo (ssr)
 				- vue: watcher (getter, setter) - vue template + synthetic events: virtual dom
 					- $emit, v-bind, v-model, v-if, v-for
-	- translator (nginx, apache): javascript + next/express, java + spring, ruby + rails, python + django, php + laravel, c# + asp.net
-		- runtime [env](https://stackoverflow.com/questions/55690143/what-is-the-difference-between-env-local-and-env-development-local) - [node](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module) [2](https://stackoverflow.com/questions/52584811/javascript-not-loading-in-html-file-nodejs-http) : [libuv (event queue + thread pool) - binding -  engine](https://stackoverflow.com/questions/36766696/which-is-correct-node-js-architecture)
-			- [esm/commonjs](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/), nodejs resolve (relative, node_modules, built-in), wrapped in function (in module = local)
-			- npm: [dependencies](https://stackoverflow.com/questions/65487385/should-i-duplicate-peerdependencies-in-dependencies-field-of-package-json) [version](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
-		- controller (request-mapping)-command/query-model
-			- express / nest
-				- interceptor / guard / exception filter / pipe, module, controller, provider
-				- gateway (socket), cqrs - event, saga
-			- rails / sinatra (ruby)
-			- (automapper)
-	- model: [db](https://blog.bytebytego.com/p/understanding-database-types) - model (design) -> schema (implementatino) -> server (dbms (engine)) - declaration & manipulation
-		- nosql
-			- key-value (redis): fast - no queries / limited -> cache
-			- wide-column (cassandra): schema-less - no joins, decentralized -> time-series (high-write, low-read)
-			- graph
-			- document ([mongoDB](https://stackoverflow.com/questions/71177942/what-is-the-difference-between-mongod-and-service-of-mongodb-run-in-windows-serv)): collection-document(bson)-embedded
-				- [odm](https://qr.ae/pKAGWM)
-				- fast chat mongo ram -> harddrive vs sql, more queries -> faster
-		- sql (relation - join): schema, centralized (acid transaction) 
-			- command
-				- data type: int, decimal, char, varchar, date, datetime, binary, boolean
-				- ddl: create, drop, truncate, rename, alter (add, drop, modify)
-				- dml: insert into (values), select (from, where), update (set, where), delete from (where) 
-			- integrity: constraint, normalization 
-			- security
-		- search engine
+	- translator 
+	- model
+		- (nginx, apache): javascript + next/express, java + spring, ruby + rails, python + django, php + laravel, c# + asp.net
+			- runtime [env](https://stackoverflow.com/questions/55690143/what-is-the-difference-between-env-local-and-env-development-local) - [node](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module) [2](https://stackoverflow.com/questions/52584811/javascript-not-loading-in-html-file-nodejs-http) : [libuv (event queue + thread pool) - binding -  engine](https://stackoverflow.com/questions/36766696/which-is-correct-node-js-architecture)
+				- [esm/commonjs](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/), nodejs resolve (relative, node_modules, built-in), wrapped in function (in module = local)
+				- npm: [dependencies](https://stackoverflow.com/questions/65487385/should-i-duplicate-peerdependencies-in-dependencies-field-of-package-json) [version](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
+				- event loop
+			- (request-mapping)-command/query-model
+				- express / nest
+					- interceptor / guard / exception filter / pipe, module, controller, provider
+					- gateway (socket), cqrs - event, saga
+				- rails / sinatra (ruby)
+				- (automapper)
+		- [db](https://blog.bytebytego.com/p/understanding-database-types) - model (design) -> schema (implementatino) -> server (dbms (engine)) - declaration & manipulation
+			- nosql
+				- key-value (redis): fast - no queries / limited -> cache
+				- wide-column (cassandra): schema-less - no joins, decentralized -> time-series (high-write, low-read)
+				- graph
+				- document ([mongoDB](https://stackoverflow.com/questions/71177942/what-is-the-difference-between-mongod-and-service-of-mongodb-run-in-windows-serv)): collection-document(bson)-embedded
+					- [odm](https://qr.ae/pKAGWM)
+					- fast chat mongo ram -> harddrive vs sql, more queries -> faster
+			- sql (relation - join): schema, centralized (acid transaction) 
+				- command
+					- data type: int, decimal, char, varchar, date, datetime, binary, boolean
+					- ddl: create, drop, truncate, rename, alter (add, drop, modify)
+					- dml: insert into (values), select (from, where), update (set, where), delete from (where) 
+				- integrity: constraint, normalization 
+				- security
+			- search engine
 

@@ -27,12 +27,13 @@
 		- ajax
 			- fetch, axios, swr, react-query, redux thunk/saga
 		- style
-			- rest (http) - resources
+			- soap (xml-based api-> wsdl)
+			- rest (philosophy built upon principles of http) - resources
 				- get [(safe (consistent result) + idempotent (doesn't change state)](https://stackoverflow.com/questions/49572486/how-does-concepts-idempotent-and-safe-methods-differ)), put + delete (idempotent), post + patch
+				- openAPI/swagger (definition format) - describe and document restful apis
 			- rpc (http) - actions --> grpc (http/2 + protocol buffers) microservices, mobile? browsers doesn't allow control over http/2 primitives
 			- graphql (http) - single url to engine point
 			- tRPC - '*simpler REST*', a single API endpoint that operates behind your api engine
-			- openAPI/swagger - specification for building api https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 		- data format 
 			- raw/encoded string - (serialization) html, xml, css, csv, [json](https://stackoverflow.com/questions/54122999/is-json-a-string) 
 			- binary/blob (array buffers) - (serialization) protocol buffers 

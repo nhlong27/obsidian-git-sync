@@ -14,36 +14,49 @@
 		- [mid6] train test
 		- [sat7/6] global city
 			- doraemon
-		- [wed,thu5,6/6] shopee flash sale 0h, vo ha linh tiktok shop 20h
-		- [thu6/6] saola labs call
-			- blockchain (decentralized/distributed digital ledger), digital token (unit of value on blockchain), smart contracts (self-executing, on blockchain), dapps (p2p or on blockchain)
-		- prod
-			- [ ] m: exhibition
-			- v
-				- fin
-					- ext
-						- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
-							- pant, jacket
-					- int
-						- dent.pre: toothbrush
+		- [fri 14/6] cloudverse.ai (singapore) 
+			- company research
+				- service, multicloud, ai-enabled finops platform (gcp, aws, ali cloud, huawei, digital ocean)
+					- on-premises vs cloud computing, msp vs csp
+					- practice: secops (security), devops (software delivery) - cloudops (cloud resource), finops (cloud spending), cspm, kspm
+				- insider info
+					- 3-4 live coding
+						- leetcode
+						- develop features, fix bugs (tests) + netline
+					- 4-5 design challenge - behavorial test
+			- prepare
 				- 5-1:netline
-					- 5-1
-						- sort: bubble, insertion
-						- html, css, sql, js, ts - react, next, nest, mongo, postgres
-						- engine, re (browser, nodejs), netline
-					- netline
+					- 3
+					- 1-5net
+				- pipeline: aws, gcp
+					- plan: agile scrum
+					- deploy: docker, kurbenetes
+		- prod
+			- m
 				- nav
-					- [x] 1
-			- s
+			- finnet
+				- ext
+					- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
+						- pant, jacket
+				- int
+					- dent.pre: toothbrush
 				- net
 					- definition of post: quality - time <-(interest-based, mood influencer)
 						- before: barf, low toilet, Ngan sleeping, fire ants, granddad pulling hair, scar head into bike wheel, step on shit damsen
 						- primary: twin bully, 
 						- secondary, high, uni, aniday, fam
-					- hienle: midterm problem
+					- ador: physical attraction, (value: finnet (intelligence)) + aligning interest & views (goals)
+						- enthusiasm (hienle), repsect/admiration (to treat someone like you're lucky to have them)
+						- attention (princess)
+			- v
+				- 5-1:netline
+					- 5-1
+						- client (client-server, p2p: data exchange), server, database (security), dns, cdn, load balancer, queue, worker service, memory cache
+						- sort: bubble, insertion
+						- html, css, sql, js, ts - react, next, nest, mongo, postgres
+						- engine, re (browser, nodejs), netline
+					- netline
+			- s
 				- soc
-					- exe
-						- [x] 1
-						- [x] 2
-					- thre
-					- intr
+					- tier3
+

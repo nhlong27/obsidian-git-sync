@@ -4,7 +4,31 @@
 	- visual, auditory, touch, smell
 	- fam: uncle nghi, 
 
-
+- me
+	- 3oclock
+	- the medium
+	- 
+- university course, work placement, linkedin drama, last time you've been here
+- rain: the smell, the cool wind
+- what job would you have if money was no object
+- top 5 tv series
+- anything you look forward to 
+- finnet
+	- sickness, tra gung ngon
+- m
+	- log
+		- hom kia choi vui
+	- food & drink
+	- entertainment
+		- passive 
+			- music
+			- movie: medium
+			- book
+			- anime/manga
+		- active
+			- sport
+			- camping
+			- 
 what's your color scheme?
 [japan, fiction.anime]
 - who I am
