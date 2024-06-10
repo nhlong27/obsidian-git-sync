@@ -10,9 +10,8 @@
 		- [end/6] tier 2 (phuquy)
 		- [thu27/6] mybirthday
 			- ngan, tra
-		- [sat14/6] inside out
 		- [mid6] train test
-		- [sat7/6] global city
+		- [sat15/6] global city
 			- doraemon
 		- [fri 14/6] cloudverse.ai (singapore) 
 			- company research
@@ -26,14 +25,89 @@
 					- 4-5 design challenge - behavorial test
 			- prepare
 				- 5-1:netline
-					- 3
-					- 1-5net
-				- pipeline: aws, gcp
-					- plan: agile scrum
-					- deploy: docker, kurbenetes
+					- NHL, graduated hcmut ielts 8, one year exp: frontend (vu thao, fpt) collaborated w/ backend
+					- fullstack at aniday - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates. 
+					- I'd like to go in depth about my responsibility and what I have contributed. Before that, questions?
+					- context what we do at aniday - system flow (simplified)
+						- post cv, unlock by company, headhunters, company self recruitment -> payment [1]
+						- place to post jd, agreement refer, recruitment process weeks to months (test, interview rounds) -> placement (bonus recruiter, company) -> chat [2]
+					- payment
+						- how to test webhook
+						- flow
+							- authentication
+							- payment
+					- chat
+						- why migrate, what business value (how communicate that), how to evaluate, [arch](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button),
+						- soft
+							- communicate, disagreement, failure
+						- tier 5
+							- security at each tier
+							- how to scale for future prediction (throughput?)
+						- tier 4
+							- why backend in [node](https://www.reddit.com/r/node/comments/vspe0d/comment/if54hhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (development), [pros and cons](https://www.reddit.com/r/node/comments/seua54/comment/huo5139/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), wouldn't it be more efficient (for what) to use others (java spring, python, c#)
+								- typescript
+								- event loop, async programming, temporal coupling
+								- nest
+							- next, redux
+							- database: mongodb vs sql
+							- restful api, serialization
+						- [tier 3](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+						- ci/cd pipeline
+							- agile
+							- git, github actions
+							- tdd, and automated test
+							- docker + swarm, when kurbenetes
+						- flow
+							- authentication
+					- arch
+						- 3
+							- array, ll, hashmap, tree, heap (insert remove logn, heapify n, add to heap nlogn), graph
+							- sort (bubble, insertion), sliding window, binary search, dfs - bfs, recursion (call stack)
+						- html, css, sql, js, ts - react, next, nest, mongo, postgres
+						- engine, re (browser, nodejs), netline
+						- 4
+							- client
+								- browser
+								- html, css (sass), js (ts)
+								- react: template + reactivity, next
+							- server
+								- nodejs
+								- nest
+								- cqrs, rxjs, orm 
+							- database
+								- model: sql, nosql (document)
+								- data structures that power 
+						- 5 client (client-server, p2p: data exchange), server, database (security), dns, cdn, load balancer, queue, worker service, memory cache
+							- replication
+								- goal
+									- latency
+										- network (ms, us, RTT): distance, bandwidth, congestion -> CDN, load balancer
+										- disk: storage medium speed -> faster storage device (SSD)
+										- app: processing time, database query/transaction, code efficiency -> better code
+									- availability
+									- throughput
+										- data (bps): bandwidth, latency, packet loss, congestion, protocol overhead -> load balancer
+										- operational (operation/transaction/request per second): cpu speed, memory, i/o operation, system architecture, software efficiency -> load balancer
+											- database transaction - safety guarantees (begin - execute - commit - rollback)
+												- atomicity
+												- consistency
+												- isolation
+												- durability
+											- test: stress test
+									- consistency
+										- database: -> validation rule?
+										- distributed system:-> replication strategy, conflict resolution
+											- strong, eventual, causal, weak, read-your-writes, monotonic reads
+								- type
+									- master-slave (sync - async)
+									- master-master
+									- leaderless
+							- partitioning
 		- prod
 			- m
-				- nav
+				- adhd: understimulated -> stories, competitive gaming, procrastination, no hobbies, , social -> loneliness
+					- [stimulant](https://www.reddit.com/r/LivestreamFail/comments/15qj0in/comment/jw3fs43/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): 30-50mg vyvanse (dry mouth, diarrhea, expensive), dexedrine (peak & crash), strattera (desire to eat food), adderall, ritalin, concerta, IR XR
+				- anxious attachment
 			- finnet
 				- ext
 					- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
@@ -48,15 +122,4 @@
 					- ador: physical attraction, (value: finnet (intelligence)) + aligning interest & views (goals)
 						- enthusiasm (hienle), repsect/admiration (to treat someone like you're lucky to have them)
 						- attention (princess)
-			- v
-				- 5-1:netline
-					- 5-1
-						- client (client-server, p2p: data exchange), server, database (security), dns, cdn, load balancer, queue, worker service, memory cache
-						- sort: bubble, insertion
-						- html, css, sql, js, ts - react, next, nest, mongo, postgres
-						- engine, re (browser, nodejs), netline
-					- netline
-			- s
-				- soc
-					- tier3
 
