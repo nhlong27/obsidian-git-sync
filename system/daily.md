@@ -25,58 +25,83 @@
 					- 4-5 design challenge - behavorial test
 			- prepare
 				- 5-1:netline
-					- NHL, graduated hcmut ielts 8, one year exp: frontend (vu thao, fpt) collaborated w/ backend
-					- fullstack at aniday - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates. 
-					- I'd like to go in depth about my responsibility and what I have contributed. Before that, questions?
-					- context what we do at aniday - system flow (simplified)
+					- NHL, graduated hcmut ielts 8, one and a half year exp: frontend (vu thao, fpt) collaborated w/ backend
+					- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates. 
+					- context what I accomplished at aniday (what value) - system flow (simplified)
 						- post cv, unlock by company, headhunters, company self recruitment -> payment [1]
 						- place to post jd, agreement refer, recruitment process weeks to months (test, interview rounds) -> placement (bonus recruiter, company) -> chat [2]
 					- payment
-						- how to test webhook
-						- flow
+						- business logic -> payment flow
+						- webhook
+							- how to test
+						- database transaction security
 							- authentication
-							- payment
+							- mysql alter table migration (copy entire table) hours (page 62), workarounds + update -> read time instead
 					- chat
-						- why migrate, what business value (how communicate that), how to evaluate, [arch](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button),
+						- why migrate, what business value (how communicate that), how to evaluate, [arch](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+						- refactor ui  performance (react)
+							- next, redux
+							- principle
+								- (rr-services/apis) [change type, name (fetch->get), use common function]
+								- (rr-services/apis) [divide files from baseUrl]
+								- (rr-services/apis) [combine functions with similar utilities]
+						- websocket: istyping, isonline
+							- why backend in [node](https://www.reddit.com/r/node/comments/vspe0d/comment/if54hhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (development), [pros and cons](https://www.reddit.com/r/node/comments/seua54/comment/huo5139/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), wouldn't it be more efficient (for what) to use others (java spring, python, c#)
+							- nest, saga, rjx
+						- authentication
+							- build npm login package
+						- database
+							- orm, mongodb filter
+					- arch
 						- soft
 							- communicate, disagreement, failure
-						- tier 5
-							- security at each tier
-							- how to scale for future prediction (throughput?)
-						- tier 4
-							- why backend in [node](https://www.reddit.com/r/node/comments/vspe0d/comment/if54hhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (development), [pros and cons](https://www.reddit.com/r/node/comments/seua54/comment/huo5139/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), wouldn't it be more efficient (for what) to use others (java spring, python, c#)
-								- typescript
-								- event loop, async programming, temporal coupling
-								- nest
-							- next, redux
-							- database: mongodb vs sql
-							- restful api, serialization
-						- [tier 3](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+						- netline
+							- rest: CRUD operations, request/response structure
+							- serialization
+							- ssl -> tls
 						- ci/cd pipeline
 							- agile
 							- git, github actions
 							- tdd, and automated test
 							- docker + swarm, when kurbenetes
-						- flow
-							- authentication
-					- arch
 						- 3
-							- array, ll, hashmap, tree, heap (insert remove logn, heapify n, add to heap nlogn), graph
+							- array, ll, hashmap, tree (decision tree), heap (insert remove logn, heapify n, add to heap nlogn), graph
 							- sort (bubble, insertion), sliding window, binary search, dfs - bfs, recursion (call stack)
-						- html, css, sql, js, ts - react, next, nest, mongo, postgres
-						- engine, re (browser, nodejs), netline
+							- pattern
+								- solid
 						- 4
 							- client
 								- browser
 								- html, css (sass), js (ts)
 								- react: template + reactivity, next
 							- server
-								- nodejs
+								- [nodejs](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): event-driven architecture, non-blocking I/O, event loop, async programming, temporal coupling
 								- nest
-								- cqrs, rxjs, orm 
+								- cqrs, rxjs, orm
 							- database
-								- model: sql, nosql (document)
-								- data structures that power 
+								- model (postgresql, mysql B+tree, mongodb R-tree)
+									- sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)
+										- create, drop, alter (table, index, function, views, store procedure, and triggers)
+										- insert, select, update, delete
+									- normalization - denormalize (duplicate)
+									- sql vs nosql (document)
+										- schema flexability/enforcing: schema on read (dynamic typing, semi-structured or external dependent) vs schema on write (static typing)
+											- structured data, xml data type, json in text column
+										- relationship/simpler application code
+											- json model better storage locality - multiple index lookups
+												- database load entire document on read (wasteful), on write rewritten entire document (except not change encoded size) -> keep size small, avoid writes that increase size
+													- google spanner, oracle (multi-table index cluster talbe), column-family concept (cassandra, bigtable data model)
+												- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
+									- orm
+									- sql command -> data models = structure -> indexing -> transaction & data integrity -> database security ->
+									- serialization
+										- language specific format, textual format (json -> bjson, xml, binary -> base64 33%), protocol buffer (detailed schema documentation, bjson less space, forward & backward compatibility)
+									- postgres
+										- gui
+										- server
+										- stackbuilder
+										- pgadmin
+										- pm
 						- 5 client (client-server, p2p: data exchange), server, database (security), dns, cdn, load balancer, queue, worker service, memory cache
 							- replication
 								- goal

@@ -18,6 +18,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "572393704594584a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/5-1.netline/tier1.2.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60d8477e55784c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/5-1.netline/tier4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "987d8f01d41e4bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/finnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -150,15 +186,15 @@
   },
   "active": "7eb4680520d2dea1",
   "lastOpenFiles": [
-    "system/prod/v/nav.md",
-    "system/daily.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
-    "draft.md",
-    "system/m.md",
-    "system/prod/v/5-1.netline/net.md",
-    "system/prod/finnet.md",
-    "system/prod/v/5-1.netline/tier3/gpl.md",
+    "system/daily.md",
     "system/prod/v/5-1.netline/tier4.md",
+    "system/m.md",
+    "system/prod/finnet.md",
+    "system/prod/v/nav.md",
+    "draft.md",
+    "system/prod/v/5-1.netline/net.md",
+    "system/prod/v/5-1.netline/tier3/gpl.md",
     "system/prod/v/5-1.netline/line.md",
     "system/prod/v/5-1.netline/tier3/dsl.md",
     "system/prod/v/fin.md",
