@@ -1,3 +1,5 @@
+- adhd: understimulated -> stories, competitive gaming, procrastination, no hobbies, , social -> loneliness + anxious attachment
+	- [stimulant](https://www.reddit.com/r/LivestreamFail/comments/15qj0in/comment/jw3fs43/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): 30-50mg vyvanse (dry mouth, diarrhea, expensive), dexedrine (peak & crash), strattera (desire to eat food), adderall, ritalin, concerta, IR XR
 - core: mood: motio (hierarchy, risk tolerance / excitement - deadline) <- power (stability) --> optimization - abstraction transparency + resource probability.  
 	- tier0 (coffee shop (base, train, holiday, vrchat symour / dream / sonny boy / omori / ready player one)) (socio (ego/confidence: reward - effort/risk) - ador: friendship - [...] - relationship (80-20), limerance / oneitis, codependency)
 	- tier1

@@ -13,7 +13,20 @@
 		- [mid6] train test
 		- [sat15/6] global city
 			- doraemon
-		- [fri 14/6] cloudverse.ai (singapore) 
+		- [thu20/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
+		- [mon17/6] hdsoftweb
+			- intro
+				- my & company vision do not align. want to seek better opportunities to grow and  display my skills
+				- I've done research on the current market rate, from my understand of my current level, it would be acceptable for my gross income to be in the range from 16 to 20mil vnd / month
+				- My goal is to become a software architect. To move my way up on the career ladder, and to advance to higher positions, my plan is to learn as much as a I can and gain more experience in designing and implementing complex systems
+				- i'd love to have some time to arrange my departure, it'd be best for me start working in July
+				- My extensive experience with Node.js has equipped me with a strong foundation in server-side development, asynchronous programming, and building RESTful APIs. These skills are directly transferable to Python and Flask
+				- My experience with React has provided me with a strong foundation in modern JavaScript frameworks, which translates seamlessly to working with Vue.js
+			- questions
+				- rounds cto, tech manager
+				- when to hear back and how
+				- info about team i'll be working with
+		- [fri14/6] cloudverse.ai (singapore) 
 			- company research
 				- service, multicloud, ai-enabled finops platform (gcp, aws, ali cloud, huawei, digital ocean)
 					- on-premises vs cloud computing, msp vs csp
@@ -26,18 +39,21 @@
 			- prepare
 				- 5-1:netline
 					- NHL, graduated hcmut ielts 8, one and a half year exp: frontend (vu thao, fpt) collaborated w/ backend
-					- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates. 
-					- context what I accomplished at aniday (what value) - system flow (simplified)
+					- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates
+					- during my time working here, I've been mainly contributing (what value) 
 						- post cv, unlock by company, headhunters, company self recruitment -> payment [1]
 						- place to post jd, agreement refer, recruitment process weeks to months (test, interview rounds) -> placement (bonus recruiter, company) -> chat [2]
-					- payment
-						- business logic -> payment flow
+					- payment: sole res to migrate psp tazapay deprecated version  ->  newest supporting version
+						- sheer amount of knowledge and practices I learned working on it
+							- business logic -> payment flow
+							- higher networking technique like webhook and message passing dataflow (synchronous service -> async service call)
+							- keep forward and backward compatibility, which are important for evolv‐ ability (making change easy by allowing you to upgrade different parts of your system independently, and not having to change everything at once)
 						- webhook
 							- how to test
 						- database transaction security
 							- authentication
 							- mysql alter table migration (copy entire table) hours (page 62), workarounds + update -> read time instead
-					- chat
+					- messaging service: maintain, refactor and develop new features across both the frontend and backend
 						- why migrate, what business value (how communicate that), how to evaluate, [arch](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 						- refactor ui  performance (react)
 							- next, redux
@@ -130,21 +146,12 @@
 							- partitioning
 		- prod
 			- m
-				- adhd: understimulated -> stories, competitive gaming, procrastination, no hobbies, , social -> loneliness
-					- [stimulant](https://www.reddit.com/r/LivestreamFail/comments/15qj0in/comment/jw3fs43/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): 30-50mg vyvanse (dry mouth, diarrhea, expensive), dexedrine (peak & crash), strattera (desire to eat food), adderall, ritalin, concerta, IR XR
-				- anxious attachment
 			- finnet
-				- ext
-					- fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp)
-						- pant, jacket
-				- int
-					- dent.pre: toothbrush
+				- ext.fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp), pant, jacket
+				- int.dent.pre
+					- toothbrush
+					- cough: 5x/day, 2xvitaminCmorning, avoid (da, tom, chuoi, trung, ga, sua)
 				- net
-					- definition of post: quality - time <-(interest-based, mood influencer)
-						- before: barf, low toilet, Ngan sleeping, fire ants, granddad pulling hair, scar head into bike wheel, step on shit damsen
-						- primary: twin bully, 
-						- secondary, high, uni, aniday, fam
-					- ador: physical attraction, (value: finnet (intelligence)) + aligning interest & views (goals)
-						- enthusiasm (hienle), repsect/admiration (to treat someone like you're lucky to have them)
-						- attention (princess)
+					- ngan's gift: panda blind box / stuffed animal, flower (hong, tulip, cat tuong)
+					- [x] nhi quy nhơn
 

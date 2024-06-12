@@ -9,6 +9,13 @@
 		- hook
 		- parotting
 	- intr: interest factor
+		- definition of post: quality - time <-(interest-based, mood influencer)
+			- before: barf, low toilet, Ngan sleeping, fire ants, granddad pulling hair, scar head into bike wheel, step on shit damsen
+			- primary: twin bully, 
+			- secondary, high, uni, aniday, fam
+		- ador: physical attraction, (value: finnet (intelligence)) + aligning interest & views (goals)
+			- enthusiasm (hienle), repsect/admiration (to treat someone like you're lucky to have them)
+			- attention (princess)
 		- a method for remembering (have i shared)
 			- thread (to lead): info exchange, stimulate feelings
 				- storytelling (motio (curiosity), imagination, personal), trend
