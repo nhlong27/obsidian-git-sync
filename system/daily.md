@@ -14,6 +14,23 @@
 		- [sat15/6] global city
 			- doraemon
 		- [thu20/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
+		- [fri14/6] Ngan
+			- cha lui, ban
+			- food self buy
+			- phone, lower volume
+			- face phone down
+			- holding umbrela
+			- skirt towel/jacket
+			- stairs front behind
+			- open doors
+			- never post unedited photos
+			- cover table edge
+			- eat food to other's rate
+			- two straws one drink
+			- hold cinema chair
+			- don't leave her alone (bring her with)
+			- don't touch hair randomly
+			- 
 		- [mon17/6] hdsoftweb
 			- intro
 				- my & company vision do not align. want to seek better opportunities to grow and  display my skills
@@ -40,9 +57,9 @@
 				- 5-1:netline
 					- NHL, graduated hcmut ielts 8, one and a half year exp: frontend (vu thao, fpt) collaborated w/ backend
 					- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates
-					- during my time working here, I've been mainly contributing (what value) 
-						- post cv, unlock by company, headhunters, company self recruitment -> payment [1]
-						- place to post jd, agreement refer, recruitment process weeks to months (test, interview rounds) -> placement (bonus recruiter, company) -> chat [2]
+						- company post jd, recruiter refer, process weeks to months (rounds) reject -> final offer
+						- recruiter post cv (hidden contact), promising unlock by company using credit (package)
+					- during my time working here, I've been mainly contributing (what value) payment [1], chat [2]
 					- payment: sole res to migrate psp tazapay deprecated version  ->  newest supporting version
 						- sheer amount of knowledge and practices I learned working on it
 							- business logic -> payment flow
@@ -153,5 +170,4 @@
 					- cough: 5x/day, 2xvitaminCmorning, avoid (da, tom, chuoi, trung, ga, sua)
 				- net
 					- ngan's gift: panda blind box / stuffed animal, flower (hong, tulip, cat tuong)
-					- [x] nhi quy nhơn
 
