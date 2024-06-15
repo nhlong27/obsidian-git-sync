@@ -1,4 +1,5 @@
-- [dsl](https://stackoverflow.com/questions/809574/what-is-a-domain-specific-language-anybody-using-it-and-in-what-way#:~:text=domain%2Dspecific%20language%20(DSL),or%20a%20particular%20solution%20technique) query (sql, graphql), document (html, css), data storage & exchange (xml, yaml)
+- [dsl](https://stackoverflow.com/questions/809574/what-is-a-domain-specific-language-anybody-using-it-and-in-what-way#:~:text=domain%2Dspecific%20language%20(DSL),or%20a%20particular%20solution%20technique) 
+- markup/document (html, css)
 	- html
 		- implementation: html + js, html template languages, web component (htmx), library/framework
 			- innerHTML, innerText, textContent
@@ -18,6 +19,11 @@
 				- grid, [flex](https://stackoverflow.com/questions/32551291/in-css-flexbox-why-are-there-no-justify-items-and-justify-self-properties) 
 			- effects, filter, interactivity, transform, transition
 		- :checked, :disabled, :enabled, :empty, :not(), :target, ::first-line
+- query (sql, graphql)
 	- sql
+- config/data storage & exchange (json,xml, yaml)
+- scripting/shell 
 	- *linux*
 		- commands: pwd, cd (- ~ ..), ls (-R -lh), cat, cp (-R), mv, mkdir (-p, -m, -v), rmdir, rm, touch, code / vi / nano
+	- homebrew
+		- gui [cask](https://apple.stackexchange.com/questions/125468/what-is-the-difference-between-brew-and-brew-cask)

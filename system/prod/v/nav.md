@@ -1,3 +1,131 @@
+- intro
+	- my & company vision do not align. want to seek better opportunities to grow and  display my skills
+	- I've done research on the current market rate, from my understand of my current level, it would be acceptable for my gross income to be in the range from 16 to 20mil vnd / month
+	- My goal is to become a software architect. To move my way up on the career ladder, and to advance to higher positions, my plan is to learn as much as a I can and gain more experience in designing and implementing complex systems
+	- i'd love to have some time to arrange my departure, it'd be best for me start working in July
+	- My extensive experience with Node.js has equipped me with a strong foundation in server-side development, asynchronous programming, and building RESTful APIs. These skills are directly transferable to Python and Flask
+	- My experience with React has provided me with a strong foundation in modern JavaScript frameworks, which translates seamlessly to working with Vue.js
+- questions
+	- rounds cto, tech manager
+	- when to hear back and how
+	- info about team i'll be working with
+- company research
+	- service, multicloud, ai-enabled finops platform (gcp, aws, ali cloud, huawei, digital ocean)
+		- on-premises vs cloud computing, msp vs csp
+		- practice: secops (security), devops (software delivery) - cloudops (cloud resource), finops (cloud spending), cspm, kspm
+	- insider info
+		- 3-4 live coding
+			- leetcode
+			- develop features, fix bugs (tests) + netline
+		- 4-5 design challenge - behavorial test
+- prepare
+	- 5-1:netline
+		- NHL, graduated hcmut ielts 8, one and a half year exp: frontend (vu thao, fpt) collaborated w/ backend
+		- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates
+			- company post jd, recruiter refer, process weeks to months (rounds) reject -> final offer
+			- recruiter post cv (hidden contact), promising unlock by company using credit (package)
+		- during my time working here, I've been mainly contributing (what value) payment [1], chat [2]
+		- payment: sole res to migrate psp tazapay deprecated version  ->  newest supporting version
+			- sheer amount of knowledge and practices I learned working on it
+				- business logic -> payment flow
+				- higher networking technique like webhook and message passing dataflow (synchronous service -> async service call)
+				- keep forward and backward compatibility, which are important for evolv‐ ability (making change easy by allowing you to upgrade different parts of your system independently, and not having to change everything at once)
+			- webhook
+				- how to test
+			- database transaction security
+				- authentication
+				- mysql alter table migration (copy entire table) hours (page 62), workarounds + update -> read time instead
+		- messaging service: maintain, refactor and develop new features across both the frontend and backend
+			- why migrate, what business value (how communicate that), how to evaluate, [arch](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+			- refactor ui  performance (react)
+				- next, redux
+				- principle
+					- (rr-services/apis) [change type, name (fetch->get), use common function]
+					- (rr-services/apis) [divide files from baseUrl]
+					- (rr-services/apis) [combine functions with similar utilities]
+			- websocket: istyping, isonline
+				- why backend in [node](https://www.reddit.com/r/node/comments/vspe0d/comment/if54hhd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (development), [pros and cons](https://www.reddit.com/r/node/comments/seua54/comment/huo5139/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), wouldn't it be more efficient (for what) to use others (java spring, python, c#)
+				- nest, saga, rjx
+			- authentication
+				- build npm login package
+			- database
+				- orm, mongodb filter
+		- arch
+			- soft
+				- communicate, disagreement, failure
+			- netline
+				- rest: CRUD operations, request/response structure
+				- serialization
+				- ssl -> tls
+			- ci/cd pipeline
+				- agile
+				- git, github actions
+				- tdd, and automated test
+				- docker + swarm, when kurbenetes
+			- 3
+				- array, ll, hashmap, tree (decision tree), heap (insert remove logn, heapify n, add to heap nlogn), graph
+				- sort (bubble, insertion), sliding window, binary search, dfs - bfs, recursion (call stack)
+				- pattern
+					- solid
+			- 4
+				- client
+					- browser
+					- html, css (sass), js (ts)
+					- react: template + reactivity, next
+				- server
+					- [nodejs](https://www.reddit.com/r/node/comments/i05yl8/comment/fzpkdpn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button): event-driven architecture, non-blocking I/O, event loop, async programming, temporal coupling
+					- nest
+					- cqrs, rxjs, orm
+				- database
+					- model (postgresql, mysql B+tree, mongodb R-tree)
+						- sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)
+							- create, drop, alter (table, index, function, views, store procedure, and triggers)
+							- insert, select, update, delete
+						- normalization - denormalize (duplicate)
+						- sql vs nosql (document)
+							- schema flexability/enforcing: schema on read (dynamic typing, semi-structured or external dependent) vs schema on write (static typing)
+								- structured data, xml data type, json in text column
+							- relationship/simpler application code
+								- json model better storage locality - multiple index lookups
+									- database load entire document on read (wasteful), on write rewritten entire document (except not change encoded size) -> keep size small, avoid writes that increase size
+										- google spanner, oracle (multi-table index cluster talbe), column-family concept (cassandra, bigtable data model)
+									- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
+						- orm
+						- sql command -> data models = structure -> indexing -> transaction & data integrity -> database security ->
+						- serialization
+							- language specific format, textual format (json -> bjson, xml, binary -> base64 33%), protocol buffer (detailed schema documentation, bjson less space, forward & backward compatibility)
+						- postgres
+							- gui
+							- server
+							- stackbuilder
+							- pgadmin
+							- pm
+			- 5 client (client-server, p2p: data exchange), server, database (security), dns, cdn, load balancer, queue, worker service, memory cache
+				- replication
+					- goal
+						- latency
+							- network (ms, us, RTT): distance, bandwidth, congestion -> CDN, load balancer
+							- disk: storage medium speed -> faster storage device (SSD)
+							- app: processing time, database query/transaction, code efficiency -> better code
+						- availability
+						- throughput
+							- data (bps): bandwidth, latency, packet loss, congestion, protocol overhead -> load balancer
+							- operational (operation/transaction/request per second): cpu speed, memory, i/o operation, system architecture, software efficiency -> load balancer
+								- database transaction - safety guarantees (begin - execute - commit - rollback)
+									- atomicity
+									- consistency
+									- isolation
+									- durability
+								- test: stress test
+						- consistency
+							- database: -> validation rule?
+							- distributed system:-> replication strategy, conflict resolution
+								- strong, eventual, causal, weak, read-your-writes, monotonic reads
+					- type
+						- master-slave (sync - async)
+						- master-master
+						- leaderless
+				- partitioning
 - it
 	- screening (ats - application tracking system): resume, portfolio, linkedin, github  [screening mail](https://docs.google.com/document/d/1y0VItqH6DskdeCVprv90CKCHmqX_QpQiREInf3Dqui0/edit?usp=sharing)
 	- interview [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)

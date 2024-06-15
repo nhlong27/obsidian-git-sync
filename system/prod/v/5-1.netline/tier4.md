@@ -37,7 +37,7 @@
 	- model
 		- (nginx, apache): javascript + next/express, java + spring, ruby + rails, python + django, php + laravel, c# + asp.net
 			- runtime [env](https://stackoverflow.com/questions/55690143/what-is-the-difference-between-env-local-and-env-development-local) - [node](https://www.digitalocean.com/community/tutorials/how-to-create-a-web-server-in-node-js-with-the-http-module) [2](https://stackoverflow.com/questions/52584811/javascript-not-loading-in-html-file-nodejs-http) : [libuv (event queue + thread pool) - binding -  engine](https://stackoverflow.com/questions/36766696/which-is-correct-node-js-architecture)
-				- [esm/commonjs](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/), nodejs resolve (relative, node_modules, built-in), wrapped in function (in module = local)
+				- [esm/commonjs](https://www.tsmean.com/articles/learn-typescript/typescript-module-compiler-option/), nodejs resolve (relative, node_modules, built-in), wrapped in function (in module = local), sync vs async
 				- npm: [dependencies](https://stackoverflow.com/questions/65487385/should-i-duplicate-peerdependencies-in-dependencies-field-of-package-json) [version](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json)
 				- event loop
 			- (request-mapping)-command/query-model
@@ -61,5 +61,7 @@
 					- dml: insert into (values), select (from, where), update (set, where), delete from (where) 
 				- integrity: constraint, normalization 
 				- security
+				- postgres
+					- [connection](https://stackoverflow.com/questions/63074649/node-js-postgresql-pg-client-has-already-been-connected-you-cannot-reuse)
 			- search engine
 

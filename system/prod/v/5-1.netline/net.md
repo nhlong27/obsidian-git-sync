@@ -13,12 +13,14 @@
 			- [TCP handshake](https://www.youtube.com/watch?v=j9QmMEWmcfo&t=3s)(syn, syn-ack, ack) + certificate check SSL/TLS (certificate is signature signed by private keys of certificate authorities, client (browser) store public keys -> server return TLS version, cipher suite) - session key exchange (RSA TLS <=1.2, DH  TSL 1.3) 
 				- symmetric: DES (64 bits), AES (128, 192, 256 bits)
 				- asymmetric: RSA - signature DSA
-		- application ( . header)
+		- application ( . header), RFC
 			- http/s - uri: url (scheme/protocol + domain + port + path + resource) / urn
 				- body + header: method / status (1xx informational, 2xx success, 3xx redirection, 4xx client error, 5xx server error ) + (path) +  protocol (version)
 					- host/domain, user-agent, cookie
 					- mime: text/plain, application/json, image/jpeg, audio/mp3, application/pdf, application/x-www-form-urlencoded, multipart/form-data
 			- websocket
+			- SSH
+			- mongodb wire protocol, mysql protocol
 			- streaming [protocol](https://www.wowza.com/blog/streaming-protocols#streaming-protocol, https://www.reddit.com/r/learnprogramming/comments/xwjda4/comment/ir70vma/?utm_source=share&utm_medium=web2x&context=3)
 				- ingest: rtmp (flash), rtsp (ip camera) (control protocol) (not supported in many players), srt, webrtc
 				- transcode into http-based

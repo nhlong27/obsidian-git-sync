@@ -10,9 +10,28 @@
 		- parotting
 	- intr: interest factor
 		- definition of post: quality - time <-(interest-based, mood influencer)
-			- before: barf, low toilet, Ngan sleeping, fire ants, granddad pulling hair, scar head into bike wheel, step on shit damsen
-			- primary: twin bully, 
-			- secondary, high, uni, aniday, fam
+			- how unhinged and digusting a kid: [0] barf, [0] low toilet, [0] step on shit damsen, [0] pee myself, [0] shit in class
+			- girl exp & rela: [0] Ngan sleeping, [1] Tra My reading book when sleeping Hieu, [1] Ngan sleeping again, [2] Quynh Nhu, [2] Lai My my terrible birthday her last birthday gift my jealousy, [2] Thuong, [2] Thanh Vy, [2] Vus girl, [3] Quynh Huong, [3] PLinh, [4] ielts girl, [5] Thu Tra, [5] Ngan
+			- music: [2] my nights listening music to ease the dissatisfication
+				- piano: [2] girl compliments my hand music class, [2] gravity theme
+			- parents: [3] my fight with family
+			- granddad: [0] granddad pulling hair
+			- times I almost died: [0] scar head into bike wheel
+			- school toilet: [0] low toilet, [1] toilet digusting, [2] toilet bully
+			- ghost exp: [1] ghost hunt uncle Ho, 
+			- best times: [1] midday movie watch before nap
+			- people & my social anxiety: [1] twin bully, [3] cram literature class old friends we don't talk
+			- special memories
+				- childhood activities: [1] bakugan collection, [1] football card collection, [1] pokemon card play almost cry, [1] wrestling with random kid before home, [1] ghost hunt uncle Ho
+				- special: [2] switch class & sleeping places, [2] biking to place and fly kite, [2] biking to home on river bank, [3] skip school and climb down school roof, [3] break into roof area and get caught
+			- teachers: [1] physical punishment, [0] shit in class her face, [1] bad english teacher candles plaing fish game her autistic son my dad hits me,  [2] literature teacher sanitary napkin & multiple other occasions (pen & ruler diy plane), [2] other literature teacher mom dies essay, [2] pretty chem teacher pregnant, [2] ok-ish but stupid physic teacher, [2] informatics teacher buy beer, [2] Phi Loan english class, [2] Be math class & trauma, [3] math class thief roleplay, [3] chem class sleeping, [3] new math class, [3] boring af math class few weeks, [2] Mr Tan interesting english class, [2] mr Tan math class and extra competition, 
+			- english: [2] Tan interesting english class, [2] ioe competition w/ Thuong staying up late w/ mom, [2] Phi Loan english class compete w/ Thuong, [2] vus english, [4] ielts class
+			- saying goodbyes: [1] seeing upperclassmen cried
+			- birthdays: [1] Kim long house party chasing I broke mirror and hurt myself, [1] Binh party piano, [1] Phuc party Thy panty, [1] Thy multiple parties, [2] Khang's birthday? kfc & Hung's interesting voice roleplay,
+			- porn: [2] first laptop first vid, [2] unhinged classmate watches porn in informatics & show dicks, 
+			- streaming: [4] xqc, [4] parting, [4] beastyqt
+			- tier2-3: [4] rplace, [4] cyperpunk edgerunner, [4] amongus, [4] rust, [3] vietnam football, [3] vrchat, [4] phu quoc fam trip, [3] dalat class trip, [2] damsen schooltrip, [3] long hai school trip, [3] can gio monkey charity trip, [4] touchfes 2 day, [4] cu chi school trip, [4] cambri waterfall freshman uni trip
+			- fiction: gravity falls, bullet train, knives out, spirited away, monster university, parasyte, cloudy w/ a chance of meatballs, bladerunner 2048, monster house - silent voice, mia, mob psycho, nhk, ngnl, tpn, twgok, angel beats, prison school, tatami, erased, shadow house, omori
 		- ador: physical attraction, (value: finnet (intelligence)) + aligning interest & views (goals)
 			- enthusiasm (hienle), repsect/admiration (to treat someone like you're lucky to have them)
 			- attention (princess)
