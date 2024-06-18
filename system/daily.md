@@ -12,48 +12,15 @@
 			- ngan, tra
 		- [mid6] train test
 		- [?/6] cloudverse.ai (singapore) 
-		- [thu20/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
-		- [mon17/6] hdsoftweb
-		- [sat15/6] ngan 
-			- 5:40 - 6:30 global city, doraemon
-			- 7:00 - 9:00 chang vang rooftop
-			- movie: sinister, the haunting of hill house, the wailing, incantation
-			- soc
-				- tier3
-				- tier4
-					- food self buy
-					- phone, lower volume
-					- face phone down
-					- holding umbrela
-					- skirt towel/jacket
-					- stairs front behind
-					- open doors
-					- never post unedited photos
-					- cover table edge
-					- eat food to other's rate
-					- two straws one drink
-					- hold cinema chair
-					- don't leave her alone (bring her with)
-					- don't touch hair randomly
+		- [thu20/6] 
+			- glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
+			- inside out 2 movie w/ ngan
 		- prod
 			- m
 				- nav
-					- net
-						- osi, api (rest, rpc), auth - error
-					- tier4
-						- nodejs - error
-						- nest
-						- dbms
-						- react
-					- tier3
-						- js - ts
-						- [x] ds: sort, ll, graph, tree
-						- sql
 			- finnet
 				- ext.fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp), pant, jacket
-				- int.dent.pre
-					- toothbrush
-					- cough: 5x/day, 2xvitaminCmorning, avoid (da, tom, chuoi, trung, ga, sua)
+				- int.dent.pre: toothbrush
 				- net
 					- ngan's gift: panda blind box / stuffed animal, flower (hong, tulip, cat tuong)
 

@@ -46,6 +46,21 @@
 		- emotion
 			- story = memory <- emotion, details around that [emotions] more chances for threads
 		- sentence structure
+		- tier4
+			- food self buy
+			- phone, lower volume
+			- face phone down
+			- holding umbrela
+			- skirt towel/jacket
+			- stairs front behind
+			- open doors
+			- never post unedited photos
+			- cover table edge
+			- eat food to other's rate
+			- two straws one drink
+			- hold cinema chair
+			- don't leave her alone (bring her with)
+			- don't touch hair randomly
 		- gen
 			- exp
 				- mặt nhăn nhó, đăm chiêu, nheo nheo mắt, rụt cổ, nom gọn gàng, trố mắt, lẩn thẩn nghĩ, t ngơ ngác, dỏng tai nghe, đờ mặt, há hốc mồm, tóc gáy dựng đứng, buồn như vừa dc vớt lên từ dưới suối, rười rượi, nẫu ruột, ủ ũ, ỉu xìu, u ám, u sầu mặt bí xị, tần ngần, bơ phờ rũ rượi, cười tủm tỉm, sửng sốt, bặm môi

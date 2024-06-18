@@ -20,12 +20,51 @@
 		- 4-5 design challenge - behavorial test
 - prepare
 	- 5-1:netline
-		- NHL, graduated hcmut ielts 8, one and a half year exp: frontend (vu thao, fpt) collaborated w/ backend
+		- NHL, graduated hcmut ielts 8, one and a half year of work exp: frontend (vu thao, fpt) collaborated w/ backend
 		- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates
 			- company post jd, recruiter refer, process weeks to months (rounds) reject -> final offer
 			- recruiter post cv (hidden contact), promising unlock by company using credit (package)
 		- during my time working here, I've been mainly contributing (what value) payment [1], chat [2]
 		- payment: sole res to migrate psp tazapay deprecated version  ->  newest supporting version
+			- tier5
+				- payment service flow
+					- log
+					- checkout (psp): payment methods, webhook url, reference id
+				- messaging service flow
+			- tier4
+				- [ ] net
+					- osi
+					- api (rest, rpc)
+					- serialization: textual (json, xml), binary, protocol buffer
+					- auth - error
+						- hash encrypt jwt
+				- [ ] nodejs
+					- architecture
+						- runtime env, non-blocking event-driven - v8, bindings, libuv (event loop)
+					- fault-tolerance
+						- asynchonosity js, no await crash, promise.all
+					- nest: scalable, efficient - controller, provider, module, .. ts decorators
+					- pattern
+						- singleton private constructor how to create
+				- [ ] dbms
+					- architecture 
+						- c, c++, combination - b/b+ tree, r tree - dsl query language sql, mongodb - mysql, mongodb wire protocol
+						- model: schema, relationship
+					- fault-tolerance
+						- safety guarantees acid transaction (single + multi-object)
+							- transient error (constraint conflict)
+							- network failure -> deduplication mechanism
+							- overload -> limit retries, exponential backoff
+							- side effect -> two phase commit
+							- client fails
+						- backward & forward compatibility: new and old data
+						- xung dot 1/nhieu tai nguyen, unique index
+					- security
+				- react
+					- next
+					- routing
+					- api handling
+					- state management
 			- sheer amount of knowledge and practices I learned working on it
 				- business logic -> payment flow
 				- higher networking technique like webhook and message passing dataflow (synchronous service -> async service call)
@@ -53,18 +92,20 @@
 		- arch
 			- soft
 				- communicate, disagreement, failure
-			- netline
-				- rest: CRUD operations, request/response structure
-				- serialization
-				- ssl -> tls
 			- ci/cd pipeline
 				- agile
 				- git, github actions
 				- tdd, and automated test
 				- docker + swarm, when kurbenetes
+			- netline
+				- rest: CRUD operations, request/response structure
+				- serialization
+				- ssl -> tls
 			- 3
-				- array, ll, hashmap, tree (decision tree), heap (insert remove logn, heapify n, add to heap nlogn), graph
-				- sort (bubble, insertion), sliding window, binary search, dfs - bfs, recursion (call stack)
+				- js - ts, sql
+				- ds
+					- array, ll, hashmap, tree (decision tree), heap (insert remove logn, heapify n, add to heap nlogn), graph
+					- sort (bubble, insertion), sliding window, binary search, dfs - bfs, recursion (call stack)
 				- pattern
 					- solid
 			- 4
@@ -88,7 +129,7 @@
 							- relationship/simpler application code
 								- json model better storage locality - multiple index lookups
 									- database load entire document on read (wasteful), on write rewritten entire document (except not change encoded size) -> keep size small, avoid writes that increase size
-										- google spanner, oracle (multi-table index cluster talbe), column-family concept (cassandra, bigtable data model)
+										- google spanner, oracle (multi-table index cluster table), column-family concept (cassandra, bigtable data model)
 									- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
 						- orm
 						- sql command -> data models = structure -> indexing -> transaction & data integrity -> database security ->
@@ -131,14 +172,6 @@
 	- interview [interview](https://docs.google.com/document/d/1Iw9sBx5SfU7gMc1zazWYM6ZtiWlHE7rGsRUrMZdiBgA/edit) [questions](https://www.inc.com/jeff-haden/27-most-commonly-asked-job-interviewers-questions-and-answers.html)
 		- situational
 		- behavioral
-			- my name is NHL, I'm a fullstack developer . I graduated from HCMUT  in 2023 and I have over one year of practical work experience in professional, collaborated working environments, using various technologies
-				- during my working period in
-					- fpt & vuthao: I mainly worked with outsource products -> The scope of my responsibilities were to develop user interfaces on frontend side, collaborating with backend developers, following client's requirements 
-					- aniday: worked collectively within a team of five to maintain and develop several inhouse products.
-						- main taks - real time messaging app
-							- used open ai api to develop ai features in chatroom
-						- helped migrating projects written in angular to react, migration of tazapay api in payment system
-						- due to strong english skills - in charge of translation
 	- wlb
 		- interview process - more rounds?, when expect to hear back
 		- architecture: responsibility - my top problems, priorities 
