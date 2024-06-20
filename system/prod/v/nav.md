@@ -174,16 +174,16 @@
 		- behavioral
 	- wlb
 		- interview process - more rounds?, when expect to hear back
-		- architecture: responsibility - my top problems, priorities 
+		- architecture: responsibility - my top problems, priorities
 		- pipeline: team, training/mentoring
 - roadmap
 	- blockchain (decentralized/distributed digital ledger), digital token (unit of value on blockchain), smart contracts (self-executing, on blockchain), dapps (p2p or on blockchain)
 		- introduction
 			- core: architecture (why - what problems did you solve - how did you evaluate)
-				- benchmark 
+				- benchmark
 				- chat application: nextjs, redux - rest - nest, nosql
 					- flow
-				- app application: nextjs, redux - rest - nest, nosql, sql 
+				- app application: nextjs, redux - rest - nest, nosql, sql
 					- payment, tazapay
 					- translation (remove)
 					- cqrs, rjx, nest, cmc, saga, dto

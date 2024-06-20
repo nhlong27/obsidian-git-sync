@@ -3,19 +3,26 @@
 06:06
 
 - system
-	- 3 [0/30] (2025 1st quarter 31dec - 31mar) japan/korea/hagiang
-	- 2 [0/20] (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
-	- 1 [0/15] (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday, hagiang, [fri26/7] conan, deadpool, [thu18/7] mombirthday
-	- 0 [1/10] (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
-		- [end/6] tier 2 (dalat)
-		- [thu27/6] mybirthday
-			- ngan, tra
-		- [mid6] train test
-		- [?/6] cloudverse.ai (singapore) 
-		- [thu20/6] 
-			- glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
-			- inside out 2 movie w/ ngan
+	- manager/tech lead 7-10yoe (>29) >40
+	- senior 5-6yoe (27, 28): 30-40 - remote4international (airbnb, shopify)
+	- middle 3-4yoe (25, 26): 20-30
+	- junior 1-2yoe (23, 24): 10-20
+		- (2025 1st quarter 31dec - 31mar)
+		- (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
+		- (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday, hagiang, [fri26/7] conan, deadpool, [thu18/7] mombirthday
+		- (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
+			- [end/6] tier 2 (dalat)
+			- [thu27/6] mybirthday
+				- ngan, tra
+			- [mid6] train test
+			- [fri21/6] cloudverse.ai (singapore) 
+			- [thu20/6] 
+				- glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
+				- inside out 2 movie w/ ngan
+					- deal lương placement
 		- prod
+			- v
+				- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, strcutural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
 			- m
 				- nav
 			- finnet

@@ -3,6 +3,12 @@
 	- core: buyer : value (good/service) <-> value-token (cost + profit) : seller, equilibrium
 		- [budget](https://docs.google.com/spreadsheets/d/1naU4sfrU9mS_kkFfgrG3uyTrdu7w4O0eeXEAzQxTWU0/edit#gid=1039994632): ele 2.8, wat 0.3, ser (wifi 0.3, phone) + me: trans 0.2, mea 3 + 1, ser (cellular data 0.07, icloud 0.03, youtube premium 0.150, netflix 0.07), ins (health (life) 0.8, social, vehicle (non-life)), eco:line. --- 4.5
 		- bank (apy, asset = liability + equity): checking (debit, check), credit, visa, paylater, e-wallet (momo, zalopay, apple pay), [card scheme](https://blog.bytebytego.com/p/ep-39-accounting-101-in-payment-systems) [2](https://blog.bytebytego.com/p/ep28-the-payments-ecosystem-also)[3](https://blog.bytebytego.com/p/payment-system) [4](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system), psp
+	- class, FIRE 10 bil - car 5-6/mon
+		- black 3
+		- blue 4-7
+		- white 8-20
+		- management 20-40
+		- c-level >50
 -  int
 	- hair
 		- pre: (nizoral) - [shampoo](https://www.reddit.com/r/malehairadvice/comments/3betyk/comment/csm24q7/?utm_source=share&utm_medium=web2x&context=3) (surfactant: sulfate-free, SD alcohol, alcohol denat., propanol, propyl alcohol, isopropyl alcohol ) - conditioner (rinse-out, leave-in), minoxidil, finasteride
