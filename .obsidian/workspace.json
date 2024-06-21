@@ -20,36 +20,24 @@
             }
           },
           {
-            "id": "2c78b56516854902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/finnet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e7f2d1799c39d1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/5-1.netline/tier1.2.5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e9f8f5feebe5f73",
+            "id": "e010b992c862f806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "system/prod/v/nav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b8a7ef6d61aa929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system/prod/v/5-1.netline/tier3/dsa.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,15 +174,16 @@
   },
   "active": "7eb4680520d2dea1",
   "lastOpenFiles": [
-    "system/prod/finnet.md",
+    "system/m.md",
     "system/daily.md",
     "system/prod/v/nav.md",
+    "system/prod/v/5-1.netline/tier3/dsa.md",
+    "system/prod/v/5-1.netline/tier3/gpl.md",
+    "system/prod/finnet.md",
     "system/prod/v/5-1.netline/tier1.2.5.md",
-    "system/m.md",
     "system/prod/s.md",
     "system/prod/v/5-1.netline/net.md",
     "system/prod/v/5-1.netline/tier4.md",
-    "system/prod/v/5-1.netline/tier3/gpl.md",
     "system/prod/v/5-1.netline/tier3/dsl.md",
     "draft.md",
     "system/prod/v/5-1.netline/line.md",
@@ -202,7 +191,6 @@
     "system/prod/v/aniday.md",
     "system/prod/s/soc.md",
     "system/prod/s/net.md",
-    "system/prod/v/5-1.netline/tier3/dsa.md",
     "Excalidraw/ador.md",
     "system/prod/s/pre.md",
     "system/prod/eco.line.md",

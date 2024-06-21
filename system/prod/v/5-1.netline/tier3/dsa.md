@@ -4,7 +4,7 @@
 		- [hashtable]
 		- [2graph]: spanning
 			- noncyclic - [4-9tree]
-				- binary tree: full - complete (logN) - balanced
+				- binary tree: full, complete (logN), balanced
 					- binary search tree
 						- red black tree
 						- avl tree
