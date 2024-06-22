@@ -18,29 +18,46 @@
 			- [5/7] minion
 			- tier1 exp
 		- (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
-			- [thu27/6] mybirthday
-				- ngan, tra
+			- [sat29/6] mbday Ngan
+			- [fri28/6] mbday Tra
+			- [thu27/6] mbday fam
 			- [wed26/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
 			- [tue25/6] school exp
 			- [mon24/6] homestay exp
 			- [sat22,sun23/6] train test
-			- [fri21/6] cloudverse.ai (singapore) 
-			- [thu20/6] inside out 2 movie w/ ngan
-				- route
-				- s
-					- deal lương placement
-					- e để
+			- [sat22/6] Ngan minion
+				- s: deal lương placement
+			- [sat22/6] bet coffee
+			- [fri21/6] cloudverse.ai (singapore)
+				- dominhthang k17, lead data (2), cto k12
+					- service (cloud optimize cost) aws, gcp, azure, ...
+					- product: resource, recommendation (technical, financial clients -> backend logic)
+				- jwt header, payload (expire-time) secret
+				- mongodb: mongoose relation, relational (vertical scale, column 1 value, many values)
+				- polymorphism - list java, runtime
+				- encrypt (key), hashing (one way function, ham cong k tang giam, salt), encoding
+					- product ~ 10 services (tech: nest, python-flask, postgres - cassandra, react, next) 3 team (engineer - product, 2x background - data), 1 ai, 1 system, 1 qa, 1 product c suite
+					- scale -> cost, con nguoi
+					- 1 week max t2, 28/6
+					- income - mua 3tr7 bhxh, hoac claim + bonus, request ot (pay for time), 14 ngay, 9h-12h, 1h-6h, (bao truoc 14 nga) - luong 13-15, 16-21
 		- pending
-			- v
-				- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, strcutural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
 			- m
 				- nav
-					- 8: nav, s
-					- 9: v3 (array, hm, ll), nav.v
-					- 10: v3 (tree), v3 (graph)
-					- v.3
-						- ds: array, hm, linked list, tree, graph, heap
-						- a: sliding window, binary search, sort (insertion, selection, bubble, merge, quick), dfs - bfs, recursion
+					- 9: nav, s
+					- 10 - 13: v34
+					- 14 - 15: v34
+					- 16: +s - finnet: thien, dat
+					- 17: birthday, traintest (snt, sqn local, se N-S)
+					- 18 - 21: v, m
+					- 22: m
+				- core: tier4 -  relationship (socio, ador) /job 
+			- v
+				- 3
+					- ds: array, hm, linked list, tree, graph, heap
+						- ?? vs ||
+					- a: sliding window, binary search, sort (insertion, selection, bubble, merge, quick), dfs - bfs, recursion
+				- 4
+					- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, structural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
 			- finnet
 				- ext.fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp), pant, jacket
 				- int.dent.pre: toothbrush

@@ -20,7 +20,7 @@
 		- 4-5 design challenge - behavorial test
 - prepare
 	- 5-1:netline
-		- NHL, graduated hcmut ielts 8, one and a half year of work exp: frontend (vu thao, fpt) collaborated w/ backend
+		- NHL, graduated hcmut ielts 8, one and a half year of work exp: (vu thao, fpt) frontend engineer collaborating w/ backend teams to deliver outsourcing products
 		- more recently, joined aniday last october as fullstack developer - sea hiring platform, companies w/ recuitment specialists, streamline process potential candidates
 			- company post jd, recruiter refer, process weeks to months (rounds) reject -> final offer
 			- recruiter post cv (hidden contact), promising unlock by company using credit (package)
