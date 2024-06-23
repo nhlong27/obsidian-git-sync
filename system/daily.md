@@ -18,16 +18,12 @@
 			- [5/7] minion
 			- tier1 exp
 		- (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
+			- [sun30/6] bet coffee
 			- [sat29/6] mbday Ngan
-			- [fri28/6] mbday Tra
 			- [thu27/6] mbday fam
 			- [wed26/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
-			- [tue25/6] school exp
-			- [mon24/6] homestay exp
-			- [sat22,sun23/6] train test
-			- [sat22/6] Ngan minion
-				- s: deal lương placement
-			- [sat22/6] bet coffee
+			- [tue25/6] mbday Tra
+			- [mon24/6] school exp
 			- [fri21/6] cloudverse.ai (singapore)
 				- dominhthang k17, lead data (2), cto k12
 					- service (cloud optimize cost) aws, gcp, azure, ...
@@ -43,14 +39,8 @@
 		- pending
 			- m
 				- nav
-					- 9: nav, s
-					- 10 - 13: v34
-					- 14 - 15: v34
-					- 16: +s - finnet: thien, dat
-					- 17: birthday, traintest (snt, sqn local, se N-S)
-					- 18 - 21: v, m
-					- 22: m
-				- core: tier4 -  relationship (socio, ador) /job 
+					- 11: nav, s, m
+					- 22: fin, m
 			- v
 				- 3
 					- ds: array, hm, linked list, tree, graph, heap

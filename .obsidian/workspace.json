@@ -20,48 +20,12 @@
             }
           },
           {
-            "id": "7eb4680520d2dea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/5-1.netline/net.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7c96f8a9a4cce41",
+            "id": "1c8870ca952bf070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "system/m.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97db2645a9eb34f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/nav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4bb3d0ff4843441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/5-1.netline/line.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,10 +162,10 @@
   },
   "active": "8f24adcd0961bd58",
   "lastOpenFiles": [
-    "system/prod/v/5-1.netline/net.md",
     "system/m.md",
     "system/daily.md",
     "system/prod/v/nav.md",
+    "system/prod/v/5-1.netline/net.md",
     "system/prod/v/5-1.netline/line.md",
     "system/prod/v/5-1.netline/tier3/dsa.md",
     "system/prod/v/5-1.netline/tier3/gpl.md",
