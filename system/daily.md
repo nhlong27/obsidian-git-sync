@@ -2,7 +2,7 @@
 2024-04-25
 06:06
 
-- m.nav
+- system
 	- manager/tech lead 7-10yoe (>29) >40
 	- senior 5-6yoe (27, 28): 30-40 - remote4international (airbnb, shopify)
 	- middle 3-4yoe (25, 26): 20-30
@@ -10,44 +10,118 @@
 		- (2025 1st quarter 31dec - 31mar)
 		- (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
 			- [?/11] hagiang
-		- (3rd quarter 30jun - sep30) 1 per week - [mon30/9] nganbirthday
+		- (3rd quarter 30jun - sep30) 1 per week 
+			- [mon30/9] nganbirthday
+			- [?/8] tier 2 (dalat)
 			- [?/8] conan
-			- [26/7] deadpool
-			- [end/7] tier 2 (dalat)
+			- [fri26/7] deadpool
 			- [thu18/7] mombirthday
-			- [5/7] minion
+			- [fri5/7] minion
 			- tier1 exp
-		- (2nd quarter may22 - 30jun)  1 per day tra, ngan, hung, nhi, vi, cheu, thien
-			- [sun30/6] bet coffee
+		- (2nd quarter may22 - 30jun) 1 per day tra, ngan, hung, nhi, vi, cheu, thien
+			- [sun30/6] bet coffee, mbday Tra
 			- [sat29/6] mbday Ngan
 			- [thu27/6] mbday fam
 			- [wed26/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
-			- [tue25/6] mbday Tra
 			- [mon24/6] school exp
-			- [fri21/6] cloudverse.ai (singapore)
-				- dominhthang k17, lead data (2), cto k12
-					- service (cloud optimize cost) aws, gcp, azure, ...
-					- product: resource, recommendation (technical, financial clients -> backend logic)
-				- jwt header, payload (expire-time) secret
-				- mongodb: mongoose relation, relational (vertical scale, column 1 value, many values)
-				- polymorphism - list java, runtime
-				- encrypt (key), hashing (one way function, ham cong k tang giam, salt), encoding
-					- product ~ 10 services (tech: nest, python-flask, postgres - cassandra, react, next) 3 team (engineer - product, 2x background - data), 1 ai, 1 system, 1 qa, 1 product c suite
-					- scale -> cost, con nguoi
-					- 1 week max t2, 28/6
-					- income - mua 3tr7 bhxh, hoac claim + bonus, request ot (pay for time), 14 ngay, 9h-12h, 1h-6h, (bao truoc 14 nga) - luong 13-15, 16-21
 		- pending
-			- m
-				- nav
-					- 11: nav, s, m
-					- 22: fin, m
+			- m: know & be comfortable talking about lots of things if you want to find a way to traverse the web/net
+				- 9: piano, nav (qode), s, m
+				- 10-11: v5 (system map)
+				- 12-14: s, v3
+				- 15-16: v4
 			- v
+				- 5
+					- system: consistency, evolvability -> [reliability] <- [availability] (<- scalability) -> latency, throughput
+						- netline
+							- service
+							- batch processing
+								- mapreduce
+							- stream processing
+								- message broker/queue: reliability, decoupling, maintainability
+						- db
+							- sharding: shard key high cardinality, low frequency
 				- 3
-					- ds: array, hm, linked list, tree, graph, heap
-						- ?? vs ||
-					- a: sliding window, binary search, sort (insertion, selection, bubble, merge, quick), dfs - bfs, recursion
+					- pattern
+						- dsl: scripting, query
+						- functional
+							- monad
+							- js (?? vs ||)
+								- number (8), text (unicode character set -> utf-8/16/32 (ascii 7-bit extended 8-bit))
+									- encoding: data converted to different forms for.. (serialization: moving structured data over storage/transmission medium so structure is maintained)
+					- dsa
+						- array, hm, linked list, tree, graph, heap 
+						- sliding window, binary search, sort (insertion, selection, bubble, merge, quick), dfs - bfs, recursion
 				- 4
-					- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, structural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
+					- netline
+						- osi
+							- serialization: language specific format, textual format (json -> bjson, xml, binary -> base64 33%), protocol buffer (detailed schema documentation, bjson less space, forward & backward compatibility)
+						- api
+							- security: authen (basic, token based, session based, jwt, oauth 2.0) - autho (role based, attribute based) 
+							- document: swagger, openapi
+							- integration: sync, async (batch processing, stream processing)
+								- webhook, polling, real-time: websocket, sse
+							- performance
+						- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, structural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
+					- server
+						- node
+							- error handling (sync (js, system, user specified, assertion) vs async)
+							- async / event loop + networking
+							- file manipulation
+							- thread
+							- builtin: command line app (process) - orm/odm
+						- reliability
+					- client: react, next
+						- service worker: cache (new file: close & reopen tab / skipWaiting() n+1 delay
+						- reliability
+					- database
+						- model: ddl (data type, constrain) - postgres (gui, server, stackbuilder, pgadmin, pm)
+							- schema flexability/enforcing: schema on read (dynamic typing, semi-structured or external dependent) vs schema on write (static typing)
+								- structured data, xml data type, json in text column
+							- relationship/simpler application code
+								- json model better storage locality - multiple index lookups
+									- database load entire document on read (wasteful), on write rewritten entire document (except not change encoded size) -> keep size small, avoid writes that increase size
+										- google spanner, oracle (multi-table index cluster table), column-family concept (cassandra, bigtable data model)
+									- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
+						- transaction (read/write): dml (aggregate, join, sub, function, operator) - sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)
+							- index, view
+								- hash index (sequential write - inmemory, range query)
+								- global index
+						- reliability
+							- safety guarantees acid transaction (single + multi-object)
+								- transient error (constraint conflict)
+								- network failure -> deduplication mechanism
+								- overload -> limit retries, exponential backoff
+								- side effect -> two phase commit
+								- client fails
+							- backward & forward compatibility
+							- xung dot 1/nhieu tai nguyen, unique index
+							- normalization - denormalize (duplicate)
+				- 12pipeline
+					- os
+						- kernel
+						- shell (gui/cli)
+							- scripting language (bash, zsh, power shell - command prompt) + text editor (vim)
+						- compiler
+							- parser: lexical (token: keyword, operator, identifier, literal), syntax (parse tree), semantic (type-checking, ast)
+							- intermediate representation (optimized)
+							- code generation
+					- release
+						- automation: jenkins, gitlab ci, github actions
+						- secret management: vault
+					- deploy: cloud provider
+						- reverse proxy, forward proxy, firewall, web server (nginx), caching server, load balancer
+						- container 
+					- operate
+						- infrastructure provisioning: terraform
+						- configuration management: ansible
+						- container orchestration: kurbenetes
+						- artifact management: artifactory
+						- service mesh: istio, consul
+					- monitor
+						- infrastructure: grafana, datadog, prometheus
+						- application: datadog, prometheus, new relic, jaeger
+						- logs management: elastic stack, loki
 			- finnet
 				- ext.fit: eyeglasses, perfume (le-labo-santal-33, saint laurent) [Morra](https://maps.app.goo.gl/cR4ZQ6XoncUCqXoK9, https://morra.vn/products/nuoc-hoa-morra-no-04-blackcurrant) [Hung's](https://www.google.com/search?q=guess+seductive+homme+blue&oq=guess&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIVCAEQLhhDGMcBGLEDGNEDGIAEGIoFMgYIAhBFGEAyDAgDEC4YQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQRRg80gEHODIyajBqMagCALACAA&sourceid=chrome&ie=UTF-8, https://www.google.com/search?q=cm24+iconic+warm+edp&sca_esv=db94807e8ff0f820&sxsrf=ADLYWIKP7Iy2D8SEr1t1y5M10ACnY_nyvw%3A1716889718833&ei=dqhVZqXDMsTs1e8PppbK2A0&ved=0ahUKEwil1rzOiLCGAxVEdvUHHSaLEtsQ4dUDCBA&uact=5&oq=cm24+iconic+warm+edp&gs_lp=Egxnd3Mtd2l6LXNlcnAiFGNtMjQgaWNvbmljIHdhcm0gZWRwMgUQIRigATIFECEYoAFI140CUPuzAViVgQJwDXgBkAEAmAGTAaABgRKqAQUxMS4xMbgBA8gBAPgBAZgCI6ACjBPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAjGIAEGCcYigXCAgQQIxgnwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIQEAAYgAQYsQMYgwEYigUYCsICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMY0QMYxwHCAg4QABiABBixAxiDARiKBcICERAAGIAEGJECGLEDGIMBGIoFwgILEAAYgAQYsQMYgwHCAg4QLhiABBjHARiOBRivAcICBRAAGIAEwgIGEAAYFhgewgIKEAAYFhgKGB4YD8ICCBAAGBYYChgewgIIEAAYgAQYogTCAgsQABiABBiGAxiKBZgDAIgGAZAGCpIHBTIxLjE0oAeXWg&sclient=gws-wiz-serp), pant, jacket
 				- int.dent.pre: toothbrush

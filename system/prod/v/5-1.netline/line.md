@@ -80,6 +80,9 @@
 	- release 
 		- automation: github actions, jenkins 
 	- deploy
+		- service, multicloud, ai-enabled finops platform (gcp, aws, ali cloud, huawei, digital ocean)
+			- on-premises vs cloud computing, msp vs csp
+			- practice: secops (security), devops (software delivery) - cloudops (cloud resource), finops (cloud spending), cspm, kspm
 		- IaaS: [[AWS|AWS-EC2]]
 			- EC2
 			- https://www.reddit.com/r/aws/comments/10hmnh0/comment/j59ydyq/?utm_source=share&utm_medium=web2x&context=3
