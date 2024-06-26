@@ -10,37 +10,61 @@
 		- (2025 1st quarter 31dec - 31mar)
 		- (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
 			- [?/11] hagiang
-		- (3rd quarter 30jun - sep30) 1 per week 
+		- (3rd quarter 30jun - sep30) 1 per week
+			- tier1 exp, school enroll
 			- [mon30/9] nganbirthday
-			- [?/8] tier 2 (dalat)
+			- [?/8] tier 3 (dalat / nha trang / da nang)
 			- [?/8] conan
 			- [fri26/7] deadpool
 			- [thu18/7] mombirthday
 			- [fri5/7] minion
-			- tier1 exp
+			- [mon1/7] cloudverse.ai - equilibrium
+				- s (story - contribution "mini cv", why short notice), 10 direct 1:1 2 week
+					- contribution pull request, code review /week -> productivity culture & speed
+					- design doc -> priority, challenge
+					- calendar -> involvement, time allocation
+						- -> understand people challenge, how it relates to my work
+						- -> identify opportunities & inefficiencies
+						- -> adapt culturely
+				- v (knowledge in interview)
 		- (2nd quarter may22 - 30jun) 1 per day tra, ngan, hung, nhi, vi, cheu, thien
 			- [sun30/6] bet coffee, mbday Tra
 			- [sat29/6] mbday Ngan
+			- [fri28/6] wala-ict
 			- [thu27/6] mbday fam
-			- [wed26/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class
-			- [mon24/6] school exp
+			- [wed26/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class 
 		- pending
 			- m: know & be comfortable talking about lots of things if you want to find a way to traverse the web/net
-				- 9: piano, nav (qode), s, m
-				- 10-11: v5 (system map)
-				- 12-14: s, v3
-				- 15-16: v4
+				- 11: nav, s
+				- 12, 13: nav
+				- 14, 15: v3
+				- 16, 17, 18: m
+				- 19: v
+				- 22: m
+				- v
+					- 5: partitioning (sharding)
+					- 4: db (index, core), server (node), client (react)
+						- why foreign key constraints prevent scaling, sharding
+					- netline: auth, security, mutlier multi part form data, body parser
+					- 3: language (paradigm) + dsa oop (abstraction, encapsulation, [polymorphism](https://www.reddit.com/r/learnprogramming/comments/195p233/comment/kho9fzq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [abstract class](https://stackoverflow.com/questions/7728056/what-is-the-point-of-an-abstract-class), interface, virtual function, multiple inheritance), functional (expressive syntax, no side effect: global, immutable data (implicit dependency, concurrency issue (thread)) -> suitable for concurrency/paralleism, bug free) (worse performance, hard debug)
+						- concurrency control: locks, semaphores, or atomic variables
+					- 12pipeline: gui/cli shell + scripting lan interpreter vs compiler, container
+				- -> 
+					- 3: typescript mixins multiple inheritance
 			- v
 				- 5
 					- system: consistency, evolvability -> [reliability] <- [availability] (<- scalability) -> latency, throughput
-						- netline
-							- service
-							- batch processing
-								- mapreduce
-							- stream processing
-								- message broker/queue: reliability, decoupling, maintainability
-						- db
-							- sharding: shard key high cardinality, low frequency
+						- service, batch processing (mapreduce), stream processing (message broker/queue: reliability, decoupling, maintainability -> scale by replication, sharding)
+						- caching
+							- memory, cpu sram, browser 
+						- scaling
+							- vertical
+							- horizontal
+								- replication vs partitioning (sharding: shard key high cardinality, low frequency)
+								- load balancing reverse proxy (round robin, hashing)
+									- content delivery network (cache)
+					- third party
+						- geo: gis, maps
 				- 3
 					- pattern
 						- dsl: scripting, query
@@ -68,11 +92,12 @@
 							- error handling (sync (js, system, user specified, assertion) vs async)
 							- async / event loop + networking
 							- file manipulation
-							- thread
+							- concurrency (single/multi thread, async) - parallelism (multi core) 
 							- builtin: command line app (process) - orm/odm
 						- reliability
 					- client: react, next
 						- service worker: cache (new file: close & reopen tab / skipWaiting() n+1 delay
+						- react: lifecycle
 						- reliability
 					- database
 						- model: ddl (data type, constrain) - postgres (gui, server, stackbuilder, pgadmin, pm)
@@ -85,7 +110,10 @@
 									- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
 						- transaction (read/write): dml (aggregate, join, sub, function, operator) - sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)
 							- index, view
-								- hash index (sequential write - inmemory, range query)
+								- hash table (sequential write - inmemory, range query)
+								- b/b+ tree
+								- trie
+								- bitmap
 								- global index
 						- reliability
 							- safety guarantees acid transaction (single + multi-object)
@@ -99,13 +127,19 @@
 							- normalization - denormalize (duplicate)
 				- 12pipeline
 					- os
-						- kernel
-						- shell (gui/cli)
-							- scripting language (bash, zsh, power shell - command prompt) + text editor (vim)
-						- compiler
-							- parser: lexical (token: keyword, operator, identifier, literal), syntax (parse tree), semantic (type-checking, ast)
-							- intermediate representation (optimized)
-							- code generation
+						- kernel space: memory (page table + [MMU](https://unix.stackexchange.com/questions/473274/is-the-mmu-inside-of-unix-linux-kernel-or-just-in-a-hardware-device-with-its-ow) (cpu)), process (PCB: state, memory usage, register), IO driver, file system
+							- scheduling/cpu time, interrupt handling, inter process communication
+						- user space: system process (file operation, process control, network communication)
+							- shell (gui/cli)
+								- scripting language (bash, zsh, power shell - command prompt) + text editor (vim)
+							- compiler vs interpreter
+								- parser: lexical (token: keyword, operator, identifier, literal), syntax (parse tree), semantic (type-checking, ast)
+								- intermediate representation (optimized)
+								- code generation
+						- bare metal, vm, container
+							- thread-based, process-based, async event driven, hybrid concurrency
+					- plan
+						- ramp-up-dossier (organization/team, term, concept, context)
 					- release
 						- automation: jenkins, gitlab ci, github actions
 						- secret management: vault
