@@ -32,16 +32,13 @@
 			- [sat29/6] mbday Ngan
 			- [fri28/6] wala-ict
 			- [thu27/6] mbday fam
-			- [wed26/6] glass egg virtuos - gia cong do hoa, 2d 3d, bigger virtuos, se tool class 
 		- pending
 			- m: know & be comfortable talking about lots of things if you want to find a way to traverse the web/net
-				- 11: nav, s
-				- 12, 13: nav
-				- 14, 15: v3
-				- 16, 17, 18: m
-				- 19: v
-				- 22: m
-				- v
+				- 11: nav, m
+				- new
+					- 12line: deploy: docker, plan: agile -> m.nav (goal abstraction cost)
+					- v: 3: db tree strc, ..., reliability vs availability
+				- old
 					- 5: partitioning (sharding)
 					- 4: db (index, core), server (node), client (react)
 						- why foreign key constraints prevent scaling, sharding
@@ -49,7 +46,6 @@
 					- 3: language (paradigm) + dsa oop (abstraction, encapsulation, [polymorphism](https://www.reddit.com/r/learnprogramming/comments/195p233/comment/kho9fzq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [abstract class](https://stackoverflow.com/questions/7728056/what-is-the-point-of-an-abstract-class), interface, virtual function, multiple inheritance), functional (expressive syntax, no side effect: global, immutable data (implicit dependency, concurrency issue (thread)) -> suitable for concurrency/paralleism, bug free) (worse performance, hard debug)
 						- concurrency control: locks, semaphores, or atomic variables
 					- 12pipeline: gui/cli shell + scripting lan interpreter vs compiler, container
-				- -> 
 					- 3: typescript mixins multiple inheritance
 			- v
 				- 5
@@ -76,6 +72,7 @@
 					- dsa
 						- array, hm, linked list, tree, graph, heap 
 						- sliding window, binary search, sort (insertion, selection, bubble, merge, quick), dfs - bfs, recursion
+							- lossless (png, zip), lossy (jpeg, mp3, mpeg)
 				- 4
 					- netline
 						- osi
@@ -88,15 +85,20 @@
 							- performance
 						- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, structural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
 					- server
-						- node
+						- node: concurrency: eventdriven nonblocking i/o - requestresponse blocking i/o (file system, network, user, ipc)
+							- event loop: event emitter , module (timer)
+								- async / event loop + networking
+							- threadpool
+								- module resolution (js, json, node loads based on type - builtin, directory, node_module + cache)
+								- dns
+								- binding - addons (cryptographic processing, image manipulation, data compression)
 							- error handling (sync (js, system, user specified, assertion) vs async)
-							- async / event loop + networking
-							- file manipulation
-							- concurrency (single/multi thread, async) - parallelism (multi core) 
 							- builtin: command line app (process) - orm/odm
 						- reliability
 					- client: react, next
-						- service worker: cache (new file: close & reopen tab / skipWaiting() n+1 delay
+						- browser: concurrency
+							- event loop: event listener (dom), web api (i/o - timer)
+							- service worker: cache (new file: close & reopen tab / skipWaiting() n+1 delay
 						- react: lifecycle
 						- reliability
 					- database
@@ -110,10 +112,10 @@
 									- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
 						- transaction (read/write): dml (aggregate, join, sub, function, operator) - sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)
 							- index, view
-								- hash table (sequential write - inmemory, range query)
+								- hash index (sequential write - inmemory, range query)
 								- b/b+ tree
-								- trie
 								- bitmap
+								- trie
 								- global index
 						- reliability
 							- safety guarantees acid transaction (single + multi-object)
@@ -128,7 +130,12 @@
 				- 12pipeline
 					- os
 						- kernel space: memory (page table + [MMU](https://unix.stackexchange.com/questions/473274/is-the-mmu-inside-of-unix-linux-kernel-or-just-in-a-hardware-device-with-its-ow) (cpu)), process (PCB: state, memory usage, register), IO driver, file system
-							- scheduling/cpu time, interrupt handling, inter process communication
+							- scheduling/cpu time, interrupt service routine, inter process communication
+							- file system
+								- fat: directory table + fat (linkedlist)
+								- ntfs :mfs + btree
+								- hfs+: catalog file (btree) + extents overflow file (btree)
+								- apfs: container superblock + object map +  btree
 						- user space: system process (file operation, process control, network communication)
 							- shell (gui/cli)
 								- scripting language (bash, zsh, power shell - command prompt) + text editor (vim)
@@ -140,12 +147,14 @@
 							- thread-based, process-based, async event driven, hybrid concurrency
 					- plan
 						- ramp-up-dossier (organization/team, term, concept, context)
+						- agile
 					- release
 						- automation: jenkins, gitlab ci, github actions
 						- secret management: vault
 					- deploy: cloud provider
 						- reverse proxy, forward proxy, firewall, web server (nginx), caching server, load balancer
-						- container 
+						- container
+							- docker file, image, container, volume, shell vs exec form
 					- operate
 						- infrastructure provisioning: terraform
 						- configuration management: ansible
