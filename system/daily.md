@@ -7,60 +7,75 @@
 	- senior 5-6yoe (27, 28): 30-40 - remote4international (airbnb, shopify)
 	- middle 3-4yoe (25, 26): 20-30
 	- junior 1-2yoe (23, 24): 10-20
-		- (2025 1st quarter 31dec - 31mar)
-		- (4th quarter 30sep - 31dec) 1 per month - [mon23/12] quanbirthday, [thu31/10] trabirthday
-			- [?/11] hagiang
-		- (3rd quarter 30jun - sep30) 1 per week
-			- tier1 exp, school enroll
-			- [mon30/9] nganbirthday
-			- [?/8] tier 3 (dalat / nha trang / da nang)
-			- [?/8] conan
-			- [fri26/7] deadpool
-			- [thu18/7] mombirthday
-			- [fri5/7] minion
-			- [mon1/7] cloudverse.ai - equilibrium
-				- s (story - contribution "mini cv", why short notice), 10 direct 1:1 2 week
-					- contribution pull request, code review /week -> productivity culture & speed
-					- design doc -> priority, challenge
-					- calendar -> involvement, time allocation
-						- -> understand people challenge, how it relates to my work
-						- -> identify opportunities & inefficiencies
-						- -> adapt culturely
-				- v (knowledge in interview)
-		- (2nd quarter may22 - 30jun) 1 per day tra, ngan, hung, nhi, vi, cheu, thien
-			- [sun30/6] bet coffee, mbday Tra
-			- [sat29/6] mbday Ngan
-			- [fri28/6] wala-ict
-			- [thu27/6] mbday fam
+		- 4th quarter 30sep - 31dec) 
+		- 3rd quarter
+			- sep
+				- v
+					- s: 1:1 (point of improvement) date, main point, action item
+					- v
+			- probation
+				- rest
+					- [fri5/7] minion
+					- v
+						- s: 1:1 (input - output) date, main point, action item
+						- v
+							- 3: ds deep dive
+					- s: tier1
+				- 2week
+					- [sun30/6] mbday Tra
+					- [sat29/6] mbday Ngan
+					- [mon1/7] cloudverse.ai onboarding
+					- v 
+						- s (story - contribution "mini cv", why short notice)
+							- 2 category (acquire, give op) 10 direct 1:1 2 week (input - output (follow-up next 1:1)) date, main point, action item
+								- onboarding doc (2 weeks, probation, sep, next level - project/work expectation, people involved)
+								- 30min everything i should know, biggest challenges, who else
+								- yesterday, today, blockers
+							- background
+								- contribution pull request, code review /week -> productivity culture & speed
+								- design doc -> priority, challenge
+								- calendar -> involvement, time allocation
+									- -> understand people challenge, how it relates to my work
+									- -> identify opportunities & inefficiencies
+									- -> adapt culturely
+						- v
+							- basis (knowledge in interview) : tree (daily, onetab) -> backend project
+							- migration
+								- 12line 
+									- status update -> 1:1
 		- pending
-			- m: know & be comfortable talking about lots of things if you want to find a way to traverse the web/net
-				- 11: nav, m
-				- new
-					- 12line: deploy: docker, plan: agile -> m.nav (goal abstraction cost)
-					- v: 3: db tree strc, ..., reliability vs availability
-				- old
-					- 5: partitioning (sharding)
-					- 4: db (index, core), server (node), client (react)
-						- why foreign key constraints prevent scaling, sharding
-					- netline: auth, security, mutlier multi part form data, body parser
-					- 3: language (paradigm) + dsa oop (abstraction, encapsulation, [polymorphism](https://www.reddit.com/r/learnprogramming/comments/195p233/comment/kho9fzq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [abstract class](https://stackoverflow.com/questions/7728056/what-is-the-point-of-an-abstract-class), interface, virtual function, multiple inheritance), functional (expressive syntax, no side effect: global, immutable data (implicit dependency, concurrency issue (thread)) -> suitable for concurrency/paralleism, bug free) (worse performance, hard debug)
-						- concurrency control: locks, semaphores, or atomic variables
-					- 12pipeline: gui/cli shell + scripting lan interpreter vs compiler, container
-					- 3: typescript mixins multiple inheritance
+			- m
+				- m: event hi/lo + end, boredom is a nav problem
+				- v
+					- old
+						- 4: db (index, core), server (node), client (react)
+							- why foreign key constraints prevent scaling, sharding
+						- netline: auth, security, mutlier multi part form data, body parser
+						- 3: language (paradigm) + dsa oop (abstraction, encapsulation, [polymorphism](https://www.reddit.com/r/learnprogramming/comments/195p233/comment/kho9fzq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [abstract class](https://stackoverflow.com/questions/7728056/what-is-the-point-of-an-abstract-class), interface, virtual function, multiple inheritance), functional (expressive syntax, no side effect: global, immutable data (implicit dependency, concurrency issue (thread)) -> suitable for concurrency/paralleism, bug free) (worse performance, hard debug)
+							- concurrency control: locks, semaphores, or atomic variables
+						- 12pipeline: gui/cli shell + scripting lan interpreter vs compiler, container
+						- 3: typescript mixins multiple inheritance
 			- v
-				- 5
-					- system: consistency, evolvability -> [reliability] <- [availability] (<- scalability) -> latency, throughput
-						- service, batch processing (mapreduce), stream processing (message broker/queue: reliability, decoupling, maintainability -> scale by replication, sharding)
-						- caching
-							- memory, cpu sram, browser 
-						- scaling
-							- vertical
-							- horizontal
-								- replication vs partitioning (sharding: shard key high cardinality, low frequency)
-								- load balancing reverse proxy (round robin, hashing)
-									- content delivery network (cache)
-					- third party
-						- geo: gis, maps
+				- 5 system: consistency, evolvability -> [reliability] <- [availability] (<- scalability) -> latency, throughput
+					- cache
+						- client: browser (http response cache), hardware: cpu (l1, l2, l3, translation lookaside buffer), os (disk -> inode, page cache (ram))
+						- CDN (static data), load balancer (repsonse cache), message broker (message)
+						- server (cpu, ram, disk), database: distributed inmemory (redis), indexed data (elastic), relational (wal, buffer pool, materialized view, transaction log, replication log) 
+					- scaling cap theorem
+						- vertical vs horizontal (partitioning (sharding: shard key high cardinality, low frequency) vs replication)
+							- service, batch processing (mapreduce), stream processing (message broker/queue: reliability, decoupling, maintainability -> scale by replication, sharding)
+							- load balancing reverse proxy (round robin, hashing)
+				- 12line -> cloud provider (AWS, GCP, Azure)
+					- deploy: docker
+					- plan: agile -> m.nav (goal abstraction cost)
+				- 3
+					- old data structure (abstract) & use cases: db tree strc, ..., reliability vs availability
+					- js, ts, react, sql (typeorm, mongoose)
+				- 4
+					- react, next
+					- node, nest
+						- code: machine time vs developer time (configuration & app bugs) 
+					- postgresql, cassandra
 				- 3
 					- pattern
 						- dsl: scripting, query
@@ -83,11 +98,13 @@
 							- integration: sync, async (batch processing, stream processing)
 								- webhook, polling, real-time: websocket, sse
 							- performance
-						- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, structural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency
+						- cookie secure, layer arch service top, transaction management concurrently, scrum application scope, ERD EERD, database etl, primary key null, structural integrity constraint, sql delete entire table, where cookie stored, microservice own storage, nosql data inconsistency, mongoose relational query
+							- sanitization (code, sql, nosql injection): escaping (html entity, sql) vs encoding, whitelist filtering, validation (client side, server side - type, format, range, presence, unique check), parameterized query - least priviledge
+							- express body parser
 					- server
 						- node: concurrency: eventdriven nonblocking i/o - requestresponse blocking i/o (file system, network, user, ipc)
 							- event loop: event emitter , module (timer)
-								- async / event loop + networking
+								- async / [event loop](https://stackoverflow.com/a/30910084/24573553) + networking
 							- threadpool
 								- module resolution (js, json, node loads based on type - builtin, directory, node_module + cache)
 								- dns
@@ -102,31 +119,41 @@
 						- react: lifecycle
 						- reliability
 					- database
-						- model: ddl (data type, constrain) - postgres (gui, server, stackbuilder, pgadmin, pm)
-							- schema flexability/enforcing: schema on read (dynamic typing, semi-structured or external dependent) vs schema on write (static typing)
-								- structured data, xml data type, json in text column
-							- relationship/simpler application code
-								- json model better storage locality - multiple index lookups
-									- database load entire document on read (wasteful), on write rewritten entire document (except not change encoded size) -> keep size small, avoid writes that increase size
-										- google spanner, oracle (multi-table index cluster table), column-family concept (cassandra, bigtable data model)
-									- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
-						- transaction (read/write): dml (aggregate, join, sub, function, operator) - sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)
-							- index, view
-								- hash index (sequential write - inmemory, range query)
-								- b/b+ tree
-								- bitmap
-								- trie
-								- global index
-						- reliability
-							- safety guarantees acid transaction (single + multi-object)
-								- transient error (constraint conflict)
-								- network failure -> deduplication mechanism
-								- overload -> limit retries, exponential backoff
-								- side effect -> two phase commit
-								- client fails
-							- backward & forward compatibility
-							- xung dot 1/nhieu tai nguyen, unique index
-							- normalization - denormalize (duplicate)
+						- oltp
+							- model: ddl (data type, constrain) - postgres (gui, server, stackbuilder, pgadmin, pm)
+								- schema flexability/enforcing: schema on read (dynamic typing, semi-structured or external dependent) vs schema on write (static typing)
+									- structured data, xml data type, json in text column
+								- relationship/simpler application code
+									- json model better storage locality - multiple index lookups
+										- database load entire document on read (wasteful), on write rewritten entire document (except not change encoded size) -> keep size small, avoid writes that increase size
+											- google spanner, oracle (multi-table index cluster table), column-family concept (cassandra, bigtable data model)
+										- some MongoDB drivers automatically resolve database references (effectively performing a client-side join, although this is likely to be slower than a join performed in the database since it requires additional network round-trips and is less optimized)
+							- transaction (read/write): dml (aggregate, join, sub, function, operator) 
+								- parser (sql, declarative (relational algebra), query optimizer (index, join method, order) -> simpler, hide implementation details, parallel executing implementation cpu cores (instead perfomed in particular order)) -> query planner -> query execution
+								- index, view
+									- hash index: primary, secondary (same two row), clustered index (vs heap: slower read better write)
+										- sst/memtable/lsm tree (disk btree variable size, inmemory avl, red black tree, log if crash. sequential high write throughput): cassandra, lucene full text elastic. 
+											- na key -> bloom filters ds
+											- size-tiered, leveled compaction
+										- b/b+ tree (disk fixed size page, read write one page, branching factor reference high read throughput). crash recovery -> write-ahead log, concurrency -> latches
+									- multi-column
+										- spatial: R tree
+									- fuzzy index: lucene, sst similar to trie, Levenshtein automaton
+									- inmemory (faster not because doesn't need to read from disk (cpu cache), but because no encoding to disk), inmemory ds priority queue, set. more space -> anti caching (similar, more efficient than os page swapped)
+									- bitmap
+									- trie
+									- global index
+							- reliability
+								- safety guarantees acid transaction (single + multi-object)
+									- transient error (constraint conflict)
+									- network failure -> deduplication mechanism
+									- overload -> limit retries, exponential backoff
+									- side effect -> two phase commit
+									- client fails
+								- backward & forward compatibility
+								- xung dot 1/nhieu tai nguyen, unique index
+								- normalization - denormalize (duplicate)
+						- olap: data warehouse etl Redshift Hadoop, star schema (fact table - column oriented storage)
 				- 12pipeline
 					- os
 						- kernel space: memory (page table + [MMU](https://unix.stackexchange.com/questions/473274/is-the-mmu-inside-of-unix-linux-kernel-or-just-in-a-hardware-device-with-its-ow) (cpu)), process (PCB: state, memory usage, register), IO driver, file system
@@ -154,7 +181,8 @@
 					- deploy: cloud provider
 						- reverse proxy, forward proxy, firewall, web server (nginx), caching server, load balancer
 						- container
-							- docker file, image, container, volume, shell vs exec form
+							- docker file, image, container, volume, shell vs exec form, port forwarding
+								- docker ps, docker stop [container-name], docker volumes, docker build -t [author/project:tag] ., docker volume create [volume-name], docker run --name [container-name] -p [port:port] -v [volume-name] :[directory]  [image-name], docker exec -it [container-name] /bin/bash
 					- operate
 						- infrastructure provisioning: terraform
 						- configuration management: ansible

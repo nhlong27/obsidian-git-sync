@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "6a884937b20887d6",
+            "id": "bb138c6f2c4266c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/m.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8df4d2f4ca6a782e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/5-1.netline/net.md",
+                "file": "system/prod/v/nav.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,10 +162,10 @@
   },
   "active": "8f24adcd0961bd58",
   "lastOpenFiles": [
-    "system/m.md",
+    "system/prod/v/nav.md",
     "system/daily.md",
     "system/prod/v/5-1.netline/net.md",
-    "system/prod/v/nav.md",
+    "system/m.md",
     "system/prod/v/5-1.netline/tier4.md",
     "system/prod/v/5-1.netline/line.md",
     "system/prod/finnet.md",
