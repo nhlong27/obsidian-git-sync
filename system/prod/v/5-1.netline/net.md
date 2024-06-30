@@ -3,10 +3,10 @@
 		- physical connections (raw bits)
 		- data link (frames - MAC header: src, des MAC/ethernet address)
 		- network (packets - IP header: src, des ip addresses), different ips for container/vm
-			- public -> NAT (router) -> private (192.168.0.0 - 192.168.255.255)
-			- 127.0.0.1 / localhost (loopback ip)
+			- wan vs lan, ipv4 32bit a - e (commercial use, unicast, multicast, broadcast) router NAT public ip -> private ip (192.168.0.0 to 192.168.255.255) 192.168.1.14, 255.255.255.0 (CIDR: /24) usable 254
+			- ::1, 127.0.0.1 localhost (loopback ip) cat /etc/hosts
+			- anycast (dns: google 8.8.8.8 vs 1.1.1.1), loadbalancing, virtual hosting,
 			- MAC: ipconfig getifaddr en0 / en1 (ethernet)
-			- dns: google (8.8.8.8) vs 1.1.1.1
 		- transport (segments - TCP/UDP header: src, des port, sequence no, tcp err checking - checksum)
 			- [http 80 https 443 default unless overidden](https://qr.ae/pK2Deg), server/client creates socket and binds it to a port for sending/listening to incoming request/response 
 			- [DNS lookup](https://serverfault.com/questions/643506/how-does-the-http-get-method-work-in-relation-to-dns-protocol) - upd, os 

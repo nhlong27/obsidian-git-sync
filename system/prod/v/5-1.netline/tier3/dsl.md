@@ -3,7 +3,7 @@
 	- html
 		- implementation: html + js, html template languages, web component (htmx), library/framework
 			- innerHTML, innerText, textContent
-		- tags (semantic html) + attributes (wai-aria,, data-)
+		- tags (semantic html) + attributes (wai-aria, data-)
 			- doctype DTD (public, system identifier), html (xmlns, lang), head (base, script, type=module, link, meta-viewport)
 			- input: form (fieldset, input (type (reset, hidden), pattern), label, readonly vs disabled), select (option)
 			- display: table (thead/body/footer, tr, th, td), map (area), [iframe vs embed vs object](https://stackoverflow.com/questions/16660559/difference-between-iframe-embed-and-object-elements) (mime), meter vs progress, title vs name, target (blank, self, parent, top, frameName) 
@@ -27,3 +27,4 @@
 		- commands: pwd, cd (- ~ ..), ls (-R -lh), cat, cp (-R), mv, mkdir (-p, -m, -v), rmdir, rm, touch, code / vi / nano
 	- homebrew
 		- gui [cask](https://apple.stackexchange.com/questions/125468/what-is-the-difference-between-brew-and-brew-cask)
+	- docker 
