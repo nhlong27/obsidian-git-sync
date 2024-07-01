@@ -1,3 +1,15 @@
+- cloudverse.ai: saas that helps companies calculate and optimize their cloud service costs across AWS, GCP, and Azure
+	- user: technical client (industry-wide: financial) --- vs cloud provider solutions (budgets, cost explorer, ri reporting, cost & usage report)
+	- service + pricing api (client: form, dashboard, chart, detailed report for cost analysis) (server: calculation, restful request, encrypted, strong auth & rbac) (db: user data, configurations, and pricing information)
+		- cost estimation: infrastructure info (cloud provider) -> cost (pricing model) 
+			- comparison: infrastructure setup -> cost between cloud providers
+		- optimization recommendations: provide insights and recommendations to optimize costs (e.g., switching to reserved instances, rightsizing resources)
+		- budgeting & alerts: set budget, receive alert at limit
+		- cost monitoring / usage tracking: track & analyze actual vs estimate usage
+	- payment? 
+	- multicloud, msp vs csp, cspm kspm, ai-powered monitoring algo
+	- tech
+		- next, ant design, tailwind, graphql, nest, postgresql, cassandra
 - intro
 	- my & company vision do not align. want to seek better opportunities to grow and  display my skills
 	- I've done research on the current market rate, from my understand of my current level, it would be acceptable for my gross income to be in the range from 16 to 20mil vnd / month

@@ -98,10 +98,10 @@
 					- https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker
 					- https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue
 				- kafka heap space error https://github.com/wurstmeister/kafka-docker/issues/74
+		- CaaS: Fargate 
 		- PaaS: S3, CDN
 			- S3
 				- https://serverless.pub/s3-or-dynamodb/
-		- CaaS: Fargate 
 		- FaaS/Serverless: Lambda, Vercel serverless funcs 
 	- operate 
 		- [[IaC]] : provision, manage: terraform, ansible, AWS cloudformation 

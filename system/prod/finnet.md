@@ -42,6 +42,7 @@
 
 - [relationship](https://www.reddit.com/r/Adulting/comments/15tu9ld/how_to_know_when_to_end_a_relationship/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (exchange of needs): [investment](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/be_a_magnet_not_a_rope/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) + [compatibility](https://www.reddit.com/r/AnxiousAttachment/comments/l4ytpk/comment/gkxo10i/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)(satisfiable some needs) (pyramid of relationships) - stranger, acquaintance, friend, close friend / situationship - relationship
 	- ador 3 pockets: s.pre (perfume) +social (imp, thread (notice emotion), value - social (s.pre importance)), prod.v: masculinity (risk / responsibility: m.base (taking care)) (generosity, use s.social)
+		- [rule](https://voz.vn/t/tu-van-tinh-cam-co-phai-em-dang-bi-bao.347393/post-10911221)
 	- texting - pivot, 3-5 times window (purpose: safe, potential) -> filter/investment 1: hanging out (giu gia small challenge -> suggest, max 3) + social: investment (they won't choose risky actions)
 - system (mindset)
 	- ngan

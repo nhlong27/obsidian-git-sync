@@ -73,7 +73,6 @@
 	- derived data: homogeneous vs heterogeneous system
 		- batch processing
 		- stream processing
-	- 
 	- architecture
 		- mvc (purpose)
 			- distributed: SOA microservices vs monolith

@@ -6,28 +6,26 @@
 	- manager/tech lead 7-10yoe (>29) >40
 	- senior 5-6yoe (27, 28): 30-40 - remote4international (airbnb, shopify)
 	- middle 3-4yoe (25, 26): 20-30
-	- junior 1-2yoe (23, 24): 10-20
-		- 4th quarter 30sep - 31dec) 
+	- junior 1-2yoe (23, 24): 10-20, 40 12line - 60 v
+		- 4th quarter
 		- 3rd quarter
-			- sep
-				- v
-					- s: 1:1 (point of improvement) date, main point, action item
-					- v
+			- official
 			- probation
-				- rest
-					- [fri5/7] minion
-					- v
-						- s: 1:1 (input - output) date, main point, action item
-						- v
-							- 3: ds deep dive
-					- s: tier1
-				- 2week
-					- [sun30/6] mbday Tra
-					- [sat29/6] mbday Ngan
-					- [mon1/7] cloudverse.ai onboarding
-		- pending
-			- m
-				- m: event hi/lo + end, boredom is a nav problem
+			- 2week
+				- [sun7/7] mbday Tra
+				- [sat6/7] mbday Ngan
+				- [fri5/7] minion
+				- [mon1/7] cloudverse.ai onboarding
+					- m: event hi/lo + end, boredom is a nav problem
+					- nav
+						- 13:30 nav new job resoucre
+						- 14-20 12line -> 12line.team, v5
+						- 20:30 prep
+						- 21:30 12line.team -> s
+						- 21 v4 db: sql -> orm? (cassandra, postgresql) 
+						- 22 net+, graphql, auth
+						- 23 project: https://www.linkedin.com/posts/addyosmani_javascript-softwareengineering-ugcPost-7173301829810810880-R3rS?utm_source=share&utm_medium=member_desktop
+							- ant design
 			- v
 				- 12pipeline
 					- os
@@ -48,29 +46,34 @@
 						- bare metal, vm, container
 							- thread-based, process-based, async event driven, hybrid concurrency
 					- plan
-						- ramp-up-dossier (organization/team, term, concept, context)
-						- agile
-						- s (story - contribution "mini cv", why short notice) 40 s - 60 v
-							- 2 category (acquire, give op) 10 direct 1:1 2 week (input - output (follow-up next 1:1)) date, main point, action item
-								- onboarding doc (2 weeks, probation, sep, next level - project/work expectation, people involved)
-								- 30min everything i should know, biggest challenges, who else
-								- yesterday, today, blockers
-									-  [just joined so you’re a lot more familiar with this process than I am, need your help to understand…]
-							- background
+						- agile (kanban vs scum)
+							- management: jira, trello
+							- com: google mail/ outlook, slack/discord
+							- design: miro, eraser, excalidraw
+						- team
+							- ~ 10 services (tech: Nest, Python-Flask, Postgres, Cassandra, React, Next)
+							- 3 engineer, 2 background data, 1 ai, 1 sys, 1 qa, csuite
+						- resource: 2week: 12line + business v543, 10 direct 1:1 2 week
+							- active
+								- 1:1 (input - output (follow-up next 1:1)) date, main point, action item
+									- onboarding doc/ brag documnet, ramp up dossier
+									- 30min everything i should know, biggest challenges, who else should i talk to - manager: expectation - level, people involved my team
+										- [just joined so you’re a lot more familiar with this process than I am, need your help to understand…]
+										- (story - contribution "mini cv", why short notice)
+								- stand up: yesterday, blocker, today 
+								- channel
+								- code review
+							- passive
 								- contribution pull request, code review /week -> productivity culture & speed
 								- design doc -> priority, challenge
 								- calendar -> involvement, time allocation
 									- -> understand people challenge, how it relates to my work
 									- -> identify opportunities & inefficiencies
 									- -> adapt culturely
-						- v
-							- basis (knowledge in interview) : tree (daily, onetab) -> backend project
-							- migration
-								- 12line 
-									- status update -> 1:1
+								- their personality, what they like
 					- release
 						- automation: jenkins, gitlab ci, github actions
-						- secret management: vault
+						- secret management: HashiCorp Vault, AWS Secrets Manager, Azure Key Vault, or Google Secret Manager
 					- deploy: cloud provider
 						- reverse proxy, forward proxy, firewall, web server (nginx), caching server, load balancer
 						- container
@@ -85,7 +88,7 @@
 					- monitor
 						- infrastructure: grafana, datadog, prometheus
 						- application: datadog, prometheus, new relic, jaeger
-						- logs management: elastic stack, loki
+						- logs management: elk (elastic stack, logstash, kibana), loki
 				- 5 system: consistency, evolvability -> [reliability] <- [availability] (<- scalability) -> latency, throughput
 					- cache
 						- client: browser (http response cache), service worker: cache (new file: close & reopen tab / skipWaiting() n+1 delay, hardware: cpu (l1, l2, l3, translation lookaside buffer), os (disk -> inode, page cache (ram))

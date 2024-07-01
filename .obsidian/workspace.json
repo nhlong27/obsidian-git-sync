@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "355f135f4dc22cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/prod/v/5-1.netline/net.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -162,18 +150,18 @@
   },
   "active": "8f24adcd0961bd58",
   "lastOpenFiles": [
-    "system/prod/v/5-1.netline/net.md",
+    "system/prod/finnet.md",
+    "system/prod/v/nav.md",
     "system/daily.md",
+    "system/prod/v/5-1.netline/line.md",
+    "system/prod/s.md",
+    "system/prod/v/5-1.netline/net.md",
+    "system/prod/v/5-1.netline/tier1.2.5.md",
     "system/prod/v/5-1.netline/tier4.md",
     "system/prod/v/5-1.netline/tier3/dsl.md",
-    "system/prod/v/5-1.netline/tier1.2.5.md",
-    "system/prod/v/nav.md",
     "system/m.md",
-    "system/prod/v/5-1.netline/line.md",
-    "system/prod/finnet.md",
     "system/prod/v/5-1.netline/tier3/dsa.md",
     "system/prod/v/5-1.netline/tier3/gpl.md",
-    "system/prod/s.md",
     "draft.md",
     "system/prod/v/fin.md",
     "system/prod/v/aniday.md",
