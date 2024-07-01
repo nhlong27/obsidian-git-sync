@@ -1,4 +1,4 @@
-[#daily]
+  [#daily]
 2024-04-25
 06:06
 
@@ -18,13 +18,13 @@
 				- [mon1/7] cloudverse.ai onboarding
 					- m: event hi/lo + end, boredom is a nav problem
 					- nav
-						- 13:30 nav new job resoucre
-						- 14-20 12line -> 12line.team, v5
-						- 20:30 prep
-						- 21:30 12line.team -> s
-						- 21 v4 db: sql -> orm? (cassandra, postgresql) 
-						- 22 net+, graphql, auth
-						- 23 project: https://www.linkedin.com/posts/addyosmani_javascript-softwareengineering-ugcPost-7173301829810810880-R3rS?utm_source=share&utm_medium=member_desktop
+						- 7, 8: nav, s, v
+						- 9, 10: 12line
+						- db: sql -> orm? (cassandra, postgresql) 
+						- 12 s
+						- 13 12line
+						- 19 v3
+						- net+, graphql, auth, project: https://www.linkedin.com/posts/addyosmani_javascript-softwareengineering-ugcPost-7173301829810810880-R3rS?utm_source=share&utm_medium=member_desktop
 							- ant design
 			- v
 				- 12pipeline
@@ -52,15 +52,19 @@
 							- design: miro, eraser, excalidraw
 						- team
 							- ~ 10 services (tech: Nest, Python-Flask, Postgres, Cassandra, React, Next)
-							- 3 engineer, 2 background data, 1 ai, 1 sys, 1 qa, csuite
+							- 3 engineer, 2 background data, 1 ai, 1 sys, 1 qa,  - soccer, lol game
+								- rnd: Nhan, Trien, Tony, Duy
+								- mcp: Kha, Dung, Thanh, Sang, Nguyen, Phuong, Phuoc, Nguyen
+								- data: Thang, Tai, Tuan Anh, Me
+								- Anh, Son tech lead, Duc ba, Nhan tester
 						- resource: 2week: 12line + business v543, 10 direct 1:1 2 week
 							- active
 								- 1:1 (input - output (follow-up next 1:1)) date, main point, action item
-									- onboarding doc/ brag documnet, ramp up dossier
+									- onboarding doc/ brag document, ramp up dossier
 									- 30min everything i should know, biggest challenges, who else should i talk to - manager: expectation - level, people involved my team
 										- [just joined so you’re a lot more familiar with this process than I am, need your help to understand…]
 										- (story - contribution "mini cv", why short notice)
-								- stand up: yesterday, blocker, today 
+								- stand up: yesterday, blocker, today
 								- channel
 								- code review
 							- passive
@@ -93,13 +97,36 @@
 					- cache
 						- client: browser (http response cache), service worker: cache (new file: close & reopen tab / skipWaiting() n+1 delay, hardware: cpu (l1, l2, l3, translation lookaside buffer), os (disk -> inode, page cache (ram))
 						- CDN (static data), load balancer (repsonse cache), message broker (message)
-						- server (node module cache, cpu, ram, disk), database: distributed inmemory (redis), indexed data (elastic), relational (wal, buffer pool, materialized view, transaction log, replication log) 
-					- scaling cap theorem
+						- server (node module cache, cpu, ram, disk), database: distributed inmemory (redis), indexed data (elastic), relational (wal, buffer pool, materialized view, transaction log, replication log)
+					- scaling
 						- vertical vs horizontal (partitioning (sharding: shard key high cardinality, low frequency) vs replication)
 							- service, batch processing (mapreduce), stream processing (message broker/queue: reliability, decoupling, maintainability -> scale by replication, sharding)
 							- load balancing reverse proxy (round robin, hashing)
 							- db
 								- global index
+								- type
+									- master-slave (sync - async)
+									- master-master
+									- leaderless
+						- cap vs pacelc
+							- latency
+								- network (ms, us, RTT): distance, bandwidth, congestion -> CDN, load balancer
+								- disk: storage medium speed -> faster storage device (SSD)
+								- app: processing time, database query/transaction, code efficiency -> better code
+							- availability
+							- throughput
+								- data (bps): bandwidth, latency, packet loss, congestion, protocol overhead -> load balancer
+								- operational (operation/transaction/request per second): cpu speed, memory, i/o operation, system architecture, software efficiency -> load balancer
+									- database transaction - safety guarantees (begin - execute - commit - rollback)
+										- atomicity
+										- consistency
+										- isolation
+										- durability
+									- test: stress test
+							- consistency
+								- database: -> validation rule?
+								- distributed system:-> replication strategy, conflict resolution
+									- strong, eventual, causal, weak, read-your-writes, monotonic reads
 				- 3
 					- language (paradigm) + dsa oop (abstraction, encapsulation, [polymorphism](https://www.reddit.com/r/learnprogramming/comments/195p233/comment/kho9fzq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [abstract class](https://stackoverflow.com/questions/7728056/what-is-the-point-of-an-abstract-class), interface, virtual function, multiple inheritance), functional (expressive syntax, no side effect: global, immutable data (implicit dependency, concurrency issue (thread)) -> suitable for concurrency/paralleism, bug free) (worse performance, hard debug)
 						- concurrency control: locks, semaphores, or atomic variables 
